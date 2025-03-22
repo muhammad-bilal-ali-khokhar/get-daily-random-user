@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Inken",
-    "last": "Kraemer"
+    "title": "Mr",
+    "first": "Aleksi",
+    "last": "Peltonen"
   },
   "location": {
     "street": {
-      "number": 4079,
-      "name": "Gartenstraße"
+      "number": 4964,
+      "name": "Pispalan Valtatie"
     },
-    "city": "Rosenfeld",
-    "state": "Mecklenburg-Vorpommern",
-    "country": "Germany",
-    "postcode": 73465,
+    "city": "Haapavesi",
+    "state": "Uusimaa",
+    "country": "Finland",
+    "postcode": 93435,
     "coordinates": {
-      "latitude": "-50.1681",
-      "longitude": "73.2494"
+      "latitude": "-25.9234",
+      "longitude": "-121.8353"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "inken.kraemer@example.com",
+  "email": "aleksi.peltonen@example.com",
   "login": {
-    "uuid": "779865b7-bbe9-4167-8f58-88018fb7fb26",
-    "username": "lazyleopard579",
-    "password": "francine",
-    "salt": "R7LhBEF9",
-    "md5": "df43778e9343cd63065b9589ebae450a",
-    "sha1": "1e9df6fef28aac6cdb7fb5165b8956d961c59a91",
-    "sha256": "19b72c664e48872193d4ba503cf43f95c3b95becea8b046a160716ec69fe56b5"
+    "uuid": "1b5790ee-d81e-411c-a7a1-035c1a02ac16",
+    "username": "redbutterfly155",
+    "password": "hongkong",
+    "salt": "2He3hfUP",
+    "md5": "efbaddb5ccd4b15a1ec17edcd659f6d6",
+    "sha1": "a2118ab14d67c3b39bb2f438a5fdbed23dfa95dd",
+    "sha256": "8d10c5d67b4885c693d42b684d37296d864d2a8d422195a1ddd8db2761ad1f7a"
   },
   "dob": {
-    "date": "1946-01-26T21:16:47.758Z",
-    "age": 79
+    "date": "1958-09-10T18:07:30.180Z",
+    "age": 66
   },
   "registered": {
-    "date": "2003-09-09T11:03:53.281Z",
-    "age": 21
+    "date": "2009-06-21T01:13:24.134Z",
+    "age": 15
   },
-  "phone": "0974-9713047",
-  "cell": "0177-9337712",
+  "phone": "02-601-671",
+  "cell": "043-721-78-51",
   "id": {
-    "name": "SVNR",
-    "value": "08 260146 K 733"
+    "name": "HETU",
+    "value": "NaNNA549undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "DE"
+  "nat": "FI"
 }

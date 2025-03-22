@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Gabriella",
-    "last": "Høgseth"
+    "title": "Monsieur",
+    "first": "Bernard",
+    "last": "Sanchez"
   },
   "location": {
     "street": {
-      "number": 4623,
-      "name": "Malmøyveien"
+      "number": 845,
+      "name": "Avenue Debourg"
     },
-    "city": "Lampeland",
-    "state": "Vestfold",
-    "country": "Norway",
-    "postcode": "0161",
+    "city": "Oetwil am See",
+    "state": "Schwyz",
+    "country": "Switzerland",
+    "postcode": 8476,
     "coordinates": {
-      "latitude": "41.7212",
-      "longitude": "157.1816"
+      "latitude": "-61.1548",
+      "longitude": "-158.2520"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "gabriella.hogseth@example.com",
+  "email": "bernard.sanchez@example.com",
   "login": {
-    "uuid": "5584786f-65f9-48a9-a89b-7d1512fb387b",
-    "username": "sadkoala870",
-    "password": "magician",
-    "salt": "v8MHPMAG",
-    "md5": "9aeb520783f76b399a2dfe759874f2c5",
-    "sha1": "aab100b36aa4f056a97de71efd29d72c4abaa082",
-    "sha256": "a65f66935e2c85cf16d2958d995430a1a41bee146fd93571dbbbb1e6524e863e"
+    "uuid": "1f510aaa-9347-45a0-99bc-9be5d2a56103",
+    "username": "redpeacock617",
+    "password": "matty",
+    "salt": "KpsDtNcK",
+    "md5": "42862013fde9d18b53f29ee1432dc8f5",
+    "sha1": "86ede6839e9fa93aa230afb37b15a7ef5b5f30c6",
+    "sha256": "b2c98097b1a813126e5d3a0245a03b675181315add6ba70aa84356d4c530e24d"
   },
   "dob": {
-    "date": "1948-12-01T15:45:01.936Z",
-    "age": 76
+    "date": "1986-02-17T16:43:12.595Z",
+    "age": 39
   },
   "registered": {
-    "date": "2008-07-14T06:48:50.720Z",
-    "age": 16
+    "date": "2020-11-05T10:04:22.883Z",
+    "age": 4
   },
-  "phone": "29625478",
-  "cell": "47334263",
+  "phone": "075 634 10 26",
+  "cell": "077 998 52 75",
   "id": {
-    "name": "FN",
-    "value": "01124829638"
+    "name": "AVS",
+    "value": "756.4897.7651.20"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/11.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "NO"
+  "nat": "CH"
 }

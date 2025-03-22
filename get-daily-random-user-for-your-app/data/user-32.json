@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Malthe",
-    "last": "Jørgensen"
+    "first": "Vitomir",
+    "last": "Levickiy"
   },
   "location": {
     "street": {
-      "number": 3656,
-      "name": "Skovkanten"
+      "number": 2138,
+      "name": "Provulok Maksima Krivonosa"
     },
-    "city": "Sønder Stenderup",
-    "state": "Sjælland",
-    "country": "Denmark",
-    "postcode": 19742,
+    "city": "Soledar",
+    "state": "Mikolayivska",
+    "country": "Ukraine",
+    "postcode": 84230,
     "coordinates": {
-      "latitude": "-44.4371",
-      "longitude": "-3.1630"
+      "latitude": "75.0282",
+      "longitude": "-64.6842"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "malthe.jorgensen@example.com",
+  "email": "vitomir.levickiy@example.com",
   "login": {
-    "uuid": "8545bdb1-31c5-4da2-8134-961359294275",
-    "username": "brownfrog649",
-    "password": "allan",
-    "salt": "ofWv1OjG",
-    "md5": "18dcf1123e0591bfc04d39443093ae98",
-    "sha1": "d10741f9719b1e3839e9ba10d55e62cd241c5fd2",
-    "sha256": "4015d42e38f2163fb029f76c5671402b7c0493646c60102ecdfe04f791cc1fc0"
+    "uuid": "27d37d8d-0ed4-4c92-ba06-de0197c23561",
+    "username": "angrygorilla845",
+    "password": "newness",
+    "salt": "d41qWMk0",
+    "md5": "88c9699e1adee7265f4e698625ce63b3",
+    "sha1": "89fd209e92a2d922bbd3aa1500e812e811125712",
+    "sha256": "407ec5d1f6b7304021cbcfa87e97ca3e3d806624441841886bbcce60cd686db1"
   },
   "dob": {
-    "date": "1967-04-30T23:38:34.846Z",
-    "age": 57
+    "date": "1996-09-07T13:51:53.156Z",
+    "age": 28
   },
   "registered": {
-    "date": "2003-12-18T03:15:07.719Z",
-    "age": 21
+    "date": "2002-06-16T03:08:50.174Z",
+    "age": 22
   },
-  "phone": "36152143",
-  "cell": "44867215",
+  "phone": "(097) L71-2331",
+  "cell": "(098) L11-9617",
   "id": {
-    "name": "CPR",
-    "value": "300467-4313"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
   },
-  "nat": "DK"
+  "nat": "UA"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Izolda",
-    "last": "Radojičić"
+    "title": "Mr",
+    "first": "Valentino",
+    "last": "Lugo"
   },
   "location": {
     "street": {
-      "number": 127,
-      "name": "Makarija Sokolovića"
+      "number": 2982,
+      "name": "Corredor Vietman"
     },
-    "city": "Ivanjica",
-    "state": "Pomoravlje",
-    "country": "Serbia",
-    "postcode": 20279,
+    "city": "Ciudad Apodaca",
+    "state": "Tlaxcala",
+    "country": "Mexico",
+    "postcode": 61089,
     "coordinates": {
-      "latitude": "60.4341",
-      "longitude": "110.5058"
+      "latitude": "29.9480",
+      "longitude": "-135.7628"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "izolda.radojicic@example.com",
+  "email": "valentino.lugo@example.com",
   "login": {
-    "uuid": "59f80749-1b16-4288-a056-f8d968b52c99",
-    "username": "greenwolf592",
-    "password": "earthlink",
-    "salt": "ThxiIFya",
-    "md5": "e1febf11e3c80c8b0f69e53356233a79",
-    "sha1": "985b21e0f5c62d14e58673d721ea22338073d45d",
-    "sha256": "644419965baeaa0fb765d72227c24074f094e3eb6853e158c2b09b2b59dcf45b"
+    "uuid": "f87482e9-ebcd-4ddb-bf34-9972e50d2863",
+    "username": "brownfish631",
+    "password": "zang",
+    "salt": "5UW3ZYUU",
+    "md5": "79fed11ac9ae248b1a749ab248fa766d",
+    "sha1": "d0bd2b2cd3429574c56940fe79befaa7b6de77f2",
+    "sha256": "7505b565343aec4b45a3e2c9026e5f38abd201d19133294b39406c5aee30b3bc"
   },
   "dob": {
-    "date": "1994-01-21T22:54:00.913Z",
-    "age": 31
+    "date": "1977-03-25T03:38:47.553Z",
+    "age": 47
   },
   "registered": {
-    "date": "2014-03-26T04:21:37.025Z",
-    "age": 10
+    "date": "2011-05-22T10:12:15.611Z",
+    "age": 13
   },
-  "phone": "027-3175-614",
-  "cell": "060-4023-964",
+  "phone": "(693) 081 5320",
+  "cell": "(665) 232 0901",
   "id": {
-    "name": "SID",
-    "value": "862452924"
+    "name": "NSS",
+    "value": "24 97 86 0464 7"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    "large": "https://randomuser.me/api/portraits/men/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
   },
-  "nat": "RS"
+  "nat": "MX"
 }

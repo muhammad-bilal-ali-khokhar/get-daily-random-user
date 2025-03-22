@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Onni",
-    "last": "Aalto"
+    "title": "Miss",
+    "first": "Marilice",
+    "last": "Farias"
   },
   "location": {
     "street": {
-      "number": 3029,
-      "name": "Rautatienkatu"
+      "number": 2426,
+      "name": "Rua Santa Catarina "
     },
-    "city": "Yli",
-    "state": "Southern Savonia",
-    "country": "Finland",
-    "postcode": 74872,
+    "city": "Sete Lagoas",
+    "state": "Amapá",
+    "country": "Brazil",
+    "postcode": 85875,
     "coordinates": {
-      "latitude": "-29.2572",
-      "longitude": "-126.7015"
+      "latitude": "-77.1225",
+      "longitude": "173.5971"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "onni.aalto@example.com",
+  "email": "marilice.farias@example.com",
   "login": {
-    "uuid": "b0a4afdb-630e-47eb-a345-57340ba4c9d8",
-    "username": "crazygoose396",
-    "password": "cigar",
-    "salt": "ypd5E4T6",
-    "md5": "5a74aa51d130fa207e2808c3257efc77",
-    "sha1": "764de84ca28d2fd0258487209eb7e810c0d96afa",
-    "sha256": "7a0f22ea7b88eb43d5a182fb0257a5ecaaff5a77ed037f728409476dc7044b18"
+    "uuid": "a63939d1-d205-4be7-a943-9d006f879270",
+    "username": "bluemeercat851",
+    "password": "discover",
+    "salt": "jbtR3DQJ",
+    "md5": "0f1c4cf34727b6fc218415f9a07d1419",
+    "sha1": "0408ef64cb98e21ec6c801e578865a0467fdd144",
+    "sha256": "e248465d70d45a72714ed571db76f887d9ccad1922f35718a236d5dbea7377e9"
   },
   "dob": {
-    "date": "1970-03-19T06:49:46.749Z",
-    "age": 55
+    "date": "1945-03-28T23:14:58.743Z",
+    "age": 79
   },
   "registered": {
-    "date": "2006-02-13T01:04:46.118Z",
-    "age": 19
+    "date": "2002-03-27T13:12:23.197Z",
+    "age": 22
   },
-  "phone": "02-662-758",
-  "cell": "045-910-10-21",
+  "phone": "(95) 4614-0715",
+  "cell": "(26) 9510-1254",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA715undefined"
+    "name": "CPF",
+    "value": "082.867.259-59"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+    "large": "https://randomuser.me/api/portraits/women/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
   },
-  "nat": "FI"
+  "nat": "BR"
 }

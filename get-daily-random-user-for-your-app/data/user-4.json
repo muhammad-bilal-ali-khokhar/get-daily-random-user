@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Rufina",
-    "last": "Berest"
+    "title": "Mr",
+    "first": "Ryan",
+    "last": "Lee"
   },
   "location": {
     "street": {
-      "number": 5746,
-      "name": "Voznyaka"
+      "number": 6426,
+      "name": "Redoubt Road"
     },
-    "city": "Starokostyantiniv",
-    "state": "Kiyivska",
-    "country": "Ukraine",
-    "postcode": 75606,
+    "city": "Upper Hutt",
+    "state": "Auckland",
+    "country": "New Zealand",
+    "postcode": 84834,
     "coordinates": {
-      "latitude": "74.8741",
-      "longitude": "137.3305"
+      "latitude": "48.9356",
+      "longitude": "-13.6261"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "rufina.berest@example.com",
+  "email": "ryan.lee@example.com",
   "login": {
-    "uuid": "c1fc92d6-bda9-4164-9647-33a2dddf16e9",
-    "username": "heavyelephant324",
-    "password": "divers",
-    "salt": "2NKfysMz",
-    "md5": "5f567cdce67e02d5a28f684d8d4c95be",
-    "sha1": "51e1fab63c17ee46d2ce09eb860eb738e4ff8918",
-    "sha256": "1ffd87c7df058235757086cfff8ca0dbaa42e89fbf7f5c44941da94599849555"
+    "uuid": "d6aabd0d-f7f9-4e3f-b3f7-ab0b596f6f29",
+    "username": "whiteladybug691",
+    "password": "christop",
+    "salt": "9C0J5p7D",
+    "md5": "cff6f5c6b9c5bb494ca950d79ea6a15d",
+    "sha1": "57c861119b15bafe22226f9190ec9420a91f081f",
+    "sha256": "ba2ca989c4ce0e118370a5ec7a104684a8197124e068b0190212d3f373177f92"
   },
   "dob": {
-    "date": "1980-05-19T03:49:56.154Z",
-    "age": 44
+    "date": "1986-10-07T05:26:29.211Z",
+    "age": 38
   },
   "registered": {
-    "date": "2004-12-15T22:43:45.436Z",
-    "age": 20
+    "date": "2002-09-26T01:47:06.104Z",
+    "age": 22
   },
-  "phone": "(098) W90-4861",
-  "cell": "(097) X24-8852",
+  "phone": "(353)-949-1561",
+  "cell": "(339)-398-4938",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
   },
-  "nat": "UA"
+  "nat": "NZ"
 }

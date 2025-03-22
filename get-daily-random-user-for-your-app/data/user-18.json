@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Kasper",
-    "last": "Johansen"
+    "title": "Ms",
+    "first": "Afet",
+    "last": "Özberk"
   },
   "location": {
     "street": {
-      "number": 5928,
-      "name": "Møllebakken"
+      "number": 4471,
+      "name": "Istiklal Cd"
     },
-    "city": "Horsens",
-    "state": "Midtjylland",
-    "country": "Denmark",
-    "postcode": 55029,
+    "city": "Konya",
+    "state": "Giresun",
+    "country": "Turkey",
+    "postcode": 78821,
     "coordinates": {
-      "latitude": "-42.6461",
-      "longitude": "-119.1336"
+      "latitude": "69.5979",
+      "longitude": "146.5189"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "kasper.johansen@example.com",
+  "email": "afet.ozberk@example.com",
   "login": {
-    "uuid": "74498478-9cc3-4a87-b15c-ab58a74b0d01",
-    "username": "goldenrabbit680",
-    "password": "baby",
-    "salt": "LVVlQGE9",
-    "md5": "f44c0c7a4fadb41d44b12b77ad9b5fef",
-    "sha1": "9addd67c28cf1861efd7ccf7af9f09de5c4e8570",
-    "sha256": "9a63abc875b49e522836a327450955d8f266871ad2f469f2aa472521824b30e4"
+    "uuid": "1fb67785-cf43-4fbd-8edf-9594da290401",
+    "username": "whitemeercat411",
+    "password": "skip",
+    "salt": "9rm8T2G4",
+    "md5": "25adef462a10919fdf05a69d2059fcfa",
+    "sha1": "481636cf587b17b6a5e1fea13dafe6c633b922d6",
+    "sha256": "225e2e376944ee53d4e702cdbcc3f972f82a04b4c5c65cf16d9abe9fa4ad7174"
   },
   "dob": {
-    "date": "1984-10-12T06:51:32.424Z",
-    "age": 40
+    "date": "1977-09-26T04:36:32.956Z",
+    "age": 47
   },
   "registered": {
-    "date": "2008-08-21T06:38:10.095Z",
-    "age": 16
+    "date": "2007-11-08T11:57:43.247Z",
+    "age": 17
   },
-  "phone": "64370800",
-  "cell": "38367586",
+  "phone": "(615)-020-0541",
+  "cell": "(972)-754-3788",
   "id": {
-    "name": "CPR",
-    "value": "121084-0652"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/54.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+    "large": "https://randomuser.me/api/portraits/women/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
   },
-  "nat": "DK"
+  "nat": "TR"
 }

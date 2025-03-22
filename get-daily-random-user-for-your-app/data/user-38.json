@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Anjali",
-    "last": "Nand"
+    "title": "Mr",
+    "first": "Clément",
+    "last": "Riviere"
   },
   "location": {
     "street": {
-      "number": 2297,
-      "name": "Mirza Ghalib St"
+      "number": 8348,
+      "name": "Rue Barrier"
     },
-    "city": "Gandhinagar",
-    "state": "Tripura",
-    "country": "India",
-    "postcode": 76222,
+    "city": "Montpellier",
+    "state": "Creuse",
+    "country": "France",
+    "postcode": 50081,
     "coordinates": {
-      "latitude": "5.5163",
-      "longitude": "35.0114"
+      "latitude": "-15.7866",
+      "longitude": "-112.2542"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "anjali.nand@example.com",
+  "email": "clement.riviere@example.com",
   "login": {
-    "uuid": "1988384e-b58a-4a19-99c4-0dbf5c5f021a",
-    "username": "crazybear881",
-    "password": "rough",
-    "salt": "wIOPfK1L",
-    "md5": "272afa4c811285b465273e9cd26ab8af",
-    "sha1": "56b1d9228065c6f390d42b71e7048f20b9b625ae",
-    "sha256": "236792caae2dc7519f0da914aacc450ad08508d9349be02de6e387498971229a"
+    "uuid": "2dbd6837-d92f-45fc-9fc5-c2eb71076fa6",
+    "username": "smallfrog800",
+    "password": "veritas",
+    "salt": "3Jj7w7Wv",
+    "md5": "641daba617af0320358872566796239b",
+    "sha1": "abf8a3de33dd0d844f8995c2e4cc26554ee4d855",
+    "sha256": "1974e72833ded08ead1723a36294f65fd5f3f684d12be15e83ceb303bcca6199"
   },
   "dob": {
-    "date": "1985-09-23T20:44:00.037Z",
-    "age": 39
+    "date": "1955-02-03T22:54:30.026Z",
+    "age": 70
   },
   "registered": {
-    "date": "2022-02-01T08:26:35.964Z",
-    "age": 3
+    "date": "2021-02-05T12:37:49.122Z",
+    "age": 4
   },
-  "phone": "9390106191",
-  "cell": "7525511215",
+  "phone": "03-00-44-96-42",
+  "cell": "06-77-96-24-63",
   "id": {
-    "name": "UIDAI",
-    "value": "265946294440"
+    "name": "INSEE",
+    "value": "1550153449415 94"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+    "large": "https://randomuser.me/api/portraits/men/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
   },
-  "nat": "IN"
+  "nat": "FR"
 }

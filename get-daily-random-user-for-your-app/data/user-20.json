@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Franklino",
-    "last": "Santos"
+    "title": "Madame",
+    "first": "Luise",
+    "last": "Renard"
   },
   "location": {
     "street": {
-      "number": 2356,
-      "name": "Rua Quinze de Novembro "
+      "number": 9845,
+      "name": "Rue du Cardinal-Gerlier"
     },
-    "city": "Queimados",
-    "state": "Rio de Janeiro",
-    "country": "Brazil",
-    "postcode": 20258,
+    "city": "Lohn (Sh)",
+    "state": "Appenzell Innerrhoden",
+    "country": "Switzerland",
+    "postcode": 4706,
     "coordinates": {
-      "latitude": "-76.7900",
-      "longitude": "-98.6116"
+      "latitude": "-61.0377",
+      "longitude": "73.9647"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "franklino.santos@example.com",
+  "email": "luise.renard@example.com",
   "login": {
-    "uuid": "6e039bb1-9bfd-44ae-a077-4bafb51c2f42",
-    "username": "heavyladybug365",
-    "password": "25252525",
-    "salt": "LT0ZqN7P",
-    "md5": "1d14d916f27f831d3102388714de3891",
-    "sha1": "938bdd003704d1fedcf0c8b7500e29ac0dd38142",
-    "sha256": "faca173c142462099f3e2ec960ba60101b51bb7b7678ec1aab24eacb18ce4ad8"
+    "uuid": "9d26fc81-ef7d-4192-9787-35cbef6ee795",
+    "username": "heavyelephant418",
+    "password": "lane",
+    "salt": "8B2eJkvD",
+    "md5": "ab75525a2cea66c9ccdc592ed8f50835",
+    "sha1": "2cb3cec61d44c364a7291f1e09d8dbf9a7888e31",
+    "sha256": "b7cf843e98c2049aed04bcbe09bfbeeb4f487599122d83e762886cb43dcfac62"
   },
   "dob": {
-    "date": "1983-10-20T00:41:02.644Z",
-    "age": 41
+    "date": "1990-01-27T21:03:35.153Z",
+    "age": 35
   },
   "registered": {
-    "date": "2015-09-17T21:50:28.894Z",
-    "age": 9
+    "date": "2016-08-08T05:02:39.661Z",
+    "age": 8
   },
-  "phone": "(73) 1719-2125",
-  "cell": "(38) 8214-8289",
+  "phone": "079 845 30 00",
+  "cell": "079 543 33 96",
   "id": {
-    "name": "CPF",
-    "value": "153.646.008-06"
+    "name": "AVS",
+    "value": "756.5399.1643.49"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/97.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    "large": "https://randomuser.me/api/portraits/women/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
   },
-  "nat": "BR"
+  "nat": "CH"
 }

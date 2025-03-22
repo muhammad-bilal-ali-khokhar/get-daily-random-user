@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Soner",
-    "last": "Abels"
+    "first": "Alípio",
+    "last": "Costa"
   },
   "location": {
     "street": {
-      "number": 842,
-      "name": "Herman Bodestraat"
+      "number": 7904,
+      "name": "Rua Boa Vista "
     },
-    "city": "Sterksel",
-    "state": "Limburg",
-    "country": "Netherlands",
-    "postcode": "6466 IH",
+    "city": "Viamão",
+    "state": "Piauí",
+    "country": "Brazil",
+    "postcode": 98565,
     "coordinates": {
-      "latitude": "35.6393",
-      "longitude": "-43.6438"
+      "latitude": "-75.4916",
+      "longitude": "-93.9423"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "soner.abels@example.com",
+  "email": "alipio.costa@example.com",
   "login": {
-    "uuid": "d001bc79-a193-4b13-858d-79568c053bb8",
-    "username": "orangeswan513",
-    "password": "excalibu",
-    "salt": "NfLmReoc",
-    "md5": "a8438ab62fdc365f26e39415cc91b55e",
-    "sha1": "e25ba654cd4d8595a3a447feec807edfb173c4b1",
-    "sha256": "1a17f6bb875037b0a210b604fc71ee5d1eab63a6263e852e5c690c422b31a17b"
+    "uuid": "12fc2faf-1e47-4fe6-9572-3d1134348d46",
+    "username": "heavydog280",
+    "password": "ernesto",
+    "salt": "f5sE04xL",
+    "md5": "714b77b3ff5ec70b461b326b8f10abde",
+    "sha1": "aa5fb3c8327ee8c798a9d9232613d8fad74630a4",
+    "sha256": "ca3ae5f923a62dcc3af32de5d8e634e1a951caa950d42cf967a7969835338d80"
   },
   "dob": {
-    "date": "1977-06-19T01:38:40.927Z",
-    "age": 47
+    "date": "1991-10-10T20:40:54.633Z",
+    "age": 33
   },
   "registered": {
-    "date": "2009-06-20T04:11:48.378Z",
-    "age": 15
+    "date": "2003-07-12T19:10:29.874Z",
+    "age": 21
   },
-  "phone": "(0827) 287780",
-  "cell": "(06) 95576263",
+  "phone": "(22) 2258-3347",
+  "cell": "(52) 9807-4312",
   "id": {
-    "name": "BSN",
-    "value": "30523365"
+    "name": "CPF",
+    "value": "246.596.383-83"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/7.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
   },
-  "nat": "NL"
+  "nat": "BR"
 }

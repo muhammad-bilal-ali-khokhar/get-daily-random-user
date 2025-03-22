@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Brielle",
-    "last": "Claire"
+    "title": "Mr",
+    "first": "Jaxon",
+    "last": "Hughes"
   },
   "location": {
     "street": {
-      "number": 4143,
-      "name": "Dieppe Ave"
+      "number": 1295,
+      "name": "Bairds Road"
     },
-    "city": "Notre Dame de Lourdes",
-    "state": "Saskatchewan",
-    "country": "Canada",
-    "postcode": "M7T 3Y1",
+    "city": "Hastings",
+    "state": "Hawke'S Bay",
+    "country": "New Zealand",
+    "postcode": 79889,
     "coordinates": {
-      "latitude": "-70.4963",
-      "longitude": "134.3729"
+      "latitude": "48.3605",
+      "longitude": "-108.3557"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "brielle.claire@example.com",
+  "email": "jaxon.hughes@example.com",
   "login": {
-    "uuid": "33d7659d-ae91-4a99-a486-099542f1347a",
-    "username": "happybird607",
-    "password": "kirk",
-    "salt": "3LgOLJOt",
-    "md5": "d425264fe08760c69b354cc272a494dc",
-    "sha1": "ef60a44ca6d7cd373433c1ab55ca231e16535df0",
-    "sha256": "dd68cd90537bcf1a9acfe4615c247adf435a80074cb0c54bbbe77938508cfaca"
+    "uuid": "8482044c-ff4a-49b0-8312-48e430d8aff6",
+    "username": "bigdog344",
+    "password": "chains",
+    "salt": "77rOJSbt",
+    "md5": "5c9059f7243a3395b1c8f07b1a68ab0d",
+    "sha1": "8f7321001ba4c6b7e1b80254892841416f34eef7",
+    "sha256": "05107542503675f4971b72d88814dfa277373fcd9f7c5d86c9f3301bc2fad290"
   },
   "dob": {
-    "date": "1978-09-28T16:00:44.608Z",
-    "age": 46
+    "date": "1974-11-03T08:00:28.778Z",
+    "age": 50
   },
   "registered": {
-    "date": "2009-08-13T22:36:17.304Z",
-    "age": 15
+    "date": "2020-09-08T12:30:54.421Z",
+    "age": 4
   },
-  "phone": "D90 G24-6158",
-  "cell": "T92 H39-1601",
+  "phone": "(208)-569-9311",
+  "cell": "(145)-556-9705",
   "id": {
-    "name": "SIN",
-    "value": "027356559"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+    "large": "https://randomuser.me/api/portraits/men/29.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
   },
-  "nat": "CA"
+  "nat": "NZ"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Filomena",
-    "last": "Gonzalez"
+    "title": "Mr",
+    "first": "Gorun",
+    "last": "Yavorskiy"
   },
   "location": {
     "street": {
-      "number": 1030,
-      "name": "Avenue Debrousse"
+      "number": 5656,
+      "name": "Chumackiy shlyah"
     },
-    "city": "La Rippe",
-    "state": "Nidwalden",
-    "country": "Switzerland",
-    "postcode": 1738,
+    "city": "Talne",
+    "state": "Donecka",
+    "country": "Ukraine",
+    "postcode": 61350,
     "coordinates": {
-      "latitude": "-59.7050",
-      "longitude": "64.1993"
+      "latitude": "75.1989",
+      "longitude": "-117.6648"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "filomena.gonzalez@example.com",
+  "email": "gorun.yavorskiy@example.com",
   "login": {
-    "uuid": "56fe1078-f4a6-4612-bbcd-cf934c16d015",
-    "username": "ticklishrabbit952",
-    "password": "ripken",
-    "salt": "pNAxglEQ",
-    "md5": "06756d0f2b662a539ded1d9a90a5da37",
-    "sha1": "4ece592c5ddadd462b09fa89c4c446db2e8b34f5",
-    "sha256": "25ea03387bb8aa753729ef979a9f3431b66854a3ff81e28eabf758ec05a137d6"
+    "uuid": "3f89fd39-eb40-4457-88ca-dab98ec115f9",
+    "username": "smallostrich865",
+    "password": "killer1",
+    "salt": "4RpbquDF",
+    "md5": "6857dee8b6e5ce3c431430b186443df7",
+    "sha1": "51cb23fc19a3c9b61ef308c9c0f6d7e539bfbc6e",
+    "sha256": "6f0ff9a44dd94f081c191087541d96da402df675d9fd54499630f08300527ea8"
   },
   "dob": {
-    "date": "1978-12-04T22:11:45.384Z",
-    "age": 46
+    "date": "1982-12-20T01:15:07.268Z",
+    "age": 42
   },
   "registered": {
-    "date": "2006-06-20T07:27:30.181Z",
-    "age": 18
+    "date": "2016-07-14T21:04:01.366Z",
+    "age": 8
   },
-  "phone": "077 800 37 81",
-  "cell": "076 678 18 02",
+  "phone": "(096) X71-1395",
+  "cell": "(099) A26-1991",
   "id": {
-    "name": "AVS",
-    "value": "756.9307.6995.62"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
   },
-  "nat": "CH"
+  "nat": "UA"
 }

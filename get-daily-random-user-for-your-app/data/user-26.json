@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Jen",
-    "last": "Porter"
+    "title": "Mr",
+    "first": "Gabriel",
+    "last": "Pastor"
   },
   "location": {
     "street": {
-      "number": 406,
-      "name": "Victoria Road"
+      "number": 8311,
+      "name": "Calle de Alcalá"
     },
-    "city": "Duleek",
-    "state": "Wexford",
-    "country": "Ireland",
-    "postcode": 84531,
+    "city": "La Palma",
+    "state": "Castilla y León",
+    "country": "Spain",
+    "postcode": 74277,
     "coordinates": {
-      "latitude": "1.5214",
-      "longitude": "74.5449"
+      "latitude": "-30.2106",
+      "longitude": "-103.4419"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "jen.porter@example.com",
+  "email": "gabriel.pastor@example.com",
   "login": {
-    "uuid": "7bf70e5f-d961-436e-93d8-482b537e25ab",
-    "username": "orangefish554",
-    "password": "sunset",
-    "salt": "MAemA5wm",
-    "md5": "f704cdb714e1601430065ef6bcf31939",
-    "sha1": "16d65743d01344fd3241bde069f3cb71a7ed6b6a",
-    "sha256": "fa47975a2b65c15635fed392f08fcae4afb3309cab6789f5496adcfdee467d92"
+    "uuid": "6b1d465b-5d3c-4ef7-ba21-a5f0739ef6f7",
+    "username": "blackbutterfly712",
+    "password": "orion",
+    "salt": "u2mX37E8",
+    "md5": "aad14a4799cfe608200d669e5489ee53",
+    "sha1": "f43d353e8e46c2b158ce4fcd1f10cca9050e9ce9",
+    "sha256": "2737c33f45ed2ce1221f949c0cc44b8bb7db3aa0874418f24ade8e3ad1bc8605"
   },
   "dob": {
-    "date": "1952-06-22T09:35:27.143Z",
-    "age": 72
+    "date": "1965-09-01T02:37:40.487Z",
+    "age": 59
   },
   "registered": {
-    "date": "2017-04-05T09:54:56.926Z",
-    "age": 7
+    "date": "2021-07-14T02:13:43.378Z",
+    "age": 3
   },
-  "phone": "021-481-3674",
-  "cell": "081-841-6530",
+  "phone": "942-599-394",
+  "cell": "693-992-546",
   "id": {
-    "name": "PPS",
-    "value": "1245179T"
+    "name": "DNI",
+    "value": "01705732-D"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/32.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "IE"
+  "nat": "ES"
 }

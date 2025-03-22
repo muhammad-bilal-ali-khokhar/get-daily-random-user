@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Lucía",
-    "last": "Galván"
+    "title": "Mr",
+    "first": "Clayton",
+    "last": "Cole"
   },
   "location": {
     "street": {
-      "number": 345,
-      "name": "Retorno Chihuahua"
+      "number": 6369,
+      "name": "Green Rd"
     },
-    "city": "Cárdenas",
-    "state": "Coahuila",
-    "country": "Mexico",
-    "postcode": 54551,
+    "city": "Bathurst",
+    "state": "South Australia",
+    "country": "Australia",
+    "postcode": 1402,
     "coordinates": {
-      "latitude": "25.4060",
-      "longitude": "71.6971"
+      "latitude": "-88.4489",
+      "longitude": "-99.4411"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "lucia.galvan@example.com",
+  "email": "clayton.cole@example.com",
   "login": {
-    "uuid": "954b0e13-73f8-4b7d-a04a-4168d0c279bc",
-    "username": "redelephant173",
-    "password": "connie",
-    "salt": "n9FTBYPc",
-    "md5": "eda145d792413c253ce226d9ae7ba4ca",
-    "sha1": "62a0df095abe55329888d7ffbde2c0b0cd2aee22",
-    "sha256": "2f57759bb81357c94fb1ae837d18528d21c52fe66edd3323ae264a87a556f179"
+    "uuid": "22fa519d-7a1b-480a-bfbb-50c5523614d9",
+    "username": "sadpanda405",
+    "password": "what",
+    "salt": "CNgRGaQD",
+    "md5": "7985699b0ee76ab9daaf58a396566595",
+    "sha1": "6d725c8a1efea954ebf3541ba04dd1f1a84af4fc",
+    "sha256": "acd63927b5f449e2e1fbf52804bb59c6da3fcab63e5c7334df56831883b55169"
   },
   "dob": {
-    "date": "1968-05-02T09:38:28.876Z",
-    "age": 56
+    "date": "1945-08-17T21:09:43.011Z",
+    "age": 79
   },
   "registered": {
-    "date": "2012-08-26T04:29:17.048Z",
-    "age": 12
+    "date": "2017-08-05T23:36:30.654Z",
+    "age": 7
   },
-  "phone": "(607) 145 7820",
-  "cell": "(600) 687 6779",
+  "phone": "03-1241-2858",
+  "cell": "0480-467-544",
   "id": {
-    "name": "NSS",
-    "value": "46 04 13 7411 3"
+    "name": "TFN",
+    "value": "413995105"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/78.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
   },
-  "nat": "MX"
+  "nat": "AU"
 }

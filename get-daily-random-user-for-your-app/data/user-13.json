@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Henry",
-    "last": "Jenkins"
+    "first": "Faruk",
+    "last": "Liebig"
   },
   "location": {
     "street": {
-      "number": 2564,
-      "name": "George Street"
+      "number": 1870,
+      "name": "Kiefernweg"
     },
-    "city": "Chester",
-    "state": "Derbyshire",
-    "country": "United Kingdom",
-    "postcode": "MY4J 7LW",
+    "city": "Buchen (Odenwald)",
+    "state": "Sachsen-Anhalt",
+    "country": "Germany",
+    "postcode": 33992,
     "coordinates": {
-      "latitude": "-12.1096",
-      "longitude": "-155.7192"
+      "latitude": "-48.7500",
+      "longitude": "-88.0055"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "henry.jenkins@example.com",
+  "email": "faruk.liebig@example.com",
   "login": {
-    "uuid": "67c4334b-11c5-471e-b2aa-15db9b767800",
-    "username": "redmouse179",
-    "password": "blessed",
-    "salt": "eeXvEg3R",
-    "md5": "3af9c7924b4ffcfcd99ce04be0e42d1c",
-    "sha1": "3d8749223c66b40d6c4b515896de553b5f7f3270",
-    "sha256": "a019e4a9db14826fc32f726d45d38d4eeec04ab82bb0f26c1600bb62884031ff"
+    "uuid": "48a272d4-a948-4c0a-b52f-70b3662b5331",
+    "username": "blackwolf531",
+    "password": "flower1",
+    "salt": "NKpHXbNm",
+    "md5": "d4db01b971ef225901a8abb5b925058f",
+    "sha1": "07a947d94d642505ab7145e2e9c2159fff8ef084",
+    "sha256": "f80040f8351b95ec9aec7442e7f7dd0de434e0d2d1e2590fca5ef3966c22b64a"
   },
   "dob": {
-    "date": "1962-11-13T10:27:08.143Z",
-    "age": 62
+    "date": "1945-07-28T22:51:24.855Z",
+    "age": 79
   },
   "registered": {
-    "date": "2019-08-30T09:29:26.403Z",
-    "age": 5
+    "date": "2016-11-23T12:59:28.463Z",
+    "age": 8
   },
-  "phone": "016974 66877",
-  "cell": "07910 116214",
+  "phone": "0341-7312049",
+  "cell": "0179-9370426",
   "id": {
-    "name": "NINO",
-    "value": "YG 64 59 95 D"
+    "name": "SVNR",
+    "value": "04 280745 L 264"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/73.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
   },
-  "nat": "GB"
+  "nat": "DE"
 }

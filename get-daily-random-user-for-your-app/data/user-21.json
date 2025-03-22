@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Charlotte",
-    "last": "Slawa"
+    "title": "Mr",
+    "first": "Dagobert",
+    "last": "Stich"
   },
   "location": {
     "street": {
-      "number": 9051,
-      "name": "Lakeview Ave"
+      "number": 3073,
+      "name": "Schulweg"
     },
-    "city": "Chipman",
-    "state": "Saskatchewan",
-    "country": "Canada",
-    "postcode": "H3G 8C5",
+    "city": "Munster",
+    "state": "Nordrhein-Westfalen",
+    "country": "Germany",
+    "postcode": 31843,
     "coordinates": {
-      "latitude": "-64.6434",
-      "longitude": "47.5253"
+      "latitude": "-54.2469",
+      "longitude": "-19.0283"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "charlotte.slawa@example.com",
+  "email": "dagobert.stich@example.com",
   "login": {
-    "uuid": "4da8e93d-92dc-4988-b5b1-2f399a55ac27",
-    "username": "beautifuldog970",
-    "password": "ppppppp",
-    "salt": "j1WMGGBv",
-    "md5": "53ba4a58f2491d9f081558876c0b9e12",
-    "sha1": "4048f9176395d2cf3ccf9678e099a9d0f0d14e0b",
-    "sha256": "22a231a77547a8c250ce4a1e95c1eebc681a369b8dba4861e4f10f229d771ad3"
+    "uuid": "2d04e993-5a5c-42ae-b3aa-1129bd9dc7f9",
+    "username": "redmouse165",
+    "password": "chewbacc",
+    "salt": "vQtUjO49",
+    "md5": "fdb931f8aa08ad89adb21b1de5906cbf",
+    "sha1": "aa1e59acf6b1f19a240d060dbc0f9ccd3c8fe075",
+    "sha256": "0a886ec2fe3436beed3911305e4b7e839202c322e8d4a008af0f20344da6cbc3"
   },
   "dob": {
-    "date": "1956-10-08T00:44:28.672Z",
-    "age": 68
+    "date": "1949-01-10T19:19:55.360Z",
+    "age": 76
   },
   "registered": {
-    "date": "2014-06-18T09:22:20.539Z",
-    "age": 10
+    "date": "2005-04-10T09:13:40.165Z",
+    "age": 19
   },
-  "phone": "R33 R81-4545",
-  "cell": "D86 Z51-2681",
+  "phone": "0785-8749557",
+  "cell": "0178-8393323",
   "id": {
-    "name": "SIN",
-    "value": "433763752"
+    "name": "SVNR",
+    "value": "48 100149 S 312"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "CA"
+  "nat": "DE"
 }

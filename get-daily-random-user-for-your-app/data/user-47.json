@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Shylaja",
-    "last": "Holla"
+    "title": "Monsieur",
+    "first": "Vincent",
+    "last": "Roux"
   },
   "location": {
     "street": {
-      "number": 4604,
-      "name": "NAD X Rd"
+      "number": 2290,
+      "name": "Rue Bossuet"
     },
-    "city": "Naihati",
-    "state": "Chandigarh",
-    "country": "India",
-    "postcode": 12889,
+    "city": "Neckertal",
+    "state": "Basel-Landschaft",
+    "country": "Switzerland",
+    "postcode": 1880,
     "coordinates": {
-      "latitude": "7.4712",
-      "longitude": "100.6931"
+      "latitude": "-58.6074",
+      "longitude": "-10.4899"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "shylaja.holla@example.com",
+  "email": "vincent.roux@example.com",
   "login": {
-    "uuid": "c52379a2-0543-45d1-bb5e-6f347a1b4459",
-    "username": "tinygorilla947",
-    "password": "frogman",
-    "salt": "utpwYeSS",
-    "md5": "5f10de9e07f0f2f3caf44a2cdafdf861",
-    "sha1": "22e2588273c495cda9fc83b3d88e1f9bfe15d797",
-    "sha256": "f549e901bb9f6b22e79e3449c69741bc3f65c24a8cedddaa53e34de20dbfb0da"
+    "uuid": "fe23691e-cc1e-4e16-8097-a99a1c158c3a",
+    "username": "organicladybug693",
+    "password": "4121",
+    "salt": "XXe54hxV",
+    "md5": "ffb82c664f095841cf1ee3d96d801532",
+    "sha1": "e4905ebd432bb58a15f4eae7f3d7503e5687e8a6",
+    "sha256": "12d312a7ca1fb43fd5e8c48086abb0704d4866a1de9318cbbc192bbcb0bd7782"
   },
   "dob": {
-    "date": "1956-02-17T07:25:40.707Z",
-    "age": 69
+    "date": "1978-08-17T01:54:58.843Z",
+    "age": 46
   },
   "registered": {
-    "date": "2008-04-16T19:16:43.434Z",
-    "age": 16
+    "date": "2013-11-02T22:02:52.646Z",
+    "age": 11
   },
-  "phone": "9072235165",
-  "cell": "8947435560",
+  "phone": "079 135 72 60",
+  "cell": "075 311 47 39",
   "id": {
-    "name": "UIDAI",
-    "value": "495002605607"
+    "name": "AVS",
+    "value": "756.3552.6701.74"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
   },
-  "nat": "IN"
+  "nat": "CH"
 }
