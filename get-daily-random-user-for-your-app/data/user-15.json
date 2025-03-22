@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Gabriella",
+    "last": "Høgseth"
+  },
+  "location": {
+    "street": {
+      "number": 4623,
+      "name": "Malmøyveien"
+    },
+    "city": "Lampeland",
+    "state": "Vestfold",
+    "country": "Norway",
+    "postcode": "0161",
+    "coordinates": {
+      "latitude": "41.7212",
+      "longitude": "157.1816"
+    },
+    "timezone": {
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
+    }
+  },
+  "email": "gabriella.hogseth@example.com",
+  "login": {
+    "uuid": "5584786f-65f9-48a9-a89b-7d1512fb387b",
+    "username": "sadkoala870",
+    "password": "magician",
+    "salt": "v8MHPMAG",
+    "md5": "9aeb520783f76b399a2dfe759874f2c5",
+    "sha1": "aab100b36aa4f056a97de71efd29d72c4abaa082",
+    "sha256": "a65f66935e2c85cf16d2958d995430a1a41bee146fd93571dbbbb1e6524e863e"
+  },
+  "dob": {
+    "date": "1948-12-01T15:45:01.936Z",
+    "age": 76
+  },
+  "registered": {
+    "date": "2008-07-14T06:48:50.720Z",
+    "age": 16
+  },
+  "phone": "29625478",
+  "cell": "47334263",
+  "id": {
+    "name": "FN",
+    "value": "01124829638"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+  },
+  "nat": "NO"
+}

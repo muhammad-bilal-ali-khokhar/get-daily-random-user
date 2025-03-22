@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Clarence",
+    "last": "Mccoy"
+  },
+  "location": {
+    "street": {
+      "number": 2121,
+      "name": "The Avenue"
+    },
+    "city": "Newport",
+    "state": "North Yorkshire",
+    "country": "United Kingdom",
+    "postcode": "M70 6DG",
+    "coordinates": {
+      "latitude": "-9.9857",
+      "longitude": "-151.5601"
+    },
+    "timezone": {
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
+    }
+  },
+  "email": "clarence.mccoy@example.com",
+  "login": {
+    "uuid": "2973d9a6-09cf-40d8-af0f-1fd0c7d22d9c",
+    "username": "angrywolf162",
+    "password": "zhen",
+    "salt": "bMX0dYFl",
+    "md5": "435d3a3baa38fef6bf01176cee9e05e4",
+    "sha1": "2798ddd2c3d3f4adc422dced863e73b593efd425",
+    "sha256": "88e4ac918e13292fa10a3b2b72c3296870623aa2ab987285df78565e05f44038"
+  },
+  "dob": {
+    "date": "2000-12-12T07:06:05.806Z",
+    "age": 24
+  },
+  "registered": {
+    "date": "2019-01-13T14:44:04.285Z",
+    "age": 6
+  },
+  "phone": "0151 815 1908",
+  "cell": "07856 064810",
+  "id": {
+    "name": "NINO",
+    "value": "HG 83 81 02 O"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+  },
+  "nat": "GB"
+}

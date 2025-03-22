@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Diethard",
+    "last": "Schopf"
+  },
+  "location": {
+    "street": {
+      "number": 2235,
+      "name": "Kiefernweg"
+    },
+    "city": "Bad Schwalbach",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "postcode": 35387,
+    "coordinates": {
+      "latitude": "-47.2462",
+      "longitude": "-113.1342"
+    },
+    "timezone": {
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+    }
+  },
+  "email": "diethard.schopf@example.com",
+  "login": {
+    "uuid": "2ce37104-60ff-42a9-abce-bac237f132b0",
+    "username": "smalltiger727",
+    "password": "reality",
+    "salt": "Ac07iPI3",
+    "md5": "4b397d49e7cf9ac6705e20833819b698",
+    "sha1": "80f6d8970a1601c0ca8e5fb2077668b1a8954970",
+    "sha256": "d1afd089cd90242f6bf6a001a9c242854d43cd3fee1436c0b2672dc62f48624f"
+  },
+  "dob": {
+    "date": "1981-05-02T03:55:16.110Z",
+    "age": 43
+  },
+  "registered": {
+    "date": "2017-09-01T10:09:55.209Z",
+    "age": 7
+  },
+  "phone": "0249-0217022",
+  "cell": "0170-1735053",
+  "id": {
+    "name": "SVNR",
+    "value": "03 010581 S 066"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+  },
+  "nat": "DE"
+}

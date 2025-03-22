@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Madame",
+    "first": "Filomena",
+    "last": "Gonzalez"
+  },
+  "location": {
+    "street": {
+      "number": 1030,
+      "name": "Avenue Debrousse"
+    },
+    "city": "La Rippe",
+    "state": "Nidwalden",
+    "country": "Switzerland",
+    "postcode": 1738,
+    "coordinates": {
+      "latitude": "-59.7050",
+      "longitude": "64.1993"
+    },
+    "timezone": {
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
+    }
+  },
+  "email": "filomena.gonzalez@example.com",
+  "login": {
+    "uuid": "56fe1078-f4a6-4612-bbcd-cf934c16d015",
+    "username": "ticklishrabbit952",
+    "password": "ripken",
+    "salt": "pNAxglEQ",
+    "md5": "06756d0f2b662a539ded1d9a90a5da37",
+    "sha1": "4ece592c5ddadd462b09fa89c4c446db2e8b34f5",
+    "sha256": "25ea03387bb8aa753729ef979a9f3431b66854a3ff81e28eabf758ec05a137d6"
+  },
+  "dob": {
+    "date": "1978-12-04T22:11:45.384Z",
+    "age": 46
+  },
+  "registered": {
+    "date": "2006-06-20T07:27:30.181Z",
+    "age": 18
+  },
+  "phone": "077 800 37 81",
+  "cell": "076 678 18 02",
+  "id": {
+    "name": "AVS",
+    "value": "756.9307.6995.62"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+  },
+  "nat": "CH"
+}

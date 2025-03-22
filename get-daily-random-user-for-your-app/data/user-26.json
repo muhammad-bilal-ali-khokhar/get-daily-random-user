@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Jen",
+    "last": "Porter"
+  },
+  "location": {
+    "street": {
+      "number": 406,
+      "name": "Victoria Road"
+    },
+    "city": "Duleek",
+    "state": "Wexford",
+    "country": "Ireland",
+    "postcode": 84531,
+    "coordinates": {
+      "latitude": "1.5214",
+      "longitude": "74.5449"
+    },
+    "timezone": {
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
+    }
+  },
+  "email": "jen.porter@example.com",
+  "login": {
+    "uuid": "7bf70e5f-d961-436e-93d8-482b537e25ab",
+    "username": "orangefish554",
+    "password": "sunset",
+    "salt": "MAemA5wm",
+    "md5": "f704cdb714e1601430065ef6bcf31939",
+    "sha1": "16d65743d01344fd3241bde069f3cb71a7ed6b6a",
+    "sha256": "fa47975a2b65c15635fed392f08fcae4afb3309cab6789f5496adcfdee467d92"
+  },
+  "dob": {
+    "date": "1952-06-22T09:35:27.143Z",
+    "age": 72
+  },
+  "registered": {
+    "date": "2017-04-05T09:54:56.926Z",
+    "age": 7
+  },
+  "phone": "021-481-3674",
+  "cell": "081-841-6530",
+  "id": {
+    "name": "PPS",
+    "value": "1245179T"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+  },
+  "nat": "IE"
+}

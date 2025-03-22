@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Soner",
+    "last": "Abels"
+  },
+  "location": {
+    "street": {
+      "number": 842,
+      "name": "Herman Bodestraat"
+    },
+    "city": "Sterksel",
+    "state": "Limburg",
+    "country": "Netherlands",
+    "postcode": "6466 IH",
+    "coordinates": {
+      "latitude": "35.6393",
+      "longitude": "-43.6438"
+    },
+    "timezone": {
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
+    }
+  },
+  "email": "soner.abels@example.com",
+  "login": {
+    "uuid": "d001bc79-a193-4b13-858d-79568c053bb8",
+    "username": "orangeswan513",
+    "password": "excalibu",
+    "salt": "NfLmReoc",
+    "md5": "a8438ab62fdc365f26e39415cc91b55e",
+    "sha1": "e25ba654cd4d8595a3a447feec807edfb173c4b1",
+    "sha256": "1a17f6bb875037b0a210b604fc71ee5d1eab63a6263e852e5c690c422b31a17b"
+  },
+  "dob": {
+    "date": "1977-06-19T01:38:40.927Z",
+    "age": 47
+  },
+  "registered": {
+    "date": "2009-06-20T04:11:48.378Z",
+    "age": 15
+  },
+  "phone": "(0827) 287780",
+  "cell": "(06) 95576263",
+  "id": {
+    "name": "BSN",
+    "value": "30523365"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+  },
+  "nat": "NL"
+}

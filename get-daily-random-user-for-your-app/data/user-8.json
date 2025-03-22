@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Ruby",
+    "last": "Roberts"
+  },
+  "location": {
+    "street": {
+      "number": 6607,
+      "name": "Emerson Street"
+    },
+    "city": "Hamilton",
+    "state": "Canterbury",
+    "country": "New Zealand",
+    "postcode": 67338,
+    "coordinates": {
+      "latitude": "49.4657",
+      "longitude": "108.2994"
+    },
+    "timezone": {
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
+    }
+  },
+  "email": "ruby.roberts@example.com",
+  "login": {
+    "uuid": "d967a342-a7cc-418e-b9be-438c2b5c04bf",
+    "username": "tinyfish294",
+    "password": "qwerty12",
+    "salt": "EXUeF5pK",
+    "md5": "fe3fb2367a07193eb77024ba9678be28",
+    "sha1": "5cd5af47d3aa8cff5b78d6d024ab5f1b3c1f4493",
+    "sha256": "0dca1dbda4f21389c5511992647997aa8734622c8e11003b40f826350223bfee"
+  },
+  "dob": {
+    "date": "1976-01-13T23:54:30.893Z",
+    "age": 49
+  },
+  "registered": {
+    "date": "2017-06-19T03:03:59.976Z",
+    "age": 7
+  },
+  "phone": "(737)-026-9569",
+  "cell": "(700)-504-2930",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+  },
+  "nat": "NZ"
+}

@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Patricia",
+    "last": "Mcdonalid"
+  },
+  "location": {
+    "street": {
+      "number": 6785,
+      "name": "Park Lane"
+    },
+    "city": "Edinburgh",
+    "state": "Avon",
+    "country": "United Kingdom",
+    "postcode": "C74 2AX",
+    "coordinates": {
+      "latitude": "-8.8180",
+      "longitude": "51.3166"
+    },
+    "timezone": {
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
+    }
+  },
+  "email": "patricia.mcdonalid@example.com",
+  "login": {
+    "uuid": "c9dfa940-92ae-4822-8f8f-b19c312aae0c",
+    "username": "yellowpanda212",
+    "password": "katherin",
+    "salt": "kP6HjhG9",
+    "md5": "f4ed49d106b69e8ebc8042c0428c815d",
+    "sha1": "54fee9ceffd9d585320976a71b0860d888227b1e",
+    "sha256": "b00618ed7becfa365c8c1f08ecd241383dba85dcf66c99a08e403da46ba5c7fc"
+  },
+  "dob": {
+    "date": "1977-10-06T03:09:42.287Z",
+    "age": 47
+  },
+  "registered": {
+    "date": "2018-03-07T01:45:06.054Z",
+    "age": 7
+  },
+  "phone": "016977 69031",
+  "cell": "07660 480285",
+  "id": {
+    "name": "NINO",
+    "value": "TH 44 14 89 F"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+  },
+  "nat": "GB"
+}

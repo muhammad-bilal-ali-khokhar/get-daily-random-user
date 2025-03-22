@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Anmol",
+    "last": "Rao"
+  },
+  "location": {
+    "street": {
+      "number": 6483,
+      "name": "Colaba Causeway"
+    },
+    "city": "Maheshtala",
+    "state": "Mizoram",
+    "country": "India",
+    "postcode": 62802,
+    "coordinates": {
+      "latitude": "7.0548",
+      "longitude": "-86.4536"
+    },
+    "timezone": {
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
+    }
+  },
+  "email": "anmol.rao@example.com",
+  "login": {
+    "uuid": "2bda39a9-ff5e-43b5-848b-ed90e86e9ffd",
+    "username": "lazypanda889",
+    "password": "diaper",
+    "salt": "09t3nTvW",
+    "md5": "90dafeffda13c6671a1b76d37d562db9",
+    "sha1": "efd237e0d24ee41ab5d0fc47baedb8b27d770c62",
+    "sha256": "c63aa26eefacf4d430343bf15218521be1343d83950d58fe1e228ceb5bf83b75"
+  },
+  "dob": {
+    "date": "1991-01-31T08:52:12.129Z",
+    "age": 34
+  },
+  "registered": {
+    "date": "2014-09-11T05:14:47.703Z",
+    "age": 10
+  },
+  "phone": "9549599882",
+  "cell": "7551583881",
+  "id": {
+    "name": "UIDAI",
+    "value": "413922672055"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+  },
+  "nat": "IN"
+}

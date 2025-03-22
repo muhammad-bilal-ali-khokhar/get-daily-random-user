@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Malthe",
+    "last": "Jørgensen"
+  },
+  "location": {
+    "street": {
+      "number": 3656,
+      "name": "Skovkanten"
+    },
+    "city": "Sønder Stenderup",
+    "state": "Sjælland",
+    "country": "Denmark",
+    "postcode": 19742,
+    "coordinates": {
+      "latitude": "-44.4371",
+      "longitude": "-3.1630"
+    },
+    "timezone": {
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
+    }
+  },
+  "email": "malthe.jorgensen@example.com",
+  "login": {
+    "uuid": "8545bdb1-31c5-4da2-8134-961359294275",
+    "username": "brownfrog649",
+    "password": "allan",
+    "salt": "ofWv1OjG",
+    "md5": "18dcf1123e0591bfc04d39443093ae98",
+    "sha1": "d10741f9719b1e3839e9ba10d55e62cd241c5fd2",
+    "sha256": "4015d42e38f2163fb029f76c5671402b7c0493646c60102ecdfe04f791cc1fc0"
+  },
+  "dob": {
+    "date": "1967-04-30T23:38:34.846Z",
+    "age": 57
+  },
+  "registered": {
+    "date": "2003-12-18T03:15:07.719Z",
+    "age": 21
+  },
+  "phone": "36152143",
+  "cell": "44867215",
+  "id": {
+    "name": "CPR",
+    "value": "300467-4313"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+  },
+  "nat": "DK"
+}

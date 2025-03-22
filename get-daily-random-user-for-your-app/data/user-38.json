@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Anjali",
+    "last": "Nand"
+  },
+  "location": {
+    "street": {
+      "number": 2297,
+      "name": "Mirza Ghalib St"
+    },
+    "city": "Gandhinagar",
+    "state": "Tripura",
+    "country": "India",
+    "postcode": 76222,
+    "coordinates": {
+      "latitude": "5.5163",
+      "longitude": "35.0114"
+    },
+    "timezone": {
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
+    }
+  },
+  "email": "anjali.nand@example.com",
+  "login": {
+    "uuid": "1988384e-b58a-4a19-99c4-0dbf5c5f021a",
+    "username": "crazybear881",
+    "password": "rough",
+    "salt": "wIOPfK1L",
+    "md5": "272afa4c811285b465273e9cd26ab8af",
+    "sha1": "56b1d9228065c6f390d42b71e7048f20b9b625ae",
+    "sha256": "236792caae2dc7519f0da914aacc450ad08508d9349be02de6e387498971229a"
+  },
+  "dob": {
+    "date": "1985-09-23T20:44:00.037Z",
+    "age": 39
+  },
+  "registered": {
+    "date": "2022-02-01T08:26:35.964Z",
+    "age": 3
+  },
+  "phone": "9390106191",
+  "cell": "7525511215",
+  "id": {
+    "name": "UIDAI",
+    "value": "265946294440"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+  },
+  "nat": "IN"
+}

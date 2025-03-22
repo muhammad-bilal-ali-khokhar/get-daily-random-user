@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Liam",
+    "last": "Kumar"
+  },
+  "location": {
+    "street": {
+      "number": 5774,
+      "name": "Wairau Road"
+    },
+    "city": "Gisborne",
+    "state": "Bay of Plenty",
+    "country": "New Zealand",
+    "postcode": 28167,
+    "coordinates": {
+      "latitude": "53.8798",
+      "longitude": "-46.1179"
+    },
+    "timezone": {
+      "offset": "+5:45",
+      "description": "Kathmandu"
+    }
+  },
+  "email": "liam.kumar@example.com",
+  "login": {
+    "uuid": "a6b9f313-b329-4771-a45d-e03d6d6b7c9e",
+    "username": "goldensnake937",
+    "password": "doug",
+    "salt": "TllLDDeA",
+    "md5": "bc6603edad55d5f38c3d2230acdfd252",
+    "sha1": "8c0178b6dfc9e54bb0cdac69e509485a45ca7924",
+    "sha256": "09c4c9bfcdfa03735075e349115f22896ba0eed0e95a9fa44089e4db7cbb5c8a"
+  },
+  "dob": {
+    "date": "1945-05-16T17:01:59.427Z",
+    "age": 79
+  },
+  "registered": {
+    "date": "2006-05-27T05:01:06.699Z",
+    "age": 18
+  },
+  "phone": "(483)-747-5970",
+  "cell": "(335)-351-0122",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+  },
+  "nat": "NZ"
+}

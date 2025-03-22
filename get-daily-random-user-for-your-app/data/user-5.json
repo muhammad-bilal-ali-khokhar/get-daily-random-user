@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Lucía",
+    "last": "Galván"
+  },
+  "location": {
+    "street": {
+      "number": 345,
+      "name": "Retorno Chihuahua"
+    },
+    "city": "Cárdenas",
+    "state": "Coahuila",
+    "country": "Mexico",
+    "postcode": 54551,
+    "coordinates": {
+      "latitude": "25.4060",
+      "longitude": "71.6971"
+    },
+    "timezone": {
+      "offset": "+5:45",
+      "description": "Kathmandu"
+    }
+  },
+  "email": "lucia.galvan@example.com",
+  "login": {
+    "uuid": "954b0e13-73f8-4b7d-a04a-4168d0c279bc",
+    "username": "redelephant173",
+    "password": "connie",
+    "salt": "n9FTBYPc",
+    "md5": "eda145d792413c253ce226d9ae7ba4ca",
+    "sha1": "62a0df095abe55329888d7ffbde2c0b0cd2aee22",
+    "sha256": "2f57759bb81357c94fb1ae837d18528d21c52fe66edd3323ae264a87a556f179"
+  },
+  "dob": {
+    "date": "1968-05-02T09:38:28.876Z",
+    "age": 56
+  },
+  "registered": {
+    "date": "2012-08-26T04:29:17.048Z",
+    "age": 12
+  },
+  "phone": "(607) 145 7820",
+  "cell": "(600) 687 6779",
+  "id": {
+    "name": "NSS",
+    "value": "46 04 13 7411 3"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+  },
+  "nat": "MX"
+}

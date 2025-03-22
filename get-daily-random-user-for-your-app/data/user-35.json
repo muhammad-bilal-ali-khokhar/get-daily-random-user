@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Jagdish",
+    "last": "Shet"
+  },
+  "location": {
+    "street": {
+      "number": 5311,
+      "name": "Lindsay St"
+    },
+    "city": "Kolkata",
+    "state": "Haryana",
+    "country": "India",
+    "postcode": 41012,
+    "coordinates": {
+      "latitude": "8.0229",
+      "longitude": "-154.3311"
+    },
+    "timezone": {
+      "offset": "-10:00",
+      "description": "Hawaii"
+    }
+  },
+  "email": "jagdish.shet@example.com",
+  "login": {
+    "uuid": "7d187855-0e7a-40a6-b452-3a7f085a10c4",
+    "username": "goldendog323",
+    "password": "darkside",
+    "salt": "a5EPdQAm",
+    "md5": "adba90770971854c8f6ac37457c8332e",
+    "sha1": "343e4610d3076cbc2123ac43cade9cdcff6b1b91",
+    "sha256": "ce8c49464297729989574b521223c61d38524415efaf9eb4443d6cb88433d10b"
+  },
+  "dob": {
+    "date": "1981-12-14T15:04:02.086Z",
+    "age": 43
+  },
+  "registered": {
+    "date": "2011-12-01T08:29:21.758Z",
+    "age": 13
+  },
+  "phone": "7536007209",
+  "cell": "9025668427",
+  "id": {
+    "name": "UIDAI",
+    "value": "975243908221"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+  },
+  "nat": "IN"
+}

@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Maryama",
+    "last": "Klaasen"
+  },
+  "location": {
+    "street": {
+      "number": 9041,
+      "name": "Grimbergen"
+    },
+    "city": "Voorburg",
+    "state": "Flevoland",
+    "country": "Netherlands",
+    "postcode": "0167 FR",
+    "coordinates": {
+      "latitude": "30.0332",
+      "longitude": "107.2512"
+    },
+    "timezone": {
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
+    }
+  },
+  "email": "maryama.klaasen@example.com",
+  "login": {
+    "uuid": "a56beae1-5a56-440e-ab91-60fb2ab8fa45",
+    "username": "beautifulgorilla142",
+    "password": "maxi",
+    "salt": "OuArd6yR",
+    "md5": "03d463e6f8e28b9e6741e6de1be9eaad",
+    "sha1": "14bdd628777c55f1e007efee3fe16aa04c8ee417",
+    "sha256": "089675e3afd010bfb304c62f991716a12071316aa40fc12e465ae48f64f96da8"
+  },
+  "dob": {
+    "date": "2000-01-13T04:32:34.643Z",
+    "age": 25
+  },
+  "registered": {
+    "date": "2016-02-12T14:18:36.084Z",
+    "age": 9
+  },
+  "phone": "(067) 5962331",
+  "cell": "(06) 98868187",
+  "id": {
+    "name": "BSN",
+    "value": "82638270"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+  },
+  "nat": "NL"
+}

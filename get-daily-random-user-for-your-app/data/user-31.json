@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Elya",
+    "last": "David"
+  },
+  "location": {
+    "street": {
+      "number": 9327,
+      "name": "Montée Saint-Barthélémy"
+    },
+    "city": "Colombes",
+    "state": "Guadeloupe",
+    "country": "France",
+    "postcode": 40060,
+    "coordinates": {
+      "latitude": "-18.3933",
+      "longitude": "33.8945"
+    },
+    "timezone": {
+      "offset": "+3:30",
+      "description": "Tehran"
+    }
+  },
+  "email": "elya.david@example.com",
+  "login": {
+    "uuid": "4219e345-5a52-45cd-a92e-7d9918d5c03b",
+    "username": "tinykoala867",
+    "password": "biology",
+    "salt": "PwkvXY4K",
+    "md5": "a0a29efed1fdea0f1a906f507b6ccc80",
+    "sha1": "839bb08992116a832a1067ff3e270e0dd9d00d2f",
+    "sha256": "08943095ce00391485850f3ba1679f6f219765f1ea3e68d637827463064e2865"
+  },
+  "dob": {
+    "date": "1978-12-21T09:17:46.677Z",
+    "age": 46
+  },
+  "registered": {
+    "date": "2014-03-05T13:50:53.530Z",
+    "age": 11
+  },
+  "phone": "03-83-70-26-19",
+  "cell": "06-44-82-57-44",
+  "id": {
+    "name": "INSEE",
+    "value": "2781102658063 65"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/7.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
+  },
+  "nat": "FR"
+}

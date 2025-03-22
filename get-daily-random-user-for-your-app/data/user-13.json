@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Henry",
+    "last": "Jenkins"
+  },
+  "location": {
+    "street": {
+      "number": 2564,
+      "name": "George Street"
+    },
+    "city": "Chester",
+    "state": "Derbyshire",
+    "country": "United Kingdom",
+    "postcode": "MY4J 7LW",
+    "coordinates": {
+      "latitude": "-12.1096",
+      "longitude": "-155.7192"
+    },
+    "timezone": {
+      "offset": "+5:45",
+      "description": "Kathmandu"
+    }
+  },
+  "email": "henry.jenkins@example.com",
+  "login": {
+    "uuid": "67c4334b-11c5-471e-b2aa-15db9b767800",
+    "username": "redmouse179",
+    "password": "blessed",
+    "salt": "eeXvEg3R",
+    "md5": "3af9c7924b4ffcfcd99ce04be0e42d1c",
+    "sha1": "3d8749223c66b40d6c4b515896de553b5f7f3270",
+    "sha256": "a019e4a9db14826fc32f726d45d38d4eeec04ab82bb0f26c1600bb62884031ff"
+  },
+  "dob": {
+    "date": "1962-11-13T10:27:08.143Z",
+    "age": 62
+  },
+  "registered": {
+    "date": "2019-08-30T09:29:26.403Z",
+    "age": 5
+  },
+  "phone": "016974 66877",
+  "cell": "07910 116214",
+  "id": {
+    "name": "NINO",
+    "value": "YG 64 59 95 D"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+  },
+  "nat": "GB"
+}

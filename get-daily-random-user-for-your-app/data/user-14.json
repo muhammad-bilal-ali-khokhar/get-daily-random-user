@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Kimberly",
+    "last": "Rodriguez"
+  },
+  "location": {
+    "street": {
+      "number": 9406,
+      "name": "Windsor Road"
+    },
+    "city": "Newcastle upon Tyne",
+    "state": "Devon",
+    "country": "United Kingdom",
+    "postcode": "F5 2WB",
+    "coordinates": {
+      "latitude": "-9.8132",
+      "longitude": "3.4636"
+    },
+    "timezone": {
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
+    }
+  },
+  "email": "kimberly.rodriguez@example.com",
+  "login": {
+    "uuid": "9cdfff84-d447-4d9d-9c05-d5dfee9ee9da",
+    "username": "greensnake425",
+    "password": "404040",
+    "salt": "rrD2KYLW",
+    "md5": "669006431f1f3fc02d75ce3b09401450",
+    "sha1": "033d965ceb137679a7b23d1ff59b464de40f2b91",
+    "sha256": "8a5c0a82863824a2a36b9bbed5a46f70fec5257d34b89a0b2b92ea030ec5b3f8"
+  },
+  "dob": {
+    "date": "1992-06-06T09:49:46.466Z",
+    "age": 32
+  },
+  "registered": {
+    "date": "2021-09-04T03:06:55.415Z",
+    "age": 3
+  },
+  "phone": "015242 76281",
+  "cell": "07622 032632",
+  "id": {
+    "name": "NINO",
+    "value": "MH 39 08 81 X"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/88.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+  },
+  "nat": "GB"
+}

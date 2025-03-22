@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Kasper",
+    "last": "Johansen"
+  },
+  "location": {
+    "street": {
+      "number": 5928,
+      "name": "Møllebakken"
+    },
+    "city": "Horsens",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "postcode": 55029,
+    "coordinates": {
+      "latitude": "-42.6461",
+      "longitude": "-119.1336"
+    },
+    "timezone": {
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
+    }
+  },
+  "email": "kasper.johansen@example.com",
+  "login": {
+    "uuid": "74498478-9cc3-4a87-b15c-ab58a74b0d01",
+    "username": "goldenrabbit680",
+    "password": "baby",
+    "salt": "LVVlQGE9",
+    "md5": "f44c0c7a4fadb41d44b12b77ad9b5fef",
+    "sha1": "9addd67c28cf1861efd7ccf7af9f09de5c4e8570",
+    "sha256": "9a63abc875b49e522836a327450955d8f266871ad2f469f2aa472521824b30e4"
+  },
+  "dob": {
+    "date": "1984-10-12T06:51:32.424Z",
+    "age": 40
+  },
+  "registered": {
+    "date": "2008-08-21T06:38:10.095Z",
+    "age": 16
+  },
+  "phone": "64370800",
+  "cell": "38367586",
+  "id": {
+    "name": "CPR",
+    "value": "121084-0652"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/54.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
+  },
+  "nat": "DK"
+}

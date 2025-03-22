@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "محمدمهدی",
+    "last": "رضایی"
+  },
+  "location": {
+    "street": {
+      "number": 5098,
+      "name": "اقبال لاهوری"
+    },
+    "city": "آبادان",
+    "state": "گیلان",
+    "country": "Iran",
+    "postcode": 84425,
+    "coordinates": {
+      "latitude": "18.9874",
+      "longitude": "-34.3385"
+    },
+    "timezone": {
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+    }
+  },
+  "email": "mhmdmhdy.rdyy@example.com",
+  "login": {
+    "uuid": "d29810fd-bc0a-4967-9afd-3931a79dcb60",
+    "username": "yellowsnake270",
+    "password": "papers",
+    "salt": "SYcOKzEK",
+    "md5": "1c5ff5db7bb0b9ba0bdcb388da3ed592",
+    "sha1": "8b71161d2328e4fe93866cbbe387d16baa126f61",
+    "sha256": "5466af03c29a95ba9d4ed33bd1ea376b522ab02e8ae312b7daf7f41cf41d72db"
+  },
+  "dob": {
+    "date": "1977-11-06T12:41:05.847Z",
+    "age": 47
+  },
+  "registered": {
+    "date": "2006-03-11T00:16:38.534Z",
+    "age": 19
+  },
+  "phone": "064-58773038",
+  "cell": "0904-706-2943",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+  },
+  "nat": "IR"
+}

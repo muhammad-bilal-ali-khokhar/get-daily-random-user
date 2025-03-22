@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Dona",
+    "last": "Babu"
+  },
+  "location": {
+    "street": {
+      "number": 5864,
+      "name": "Colaba Causeway"
+    },
+    "city": "Bhavnagar",
+    "state": "Puducherry",
+    "country": "India",
+    "postcode": 86969,
+    "coordinates": {
+      "latitude": "8.9168",
+      "longitude": "148.0797"
+    },
+    "timezone": {
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
+    }
+  },
+  "email": "dona.babu@example.com",
+  "login": {
+    "uuid": "3124932c-d91d-4704-ba6e-c37cc7bba5ed",
+    "username": "tinyrabbit276",
+    "password": "goalie",
+    "salt": "LeYDbr0Q",
+    "md5": "e6a3cf4048d2b3613415230d582fadf4",
+    "sha1": "19bc051671f89850127e370a465ddadbe6cbd8a0",
+    "sha256": "4d40fc142c7e1a94890eea3eb6b5aac8069377b81eab8067da70483fdc8b68e9"
+  },
+  "dob": {
+    "date": "1971-05-23T08:36:34.184Z",
+    "age": 53
+  },
+  "registered": {
+    "date": "2018-02-14T14:13:35.972Z",
+    "age": 7
+  },
+  "phone": "8776398815",
+  "cell": "7949826675",
+  "id": {
+    "name": "UIDAI",
+    "value": "941705613564"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+  },
+  "nat": "IN"
+}

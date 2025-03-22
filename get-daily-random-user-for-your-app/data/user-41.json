@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Jannis",
+    "last": "Hegemann"
+  },
+  "location": {
+    "street": {
+      "number": 4642,
+      "name": "Raiffeisenstraße"
+    },
+    "city": "Delmenhorst",
+    "state": "Thüringen",
+    "country": "Germany",
+    "postcode": 71503,
+    "coordinates": {
+      "latitude": "-55.3544",
+      "longitude": "-17.6008"
+    },
+    "timezone": {
+      "offset": "-9:00",
+      "description": "Alaska"
+    }
+  },
+  "email": "jannis.hegemann@example.com",
+  "login": {
+    "uuid": "8417c2fa-63e4-477e-8995-cd9b12e815d4",
+    "username": "organicgoose784",
+    "password": "modena",
+    "salt": "xm6rCE3W",
+    "md5": "1046c63a9cc248f11f380534b9ac3630",
+    "sha1": "1ee2532ecf50177b4e130966e08de4a44e006371",
+    "sha256": "335a51b6ca030d339ce6d6c61706bac695d1d94df7804285f34e206b051e6f1d"
+  },
+  "dob": {
+    "date": "1991-04-12T03:21:53.147Z",
+    "age": 33
+  },
+  "registered": {
+    "date": "2013-12-19T16:03:17.705Z",
+    "age": 11
+  },
+  "phone": "0019-5138285",
+  "cell": "0172-2473985",
+  "id": {
+    "name": "SVNR",
+    "value": "80 110491 H 325"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+  },
+  "nat": "DE"
+}

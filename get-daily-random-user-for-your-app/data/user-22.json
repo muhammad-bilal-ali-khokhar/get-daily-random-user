@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Susanne",
+    "last": "Vestnes"
+  },
+  "location": {
+    "street": {
+      "number": 6415,
+      "name": "Hallings gate"
+    },
+    "city": "Neskollen",
+    "state": "Telemark",
+    "country": "Norway",
+    "postcode": "2256",
+    "coordinates": {
+      "latitude": "46.1787",
+      "longitude": "72.1255"
+    },
+    "timezone": {
+      "offset": "-3:30",
+      "description": "Newfoundland"
+    }
+  },
+  "email": "susanne.vestnes@example.com",
+  "login": {
+    "uuid": "ee75a48c-158c-4811-adb6-45e53fd1e154",
+    "username": "happyelephant424",
+    "password": "queenie",
+    "salt": "xIUGhfNY",
+    "md5": "a0e970834311b928b89872923e553541",
+    "sha1": "e090541db541dd205b87cb36428f4ca3abfc4320",
+    "sha256": "558b38243c3d4d4825b8d456b5ef1c6b6163cc8979ad58a3f233d569fb2171b9"
+  },
+  "dob": {
+    "date": "1997-03-11T09:53:50.179Z",
+    "age": 28
+  },
+  "registered": {
+    "date": "2009-10-02T05:48:48.427Z",
+    "age": 15
+  },
+  "phone": "88090322",
+  "cell": "98316027",
+  "id": {
+    "name": "FN",
+    "value": "11039720843"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+  },
+  "nat": "NO"
+}

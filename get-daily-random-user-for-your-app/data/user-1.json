@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Clara",
+    "last": "Petersen"
+  },
+  "location": {
+    "street": {
+      "number": 6634,
+      "name": "Sneppevej"
+    },
+    "city": "Lintrup",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "postcode": 62584,
+    "coordinates": {
+      "latitude": "-44.6275",
+      "longitude": "74.4816"
+    },
+    "timezone": {
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
+    }
+  },
+  "email": "clara.petersen@example.com",
+  "login": {
+    "uuid": "3c9dac73-9311-47f2-9bb0-afe7d8bf494f",
+    "username": "beautifulostrich954",
+    "password": "playtime",
+    "salt": "oggC0kdT",
+    "md5": "bc345782aba7be839abe8df59b222d18",
+    "sha1": "bb421aadbc27a827746d014552681d4ec62ec2a2",
+    "sha256": "800cb898c118123a28a6138dfb79da32a0c76d3c699e09cb956ded6972a13c5a"
+  },
+  "dob": {
+    "date": "1997-03-04T07:36:52.130Z",
+    "age": 28
+  },
+  "registered": {
+    "date": "2011-02-28T21:57:43.483Z",
+    "age": 14
+  },
+  "phone": "57925390",
+  "cell": "77746164",
+  "id": {
+    "name": "CPR",
+    "value": "040397-7467"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+  },
+  "nat": "DK"
+}

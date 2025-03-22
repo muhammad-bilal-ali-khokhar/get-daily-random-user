@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Olivia",
+    "last": "Páez"
+  },
+  "location": {
+    "street": {
+      "number": 6155,
+      "name": "Callejón Sur Vaca"
+    },
+    "city": "La Frontera",
+    "state": "Tamaulipas",
+    "country": "Mexico",
+    "postcode": 54355,
+    "coordinates": {
+      "latitude": "25.3152",
+      "longitude": "112.1608"
+    },
+    "timezone": {
+      "offset": "-10:00",
+      "description": "Hawaii"
+    }
+  },
+  "email": "olivia.paez@example.com",
+  "login": {
+    "uuid": "ca41946d-74d4-4195-ab70-c142f2379623",
+    "username": "angryrabbit211",
+    "password": "josephin",
+    "salt": "p2sfJvzT",
+    "md5": "055d6952d18b7ddeb642603ffb73ba33",
+    "sha1": "eb6ea313789dffa7eaa672eb96efccb536f9d976",
+    "sha256": "ceb2ad0450bb0c575c822123e304448877952a98f1c74ebc6fe557b917537143"
+  },
+  "dob": {
+    "date": "1961-01-08T14:24:58.618Z",
+    "age": 64
+  },
+  "registered": {
+    "date": "2004-12-03T03:32:35.058Z",
+    "age": 20
+  },
+  "phone": "(612) 453 1290",
+  "cell": "(632) 751 2581",
+  "id": {
+    "name": "NSS",
+    "value": "09 18 16 2060 0"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+  },
+  "nat": "MX"
+}

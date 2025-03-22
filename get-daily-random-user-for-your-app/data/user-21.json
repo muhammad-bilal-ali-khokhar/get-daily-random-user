@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Charlotte",
+    "last": "Slawa"
+  },
+  "location": {
+    "street": {
+      "number": 9051,
+      "name": "Lakeview Ave"
+    },
+    "city": "Chipman",
+    "state": "Saskatchewan",
+    "country": "Canada",
+    "postcode": "H3G 8C5",
+    "coordinates": {
+      "latitude": "-64.6434",
+      "longitude": "47.5253"
+    },
+    "timezone": {
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+    }
+  },
+  "email": "charlotte.slawa@example.com",
+  "login": {
+    "uuid": "4da8e93d-92dc-4988-b5b1-2f399a55ac27",
+    "username": "beautifuldog970",
+    "password": "ppppppp",
+    "salt": "j1WMGGBv",
+    "md5": "53ba4a58f2491d9f081558876c0b9e12",
+    "sha1": "4048f9176395d2cf3ccf9678e099a9d0f0d14e0b",
+    "sha256": "22a231a77547a8c250ce4a1e95c1eebc681a369b8dba4861e4f10f229d771ad3"
+  },
+  "dob": {
+    "date": "1956-10-08T00:44:28.672Z",
+    "age": 68
+  },
+  "registered": {
+    "date": "2014-06-18T09:22:20.539Z",
+    "age": 10
+  },
+  "phone": "R33 R81-4545",
+  "cell": "D86 Z51-2681",
+  "id": {
+    "name": "SIN",
+    "value": "433763752"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+  },
+  "nat": "CA"
+}

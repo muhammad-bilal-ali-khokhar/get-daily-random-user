@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Narges",
+    "last": "Chotoe"
+  },
+  "location": {
+    "street": {
+      "number": 538,
+      "name": "Immobilialaan"
+    },
+    "city": "Plasmolen",
+    "state": "Noord-Brabant",
+    "country": "Netherlands",
+    "postcode": "9086 BI",
+    "coordinates": {
+      "latitude": "30.8148",
+      "longitude": "105.7852"
+    },
+    "timezone": {
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+    }
+  },
+  "email": "narges.chotoe@example.com",
+  "login": {
+    "uuid": "b1fa0cb9-c17c-484e-896e-db49beab37be",
+    "username": "tinysnake757",
+    "password": "geng",
+    "salt": "fCWHr4VL",
+    "md5": "32dc8653f698bb2ec568aa663458963e",
+    "sha1": "56f08dcb4b88e335d3ae0f462c991eb413fd4a4f",
+    "sha256": "80b5e1a283ab7dca2d776112d66fe09eadcab44b73efd3f2bfd6895dfafe155b"
+  },
+  "dob": {
+    "date": "1962-03-14T00:14:18.599Z",
+    "age": 63
+  },
+  "registered": {
+    "date": "2013-09-16T01:43:37.830Z",
+    "age": 11
+  },
+  "phone": "(086) 7247978",
+  "cell": "(06) 04263272",
+  "id": {
+    "name": "BSN",
+    "value": "23532715"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+  },
+  "nat": "NL"
+}

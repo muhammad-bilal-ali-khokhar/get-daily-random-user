@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Lonnie",
+    "last": "Hopkins"
+  },
+  "location": {
+    "street": {
+      "number": 9966,
+      "name": "Victoria Street"
+    },
+    "city": "Birmingham",
+    "state": "Staffordshire",
+    "country": "United Kingdom",
+    "postcode": "T8 5SY",
+    "coordinates": {
+      "latitude": "-11.2704",
+      "longitude": "-82.5632"
+    },
+    "timezone": {
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
+    }
+  },
+  "email": "lonnie.hopkins@example.com",
+  "login": {
+    "uuid": "a64ff1d9-4a5c-4891-af51-ec8df74fdbc6",
+    "username": "greenbutterfly894",
+    "password": "yoyo",
+    "salt": "qOvXIKf5",
+    "md5": "173d5ad5f8adb31d7b2189c5ae2f0380",
+    "sha1": "2e649486b129f517367249fb3664fad6bd649a51",
+    "sha256": "c654f26ad72dcf9f81717d570820916f1b07ce36fc543196f63b019a545cf0ec"
+  },
+  "dob": {
+    "date": "1988-09-24T10:04:02.528Z",
+    "age": 36
+  },
+  "registered": {
+    "date": "2012-09-06T02:41:42.036Z",
+    "age": 12
+  },
+  "phone": "019467 39359",
+  "cell": "07694 470107",
+  "id": {
+    "name": "NINO",
+    "value": "ZL 35 78 25 L"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+  },
+  "nat": "GB"
+}

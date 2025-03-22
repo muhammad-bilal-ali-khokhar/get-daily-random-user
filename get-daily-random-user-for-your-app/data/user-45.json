@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Neel",
+    "last": "Saldanha"
+  },
+  "location": {
+    "street": {
+      "number": 6612,
+      "name": "Naiduthota"
+    },
+    "city": "Mehsana",
+    "state": "Assam",
+    "country": "India",
+    "postcode": 64195,
+    "coordinates": {
+      "latitude": "8.4284",
+      "longitude": "-8.9721"
+    },
+    "timezone": {
+      "offset": "+5:45",
+      "description": "Kathmandu"
+    }
+  },
+  "email": "neel.saldanha@example.com",
+  "login": {
+    "uuid": "acca9919-1a80-4601-9593-27bd71004186",
+    "username": "organicduck212",
+    "password": "fredfred",
+    "salt": "ePIdzdeu",
+    "md5": "117584268bf760ad17e968b166527c05",
+    "sha1": "c469596f739252d6b20b9bc0e407982a4b322241",
+    "sha256": "a87d0575d21591ad178668a64e5af757c4b1c785f9d26fe748723aabc1dc1954"
+  },
+  "dob": {
+    "date": "1969-07-27T05:46:59.016Z",
+    "age": 55
+  },
+  "registered": {
+    "date": "2017-01-13T20:52:42.967Z",
+    "age": 8
+  },
+  "phone": "8000215410",
+  "cell": "8056413907",
+  "id": {
+    "name": "UIDAI",
+    "value": "268444463042"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+  },
+  "nat": "IN"
+}

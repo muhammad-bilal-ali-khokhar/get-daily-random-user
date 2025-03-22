@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Izolda",
+    "last": "Radojičić"
+  },
+  "location": {
+    "street": {
+      "number": 127,
+      "name": "Makarija Sokolovića"
+    },
+    "city": "Ivanjica",
+    "state": "Pomoravlje",
+    "country": "Serbia",
+    "postcode": 20279,
+    "coordinates": {
+      "latitude": "60.4341",
+      "longitude": "110.5058"
+    },
+    "timezone": {
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+    }
+  },
+  "email": "izolda.radojicic@example.com",
+  "login": {
+    "uuid": "59f80749-1b16-4288-a056-f8d968b52c99",
+    "username": "greenwolf592",
+    "password": "earthlink",
+    "salt": "ThxiIFya",
+    "md5": "e1febf11e3c80c8b0f69e53356233a79",
+    "sha1": "985b21e0f5c62d14e58673d721ea22338073d45d",
+    "sha256": "644419965baeaa0fb765d72227c24074f094e3eb6853e158c2b09b2b59dcf45b"
+  },
+  "dob": {
+    "date": "1994-01-21T22:54:00.913Z",
+    "age": 31
+  },
+  "registered": {
+    "date": "2014-03-26T04:21:37.025Z",
+    "age": 10
+  },
+  "phone": "027-3175-614",
+  "cell": "060-4023-964",
+  "id": {
+    "name": "SID",
+    "value": "862452924"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+  },
+  "nat": "RS"
+}

@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Aada",
+    "last": "Ruona"
+  },
+  "location": {
+    "street": {
+      "number": 1800,
+      "name": "Bulevardi"
+    },
+    "city": "Maaninka",
+    "state": "Päijät-Häme",
+    "country": "Finland",
+    "postcode": 94308,
+    "coordinates": {
+      "latitude": "-28.4371",
+      "longitude": "176.4262"
+    },
+    "timezone": {
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
+    }
+  },
+  "email": "aada.ruona@example.com",
+  "login": {
+    "uuid": "0c962079-e3bd-4430-96b0-c14ee1e7d16a",
+    "username": "angryrabbit208",
+    "password": "pounding",
+    "salt": "nSYqmdfx",
+    "md5": "0cb6ce23ee67d9e71f186419b68cf431",
+    "sha1": "2f55f946c081bba9c1b6a785cabd2b3214552ee2",
+    "sha256": "367eb18dc8943703969ed991b32a444baf996bae107a0115577a53bf7453a14f"
+  },
+  "dob": {
+    "date": "1959-09-22T03:17:50.521Z",
+    "age": 65
+  },
+  "registered": {
+    "date": "2021-01-01T04:38:44.056Z",
+    "age": 4
+  },
+  "phone": "02-948-146",
+  "cell": "040-286-33-93",
+  "id": {
+    "name": "HETU",
+    "value": "NaNNA966undefined"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+  },
+  "nat": "FI"
+}

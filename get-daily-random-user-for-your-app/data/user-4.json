@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Ms",
+    "first": "Rufina",
+    "last": "Berest"
+  },
+  "location": {
+    "street": {
+      "number": 5746,
+      "name": "Voznyaka"
+    },
+    "city": "Starokostyantiniv",
+    "state": "Kiyivska",
+    "country": "Ukraine",
+    "postcode": 75606,
+    "coordinates": {
+      "latitude": "74.8741",
+      "longitude": "137.3305"
+    },
+    "timezone": {
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
+    }
+  },
+  "email": "rufina.berest@example.com",
+  "login": {
+    "uuid": "c1fc92d6-bda9-4164-9647-33a2dddf16e9",
+    "username": "heavyelephant324",
+    "password": "divers",
+    "salt": "2NKfysMz",
+    "md5": "5f567cdce67e02d5a28f684d8d4c95be",
+    "sha1": "51e1fab63c17ee46d2ce09eb860eb738e4ff8918",
+    "sha256": "1ffd87c7df058235757086cfff8ca0dbaa42e89fbf7f5c44941da94599849555"
+  },
+  "dob": {
+    "date": "1980-05-19T03:49:56.154Z",
+    "age": 44
+  },
+  "registered": {
+    "date": "2004-12-15T22:43:45.436Z",
+    "age": 20
+  },
+  "phone": "(098) W90-4861",
+  "cell": "(097) X24-8852",
+  "id": {
+    "name": "",
+    "value": null
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+  },
+  "nat": "UA"
+}

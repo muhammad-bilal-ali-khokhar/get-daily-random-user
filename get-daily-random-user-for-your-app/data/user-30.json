@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Konrad",
+    "last": "Ulvestad"
+  },
+  "location": {
+    "street": {
+      "number": 4692,
+      "name": "Axel Huitfeldts vei"
+    },
+    "city": "Melandsvågen",
+    "state": "Vestfold",
+    "country": "Norway",
+    "postcode": "5450",
+    "coordinates": {
+      "latitude": "45.1373",
+      "longitude": "-29.5640"
+    },
+    "timezone": {
+      "offset": "-9:00",
+      "description": "Alaska"
+    }
+  },
+  "email": "konrad.ulvestad@example.com",
+  "login": {
+    "uuid": "7e1708fe-6ed2-4460-b27f-99ea9b6fe501",
+    "username": "heavyzebra650",
+    "password": "bogus",
+    "salt": "A7ZkqAdl",
+    "md5": "41ea03aa0f1fdaa756412c39795a29ad",
+    "sha1": "3a3b4d5fb72098d0cd1518d11a3b9d4f613e19ef",
+    "sha256": "c0358c4e18a5e2aeb0eb274b1032a6aaf22aec1f8f8fe595dff8759548a7b75a"
+  },
+  "dob": {
+    "date": "1977-04-29T13:22:28.487Z",
+    "age": 47
+  },
+  "registered": {
+    "date": "2019-12-14T02:02:27.537Z",
+    "age": 5
+  },
+  "phone": "66499301",
+  "cell": "44558403",
+  "id": {
+    "name": "FN",
+    "value": "29047722509"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/67.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+  },
+  "nat": "NO"
+}

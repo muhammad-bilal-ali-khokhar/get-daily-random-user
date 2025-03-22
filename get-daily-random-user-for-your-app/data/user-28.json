@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Teodosije",
+    "last": "Vučetić"
+  },
+  "location": {
+    "street": {
+      "number": 3891,
+      "name": "Valačka"
+    },
+    "city": "Svrljig",
+    "state": "Mačva",
+    "country": "Serbia",
+    "postcode": 76532,
+    "coordinates": {
+      "latitude": "60.8279",
+      "longitude": "-179.3423"
+    },
+    "timezone": {
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
+    }
+  },
+  "email": "teodosije.vucetic@example.com",
+  "login": {
+    "uuid": "ce56ed4b-7782-46de-9e2f-415e507ceb86",
+    "username": "blackwolf334",
+    "password": "tootsie",
+    "salt": "ECHiA15e",
+    "md5": "882ebb73429ce6398382ca3051681276",
+    "sha1": "1149ba2acce863ea76f1c637fcbd6bd53016a718",
+    "sha256": "71350923efc63f801878481dcea9b4208d2b2b015c7074b8f63ef2560bb710e1"
+  },
+  "dob": {
+    "date": "1950-01-06T20:44:33.681Z",
+    "age": 75
+  },
+  "registered": {
+    "date": "2008-11-10T01:49:32.477Z",
+    "age": 16
+  },
+  "phone": "020-4787-541",
+  "cell": "065-3659-439",
+  "id": {
+    "name": "SID",
+    "value": "186877571"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/90.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+  },
+  "nat": "RS"
+}

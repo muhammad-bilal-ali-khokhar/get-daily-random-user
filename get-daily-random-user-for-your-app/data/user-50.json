@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Mrs",
+    "first": "Inken",
+    "last": "Kraemer"
+  },
+  "location": {
+    "street": {
+      "number": 4079,
+      "name": "Gartenstraße"
+    },
+    "city": "Rosenfeld",
+    "state": "Mecklenburg-Vorpommern",
+    "country": "Germany",
+    "postcode": 73465,
+    "coordinates": {
+      "latitude": "-50.1681",
+      "longitude": "73.2494"
+    },
+    "timezone": {
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+    }
+  },
+  "email": "inken.kraemer@example.com",
+  "login": {
+    "uuid": "779865b7-bbe9-4167-8f58-88018fb7fb26",
+    "username": "lazyleopard579",
+    "password": "francine",
+    "salt": "R7LhBEF9",
+    "md5": "df43778e9343cd63065b9589ebae450a",
+    "sha1": "1e9df6fef28aac6cdb7fb5165b8956d961c59a91",
+    "sha256": "19b72c664e48872193d4ba503cf43f95c3b95becea8b046a160716ec69fe56b5"
+  },
+  "dob": {
+    "date": "1946-01-26T21:16:47.758Z",
+    "age": 79
+  },
+  "registered": {
+    "date": "2003-09-09T11:03:53.281Z",
+    "age": 21
+  },
+  "phone": "0974-9713047",
+  "cell": "0177-9337712",
+  "id": {
+    "name": "SVNR",
+    "value": "08 260146 K 733"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+  },
+  "nat": "DE"
+}

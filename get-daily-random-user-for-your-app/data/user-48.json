@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Abbey",
+    "last": "Daniels"
+  },
+  "location": {
+    "street": {
+      "number": 5651,
+      "name": "New Street"
+    },
+    "city": "Carrigaline",
+    "state": "Kilkenny",
+    "country": "Ireland",
+    "postcode": 13698,
+    "coordinates": {
+      "latitude": "-2.4802",
+      "longitude": "35.5508"
+    },
+    "timezone": {
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
+    }
+  },
+  "email": "abbey.daniels@example.com",
+  "login": {
+    "uuid": "03159737-0a87-479e-846f-d0f12416ab42",
+    "username": "yellowswan119",
+    "password": "handyman",
+    "salt": "NFDEM6Ip",
+    "md5": "771abf34b67bd236c46c1752cb4807d5",
+    "sha1": "1800c82c777e936d4bc882089e1987630e57d8e1",
+    "sha256": "50389d50edf864e504c07a3c3d4d4ab8eb5711bf785d5026e0cb3abc354476f2"
+  },
+  "dob": {
+    "date": "1999-03-17T03:40:12.202Z",
+    "age": 26
+  },
+  "registered": {
+    "date": "2004-06-02T03:08:02.939Z",
+    "age": 20
+  },
+  "phone": "021-046-7219",
+  "cell": "081-769-9089",
+  "id": {
+    "name": "PPS",
+    "value": "9103005T"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+  },
+  "nat": "IE"
+}

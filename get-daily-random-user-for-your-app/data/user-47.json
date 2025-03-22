@@ -1,0 +1,56 @@
+{
+  "gender": "female",
+  "name": {
+    "title": "Miss",
+    "first": "Shylaja",
+    "last": "Holla"
+  },
+  "location": {
+    "street": {
+      "number": 4604,
+      "name": "NAD X Rd"
+    },
+    "city": "Naihati",
+    "state": "Chandigarh",
+    "country": "India",
+    "postcode": 12889,
+    "coordinates": {
+      "latitude": "7.4712",
+      "longitude": "100.6931"
+    },
+    "timezone": {
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
+    }
+  },
+  "email": "shylaja.holla@example.com",
+  "login": {
+    "uuid": "c52379a2-0543-45d1-bb5e-6f347a1b4459",
+    "username": "tinygorilla947",
+    "password": "frogman",
+    "salt": "utpwYeSS",
+    "md5": "5f10de9e07f0f2f3caf44a2cdafdf861",
+    "sha1": "22e2588273c495cda9fc83b3d88e1f9bfe15d797",
+    "sha256": "f549e901bb9f6b22e79e3449c69741bc3f65c24a8cedddaa53e34de20dbfb0da"
+  },
+  "dob": {
+    "date": "1956-02-17T07:25:40.707Z",
+    "age": 69
+  },
+  "registered": {
+    "date": "2008-04-16T19:16:43.434Z",
+    "age": 16
+  },
+  "phone": "9072235165",
+  "cell": "8947435560",
+  "id": {
+    "name": "UIDAI",
+    "value": "495002605607"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/women/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+  },
+  "nat": "IN"
+}

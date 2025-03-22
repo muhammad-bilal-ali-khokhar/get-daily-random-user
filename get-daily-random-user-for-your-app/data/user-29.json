@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Wade",
+    "last": "Hunt"
+  },
+  "location": {
+    "street": {
+      "number": 232,
+      "name": "The Avenue"
+    },
+    "city": "Cambridge",
+    "state": "County Tyrone",
+    "country": "United Kingdom",
+    "postcode": "E4 8NG",
+    "coordinates": {
+      "latitude": "-6.0144",
+      "longitude": "-87.4235"
+    },
+    "timezone": {
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
+    }
+  },
+  "email": "wade.hunt@example.com",
+  "login": {
+    "uuid": "f740d234-35d5-4002-bd10-22a38449559d",
+    "username": "bigbear266",
+    "password": "stone55",
+    "salt": "nvYxdalm",
+    "md5": "30168c9d94130d493f517d64df3784ae",
+    "sha1": "e20f12fbfbcc7269655da21ee933a88a952dc100",
+    "sha256": "5786bc398c0b8dbc7b47b0aa97ccd500e78ead101d722fcf8c1cd0df8fc2b555"
+  },
+  "dob": {
+    "date": "1954-12-10T12:51:09.762Z",
+    "age": 70
+  },
+  "registered": {
+    "date": "2015-06-17T11:53:41.805Z",
+    "age": 9
+  },
+  "phone": "017687 24180",
+  "cell": "07055 956811",
+  "id": {
+    "name": "NINO",
+    "value": "EZ 56 30 00 U"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+  },
+  "nat": "GB"
+}

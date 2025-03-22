@@ -1,0 +1,56 @@
+{
+  "gender": "male",
+  "name": {
+    "title": "Mr",
+    "first": "Tim",
+    "last": "Dyck"
+  },
+  "location": {
+    "street": {
+      "number": 7281,
+      "name": "Kirchstraße"
+    },
+    "city": "Kappeln",
+    "state": "Saarland",
+    "country": "Germany",
+    "postcode": 90583,
+    "coordinates": {
+      "latitude": "-51.8028",
+      "longitude": "-150.6944"
+    },
+    "timezone": {
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+    }
+  },
+  "email": "tim.dyck@example.com",
+  "login": {
+    "uuid": "e29b86be-aae9-45d8-aee7-0a2d059aa60c",
+    "username": "tinyladybug128",
+    "password": "terefon",
+    "salt": "NM4JuZGO",
+    "md5": "b7c34e0aed198ea21a8b4b8c57d1fdab",
+    "sha1": "b8c74b8f1c3cd5d44648740c81665131fdab731b",
+    "sha256": "d5ca61f59868be4388833555269f7c0613a1dedb64383e1d10592f46a622b4e5"
+  },
+  "dob": {
+    "date": "1981-01-18T12:55:29.776Z",
+    "age": 44
+  },
+  "registered": {
+    "date": "2005-02-15T07:13:30.809Z",
+    "age": 20
+  },
+  "phone": "0036-6630707",
+  "cell": "0174-1942538",
+  "id": {
+    "name": "SVNR",
+    "value": "52 180181 D 205"
+  },
+  "picture": {
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+  },
+  "nat": "DE"
+}
