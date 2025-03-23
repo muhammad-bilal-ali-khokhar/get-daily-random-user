@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Vistan",
-    "last": "Rizun"
+    "first": "Jonas",
+    "last": "Souza"
   },
   "location": {
     "street": {
-      "number": 7367,
-      "name": "Smagliya"
+      "number": 2330,
+      "name": "Travessa dos Martírios"
     },
-    "city": "Bobrinec",
-    "state": "Hersonska",
-    "country": "Ukraine",
-    "postcode": 31681,
+    "city": "Ourinhos",
+    "state": "Mato Grosso",
+    "country": "Brazil",
+    "postcode": 36760,
     "coordinates": {
-      "latitude": "79.7458",
-      "longitude": "-123.8443"
+      "latitude": "-80.4610",
+      "longitude": "-45.2026"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "vistan.rizun@example.com",
+  "email": "jonas.souza@example.com",
   "login": {
-    "uuid": "2bfbd1d3-28ff-4aed-b68d-f219d7dfb41a",
-    "username": "lazyswan972",
-    "password": "gabber",
-    "salt": "lF98Q5YT",
-    "md5": "44dc72b88dc8c6137fa8e8e43c6a814b",
-    "sha1": "164a40c52e15c5a138e36df44fc5b20c1971d41f",
-    "sha256": "d6f590febb54d511bd0da72aef46a0d39ae271a0a8048f7127371f44f372de1e"
+    "uuid": "8fe3f964-8cec-4175-8843-3d29be9c2c9e",
+    "username": "crazyduck274",
+    "password": "kenworth",
+    "salt": "FX5XgBtF",
+    "md5": "1aa03e3266fc78ac7099f9fc74bcf643",
+    "sha1": "50176ba7237f20cb491a09233a1d903bea516eb3",
+    "sha256": "c44b9951cb12a4a93f11471435dc21c7702448d3504dfb869511a52d9742e387"
   },
   "dob": {
-    "date": "1954-08-18T00:00:26.329Z",
-    "age": 70
+    "date": "1993-10-03T10:45:49.309Z",
+    "age": 31
   },
   "registered": {
-    "date": "2003-12-22T09:26:17.019Z",
-    "age": 21
+    "date": "2005-01-19T16:01:43.364Z",
+    "age": 20
   },
-  "phone": "(098) M89-7206",
-  "cell": "(066) D60-1067",
+  "phone": "(79) 5817-6999",
+  "cell": "(76) 4779-0791",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "355.878.581-25"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
   },
-  "nat": "UA"
+  "nat": "BR"
 }

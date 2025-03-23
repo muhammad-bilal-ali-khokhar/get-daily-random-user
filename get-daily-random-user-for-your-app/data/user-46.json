@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Lilly",
-    "last": "Louis"
+    "title": "Miss",
+    "first": "Alicia",
+    "last": "Bouchard"
   },
   "location": {
     "street": {
-      "number": 4983,
-      "name": "Rue Jean-Baldassini"
+      "number": 8273,
+      "name": "Balmoral St"
     },
-    "city": "Limoges",
-    "state": "Somme",
-    "country": "France",
-    "postcode": 80876,
+    "city": "Westport",
+    "state": "Alberta",
+    "country": "Canada",
+    "postcode": "H8R 9B3",
     "coordinates": {
-      "latitude": "-20.1653",
-      "longitude": "168.7337"
+      "latitude": "-67.3900",
+      "longitude": "44.0779"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "lilly.louis@example.com",
+  "email": "alicia.bouchard@example.com",
   "login": {
-    "uuid": "89897e7d-c9ec-4073-ace8-014df8741976",
-    "username": "orangebird175",
-    "password": "valkyrie",
-    "salt": "L3VaEm7V",
-    "md5": "38820a6814cb81e161afbad0cdb46e91",
-    "sha1": "87270d94b5f146a29537e6b01c0b8b9d9d7766c7",
-    "sha256": "833cff3f986b8e84f6b075c326b9dc338921c68e8c3310e5e7a57739e87af2a5"
+    "uuid": "1117d2f0-9f59-46e5-9e76-1fe7754f47b8",
+    "username": "happycat994",
+    "password": "hoosiers",
+    "salt": "7tMz4wg6",
+    "md5": "02f174e34695dc1b0bb71df81c505895",
+    "sha1": "84f726e53fa7c1770c676ee11554be8110b9844a",
+    "sha256": "96e4bc8ad6eab61cc48e0e43fd88f5392b27ed8eba78ce1d94b89e38b49e14c4"
   },
   "dob": {
-    "date": "1960-03-19T21:53:59.847Z",
-    "age": 65
+    "date": "1996-11-10T13:03:48.699Z",
+    "age": 28
   },
   "registered": {
-    "date": "2018-12-13T13:55:28.777Z",
-    "age": 6
+    "date": "2011-02-05T05:23:24.475Z",
+    "age": 14
   },
-  "phone": "03-42-16-44-13",
-  "cell": "06-43-32-36-40",
+  "phone": "I29 H47-5087",
+  "cell": "K00 K38-7870",
   "id": {
-    "name": "INSEE",
-    "value": "2600227847008 42"
+    "name": "SIN",
+    "value": "754117240"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    "large": "https://randomuser.me/api/portraits/women/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
   },
-  "nat": "FR"
+  "nat": "CA"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Rudana",
-    "last": "Yanchik"
+    "title": "Monsieur",
+    "first": "Grégoire",
+    "last": "Simon"
   },
   "location": {
     "street": {
-      "number": 383,
-      "name": "Smagliya"
+      "number": 9212,
+      "name": "Avenue de L'Abbé-Roussel"
     },
-    "city": "Makiyivka",
-    "state": "Ternopilska",
-    "country": "Ukraine",
-    "postcode": 17132,
+    "city": "Bonfol",
+    "state": "Vaud",
+    "country": "Switzerland",
+    "postcode": 5211,
     "coordinates": {
-      "latitude": "78.9117",
-      "longitude": "53.2901"
+      "latitude": "-58.6307",
+      "longitude": "-100.6118"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "rudana.yanchik@example.com",
+  "email": "gregoire.simon@example.com",
   "login": {
-    "uuid": "bf7b0d8c-12f2-46db-a895-4282ae9f84bf",
-    "username": "greenfish262",
-    "password": "mama",
-    "salt": "k9jz2T6H",
-    "md5": "61ef5df36b3e9b92126bcf20fdd38bdf",
-    "sha1": "b66381b2acab65a1365b8cdaa71dc4ab79d356fc",
-    "sha256": "ac32eaed74094a265ead9b15c386280baf6c11856eb7d5d4443377569de65156"
+    "uuid": "6f8e01ef-612a-4a68-a952-2da674e95549",
+    "username": "goldencat237",
+    "password": "marlene",
+    "salt": "ygkONyF3",
+    "md5": "4d3e1817a7535c138002d3c0bbfbf64d",
+    "sha1": "3f3dd3177568c12e39357a583e6fb0deaafa96ce",
+    "sha256": "18e1fccd597e8a4afc9d7602f0eaa3e054a4cfdb6160105924ce2a6fccacfcc0"
   },
   "dob": {
-    "date": "1976-04-20T18:48:10.041Z",
-    "age": 48
+    "date": "1990-10-20T15:17:31.166Z",
+    "age": 34
   },
   "registered": {
-    "date": "2005-12-31T06:22:27.335Z",
-    "age": 19
+    "date": "2015-07-18T13:54:23.640Z",
+    "age": 9
   },
-  "phone": "(099) O95-2790",
-  "cell": "(066) N15-1601",
+  "phone": "076 953 32 63",
+  "cell": "076 199 46 08",
   "id": {
-    "name": "",
-    "value": null
+    "name": "AVS",
+    "value": "756.7718.2533.20"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+    "large": "https://randomuser.me/api/portraits/men/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
   },
-  "nat": "UA"
+  "nat": "CH"
 }

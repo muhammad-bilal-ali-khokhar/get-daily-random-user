@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Gorun",
-    "last": "Yavorskiy"
+    "first": "James",
+    "last": "Singh"
   },
   "location": {
     "street": {
-      "number": 5656,
-      "name": "Chumackiy shlyah"
+      "number": 1852,
+      "name": "Duke St"
     },
-    "city": "Talne",
-    "state": "Donecka",
-    "country": "Ukraine",
-    "postcode": 61350,
+    "city": "Sandy Lake",
+    "state": "Saskatchewan",
+    "country": "Canada",
+    "postcode": "Q5O 3G4",
     "coordinates": {
-      "latitude": "75.1989",
-      "longitude": "-117.6648"
+      "latitude": "-67.7925",
+      "longitude": "-83.6319"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "gorun.yavorskiy@example.com",
+  "email": "james.singh@example.com",
   "login": {
-    "uuid": "3f89fd39-eb40-4457-88ca-dab98ec115f9",
-    "username": "smallostrich865",
-    "password": "killer1",
-    "salt": "4RpbquDF",
-    "md5": "6857dee8b6e5ce3c431430b186443df7",
-    "sha1": "51cb23fc19a3c9b61ef308c9c0f6d7e539bfbc6e",
-    "sha256": "6f0ff9a44dd94f081c191087541d96da402df675d9fd54499630f08300527ea8"
+    "uuid": "7d826be8-59c3-4152-b4dc-8c9a99162b73",
+    "username": "ticklishpeacock560",
+    "password": "denver",
+    "salt": "uJXmgxk0",
+    "md5": "a0761c4aa806b03a14d8776d2f85aea5",
+    "sha1": "9695e2fe285aa5f7cb2be918168a167f21f742c5",
+    "sha256": "117200865a70d256a8f7ece6c0d60a1c2da5f070b2a5093321d7913c5176cf95"
   },
   "dob": {
-    "date": "1982-12-20T01:15:07.268Z",
-    "age": 42
+    "date": "1989-06-03T03:06:53.178Z",
+    "age": 35
   },
   "registered": {
-    "date": "2016-07-14T21:04:01.366Z",
-    "age": 8
+    "date": "2014-05-31T19:50:18.033Z",
+    "age": 10
   },
-  "phone": "(096) X71-1395",
-  "cell": "(099) A26-1991",
+  "phone": "Q51 J17-4254",
+  "cell": "K81 L41-2626",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "258564970"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/56.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    "large": "https://randomuser.me/api/portraits/men/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
   },
-  "nat": "UA"
+  "nat": "CA"
 }

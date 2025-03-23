@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Lea",
-    "last": "Pedersen"
+    "title": "Mr",
+    "first": "Leen",
+    "last": "Schelling"
   },
   "location": {
     "street": {
-      "number": 3253,
-      "name": "Hvedevænget"
+      "number": 6133,
+      "name": "Kanunnik Daemenstraat"
     },
-    "city": "København Sv",
-    "state": "Nordjylland",
-    "country": "Denmark",
-    "postcode": 15035,
+    "city": "De Hoef",
+    "state": "Drenthe",
+    "country": "Netherlands",
+    "postcode": "1839 LS",
     "coordinates": {
-      "latitude": "-44.4944",
-      "longitude": "179.1355"
+      "latitude": "34.6231",
+      "longitude": "-147.2401"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "lea.pedersen@example.com",
+  "email": "leen.schelling@example.com",
   "login": {
-    "uuid": "8b305579-04b9-4295-a0da-cdc96a33073d",
-    "username": "purplerabbit846",
-    "password": "skywalke",
-    "salt": "sSLlKvzb",
-    "md5": "2a23bd09a25e0d62634f32ae18d20383",
-    "sha1": "1c124f873ae86b42a9b0aa6be516d9430c3cd120",
-    "sha256": "edda8f96d8096211ddd480b67db2a77b618c94fe54dde7a1f492a5451f4a6be3"
+    "uuid": "8949e20b-7dbd-41e8-ba88-0dd1063d2d91",
+    "username": "lazylion140",
+    "password": "perkins",
+    "salt": "C1S3e5FD",
+    "md5": "3adbc95c1eb62f1cee0f9f16dd20c991",
+    "sha1": "37b3b7a457d0a5f4e5e2b7ba5093d104cd432569",
+    "sha256": "af0228c154c71c842a1b4a78feef8d1c8c218f527a9b7cc11fa7fa379901d57a"
   },
   "dob": {
-    "date": "1988-09-22T15:36:44.202Z",
-    "age": 36
+    "date": "1993-08-28T01:55:27.004Z",
+    "age": 31
   },
   "registered": {
-    "date": "2014-01-26T05:23:48.677Z",
-    "age": 11
+    "date": "2019-07-10T02:33:56.549Z",
+    "age": 5
   },
-  "phone": "62104280",
-  "cell": "20396395",
+  "phone": "(0368) 004231",
+  "cell": "(06) 16432235",
   "id": {
-    "name": "CPR",
-    "value": "220988-4456"
+    "name": "BSN",
+    "value": "41415859"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "DK"
+  "nat": "NL"
 }

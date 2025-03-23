@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Valentino",
-    "last": "Lugo"
+    "first": "Beau",
+    "last": "Chen"
   },
   "location": {
     "street": {
-      "number": 2982,
-      "name": "Corredor Vietman"
+      "number": 1088,
+      "name": "Green Lane West"
     },
-    "city": "Ciudad Apodaca",
-    "state": "Tlaxcala",
-    "country": "Mexico",
-    "postcode": 61089,
+    "city": "Napier",
+    "state": "Waikato",
+    "country": "New Zealand",
+    "postcode": 88525,
     "coordinates": {
-      "latitude": "29.9480",
-      "longitude": "-135.7628"
+      "latitude": "51.3692",
+      "longitude": "-141.9724"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "valentino.lugo@example.com",
+  "email": "beau.chen@example.com",
   "login": {
-    "uuid": "f87482e9-ebcd-4ddb-bf34-9972e50d2863",
-    "username": "brownfish631",
-    "password": "zang",
-    "salt": "5UW3ZYUU",
-    "md5": "79fed11ac9ae248b1a749ab248fa766d",
-    "sha1": "d0bd2b2cd3429574c56940fe79befaa7b6de77f2",
-    "sha256": "7505b565343aec4b45a3e2c9026e5f38abd201d19133294b39406c5aee30b3bc"
+    "uuid": "20a157dd-1298-4684-b3bd-e43077363e81",
+    "username": "sadswan938",
+    "password": "claire",
+    "salt": "ejLHzFrT",
+    "md5": "d68e7df20b4f46b36e770239fc7a5310",
+    "sha1": "692bd2729a8dfce6e144cbb8d51ab1f2959c0f8f",
+    "sha256": "88e2e74c684abb30e183161485ef0ef477e22b2e119e1fe55de36f413f403ebb"
   },
   "dob": {
-    "date": "1977-03-25T03:38:47.553Z",
-    "age": 47
+    "date": "1960-05-28T08:27:57.582Z",
+    "age": 64
   },
   "registered": {
-    "date": "2011-05-22T10:12:15.611Z",
-    "age": 13
+    "date": "2007-01-22T20:56:23.317Z",
+    "age": 18
   },
-  "phone": "(693) 081 5320",
-  "cell": "(665) 232 0901",
+  "phone": "(442)-428-5041",
+  "cell": "(151)-700-7697",
   "id": {
-    "name": "NSS",
-    "value": "24 97 86 0464 7"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "MX"
+  "nat": "NZ"
 }

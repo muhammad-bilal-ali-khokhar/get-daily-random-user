@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "ثنا",
-    "last": "حیدری"
+    "title": "Mr",
+    "first": "Sakarias",
+    "last": "Buene"
   },
   "location": {
     "street": {
-      "number": 6367,
-      "name": "آیت‌الله مدنی"
+      "number": 9377,
+      "name": "Frederik Stangs gate"
     },
-    "city": "بیرجند",
-    "state": "مازندران",
-    "country": "Iran",
-    "postcode": 90999,
+    "city": "Jevnaker",
+    "state": "Telemark",
+    "country": "Norway",
+    "postcode": "1182",
     "coordinates": {
-      "latitude": "16.7352",
-      "longitude": "71.2212"
+      "latitude": "46.1592",
+      "longitude": "-134.0700"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "thn.hydry@example.com",
+  "email": "sakarias.buene@example.com",
   "login": {
-    "uuid": "521ca14a-ea3c-41f1-a23f-72e3516a24c6",
-    "username": "yellowladybug262",
-    "password": "cannabis",
-    "salt": "NmWg8fzk",
-    "md5": "78288fe56e0482c697ea20728da454eb",
-    "sha1": "fdbfc6e03e8a634513f22d72ba6b9338f1bc09f5",
-    "sha256": "f201287f00bba1401aa875686604ca18dd5f4af592f720057f8990ddb22c2fef"
+    "uuid": "c13f35c9-b186-4b5e-8c58-d85c4606011c",
+    "username": "greenleopard875",
+    "password": "sanity",
+    "salt": "ReHxUv5W",
+    "md5": "d2a6250fd84e00d936699195c1adb181",
+    "sha1": "93652bfadf0dd53fd1fb3794cd5f53fdc227735e",
+    "sha256": "b35d49d536fa3da1666d615d0a3263e6440b0db4b5e05d731399a25b3edfa515"
   },
   "dob": {
-    "date": "1997-06-24T20:27:34.480Z",
-    "age": 27
+    "date": "1973-06-27T15:21:01.197Z",
+    "age": 51
   },
   "registered": {
-    "date": "2006-08-07T08:35:27.797Z",
-    "age": 18
+    "date": "2009-06-25T01:35:51.536Z",
+    "age": 15
   },
-  "phone": "013-61273617",
-  "cell": "0979-479-1363",
+  "phone": "34040108",
+  "cell": "46489703",
   "id": {
-    "name": "",
-    "value": null
+    "name": "FN",
+    "value": "27067316172"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/32.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "IR"
+  "nat": "NO"
 }

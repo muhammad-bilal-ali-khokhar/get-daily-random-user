@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Nicole",
-    "last": "Fernandez"
+    "title": "Mr",
+    "first": "Ievgen",
+    "last": "Dacenko"
   },
   "location": {
     "street": {
-      "number": 4789,
-      "name": "W Campbell Ave"
+      "number": 4209,
+      "name": "Valentina Kotika"
     },
-    "city": "Sydney",
-    "state": "Northern Territory",
-    "country": "Australia",
-    "postcode": 1290,
+    "city": "Luck",
+    "state": "Hersonska",
+    "country": "Ukraine",
+    "postcode": 53208,
     "coordinates": {
-      "latitude": "-87.9829",
-      "longitude": "123.3862"
+      "latitude": "77.4727",
+      "longitude": "-108.1239"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "nicole.fernandez@example.com",
+  "email": "ievgen.dacenko@example.com",
   "login": {
-    "uuid": "b3697ec5-b3cc-49a1-9eb1-f89ae1d6c678",
-    "username": "beautifulwolf570",
-    "password": "qqqqq",
-    "salt": "mUXKPfv6",
-    "md5": "958caafb27f520f3033215fe0e317ea2",
-    "sha1": "87a2965cccc50d16f1f5f52aec83fb98779e8508",
-    "sha256": "3502377f11f4801ef7d8472e0587e5769b6dd140bc71cefaf2eda00c733dea64"
+    "uuid": "54d678d7-9c57-4bff-9d3b-4e35d9913434",
+    "username": "bluepanda325",
+    "password": "sixty",
+    "salt": "MXvER98t",
+    "md5": "6fa09f001bf014811f01d0e318778009",
+    "sha1": "542a4b2b1b12238e2eef6883be699e1b23e4158b",
+    "sha256": "e399f9ebab0bc6db8c5c3eaf61ad34d66d5644d0dbd7820dc09796e0c7f4a48f"
   },
   "dob": {
-    "date": "1977-01-30T22:53:39.559Z",
-    "age": 48
+    "date": "1995-04-24T18:22:44.278Z",
+    "age": 29
   },
   "registered": {
-    "date": "2015-03-23T11:57:54.036Z",
-    "age": 9
+    "date": "2006-10-30T04:28:17.391Z",
+    "age": 18
   },
-  "phone": "00-8373-4508",
-  "cell": "0436-850-788",
+  "phone": "(098) P60-2222",
+  "cell": "(068) N40-1175",
   "id": {
-    "name": "TFN",
-    "value": "410595452"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/85.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "AU"
+  "nat": "UA"
 }

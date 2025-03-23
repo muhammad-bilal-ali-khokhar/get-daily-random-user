@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Brittany",
-    "last": "Wood"
+    "title": "Mr",
+    "first": "Danilo",
+    "last": "Pejaković"
   },
   "location": {
     "street": {
-      "number": 9968,
-      "name": "Queen Street"
+      "number": 4489,
+      "name": "Koprivnička"
     },
-    "city": "Westminster",
-    "state": "Fife",
-    "country": "United Kingdom",
-    "postcode": "I0S 8PW",
+    "city": "Kula",
+    "state": "Nišava",
+    "country": "Serbia",
+    "postcode": 25929,
     "coordinates": {
-      "latitude": "-7.2855",
-      "longitude": "58.8190"
+      "latitude": "62.3123",
+      "longitude": "-63.0765"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "brittany.wood@example.com",
+  "email": "danilo.pejakovic@example.com",
   "login": {
-    "uuid": "2f36f9e6-6383-4fd2-b353-20a87ae272bc",
-    "username": "browndog138",
-    "password": "frank",
-    "salt": "nFm8Zj8m",
-    "md5": "624b9f493d15f6dfb861c714580a7532",
-    "sha1": "84555ae412d6b6c527d7e7ccc5256aa72e0c92f1",
-    "sha256": "3d7f5992939f9d71c0d64246dbfc60894801dd72c2ad06434508f55b6c39cb7f"
+    "uuid": "28576652-8519-4c99-ba30-d60f09648a34",
+    "username": "bluebear835",
+    "password": "peterpan",
+    "salt": "GuhJYMK8",
+    "md5": "8f55ad19227b05e9fbd91a50914c7bbe",
+    "sha1": "7b446b83aa0ca3eb27872fa968ad004094c4742d",
+    "sha256": "7495e52a8f96719a7bc768cca650d3f4331d70fce9e53d49da594cd283f93ad0"
   },
   "dob": {
-    "date": "1981-05-28T14:07:34.252Z",
-    "age": 43
+    "date": "1968-02-01T07:05:15.349Z",
+    "age": 57
   },
   "registered": {
-    "date": "2013-05-09T21:21:58.608Z",
-    "age": 11
+    "date": "2002-09-17T08:22:19.492Z",
+    "age": 22
   },
-  "phone": "015242 67223",
-  "cell": "07813 438430",
+  "phone": "016-3256-235",
+  "cell": "068-7967-473",
   "id": {
-    "name": "NINO",
-    "value": "CK 32 56 99 J"
+    "name": "SID",
+    "value": "286115836"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/45.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/45.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "GB"
+  "nat": "RS"
 }

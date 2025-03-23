@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Afet",
-    "last": "Özberk"
+    "first": "Dana",
+    "last": "Newman"
   },
   "location": {
     "street": {
-      "number": 4471,
-      "name": "Istiklal Cd"
+      "number": 7936,
+      "name": "Groveland Terrace"
     },
-    "city": "Konya",
-    "state": "Giresun",
-    "country": "Turkey",
-    "postcode": 78821,
+    "city": "Santa Clarita",
+    "state": "New York",
+    "country": "United States",
+    "postcode": 37151,
     "coordinates": {
-      "latitude": "69.5979",
-      "longitude": "146.5189"
+      "latitude": "85.6346",
+      "longitude": "112.8721"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "afet.ozberk@example.com",
+  "email": "dana.newman@example.com",
   "login": {
-    "uuid": "1fb67785-cf43-4fbd-8edf-9594da290401",
-    "username": "whitemeercat411",
-    "password": "skip",
-    "salt": "9rm8T2G4",
-    "md5": "25adef462a10919fdf05a69d2059fcfa",
-    "sha1": "481636cf587b17b6a5e1fea13dafe6c633b922d6",
-    "sha256": "225e2e376944ee53d4e702cdbcc3f972f82a04b4c5c65cf16d9abe9fa4ad7174"
+    "uuid": "3ad5c5ca-47bd-427f-8a3c-349a47d950db",
+    "username": "smalldog354",
+    "password": "colors",
+    "salt": "CR1kB9GN",
+    "md5": "8b589565a0329c1d0ae26a549393c25d",
+    "sha1": "4c62551304b9098d4d919be83a276a8e8c4abc2f",
+    "sha256": "c0bf264bf1228bebbeb65e77e53976ad5d871bcc7b3b635bf64697ba31194c90"
   },
   "dob": {
-    "date": "1977-09-26T04:36:32.956Z",
+    "date": "1978-01-07T03:55:03.076Z",
     "age": 47
   },
   "registered": {
-    "date": "2007-11-08T11:57:43.247Z",
-    "age": 17
+    "date": "2014-11-22T03:02:54.545Z",
+    "age": 10
   },
-  "phone": "(615)-020-0541",
-  "cell": "(972)-754-3788",
+  "phone": "(586) 408-7778",
+  "cell": "(526) 265-0836",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SSN",
+    "value": "310-65-1677"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/82.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    "large": "https://randomuser.me/api/portraits/women/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
   },
-  "nat": "TR"
+  "nat": "US"
 }

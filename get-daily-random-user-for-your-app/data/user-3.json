@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Martin",
-    "last": "Robinson"
+    "title": "Monsieur",
+    "first": "Sami",
+    "last": "Gaillard"
   },
   "location": {
     "street": {
-      "number": 4325,
-      "name": "Preston Rd"
+      "number": 1294,
+      "name": "Rue de la Barre"
     },
-    "city": "Cairns",
-    "state": "Northern Territory",
-    "country": "Australia",
-    "postcode": 9328,
+    "city": "Champéry",
+    "state": "Neuchâtel",
+    "country": "Switzerland",
+    "postcode": 5700,
     "coordinates": {
-      "latitude": "-83.1505",
-      "longitude": "-44.7104"
+      "latitude": "-62.6845",
+      "longitude": "-157.2259"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "martin.robinson@example.com",
+  "email": "sami.gaillard@example.com",
   "login": {
-    "uuid": "acd6a445-3e28-4729-bd3c-cd84fc110815",
-    "username": "bluepeacock811",
-    "password": "spirit",
-    "salt": "m7jHBjJ9",
-    "md5": "6f2947a116a19b537e1bafc219f3af4e",
-    "sha1": "32141c9bcfc29d501d68bf44d8b78a7f7f314e22",
-    "sha256": "dc2da870c5b6af8ec8c6d2f3c72313ad4a179461932b8e3d303793ca8db20f0d"
+    "uuid": "d532a27c-3f9a-48db-97f5-c44c88a7763b",
+    "username": "yellowgoose790",
+    "password": "info",
+    "salt": "n0JPH2Sg",
+    "md5": "4918f06df551885897b2e9aeca4ac26b",
+    "sha1": "fefebe5227cddb49fdf7ce3412d2fbe9987b0626",
+    "sha256": "cd78efe84975ff115b78fba24eb5053265c7e300be5b8f9603492d4833f0840f"
   },
   "dob": {
-    "date": "1993-01-14T07:42:32.285Z",
-    "age": 32
+    "date": "1959-06-18T12:49:00.927Z",
+    "age": 65
   },
   "registered": {
-    "date": "2012-06-14T07:30:35.801Z",
-    "age": 12
+    "date": "2008-01-09T23:28:07.516Z",
+    "age": 17
   },
-  "phone": "09-8000-5036",
-  "cell": "0473-033-440",
+  "phone": "077 644 41 77",
+  "cell": "078 482 16 15",
   "id": {
-    "name": "TFN",
-    "value": "535643538"
+    "name": "AVS",
+    "value": "756.8772.9618.11"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "AU"
+  "nat": "CH"
 }

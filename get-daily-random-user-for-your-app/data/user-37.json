@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Eli",
-    "last": "Davies"
+    "first": "Zvezdan",
+    "last": "Maksimović"
   },
   "location": {
     "street": {
-      "number": 979,
-      "name": "Springs Road"
+      "number": 9676,
+      "name": "Breza"
     },
-    "city": "Masterton",
-    "state": "Wellington",
-    "country": "New Zealand",
-    "postcode": 59316,
+    "city": "Šabac",
+    "state": "Braničevo",
+    "country": "Serbia",
+    "postcode": 46297,
     "coordinates": {
-      "latitude": "51.8318",
-      "longitude": "-69.3567"
+      "latitude": "60.5624",
+      "longitude": "-155.9163"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "eli.davies@example.com",
+  "email": "zvezdan.maksimovic@example.com",
   "login": {
-    "uuid": "4211c6e8-7c29-46c7-a0e8-8214f6aabb69",
-    "username": "tinylion583",
-    "password": "313131",
-    "salt": "CVjKAVCk",
-    "md5": "9fdfbef287f8e7786bb82156afe71d94",
-    "sha1": "c7787f062ce7e0c618376b3212242bec3181b537",
-    "sha256": "c1db1837d95dd482da0b4ceddadebd2048ceb5d558b4be6e69654b0a03fe43e3"
+    "uuid": "f63f1b16-36a6-4e6b-989c-b4246c646bfc",
+    "username": "organicpeacock725",
+    "password": "kkkkk",
+    "salt": "nxPA4ASx",
+    "md5": "023035d5921d34a21fbe53fe0b36acc9",
+    "sha1": "1f082958bf0c39985cf9d1513cc505ded21b021d",
+    "sha256": "60288f0c65b9c48a2d965875d7811864a8141736a0cd8210087bfa4d69738f41"
   },
   "dob": {
-    "date": "1953-11-03T18:24:27.375Z",
-    "age": 71
+    "date": "1959-11-21T10:16:14.710Z",
+    "age": 65
   },
   "registered": {
-    "date": "2003-10-27T15:46:15.443Z",
-    "age": 21
+    "date": "2005-11-07T06:54:37.728Z",
+    "age": 19
   },
-  "phone": "(946)-667-3500",
-  "cell": "(150)-563-8570",
+  "phone": "028-4236-971",
+  "cell": "068-0859-546",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SID",
+    "value": "360871059"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
   },
-  "nat": "NZ"
+  "nat": "RS"
 }

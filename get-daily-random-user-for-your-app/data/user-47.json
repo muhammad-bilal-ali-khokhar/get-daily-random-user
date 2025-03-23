@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Monsieur",
-    "first": "Vincent",
-    "last": "Roux"
+    "title": "Ms",
+    "first": "Freja",
+    "last": "Christiansen"
   },
   "location": {
     "street": {
-      "number": 2290,
-      "name": "Rue Bossuet"
+      "number": 7244,
+      "name": "Kløvermarksvej"
     },
-    "city": "Neckertal",
-    "state": "Basel-Landschaft",
-    "country": "Switzerland",
-    "postcode": 1880,
+    "city": "Kongens  Lyngby",
+    "state": "Nordjylland",
+    "country": "Denmark",
+    "postcode": 19510,
     "coordinates": {
-      "latitude": "-58.6074",
-      "longitude": "-10.4899"
+      "latitude": "-46.4895",
+      "longitude": "36.9935"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "vincent.roux@example.com",
+  "email": "freja.christiansen@example.com",
   "login": {
-    "uuid": "fe23691e-cc1e-4e16-8097-a99a1c158c3a",
-    "username": "organicladybug693",
-    "password": "4121",
-    "salt": "XXe54hxV",
-    "md5": "ffb82c664f095841cf1ee3d96d801532",
-    "sha1": "e4905ebd432bb58a15f4eae7f3d7503e5687e8a6",
-    "sha256": "12d312a7ca1fb43fd5e8c48086abb0704d4866a1de9318cbbc192bbcb0bd7782"
+    "uuid": "51dab66a-1321-4f96-9521-8d83c2ef519a",
+    "username": "beautifulleopard885",
+    "password": "bristol",
+    "salt": "okd7Ly2v",
+    "md5": "c82b982ef7b3f4d4570dc5fcbfd786b2",
+    "sha1": "0942878ccdbadb333d38e040582807cb9aa91a4b",
+    "sha256": "3ad07c1e8612ea7d69ed86cd5e7ed65c218b7377de1fa0e67ce2ef9a928f9a7e"
   },
   "dob": {
-    "date": "1978-08-17T01:54:58.843Z",
-    "age": 46
+    "date": "1976-04-25T10:26:24.934Z",
+    "age": 48
   },
   "registered": {
-    "date": "2013-11-02T22:02:52.646Z",
-    "age": 11
+    "date": "2006-10-28T02:29:38.298Z",
+    "age": 18
   },
-  "phone": "079 135 72 60",
-  "cell": "075 311 47 39",
+  "phone": "18930561",
+  "cell": "69360481",
   "id": {
-    "name": "AVS",
-    "value": "756.3552.6701.74"
+    "name": "CPR",
+    "value": "250476-3526"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    "large": "https://randomuser.me/api/portraits/women/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
   },
-  "nat": "CH"
+  "nat": "DK"
 }

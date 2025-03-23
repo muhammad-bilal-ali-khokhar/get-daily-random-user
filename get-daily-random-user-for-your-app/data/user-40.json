@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Stephanie",
-    "last": "Lambert"
+    "title": "Mr",
+    "first": "Hemetério",
+    "last": "Rezende"
   },
   "location": {
     "street": {
-      "number": 242,
-      "name": "High Street"
+      "number": 6107,
+      "name": "Rua Carlos Gomes"
     },
-    "city": "Galway",
-    "state": "Kildare",
-    "country": "Ireland",
-    "postcode": 41306,
+    "city": "Itapevi",
+    "state": "Tocantins",
+    "country": "Brazil",
+    "postcode": 67424,
     "coordinates": {
-      "latitude": "-1.8987",
-      "longitude": "142.8871"
+      "latitude": "-78.1320",
+      "longitude": "-111.1427"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "stephanie.lambert@example.com",
+  "email": "hemeterio.rezende@example.com",
   "login": {
-    "uuid": "e8ca0466-51d7-4be2-9c98-ad6e7d3c55bc",
-    "username": "orangeostrich854",
-    "password": "mandingo",
-    "salt": "g2ES4lfX",
-    "md5": "dabb042530e97dce8100a0abc612fb30",
-    "sha1": "02f5fc797c36ac245c714fc19f5392504e1406a9",
-    "sha256": "9f46bb3e85acb8d5f54f3df321b975eccd02385f4d5cf06bda594b865afca093"
+    "uuid": "7db926fa-0117-4345-8603-618d880ddd23",
+    "username": "angryduck471",
+    "password": "gilbert",
+    "salt": "dgeCopvG",
+    "md5": "2c931dc91eb5606a489a0733b47a8d5f",
+    "sha1": "9f761f6cc7a300789718a0f0569c43381ddd9e70",
+    "sha256": "db3d601cc7be42b054686b346f49d74436431a3fe3f3f52bf08806f7d6b42aa3"
   },
   "dob": {
-    "date": "1968-08-12T10:38:29.660Z",
-    "age": 56
+    "date": "1951-09-04T14:35:55.148Z",
+    "age": 73
   },
   "registered": {
-    "date": "2021-01-02T06:09:59.884Z",
-    "age": 4
+    "date": "2012-11-02T12:34:14.582Z",
+    "age": 12
   },
-  "phone": "071-273-3778",
-  "cell": "081-679-1164",
+  "phone": "(55) 0888-1181",
+  "cell": "(53) 6860-1567",
   "id": {
-    "name": "PPS",
-    "value": "3694297T"
+    "name": "CPF",
+    "value": "942.181.953-37"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+    "large": "https://randomuser.me/api/portraits/men/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
   },
-  "nat": "IE"
+  "nat": "BR"
 }

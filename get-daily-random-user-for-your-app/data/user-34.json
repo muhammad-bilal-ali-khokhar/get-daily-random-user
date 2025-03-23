@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Judith",
-    "last": "Wright"
+    "title": "Mr",
+    "first": "Novak",
+    "last": "Karanović"
   },
   "location": {
     "street": {
-      "number": 4763,
-      "name": "Grange Road"
+      "number": 5925,
+      "name": "Stevana Stevanovića"
     },
-    "city": "Swords",
-    "state": "Mayo",
-    "country": "Ireland",
-    "postcode": 15300,
+    "city": "Temerin",
+    "state": "Moravica",
+    "country": "Serbia",
+    "postcode": 19359,
     "coordinates": {
-      "latitude": "-2.9270",
-      "longitude": "79.9473"
+      "latitude": "55.9090",
+      "longitude": "-97.5963"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "judith.wright@example.com",
+  "email": "novak.karanovic@example.com",
   "login": {
-    "uuid": "7ff773d9-0d56-4014-a4e6-f3186e60f5d5",
-    "username": "happyzebra317",
-    "password": "therock",
-    "salt": "1wycfqxs",
-    "md5": "6201ebf2adf4d371e3978c45c1813144",
-    "sha1": "4b5b4cf1327b3c1e7d3c24b3526e249fe0fd02d8",
-    "sha256": "4d192d80843db52716c4c6c3ac13af04de5af6514a1fe093d24647307dd38530"
+    "uuid": "9439dd51-97d8-4bed-a6ad-aaf505424c73",
+    "username": "redsnake712",
+    "password": "hazard",
+    "salt": "ME2IT61P",
+    "md5": "dfe547c4ffee99a4695e7f8dec107aa3",
+    "sha1": "f77d86728e77ceecf3e715cb78509f76b4a22d9c",
+    "sha256": "5f0823328a6566a322ef81c753ea055ca973f3db26fc73ad539c13f5728f908f"
   },
   "dob": {
-    "date": "1949-05-12T22:12:45.629Z",
-    "age": 75
+    "date": "1983-01-23T19:05:07.607Z",
+    "age": 42
   },
   "registered": {
-    "date": "2012-07-03T15:46:20.394Z",
-    "age": 12
+    "date": "2022-02-16T00:28:07.296Z",
+    "age": 3
   },
-  "phone": "071-409-3833",
-  "cell": "081-836-8671",
+  "phone": "013-2127-426",
+  "cell": "064-7344-415",
   "id": {
-    "name": "PPS",
-    "value": "5210204T"
+    "name": "SID",
+    "value": "016494848"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
   },
-  "nat": "IE"
+  "nat": "RS"
 }

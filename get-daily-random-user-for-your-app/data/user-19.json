@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Alípio",
-    "last": "Costa"
+    "first": "Jaxon",
+    "last": "Jones"
   },
   "location": {
     "street": {
-      "number": 7904,
-      "name": "Rua Boa Vista "
+      "number": 596,
+      "name": "Cambridge Terrace"
     },
-    "city": "Viamão",
-    "state": "Piauí",
-    "country": "Brazil",
-    "postcode": 98565,
+    "city": "Christchurch",
+    "state": "Southland",
+    "country": "New Zealand",
+    "postcode": 22388,
     "coordinates": {
-      "latitude": "-75.4916",
-      "longitude": "-93.9423"
+      "latitude": "49.2969",
+      "longitude": "-73.4658"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "alipio.costa@example.com",
+  "email": "jaxon.jones@example.com",
   "login": {
-    "uuid": "12fc2faf-1e47-4fe6-9572-3d1134348d46",
-    "username": "heavydog280",
-    "password": "ernesto",
-    "salt": "f5sE04xL",
-    "md5": "714b77b3ff5ec70b461b326b8f10abde",
-    "sha1": "aa5fb3c8327ee8c798a9d9232613d8fad74630a4",
-    "sha256": "ca3ae5f923a62dcc3af32de5d8e634e1a951caa950d42cf967a7969835338d80"
+    "uuid": "85b011a2-b349-432f-b612-fda42128a760",
+    "username": "beautifuldog963",
+    "password": "gong",
+    "salt": "SosJoj8D",
+    "md5": "c7d7b4d7cb30da6873674cf5ea95d848",
+    "sha1": "04caeb8ff1cb6fc5bafccb42c6e2421997f2132b",
+    "sha256": "7e63c91b024f91f6fb5a7f1d3edfb932f53e69e7f3657bf651d021007a7ea445"
   },
   "dob": {
-    "date": "1991-10-10T20:40:54.633Z",
+    "date": "1991-06-20T13:17:20.173Z",
     "age": 33
   },
   "registered": {
-    "date": "2003-07-12T19:10:29.874Z",
-    "age": 21
+    "date": "2016-01-19T00:18:30.269Z",
+    "age": 9
   },
-  "phone": "(22) 2258-3347",
-  "cell": "(52) 9807-4312",
+  "phone": "(101)-564-4086",
+  "cell": "(496)-513-3262",
   "id": {
-    "name": "CPF",
-    "value": "246.596.383-83"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/7.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
   },
-  "nat": "BR"
+  "nat": "NZ"
 }

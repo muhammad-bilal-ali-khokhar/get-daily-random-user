@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Mina",
-    "last": "Perić"
+    "title": "Mr",
+    "first": "Pelle",
+    "last": "Mohammadi"
   },
   "location": {
     "street": {
-      "number": 2929,
-      "name": "Starih Orača"
+      "number": 1101,
+      "name": "Vulkan"
     },
-    "city": "Ivanjica",
-    "state": "Kosovo-Pomoravlje",
-    "country": "Serbia",
-    "postcode": 45310,
+    "city": "Bjølstad",
+    "state": "Telemark",
+    "country": "Norway",
+    "postcode": "5444",
     "coordinates": {
-      "latitude": "58.9326",
-      "longitude": "179.1950"
+      "latitude": "46.0057",
+      "longitude": "-150.3138"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "mina.peric@example.com",
+  "email": "pelle.mohammadi@example.com",
   "login": {
-    "uuid": "98b24c43-6d5b-4596-b271-b53dea3d3302",
-    "username": "bigpanda422",
-    "password": "hootie",
-    "salt": "1uTuJzDi",
-    "md5": "8de7864f9bc83ca9a0ff902d7caf8afd",
-    "sha1": "7e32dfe4d097a875726e979439b2834f69592f9f",
-    "sha256": "510e5b1c628d305c0b6f1ce3cffa34c87af0a508fe0f2b05f694eb9e892ec1a5"
+    "uuid": "c881f0c5-8648-47e7-85c5-f63b64cadc2c",
+    "username": "smallgoose968",
+    "password": "drummer1",
+    "salt": "HxsFC5Cc",
+    "md5": "579efdc894f19b7c2166edda4e06fd5a",
+    "sha1": "cea5077a834256a81a0a0c393b34bfff47ffbc05",
+    "sha256": "68d2b606ed26ac4cff111fa653b2a115c51af58bdb047faeb59ca17b2193e827"
   },
   "dob": {
-    "date": "1956-10-07T10:37:53.942Z",
-    "age": 68
+    "date": "1968-06-16T03:07:16.885Z",
+    "age": 56
   },
   "registered": {
-    "date": "2018-08-27T18:59:47.430Z",
-    "age": 6
+    "date": "2006-12-11T17:42:31.178Z",
+    "age": 18
   },
-  "phone": "022-8120-193",
-  "cell": "065-0882-697",
+  "phone": "52768818",
+  "cell": "90098289",
   "id": {
-    "name": "SID",
-    "value": "138922162"
+    "name": "FN",
+    "value": "16066825993"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/90.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+    "large": "https://randomuser.me/api/portraits/men/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
   },
-  "nat": "RS"
+  "nat": "NO"
 }

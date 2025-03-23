@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Marte",
-    "last": "Lande"
+    "title": "Mr",
+    "first": "Willard",
+    "last": "Mason"
   },
   "location": {
     "street": {
-      "number": 7080,
-      "name": "Aasmund Vinjes vei"
+      "number": 2953,
+      "name": "Forest Ln"
     },
-    "city": "Bud",
-    "state": "Vestfold",
-    "country": "Norway",
-    "postcode": "6916",
+    "city": "Geelong",
+    "state": "Australian Capital Territory",
+    "country": "Australia",
+    "postcode": 6436,
     "coordinates": {
-      "latitude": "41.4161",
-      "longitude": "70.4187"
+      "latitude": "-88.8999",
+      "longitude": "-57.2464"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "marte.lande@example.com",
+  "email": "willard.mason@example.com",
   "login": {
-    "uuid": "a75abf1f-e875-4e88-8d9f-77a0d52135f8",
-    "username": "yellowkoala506",
-    "password": "muppet",
-    "salt": "IDw3FFa1",
-    "md5": "cedf4356633a63b5b5ba545a020656f7",
-    "sha1": "27c602e0006e71dcdd6c6ca780b0de1633477be3",
-    "sha256": "8295c0bea5d2bf45a2701ba240db32a3d3619ca25922092ff8aa1aea3b0de76e"
+    "uuid": "f9c44615-4a0a-4392-8e68-15548dbcab33",
+    "username": "happyleopard199",
+    "password": "toolbox",
+    "salt": "sPaPoKlq",
+    "md5": "24829542d06a4f9cdf35f0f0bedeb6cf",
+    "sha1": "456e6486d9ec0451ef42d3697b81631f93c6fa9f",
+    "sha256": "38da0779774084a70b3a7ea84c44c58c62dc5c77eff589d067b84db25d463bbd"
   },
   "dob": {
-    "date": "1980-04-01T08:21:59.835Z",
-    "age": 44
+    "date": "1964-05-11T17:04:06.984Z",
+    "age": 60
   },
   "registered": {
-    "date": "2003-02-05T07:05:00.899Z",
-    "age": 22
+    "date": "2009-09-04T20:03:59.068Z",
+    "age": 15
   },
-  "phone": "51023954",
-  "cell": "46000747",
+  "phone": "05-8776-6216",
+  "cell": "0416-773-207",
   "id": {
-    "name": "FN",
-    "value": "01048019249"
+    "name": "TFN",
+    "value": "483581441"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
   },
-  "nat": "NO"
+  "nat": "AU"
 }

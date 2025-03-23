@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Stefanija",
-    "last": "Žikić"
+    "title": "Miss",
+    "first": "Marija",
+    "last": "Jelačić"
   },
   "location": {
     "street": {
-      "number": 7545,
-      "name": "Plešinska"
+      "number": 2423,
+      "name": "Lozička"
     },
-    "city": "Sombor",
-    "state": "Prizren",
+    "city": "Ćuprija",
+    "state": "Pirot",
     "country": "Serbia",
-    "postcode": 49982,
+    "postcode": 21056,
     "coordinates": {
-      "latitude": "56.7534",
-      "longitude": "133.8266"
+      "latitude": "58.5914",
+      "longitude": "53.6305"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "stefanija.zikic@example.com",
+  "email": "marija.jelacic@example.com",
   "login": {
-    "uuid": "dfabcac9-724d-4743-82c2-c62db9f65a98",
-    "username": "blackpeacock442",
-    "password": "sassy",
-    "salt": "iq2DspXl",
-    "md5": "9678089bc13ff2140b556b5c72722dc7",
-    "sha1": "b42bb2093b798e2a97b48331488c387fc4a2a5d4",
-    "sha256": "89ecd11eee214d8b571ac0b1b09aa775782fce79c80d44afa64af68263f1beee"
+    "uuid": "732f3738-168f-43d1-9cc1-275fbe2d7b93",
+    "username": "beautifuldog544",
+    "password": "russia",
+    "salt": "yI9p1fvU",
+    "md5": "9a39e6a9dec6fbd32a2120bc5c24e876",
+    "sha1": "74cd711ee24666471b72b5e1d74b5368d5cc54bd",
+    "sha256": "4bfd8532660655d68fd0a28652f2f1d800d9ebf50fc9e01e63d9880df78a452b"
   },
   "dob": {
-    "date": "1954-05-13T14:54:55.347Z",
-    "age": 70
+    "date": "1962-10-28T22:49:02.218Z",
+    "age": 62
   },
   "registered": {
-    "date": "2019-08-09T20:06:38.277Z",
-    "age": 5
+    "date": "2022-05-15T12:27:26.034Z",
+    "age": 2
   },
-  "phone": "029-4366-528",
-  "cell": "063-9274-538",
+  "phone": "031-8475-293",
+  "cell": "065-7802-685",
   "id": {
     "name": "SID",
-    "value": "179940877"
+    "value": "645074953"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    "large": "https://randomuser.me/api/portraits/women/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
   },
   "nat": "RS"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Lena",
-    "last": "Hubert"
+    "title": "Mr",
+    "first": "Hudson",
+    "last": "Anderson"
   },
   "location": {
     "street": {
-      "number": 8436,
-      "name": "Avenue du Fort-Caire"
+      "number": 8386,
+      "name": "Vimy St"
     },
-    "city": "Créteil",
-    "state": "Creuse",
-    "country": "France",
-    "postcode": 88128,
+    "city": "Notre Dame de Lourdes",
+    "state": "Newfoundland and Labrador",
+    "country": "Canada",
+    "postcode": "L4U 4E0",
     "coordinates": {
-      "latitude": "-20.8075",
-      "longitude": "176.5122"
+      "latitude": "-68.1319",
+      "longitude": "-168.5687"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "lena.hubert@example.com",
+  "email": "hudson.anderson@example.com",
   "login": {
-    "uuid": "87c1d143-dc2e-4613-b4d2-67b6eab86143",
-    "username": "blackgorilla495",
-    "password": "sixpack",
-    "salt": "Xi4yhmEq",
-    "md5": "ebeb833cf35cc1d1478d100c283b42f0",
-    "sha1": "0153600be82a3c7a260681de9fdc576da4e7a465",
-    "sha256": "1d9da4f6353d33c394fef092a6722d35dd0222a6ee10a95ae68688251204e85f"
+    "uuid": "61ede949-4f4c-435d-9660-20049bb4c816",
+    "username": "happybird265",
+    "password": "hellyeah",
+    "salt": "s7sUou1M",
+    "md5": "bde731d092f434787a351cff031bfba2",
+    "sha1": "2cc271af2dca2885e3521ad6fa481a9a4057686d",
+    "sha256": "a7df85ea7c1b59beabfba0357a4a075e8c6768b48712663e534fa610a170d165"
   },
   "dob": {
-    "date": "1986-11-14T11:26:54.788Z",
-    "age": 38
+    "date": "1946-06-14T16:02:01.803Z",
+    "age": 78
   },
   "registered": {
-    "date": "2009-11-03T13:23:08.929Z",
-    "age": 15
+    "date": "2002-09-25T01:38:30.892Z",
+    "age": 22
   },
-  "phone": "04-75-40-22-42",
-  "cell": "06-47-56-42-60",
+  "phone": "P76 G75-1391",
+  "cell": "T68 W93-0076",
   "id": {
-    "name": "INSEE",
-    "value": "2861036283300 52"
+    "name": "SIN",
+    "value": "361744600"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/89.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "FR"
+  "nat": "CA"
 }

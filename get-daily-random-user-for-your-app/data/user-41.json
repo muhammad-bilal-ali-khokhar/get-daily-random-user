@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Nicoline",
-    "last": "Kristensen"
+    "title": "Mr",
+    "first": "Jack",
+    "last": "Grewal"
   },
   "location": {
     "street": {
-      "number": 4168,
-      "name": "Fyrrevænget"
+      "number": 5006,
+      "name": "Dieppe Ave"
     },
-    "city": "Nykøbing Sj.",
-    "state": "Midtjylland",
-    "country": "Denmark",
-    "postcode": 34741,
+    "city": "Hudson",
+    "state": "Nova Scotia",
+    "country": "Canada",
+    "postcode": "E6S 5Y3",
     "coordinates": {
-      "latitude": "-41.6059",
-      "longitude": "43.7162"
+      "latitude": "-70.5217",
+      "longitude": "-123.8311"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "nicoline.kristensen@example.com",
+  "email": "jack.grewal@example.com",
   "login": {
-    "uuid": "b5d96385-4dc3-4cb2-804f-dbb259865618",
-    "username": "yellowsnake728",
-    "password": "creative",
-    "salt": "2VpWSjpa",
-    "md5": "1bd0a8bb54c324be1581b65f966f4d04",
-    "sha1": "6bd56c5929fe0d7a33bdc04ae56b61f15ab4cb50",
-    "sha256": "85749e3acb4407fdf790585250b08705cbbe08fe987d86f1ab1353e2fc18220a"
+    "uuid": "66685774-243e-437d-a7fd-328b0a083dd8",
+    "username": "yellowswan284",
+    "password": "italian",
+    "salt": "hrp4mD1N",
+    "md5": "2fda7f08ede6f54472ea7122ff01128d",
+    "sha1": "4e4bd22f531fed2478658fce53d6ff0c1de88c13",
+    "sha256": "c145e6dd44c9bee7ffc4e00c8fb15ee7e0515052b9615c46d7429936a725d55a"
   },
   "dob": {
-    "date": "1984-11-03T16:10:16.508Z",
-    "age": 40
+    "date": "1954-10-22T04:07:33.053Z",
+    "age": 70
   },
   "registered": {
-    "date": "2005-04-16T06:45:55.410Z",
-    "age": 19
+    "date": "2012-04-30T07:25:36.505Z",
+    "age": 12
   },
-  "phone": "55334056",
-  "cell": "67167712",
+  "phone": "A60 O18-8548",
+  "cell": "T17 Y43-1291",
   "id": {
-    "name": "CPR",
-    "value": "031184-8895"
+    "name": "SIN",
+    "value": "624373239"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/35.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
   },
-  "nat": "DK"
+  "nat": "CA"
 }

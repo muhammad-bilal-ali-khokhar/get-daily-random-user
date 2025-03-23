@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Clément",
-    "last": "Riviere"
+    "title": "Miss",
+    "first": "Victoria",
+    "last": "Flores"
   },
   "location": {
     "street": {
-      "number": 8348,
-      "name": "Rue Barrier"
+      "number": 5730,
+      "name": "Calle Covadonga"
     },
-    "city": "Montpellier",
-    "state": "Creuse",
-    "country": "France",
-    "postcode": 50081,
+    "city": "Oviedo",
+    "state": "Navarra",
+    "country": "Spain",
+    "postcode": 65702,
     "coordinates": {
-      "latitude": "-15.7866",
-      "longitude": "-112.2542"
+      "latitude": "-35.0098",
+      "longitude": "31.6916"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "clement.riviere@example.com",
+  "email": "victoria.flores@example.com",
   "login": {
-    "uuid": "2dbd6837-d92f-45fc-9fc5-c2eb71076fa6",
-    "username": "smallfrog800",
-    "password": "veritas",
-    "salt": "3Jj7w7Wv",
-    "md5": "641daba617af0320358872566796239b",
-    "sha1": "abf8a3de33dd0d844f8995c2e4cc26554ee4d855",
-    "sha256": "1974e72833ded08ead1723a36294f65fd5f3f684d12be15e83ceb303bcca6199"
+    "uuid": "f42c93ad-9f9f-400c-8e18-707c0ef015f0",
+    "username": "lazyladybug137",
+    "password": "ashley",
+    "salt": "0K7baYr3",
+    "md5": "2fd61409787ad178aac886dd73264aaa",
+    "sha1": "78b96ad69cdca16e484f6857f83565eefc886e7b",
+    "sha256": "d7fb8d7f9ca92c41fc79510aedc7a093d595f7099e8b2564810b576cb890bf36"
   },
   "dob": {
-    "date": "1955-02-03T22:54:30.026Z",
-    "age": 70
+    "date": "1971-01-07T20:05:28.086Z",
+    "age": 54
   },
   "registered": {
-    "date": "2021-02-05T12:37:49.122Z",
-    "age": 4
+    "date": "2018-03-12T11:19:34.584Z",
+    "age": 7
   },
-  "phone": "03-00-44-96-42",
-  "cell": "06-77-96-24-63",
+  "phone": "999-013-909",
+  "cell": "634-995-569",
   "id": {
-    "name": "INSEE",
-    "value": "1550153449415 94"
+    "name": "DNI",
+    "value": "55556765-G"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/69.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+    "large": "https://randomuser.me/api/portraits/women/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
   },
-  "nat": "FR"
+  "nat": "ES"
 }
