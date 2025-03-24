@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Novak",
-    "last": "Karanović"
+    "first": "Alexander",
+    "last": "Craig"
   },
   "location": {
     "street": {
-      "number": 5925,
-      "name": "Stevana Stevanovića"
+      "number": 7043,
+      "name": "Pearse Street"
     },
-    "city": "Temerin",
-    "state": "Moravica",
-    "country": "Serbia",
-    "postcode": 19359,
+    "city": "Ballinasloe",
+    "state": "Meath",
+    "country": "Ireland",
+    "postcode": 26303,
     "coordinates": {
-      "latitude": "55.9090",
-      "longitude": "-97.5963"
+      "latitude": "-2.9533",
+      "longitude": "-66.1999"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "novak.karanovic@example.com",
+  "email": "alexander.craig@example.com",
   "login": {
-    "uuid": "9439dd51-97d8-4bed-a6ad-aaf505424c73",
-    "username": "redsnake712",
-    "password": "hazard",
-    "salt": "ME2IT61P",
-    "md5": "dfe547c4ffee99a4695e7f8dec107aa3",
-    "sha1": "f77d86728e77ceecf3e715cb78509f76b4a22d9c",
-    "sha256": "5f0823328a6566a322ef81c753ea055ca973f3db26fc73ad539c13f5728f908f"
+    "uuid": "027ba1a2-2782-4907-8358-61354d560caf",
+    "username": "goldenleopard439",
+    "password": "colin",
+    "salt": "kBHkMcEc",
+    "md5": "517e867373271f9f4e73e31ae1a3687a",
+    "sha1": "6bca7310b2df14009179a836a46d9308741dde18",
+    "sha256": "b89e337ba3698e29a21770db66c505cd00b5a3cb276d062098d8a47a64c493cb"
   },
   "dob": {
-    "date": "1983-01-23T19:05:07.607Z",
-    "age": 42
+    "date": "1949-03-25T08:09:21.319Z",
+    "age": 75
   },
   "registered": {
-    "date": "2022-02-16T00:28:07.296Z",
-    "age": 3
+    "date": "2007-01-30T09:42:52.125Z",
+    "age": 18
   },
-  "phone": "013-2127-426",
-  "cell": "064-7344-415",
+  "phone": "031-834-0769",
+  "cell": "081-356-9180",
   "id": {
-    "name": "SID",
-    "value": "016494848"
+    "name": "PPS",
+    "value": "1792710T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "RS"
+  "nat": "IE"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Jade",
-    "last": "Ennis"
+    "title": "Mr",
+    "first": "Ilídio",
+    "last": "Mendes"
   },
   "location": {
     "street": {
-      "number": 3732,
-      "name": "Vimy St"
+      "number": 9337,
+      "name": "Rua Paraná "
     },
-    "city": "Port Elgin",
-    "state": "Ontario",
-    "country": "Canada",
-    "postcode": "V0O 4F4",
+    "city": "Paranaguá",
+    "state": "Ceará",
+    "country": "Brazil",
+    "postcode": 50923,
     "coordinates": {
-      "latitude": "-70.5524",
-      "longitude": "137.2354"
+      "latitude": "-77.3922",
+      "longitude": "-136.5967"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "jade.ennis@example.com",
+  "email": "ilidio.mendes@example.com",
   "login": {
-    "uuid": "94295eaa-038b-4beb-b39b-9ee63546c77d",
-    "username": "sadlion888",
-    "password": "merlot",
-    "salt": "mIST3S9o",
-    "md5": "deb3f8bf156042435b7ab95cee0b1eff",
-    "sha1": "3253b6fd27638c206444c94717763368ffc3feae",
-    "sha256": "4bbe71195ddd33e2bc8e53e437a21c220b7eeab2ea0bf3f90e04b07ab47d4437"
+    "uuid": "896e7937-b4ce-4ad2-b36e-4ede2fa41e3d",
+    "username": "happytiger354",
+    "password": "callie",
+    "salt": "TrX5O2iS",
+    "md5": "2b3ff013cca6c1cb85d211406c9b5cc9",
+    "sha1": "fdf15c0caaa2e8b12dbbee19d32c3133ac94b766",
+    "sha256": "01a0273635dc641a49e7ef0fe4bbd7c77b037f00501579cb7892d92a23b80997"
   },
   "dob": {
-    "date": "1996-07-07T17:15:32.027Z",
-    "age": 28
+    "date": "1997-10-08T04:16:26.227Z",
+    "age": 27
   },
   "registered": {
-    "date": "2010-01-13T12:16:38.506Z",
-    "age": 15
+    "date": "2019-07-04T20:10:09.380Z",
+    "age": 5
   },
-  "phone": "J23 U44-8755",
-  "cell": "K52 H67-6913",
+  "phone": "(19) 6319-2888",
+  "cell": "(93) 5123-9157",
   "id": {
-    "name": "SIN",
-    "value": "339387391"
+    "name": "CPF",
+    "value": "308.061.214-67"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/23.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
   },
-  "nat": "CA"
+  "nat": "BR"
 }

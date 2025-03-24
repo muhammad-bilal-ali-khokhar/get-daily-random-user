@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Hemetério",
-    "last": "Rezende"
+    "first": "Dorian",
+    "last": "Mercier"
   },
   "location": {
     "street": {
-      "number": 6107,
-      "name": "Rua Carlos Gomes"
+      "number": 9198,
+      "name": "Rue du Bât-D'Argent"
     },
-    "city": "Itapevi",
-    "state": "Tocantins",
-    "country": "Brazil",
-    "postcode": 67424,
+    "city": "Rennes",
+    "state": "Yvelines",
+    "country": "France",
+    "postcode": 48459,
     "coordinates": {
-      "latitude": "-78.1320",
-      "longitude": "-111.1427"
+      "latitude": "-20.1674",
+      "longitude": "-130.9427"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "hemeterio.rezende@example.com",
+  "email": "dorian.mercier@example.com",
   "login": {
-    "uuid": "7db926fa-0117-4345-8603-618d880ddd23",
-    "username": "angryduck471",
-    "password": "gilbert",
-    "salt": "dgeCopvG",
-    "md5": "2c931dc91eb5606a489a0733b47a8d5f",
-    "sha1": "9f761f6cc7a300789718a0f0569c43381ddd9e70",
-    "sha256": "db3d601cc7be42b054686b346f49d74436431a3fe3f3f52bf08806f7d6b42aa3"
+    "uuid": "3aeeccf6-60c8-4246-8eab-b536e250562c",
+    "username": "redpeacock749",
+    "password": "tickler",
+    "salt": "yaWHiszV",
+    "md5": "e80fb3c154098f3802ec412bc0bd6d29",
+    "sha1": "c5f5ffda1d48447cc8dd142effd5dc1865720e51",
+    "sha256": "e7bbec9c7c3236f1fd38d0ecb76b5e87d9cc7680f2042213f8d07af83ea8a613"
   },
   "dob": {
-    "date": "1951-09-04T14:35:55.148Z",
-    "age": 73
+    "date": "1962-12-15T23:53:11.472Z",
+    "age": 62
   },
   "registered": {
-    "date": "2012-11-02T12:34:14.582Z",
-    "age": 12
+    "date": "2006-08-30T04:27:53.801Z",
+    "age": 18
   },
-  "phone": "(55) 0888-1181",
-  "cell": "(53) 6860-1567",
+  "phone": "05-13-03-41-75",
+  "cell": "06-12-37-12-04",
   "id": {
-    "name": "CPF",
-    "value": "942.181.953-37"
+    "name": "INSEE",
+    "value": "1621162598431 32"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
   },
-  "nat": "BR"
+  "nat": "FR"
 }

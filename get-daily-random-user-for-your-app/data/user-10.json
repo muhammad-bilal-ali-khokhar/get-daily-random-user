@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Lotte",
-    "last": "Eskeland"
+    "title": "Monsieur",
+    "first": "Osman",
+    "last": "Sanchez"
   },
   "location": {
     "street": {
-      "number": 807,
-      "name": "Heiasvingen"
+      "number": 6424,
+      "name": "Rue du Bon-Pasteur"
     },
-    "city": "Hem",
-    "state": "Hedmark",
-    "country": "Norway",
-    "postcode": "4128",
+    "city": "Eschert",
+    "state": "Bern",
+    "country": "Switzerland",
+    "postcode": 5654,
     "coordinates": {
-      "latitude": "47.0157",
-      "longitude": "134.2645"
+      "latitude": "-58.9742",
+      "longitude": "-133.3633"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "lotte.eskeland@example.com",
+  "email": "osman.sanchez@example.com",
   "login": {
-    "uuid": "92841544-3e25-4448-895f-df3697073f97",
-    "username": "yellowswan973",
-    "password": "florian",
-    "salt": "3hvrqIcL",
-    "md5": "91739c2f256e025a5896cf95519fc78b",
-    "sha1": "47138274c8a0622b8968b188fea759b5fb80380d",
-    "sha256": "cea86178ac8441e8eb68acdf231e144b90f0a46b4602ad4b174aa26092dab6ee"
+    "uuid": "cffac431-569a-42e4-975a-6cf781b277ca",
+    "username": "goldenmouse455",
+    "password": "julian",
+    "salt": "uzMPl4rh",
+    "md5": "f814498215c8a6227d6f2381199d7c48",
+    "sha1": "cc54141507441337cf189f467c05aa6da2b86581",
+    "sha256": "9f2bbdf792375cabfb410cada6eba27d89635ec9b69050977b9dc7a3999b79d5"
   },
   "dob": {
-    "date": "1957-02-10T17:34:48.792Z",
-    "age": 68
+    "date": "1988-10-03T11:45:43.199Z",
+    "age": 36
   },
   "registered": {
-    "date": "2010-02-12T02:05:31.559Z",
-    "age": 15
+    "date": "2021-12-30T01:09:34.324Z",
+    "age": 3
   },
-  "phone": "50429646",
-  "cell": "92656597",
+  "phone": "075 714 48 69",
+  "cell": "078 028 47 54",
   "id": {
-    "name": "FN",
-    "value": "10025704202"
+    "name": "AVS",
+    "value": "756.7794.3339.07"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/56.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
   },
-  "nat": "NO"
+  "nat": "CH"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Omkaar",
-    "last": "Fernandes"
+    "first": "William",
+    "last": "Williams"
   },
   "location": {
     "street": {
-      "number": 6100,
-      "name": "Carter Rd Promenade"
+      "number": 6176,
+      "name": "Regent Ave"
     },
-    "city": "Bhimavaram",
-    "state": "Lakshadweep",
-    "country": "India",
-    "postcode": 80346,
+    "city": "Cadillac",
+    "state": "Newfoundland and Labrador",
+    "country": "Canada",
+    "postcode": "E7D 0J4",
     "coordinates": {
-      "latitude": "4.4003",
-      "longitude": "-168.0008"
+      "latitude": "-64.3997",
+      "longitude": "-35.8087"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "omkaar.fernandes@example.com",
+  "email": "william.williams@example.com",
   "login": {
-    "uuid": "a4a9228c-aacb-4778-9f4f-c95b81101611",
-    "username": "crazywolf783",
-    "password": "xxxxxx",
-    "salt": "PPVUDDG2",
-    "md5": "3335b8f11ce5e717b96c5a0493305da1",
-    "sha1": "a66251d4ec43a94df760ada896d3f9c6bed6146e",
-    "sha256": "37a074300e78e1e6bafcf9eb79f24c6071e3f27a96d7b19a3f3d723d69e81ef0"
+    "uuid": "ffb9c162-1e63-4a26-84f4-769728bad584",
+    "username": "yellowfish503",
+    "password": "company",
+    "salt": "d3AlOixa",
+    "md5": "d299cd92d67dd9f3eff623a17af83025",
+    "sha1": "64dccdaddce43a6f595c7b9e3d5a9bcdcbd0335b",
+    "sha256": "907a5d8dc13655ab36ef4d8e3327b23e271f6fdf8e4304403f54988ddf07885a"
   },
   "dob": {
-    "date": "1979-07-05T03:16:08.161Z",
-    "age": 45
+    "date": "1966-07-30T05:06:28.243Z",
+    "age": 58
   },
   "registered": {
-    "date": "2009-06-24T12:55:13.720Z",
-    "age": 15
+    "date": "2013-09-06T16:24:43.500Z",
+    "age": 11
   },
-  "phone": "8100040011",
-  "cell": "7465593193",
+  "phone": "E57 Q83-5276",
+  "cell": "I38 E71-5566",
   "id": {
-    "name": "UIDAI",
-    "value": "964422733357"
+    "name": "SIN",
+    "value": "587317876"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
   },
-  "nat": "IN"
+  "nat": "CA"
 }

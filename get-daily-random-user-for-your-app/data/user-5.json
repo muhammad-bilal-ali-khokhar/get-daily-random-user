@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Sophia",
-    "last": "Thompson"
+    "title": "Mr",
+    "first": "Sivert",
+    "last": "Thorgersen"
   },
   "location": {
     "street": {
-      "number": 9528,
-      "name": "Hereford Street"
+      "number": 3230,
+      "name": "Tuengveien"
     },
-    "city": "Auckland",
-    "state": "Marlborough",
-    "country": "New Zealand",
-    "postcode": 31496,
+    "city": "Rophus",
+    "state": "Trøndelag",
+    "country": "Norway",
+    "postcode": "3321",
     "coordinates": {
-      "latitude": "49.2853",
-      "longitude": "39.5184"
+      "latitude": "44.6087",
+      "longitude": "-97.3410"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "sophia.thompson@example.com",
+  "email": "sivert.thorgersen@example.com",
   "login": {
-    "uuid": "eb33f506-3bad-4912-8bab-b7c4a2f6db21",
-    "username": "sadpanda507",
-    "password": "pete",
-    "salt": "SM1KekpQ",
-    "md5": "9ea923bb7aaa737f9d44fc04485715fe",
-    "sha1": "019e5003405f5eceb085ab413e2c3c2ca41c8c66",
-    "sha256": "a5e1a84da6a7bac46ce082db6214d59f07658b79c18563f28664fff0a32d7e70"
+    "uuid": "dd05eaed-762a-497c-b27b-a7806aff6ad8",
+    "username": "heavyostrich665",
+    "password": "bing",
+    "salt": "CxiNKCYT",
+    "md5": "e378e598b78d917f576af6a4314de8db",
+    "sha1": "135463f0f3ad4452bd33f4611bf0538834294b10",
+    "sha256": "942d7a42485dc2881cce65b4ec85c951ec7cccee441d7617115dfef5617d903b"
   },
   "dob": {
-    "date": "1989-10-07T01:02:33.413Z",
-    "age": 35
+    "date": "1972-01-27T14:44:34.607Z",
+    "age": 53
   },
   "registered": {
-    "date": "2008-02-07T15:45:42.461Z",
-    "age": 17
+    "date": "2012-05-02T00:22:51.530Z",
+    "age": 12
   },
-  "phone": "(193)-871-0755",
-  "cell": "(839)-758-8449",
+  "phone": "56994685",
+  "cell": "97857523",
   "id": {
-    "name": "",
-    "value": null
+    "name": "FN",
+    "value": "27017220999"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
   },
-  "nat": "NZ"
+  "nat": "NO"
 }

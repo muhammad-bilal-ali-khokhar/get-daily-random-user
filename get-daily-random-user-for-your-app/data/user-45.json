@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jonas",
-    "last": "Souza"
+    "first": "Liam",
+    "last": "Macdonald"
   },
   "location": {
     "street": {
-      "number": 2330,
-      "name": "Travessa dos Martírios"
+      "number": 5849,
+      "name": "Elgin St"
     },
-    "city": "Ourinhos",
-    "state": "Mato Grosso",
-    "country": "Brazil",
-    "postcode": 36760,
+    "city": "Lasalle",
+    "state": "Nunavut",
+    "country": "Canada",
+    "postcode": "Y7S 0M7",
     "coordinates": {
-      "latitude": "-80.4610",
-      "longitude": "-45.2026"
+      "latitude": "-70.3569",
+      "longitude": "-145.6024"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "jonas.souza@example.com",
+  "email": "liam.macdonald@example.com",
   "login": {
-    "uuid": "8fe3f964-8cec-4175-8843-3d29be9c2c9e",
-    "username": "crazyduck274",
-    "password": "kenworth",
-    "salt": "FX5XgBtF",
-    "md5": "1aa03e3266fc78ac7099f9fc74bcf643",
-    "sha1": "50176ba7237f20cb491a09233a1d903bea516eb3",
-    "sha256": "c44b9951cb12a4a93f11471435dc21c7702448d3504dfb869511a52d9742e387"
+    "uuid": "89397894-2bb8-466c-b873-7b9b80df1693",
+    "username": "heavyduck522",
+    "password": "kittycat",
+    "salt": "jRTHzzX9",
+    "md5": "86e5b92b48e116ac85d5bf11807bbc75",
+    "sha1": "870be6d0594c092ca543f2804f43011537206269",
+    "sha256": "025df70f89f4e62a4587e090f3ef09dbfb4f330505f1b4ca607d36a5e7880ea0"
   },
   "dob": {
-    "date": "1993-10-03T10:45:49.309Z",
-    "age": 31
+    "date": "1985-01-22T23:53:58.413Z",
+    "age": 40
   },
   "registered": {
-    "date": "2005-01-19T16:01:43.364Z",
-    "age": 20
+    "date": "2014-04-11T20:13:18.446Z",
+    "age": 10
   },
-  "phone": "(79) 5817-6999",
-  "cell": "(76) 4779-0791",
+  "phone": "O08 Z03-5187",
+  "cell": "J57 I13-9349",
   "id": {
-    "name": "CPF",
-    "value": "355.878.581-25"
+    "name": "SIN",
+    "value": "197257900"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/59.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
   },
-  "nat": "BR"
+  "nat": "CA"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Matilda",
-    "last": "Aro"
+    "title": "Mr",
+    "first": "Bryan",
+    "last": "Jackson"
   },
   "location": {
     "street": {
-      "number": 7023,
-      "name": "Rotuaari"
+      "number": 6075,
+      "name": "Queens Road"
     },
-    "city": "Kankaanpää",
-    "state": "Pirkanmaa",
-    "country": "Finland",
-    "postcode": 49671,
+    "city": "Truro",
+    "state": "Clwyd",
+    "country": "United Kingdom",
+    "postcode": "I0Q 7EQ",
     "coordinates": {
-      "latitude": "-21.9889",
-      "longitude": "56.1523"
+      "latitude": "-10.9180",
+      "longitude": "-90.6873"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "matilda.aro@example.com",
+  "email": "bryan.jackson@example.com",
   "login": {
-    "uuid": "80c7bb39-7c2c-430d-8374-eb74d6f428e4",
-    "username": "crazytiger760",
-    "password": "june",
-    "salt": "ViVma2sm",
-    "md5": "34fa5df1426a7afb83360064aae97733",
-    "sha1": "4c2745d66503b856a74a904402c17acb66d5d13b",
-    "sha256": "d2e5094c0c4ca3985cc7743ac130c3328d613de835079afed51bb60ddb8d2402"
+    "uuid": "17a9ae27-300f-4ed4-99f5-a7fd435968e3",
+    "username": "yellowfrog666",
+    "password": "muffy",
+    "salt": "mbb06YrJ",
+    "md5": "38bfd412b213c0b743d2fa23f581f9cb",
+    "sha1": "7d8ab8c9ac8b961e2b32d127a9a491445852b4b6",
+    "sha256": "068c553f26bf35a0643889c56d0c0e6067c346fa7a8b98f29c4ef505f9713670"
   },
   "dob": {
-    "date": "1972-01-31T17:21:59.364Z",
-    "age": 53
+    "date": "1970-09-07T10:44:52.259Z",
+    "age": 54
   },
   "registered": {
-    "date": "2008-05-16T05:24:07.403Z",
-    "age": 16
+    "date": "2021-06-03T12:47:18.562Z",
+    "age": 3
   },
-  "phone": "05-921-582",
-  "cell": "045-977-49-62",
+  "phone": "01212 113371",
+  "cell": "07412 867607",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA852undefined"
+    "name": "NINO",
+    "value": "ON 69 79 13 G"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
   },
-  "nat": "FI"
+  "nat": "GB"
 }

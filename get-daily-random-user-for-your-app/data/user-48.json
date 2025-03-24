@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Laly",
-    "last": "Fontai"
+    "first": "Celia",
+    "last": "Yildiz"
   },
   "location": {
     "street": {
-      "number": 2709,
-      "name": "Place Paul-Duquaire"
+      "number": 1039,
+      "name": "Vækerøveien"
     },
-    "city": "Montreuil",
-    "state": "Eure",
-    "country": "France",
-    "postcode": 31038,
+    "city": "Fiksdal",
+    "state": "Akershus",
+    "country": "Norway",
+    "postcode": "6895",
     "coordinates": {
-      "latitude": "-17.3880",
-      "longitude": "151.6665"
+      "latitude": "46.7220",
+      "longitude": "49.3280"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "laly.fontai@example.com",
+  "email": "celia.yildiz@example.com",
   "login": {
-    "uuid": "74734484-31c9-40c1-8abf-2a208e8d6180",
-    "username": "yellowcat707",
-    "password": "pillow",
-    "salt": "eWLaXeHO",
-    "md5": "089491bd82630945acb00728aaac606f",
-    "sha1": "f1a0b4164150f6859298e1b7425e6408936b938b",
-    "sha256": "d5f8e8b370fd2e6d3b45d06682af0414ba7a2345087930ab49aa7295a6d790e8"
+    "uuid": "2f7e1f20-403a-4522-99a7-d1e66dfe1366",
+    "username": "heavysnake163",
+    "password": "peter",
+    "salt": "bmPujhhL",
+    "md5": "8f37e16b641dafda520fe91c71cdb8e5",
+    "sha1": "6c17b4d0fd6c3839172dc070ad80faa28010c629",
+    "sha256": "d165b9d6fa3c062fabbd78bf17e4ec0558bb68ef7ed83005f0b1faa4395dd316"
   },
   "dob": {
-    "date": "1951-12-26T19:00:23.747Z",
-    "age": 73
+    "date": "1997-09-08T19:05:26.871Z",
+    "age": 27
   },
   "registered": {
-    "date": "2002-05-13T06:16:08.236Z",
-    "age": 22
+    "date": "2010-07-14T11:00:01.614Z",
+    "age": 14
   },
-  "phone": "05-58-40-50-00",
-  "cell": "06-20-54-81-05",
+  "phone": "89802448",
+  "cell": "94219599",
   "id": {
-    "name": "INSEE",
-    "value": "2511114886438 57"
+    "name": "FN",
+    "value": "08099741695"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/women/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
   },
-  "nat": "FR"
+  "nat": "NO"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Patsy",
-    "last": "Hopkins"
+    "title": "Mrs",
+    "first": "Prisha",
+    "last": "Kulkarni"
   },
   "location": {
     "street": {
-      "number": 4185,
-      "name": "W Campbell Ave"
+      "number": 2384,
+      "name": "Bannerghatta Rd"
     },
-    "city": "Santa Ana",
-    "state": "Wisconsin",
-    "country": "United States",
-    "postcode": 31704,
+    "city": "Navi Mumbai",
+    "state": "Sikkim",
+    "country": "India",
+    "postcode": 24416,
     "coordinates": {
-      "latitude": "85.8851",
-      "longitude": "177.1609"
+      "latitude": "7.8747",
+      "longitude": "112.1952"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "patsy.hopkins@example.com",
+  "email": "prisha.kulkarni@example.com",
   "login": {
-    "uuid": "c6446ecf-3938-49b3-8189-00325a640ef9",
-    "username": "organicbird139",
-    "password": "knicks",
-    "salt": "JnHLTpVg",
-    "md5": "c0fad419536eda56f57eb09453ff69fd",
-    "sha1": "104276ee85e5f7ab46c87bbff22410bcbececf20",
-    "sha256": "b35e146c249f224104e764705b8187d33135966834c27bf3e2f9cff84ead9a50"
+    "uuid": "978830ad-2e3a-4096-b974-54e8c3b9deaa",
+    "username": "crazygoose329",
+    "password": "install",
+    "salt": "3lMbMxnJ",
+    "md5": "82939ef2df42db139567a783b9e82b83",
+    "sha1": "18c28ba04d7d75cfb9ccb7995650315a2f4c9bc7",
+    "sha256": "6090256164c389b788a91121f31ab9461bea476c1bcf1a64d245c69cd760b3dd"
   },
   "dob": {
-    "date": "1958-02-19T14:40:54.543Z",
-    "age": 67
+    "date": "1994-11-12T06:25:14.311Z",
+    "age": 30
   },
   "registered": {
-    "date": "2005-06-04T22:36:05.489Z",
-    "age": 19
+    "date": "2013-05-16T20:28:21.928Z",
+    "age": 11
   },
-  "phone": "(732) 289-5535",
-  "cell": "(521) 428-0911",
+  "phone": "7758966339",
+  "cell": "9283557265",
   "id": {
-    "name": "SSN",
-    "value": "435-46-6889"
+    "name": "UIDAI",
+    "value": "608567869954"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/31.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+    "large": "https://randomuser.me/api/portraits/women/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
   },
-  "nat": "US"
+  "nat": "IN"
 }

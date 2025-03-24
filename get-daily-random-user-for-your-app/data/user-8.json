@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Grégoire",
-    "last": "Simon"
+    "title": "Mr",
+    "first": "Franklin",
+    "last": "Moreira"
   },
   "location": {
     "street": {
-      "number": 9212,
-      "name": "Avenue de L'Abbé-Roussel"
+      "number": 5133,
+      "name": "Rua São João "
     },
-    "city": "Bonfol",
-    "state": "Vaud",
-    "country": "Switzerland",
-    "postcode": 5211,
+    "city": "Itaboraí",
+    "state": "Ceará",
+    "country": "Brazil",
+    "postcode": 41833,
     "coordinates": {
-      "latitude": "-58.6307",
-      "longitude": "-100.6118"
+      "latitude": "-78.6105",
+      "longitude": "-171.9464"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "gregoire.simon@example.com",
+  "email": "franklin.moreira@example.com",
   "login": {
-    "uuid": "6f8e01ef-612a-4a68-a952-2da674e95549",
-    "username": "goldencat237",
-    "password": "marlene",
-    "salt": "ygkONyF3",
-    "md5": "4d3e1817a7535c138002d3c0bbfbf64d",
-    "sha1": "3f3dd3177568c12e39357a583e6fb0deaafa96ce",
-    "sha256": "18e1fccd597e8a4afc9d7602f0eaa3e054a4cfdb6160105924ce2a6fccacfcc0"
+    "uuid": "6ad8c635-8229-4e95-b4b5-4edec17c206b",
+    "username": "redfrog356",
+    "password": "dddddd",
+    "salt": "HjkL7Ju0",
+    "md5": "a0607e0701642d26be2ea644c847e0c4",
+    "sha1": "5491faa0897b8e9b93e0087f7c4ed6433d0b946b",
+    "sha256": "04a0ba84450b05246f58fe57c59e2445e461b4cee28bc030f8fc9218942102a7"
   },
   "dob": {
-    "date": "1990-10-20T15:17:31.166Z",
-    "age": 34
+    "date": "1997-09-09T14:20:16.448Z",
+    "age": 27
   },
   "registered": {
-    "date": "2015-07-18T13:54:23.640Z",
-    "age": 9
+    "date": "2019-05-13T23:50:41.703Z",
+    "age": 5
   },
-  "phone": "076 953 32 63",
-  "cell": "076 199 46 08",
+  "phone": "(70) 4710-4626",
+  "cell": "(76) 4073-3586",
   "id": {
-    "name": "AVS",
-    "value": "756.7718.2533.20"
+    "name": "CPF",
+    "value": "692.488.333-12"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
   },
-  "nat": "CH"
+  "nat": "BR"
 }

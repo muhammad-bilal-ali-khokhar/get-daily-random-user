@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Rudolf",
-    "last": "Van 't Hart"
+    "first": "Nélson",
+    "last": "Silva"
   },
   "location": {
     "street": {
-      "number": 4329,
-      "name": "Koerspad"
+      "number": 9622,
+      "name": "Rua Três"
     },
-    "city": "Didam",
-    "state": "Noord-Brabant",
-    "country": "Netherlands",
-    "postcode": "4524 PJ",
+    "city": "Bragança Paulista",
+    "state": "Rio de Janeiro",
+    "country": "Brazil",
+    "postcode": 37572,
     "coordinates": {
-      "latitude": "34.4487",
-      "longitude": "-60.7512"
+      "latitude": "-74.5540",
+      "longitude": "-171.9893"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "rudolf.van'thart@example.com",
+  "email": "nelson.silva@example.com",
   "login": {
-    "uuid": "cbb6f298-e847-4ee5-b629-0d4ab4fbdbee",
-    "username": "bluelion108",
-    "password": "girfriend",
-    "salt": "5GtE75vR",
-    "md5": "05429e54a868be198079e54e71dbd443",
-    "sha1": "95db1638a661dc4dfb529fc7779b890725890c2b",
-    "sha256": "917fde5c95866ad77d367b801ea2da8603bda46ff5be78b674b1cd8bc737f3c8"
+    "uuid": "be8fe2a4-c3d6-4634-b657-05213b085c6c",
+    "username": "greenkoala132",
+    "password": "gillian",
+    "salt": "Vo1zzprm",
+    "md5": "77b7fcfa9f0e2d2801602633e780fef1",
+    "sha1": "fa7802d17a70170fb88f6d824e0a5f0116fbf18a",
+    "sha256": "6911f483619ce24c4276eace2ead6258c774a4d953dd26feaff0d9429bf3d0d0"
   },
   "dob": {
-    "date": "1992-03-11T02:26:54.538Z",
-    "age": 33
+    "date": "1964-06-04T14:41:13.961Z",
+    "age": 60
   },
   "registered": {
-    "date": "2008-02-01T21:09:54.903Z",
-    "age": 17
+    "date": "2005-12-09T12:18:57.767Z",
+    "age": 19
   },
-  "phone": "(072) 9787899",
-  "cell": "(06) 63410624",
+  "phone": "(17) 0537-4789",
+  "cell": "(01) 9022-6173",
   "id": {
-    "name": "BSN",
-    "value": "79212303"
+    "name": "CPF",
+    "value": "043.526.406-99"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    "large": "https://randomuser.me/api/portraits/men/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
   },
-  "nat": "NL"
+  "nat": "BR"
 }

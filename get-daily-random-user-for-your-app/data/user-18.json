@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Dana",
-    "last": "Newman"
+    "title": "Mr",
+    "first": "Hatim",
+    "last": "Flach"
   },
   "location": {
     "street": {
-      "number": 7936,
-      "name": "Groveland Terrace"
+      "number": 2069,
+      "name": "Davelaar"
     },
-    "city": "Santa Clarita",
-    "state": "New York",
-    "country": "United States",
-    "postcode": 37151,
+    "city": "Venhorst",
+    "state": "Noord-Brabant",
+    "country": "Netherlands",
+    "postcode": "2420 QG",
     "coordinates": {
-      "latitude": "85.6346",
-      "longitude": "112.8721"
+      "latitude": "38.1478",
+      "longitude": "-43.8048"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "dana.newman@example.com",
+  "email": "hatim.flach@example.com",
   "login": {
-    "uuid": "3ad5c5ca-47bd-427f-8a3c-349a47d950db",
-    "username": "smalldog354",
-    "password": "colors",
-    "salt": "CR1kB9GN",
-    "md5": "8b589565a0329c1d0ae26a549393c25d",
-    "sha1": "4c62551304b9098d4d919be83a276a8e8c4abc2f",
-    "sha256": "c0bf264bf1228bebbeb65e77e53976ad5d871bcc7b3b635bf64697ba31194c90"
+    "uuid": "53a35d8c-7291-44ec-b798-5cd79931467c",
+    "username": "organicleopard381",
+    "password": "hitman",
+    "salt": "EiJer6U0",
+    "md5": "493266db8d354f9d9def25edf4c700a5",
+    "sha1": "3c2424c54117701227eeb7d17afbe682ca555c0f",
+    "sha256": "047010eceb402f92419504804b64871c5a9b14562b8c6be003a9493ae1dd1f10"
   },
   "dob": {
-    "date": "1978-01-07T03:55:03.076Z",
-    "age": 47
+    "date": "1988-02-07T02:07:57.938Z",
+    "age": 37
   },
   "registered": {
-    "date": "2014-11-22T03:02:54.545Z",
-    "age": 10
+    "date": "2019-04-14T18:21:25.802Z",
+    "age": 5
   },
-  "phone": "(586) 408-7778",
-  "cell": "(526) 265-0836",
+  "phone": "(066) 2123475",
+  "cell": "(06) 12605159",
   "id": {
-    "name": "SSN",
-    "value": "310-65-1677"
+    "name": "BSN",
+    "value": "51993869"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "US"
+  "nat": "NL"
 }

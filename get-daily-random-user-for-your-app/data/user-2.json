@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Lyna",
-    "last": "Gerard"
+    "title": "Miss",
+    "first": "Gonca",
+    "last": "Erbay"
   },
   "location": {
     "street": {
-      "number": 9382,
-      "name": "Rue des Ecrivains"
+      "number": 699,
+      "name": "Bağdat Cd"
     },
-    "city": "Poitiers",
-    "state": "Corse-du-Sud",
-    "country": "France",
-    "postcode": 76183,
+    "city": "Siirt",
+    "state": "Isparta",
+    "country": "Turkey",
+    "postcode": 43147,
     "coordinates": {
-      "latitude": "-19.7356",
-      "longitude": "151.9621"
+      "latitude": "64.5741",
+      "longitude": "122.2489"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "lyna.gerard@example.com",
+  "email": "gonca.erbay@example.com",
   "login": {
-    "uuid": "a66dfbb3-b7b7-4665-960b-00dea4370817",
-    "username": "sadbear125",
-    "password": "1414",
-    "salt": "BRDAAuMz",
-    "md5": "c578d88c720696a4fba372bd7e8e1f3b",
-    "sha1": "d13c66dec1bc082ce46efde4aee2aacc354d8714",
-    "sha256": "f4b646d3bc29476c940be619ffe653eb76799dceb1f95742d5e0422b82a20071"
+    "uuid": "75471db6-5557-49d4-8887-9dfb2c3d5043",
+    "username": "lazylion880",
+    "password": "katherin",
+    "salt": "uxCKYrUH",
+    "md5": "a7baf085423d66782b0984492bc9d07e",
+    "sha1": "fc10e2eb05ead81b6b7392135907baa4ad1c89af",
+    "sha256": "2673b1906798ee7a7d1f06d314182bd6cbe359bc0a826b5695b61ea1c1a86096"
   },
   "dob": {
-    "date": "1992-04-06T14:36:57.836Z",
-    "age": 32
+    "date": "1998-04-06T19:56:49.028Z",
+    "age": 26
   },
   "registered": {
-    "date": "2021-01-17T18:16:19.095Z",
-    "age": 4
+    "date": "2017-04-23T20:44:49.523Z",
+    "age": 7
   },
-  "phone": "02-24-05-14-12",
-  "cell": "06-99-49-80-05",
+  "phone": "(728)-302-2653",
+  "cell": "(346)-399-1385",
   "id": {
-    "name": "INSEE",
-    "value": "2920360834588 28"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/62.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+    "large": "https://randomuser.me/api/portraits/women/15.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
   },
-  "nat": "FR"
+  "nat": "TR"
 }

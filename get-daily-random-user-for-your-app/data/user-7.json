@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Marija",
-    "last": "Jelačić"
+    "title": "Mr",
+    "first": "Owen",
+    "last": "Leclercq"
   },
   "location": {
     "street": {
-      "number": 2423,
-      "name": "Lozička"
+      "number": 8011,
+      "name": "Avenue Goerges Clémenceau"
     },
-    "city": "Ćuprija",
-    "state": "Pirot",
-    "country": "Serbia",
-    "postcode": 21056,
+    "city": "Roubaix",
+    "state": "Indre-et-Loire",
+    "country": "France",
+    "postcode": 75642,
     "coordinates": {
-      "latitude": "58.5914",
-      "longitude": "53.6305"
+      "latitude": "-19.3598",
+      "longitude": "-105.6779"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "marija.jelacic@example.com",
+  "email": "owen.leclercq@example.com",
   "login": {
-    "uuid": "732f3738-168f-43d1-9cc1-275fbe2d7b93",
-    "username": "beautifuldog544",
-    "password": "russia",
-    "salt": "yI9p1fvU",
-    "md5": "9a39e6a9dec6fbd32a2120bc5c24e876",
-    "sha1": "74cd711ee24666471b72b5e1d74b5368d5cc54bd",
-    "sha256": "4bfd8532660655d68fd0a28652f2f1d800d9ebf50fc9e01e63d9880df78a452b"
+    "uuid": "c81c1c8b-8101-49a8-bba7-be07a0b91235",
+    "username": "redladybug757",
+    "password": "rainman",
+    "salt": "FebgKMHB",
+    "md5": "8ae271e8b0e7737c6ce7613ba9e2e6d6",
+    "sha1": "54c434385eb907948ca694ece8a900119f2cb6b8",
+    "sha256": "0dddfd8285776d214fea440bd3305fe0b2e43066649d09f377965f5dcda8e0ae"
   },
   "dob": {
-    "date": "1962-10-28T22:49:02.218Z",
-    "age": 62
+    "date": "1995-02-05T21:47:49.559Z",
+    "age": 30
   },
   "registered": {
-    "date": "2022-05-15T12:27:26.034Z",
-    "age": 2
+    "date": "2002-10-30T12:02:18.556Z",
+    "age": 22
   },
-  "phone": "031-8475-293",
-  "cell": "065-7802-685",
+  "phone": "04-07-60-12-32",
+  "cell": "06-19-80-73-18",
   "id": {
-    "name": "SID",
-    "value": "645074953"
+    "name": "INSEE",
+    "value": "1950104687423 69"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/72.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/72.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/72.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "RS"
+  "nat": "FR"
 }

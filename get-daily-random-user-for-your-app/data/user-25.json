@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "James",
-    "last": "Singh"
+    "title": "Mrs",
+    "first": "Eduarda",
+    "last": "Monteiro"
   },
   "location": {
     "street": {
-      "number": 1852,
-      "name": "Duke St"
+      "number": 6438,
+      "name": "Rua Dom Pedro Ii "
     },
-    "city": "Sandy Lake",
-    "state": "Saskatchewan",
-    "country": "Canada",
-    "postcode": "Q5O 3G4",
+    "city": "Ourinhos",
+    "state": "Santa Catarina",
+    "country": "Brazil",
+    "postcode": 28646,
     "coordinates": {
-      "latitude": "-67.7925",
-      "longitude": "-83.6319"
+      "latitude": "-73.4812",
+      "longitude": "45.1081"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "james.singh@example.com",
+  "email": "eduarda.monteiro@example.com",
   "login": {
-    "uuid": "7d826be8-59c3-4152-b4dc-8c9a99162b73",
-    "username": "ticklishpeacock560",
-    "password": "denver",
-    "salt": "uJXmgxk0",
-    "md5": "a0761c4aa806b03a14d8776d2f85aea5",
-    "sha1": "9695e2fe285aa5f7cb2be918168a167f21f742c5",
-    "sha256": "117200865a70d256a8f7ece6c0d60a1c2da5f070b2a5093321d7913c5176cf95"
+    "uuid": "497ea49d-3b12-4ce4-8364-bcee030fbbf3",
+    "username": "crazypanda809",
+    "password": "garion",
+    "salt": "SejY6qso",
+    "md5": "30958ab23c2633332adf47d5af7df8ea",
+    "sha1": "05922b5d049de89f43219cb83e850d961b14f347",
+    "sha256": "1f81a8287572ac910eb65db0737adabbf0f7c5f92b3714701d5222f648711e52"
   },
   "dob": {
-    "date": "1989-06-03T03:06:53.178Z",
-    "age": 35
+    "date": "1995-02-22T22:41:15.023Z",
+    "age": 30
   },
   "registered": {
-    "date": "2014-05-31T19:50:18.033Z",
-    "age": 10
+    "date": "2019-12-25T04:00:14.336Z",
+    "age": 5
   },
-  "phone": "Q51 J17-4254",
-  "cell": "K81 L41-2626",
+  "phone": "(20) 9779-2096",
+  "cell": "(76) 0237-5078",
   "id": {
-    "name": "SIN",
-    "value": "258564970"
+    "name": "CPF",
+    "value": "396.305.973-56"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    "large": "https://randomuser.me/api/portraits/women/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
   },
-  "nat": "CA"
+  "nat": "BR"
 }

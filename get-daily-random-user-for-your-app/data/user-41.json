@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jack",
-    "last": "Grewal"
+    "first": "Pilar",
+    "last": "Urías"
   },
   "location": {
     "street": {
-      "number": 5006,
-      "name": "Dieppe Ave"
+      "number": 5105,
+      "name": "Periférico Coronado"
     },
-    "city": "Hudson",
-    "state": "Nova Scotia",
-    "country": "Canada",
-    "postcode": "E6S 5Y3",
+    "city": "Jalcocotán",
+    "state": "Colima",
+    "country": "Mexico",
+    "postcode": 35381,
     "coordinates": {
-      "latitude": "-70.5217",
-      "longitude": "-123.8311"
+      "latitude": "22.5209",
+      "longitude": "-36.1511"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "jack.grewal@example.com",
+  "email": "pilar.urias@example.com",
   "login": {
-    "uuid": "66685774-243e-437d-a7fd-328b0a083dd8",
-    "username": "yellowswan284",
-    "password": "italian",
-    "salt": "hrp4mD1N",
-    "md5": "2fda7f08ede6f54472ea7122ff01128d",
-    "sha1": "4e4bd22f531fed2478658fce53d6ff0c1de88c13",
-    "sha256": "c145e6dd44c9bee7ffc4e00c8fb15ee7e0515052b9615c46d7429936a725d55a"
+    "uuid": "ced8c644-77f9-47e0-8a50-9346b22fa72f",
+    "username": "goldenbird655",
+    "password": "owen",
+    "salt": "DC0JC6bW",
+    "md5": "3a63d1256d72974cf54664e0a95c56e1",
+    "sha1": "e4942c9b0ffa9f5bfe5bfc11c53424e69ec912b2",
+    "sha256": "bfc9a7efd58242bda4e4d8bc4df37429030d1662acda46776cf49c5551d10382"
   },
   "dob": {
-    "date": "1954-10-22T04:07:33.053Z",
-    "age": 70
+    "date": "1957-10-08T07:27:44.533Z",
+    "age": 67
   },
   "registered": {
-    "date": "2012-04-30T07:25:36.505Z",
-    "age": 12
+    "date": "2007-12-24T03:07:05.738Z",
+    "age": 17
   },
-  "phone": "A60 O18-8548",
-  "cell": "T17 Y43-1291",
+  "phone": "(671) 196 4197",
+  "cell": "(681) 906 0170",
   "id": {
-    "name": "SIN",
-    "value": "624373239"
+    "name": "NSS",
+    "value": "92 29 95 3079 7"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    "large": "https://randomuser.me/api/portraits/men/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
   },
-  "nat": "CA"
+  "nat": "MX"
 }

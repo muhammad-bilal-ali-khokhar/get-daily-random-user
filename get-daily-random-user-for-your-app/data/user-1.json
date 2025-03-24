@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "William",
-    "last": "Byrd"
+    "title": "Mrs",
+    "first": "Rashmitha",
+    "last": "Prabhu"
   },
   "location": {
     "street": {
-      "number": 6229,
-      "name": "Blossom Hill Rd"
+      "number": 3167,
+      "name": "Lindsay St"
     },
-    "city": "Brisbane",
-    "state": "Western Australia",
-    "country": "Australia",
-    "postcode": 9897,
+    "city": "Hazaribagh",
+    "state": "Tripura",
+    "country": "India",
+    "postcode": 52468,
     "coordinates": {
-      "latitude": "-86.7019",
-      "longitude": "-107.9017"
+      "latitude": "4.7469",
+      "longitude": "50.8967"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "william.byrd@example.com",
+  "email": "rashmitha.prabhu@example.com",
   "login": {
-    "uuid": "f17902f7-c60c-4d58-bba5-7bb1dde5bb88",
-    "username": "purplefrog511",
-    "password": "qwerty12",
-    "salt": "VAbY3tF7",
-    "md5": "0cbe9f708d1ae2328a636b60858f5b51",
-    "sha1": "554b17b1d2cd3579484de23db298b0d159a97d9d",
-    "sha256": "8336c63be3a4adf73b57b0b2647eecd3b6e31cfe4859503a1d0825dd9b362145"
+    "uuid": "9a6b575e-7eca-4824-bdeb-45334116aad9",
+    "username": "sadfish433",
+    "password": "tanner",
+    "salt": "4YNGhrnZ",
+    "md5": "070f70301740a95c3e4c64ec43a9e211",
+    "sha1": "dcf4fb30523ce7ffaa2812513b1e443750cf008d",
+    "sha256": "522d8d175d25b985947f696eff96fd5ab636003b2ee6b8428e860b8ef3966b66"
   },
   "dob": {
-    "date": "1986-04-02T01:09:11.825Z",
-    "age": 38
+    "date": "1956-05-31T19:07:42.315Z",
+    "age": 68
   },
   "registered": {
-    "date": "2016-12-21T07:45:30.476Z",
-    "age": 8
+    "date": "2007-03-31T21:16:50.238Z",
+    "age": 17
   },
-  "phone": "08-8937-7558",
-  "cell": "0482-508-451",
+  "phone": "7146686941",
+  "cell": "8274159420",
   "id": {
-    "name": "TFN",
-    "value": "452494152"
+    "name": "UIDAI",
+    "value": "840939965094"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/11.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    "large": "https://randomuser.me/api/portraits/women/25.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
   },
-  "nat": "AU"
+  "nat": "IN"
 }

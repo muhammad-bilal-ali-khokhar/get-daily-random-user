@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Clara",
-    "last": "Wood"
+    "title": "Mr",
+    "first": "Emile",
+    "last": "Addy"
   },
   "location": {
     "street": {
-      "number": 4439,
-      "name": "Hillcrest Rd"
+      "number": 5347,
+      "name": "Dieppe Ave"
     },
-    "city": "Frederick",
-    "state": "Louisiana",
-    "country": "United States",
-    "postcode": 85357,
+    "city": "Inwood",
+    "state": "Québec",
+    "country": "Canada",
+    "postcode": "K8U 8M9",
     "coordinates": {
-      "latitude": "87.6916",
-      "longitude": "2.6064"
+      "latitude": "-72.3089",
+      "longitude": "-178.8963"
     },
     "timezone": {
       "offset": "+8:00",
       "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "clara.wood@example.com",
+  "email": "emile.addy@example.com",
   "login": {
-    "uuid": "3f5d7555-dd58-453a-a5f3-3bcf2a895c00",
-    "username": "bluedog749",
-    "password": "wildfire",
-    "salt": "1vFxlPOx",
-    "md5": "a31538374268d873eb79fc80309c6285",
-    "sha1": "b3ae735316aaf3dc21c68986d1c7a1ba6a8fce7e",
-    "sha256": "515ad341cfe1cd3642e2af773a20661e090bbd562e43a546b8190a2b2c123a32"
+    "uuid": "40d857de-790c-4f96-a2d8-6e8b7939881f",
+    "username": "smallleopard460",
+    "password": "bronze",
+    "salt": "DMbW8JAz",
+    "md5": "c0477826a4b9b789cf45c023c8bd9279",
+    "sha1": "06616242a315664279713a7f065e308c0d9dfa5d",
+    "sha256": "45714e9ff169ff7ca3ba38f076b0d7d23503b12515a91a46a3eee317f2ea259c"
   },
   "dob": {
-    "date": "1989-06-13T05:58:48.171Z",
-    "age": 35
+    "date": "1995-01-07T01:07:15.125Z",
+    "age": 30
   },
   "registered": {
-    "date": "2022-04-21T23:11:05.526Z",
-    "age": 2
+    "date": "2012-07-28T22:30:52.396Z",
+    "age": 12
   },
-  "phone": "(756) 480-0535",
-  "cell": "(717) 299-3687",
+  "phone": "M62 P55-0997",
+  "cell": "V77 B26-7526",
   "id": {
-    "name": "SSN",
-    "value": "669-82-7220"
+    "name": "SIN",
+    "value": "477588784"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+    "large": "https://randomuser.me/api/portraits/men/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
   },
-  "nat": "US"
+  "nat": "CA"
 }

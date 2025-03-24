@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Sami",
-    "last": "Gaillard"
+    "title": "Mr",
+    "first": "Ethan",
+    "last": "Johnson"
   },
   "location": {
     "street": {
-      "number": 1294,
-      "name": "Rue de la Barre"
+      "number": 5846,
+      "name": "Rangitikei Street"
     },
-    "city": "Champéry",
-    "state": "Neuchâtel",
-    "country": "Switzerland",
-    "postcode": 5700,
+    "city": "Gisborne",
+    "state": "Auckland",
+    "country": "New Zealand",
+    "postcode": 64605,
     "coordinates": {
-      "latitude": "-62.6845",
-      "longitude": "-157.2259"
+      "latitude": "50.4309",
+      "longitude": "-107.0025"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "sami.gaillard@example.com",
+  "email": "ethan.johnson@example.com",
   "login": {
-    "uuid": "d532a27c-3f9a-48db-97f5-c44c88a7763b",
-    "username": "yellowgoose790",
-    "password": "info",
-    "salt": "n0JPH2Sg",
-    "md5": "4918f06df551885897b2e9aeca4ac26b",
-    "sha1": "fefebe5227cddb49fdf7ce3412d2fbe9987b0626",
-    "sha256": "cd78efe84975ff115b78fba24eb5053265c7e300be5b8f9603492d4833f0840f"
+    "uuid": "55c9b209-6e88-4212-932f-702781ed656e",
+    "username": "blackwolf508",
+    "password": "cheerleaers",
+    "salt": "A6FFkejM",
+    "md5": "64548e28e60fc718d7925c28964bec07",
+    "sha1": "f4f717a55ebb56a037bf5102fc5db4e4d38baff6",
+    "sha256": "c3594b4f86c4b0beb7b9270aa910bed0e3c91b0093410583a5e5bdfdf64eb1a4"
   },
   "dob": {
-    "date": "1959-06-18T12:49:00.927Z",
-    "age": 65
+    "date": "1944-10-16T05:59:19.259Z",
+    "age": 80
   },
   "registered": {
-    "date": "2008-01-09T23:28:07.516Z",
-    "age": 17
+    "date": "2005-07-23T20:33:07.468Z",
+    "age": 19
   },
-  "phone": "077 644 41 77",
-  "cell": "078 482 16 15",
+  "phone": "(509)-843-4906",
+  "cell": "(586)-550-7862",
   "id": {
-    "name": "AVS",
-    "value": "756.8772.9618.11"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
   },
-  "nat": "CH"
+  "nat": "NZ"
 }

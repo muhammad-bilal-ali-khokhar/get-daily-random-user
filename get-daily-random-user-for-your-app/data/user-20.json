@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Agathe",
-    "last": "Weinert"
+    "title": "Mr",
+    "first": "Aatu",
+    "last": "Pulli"
   },
   "location": {
     "street": {
-      "number": 1578,
-      "name": "Marktplatz"
+      "number": 4400,
+      "name": "Rautatienkatu"
     },
-    "city": "Geislingen an der Steige",
-    "state": "Bayern",
-    "country": "Germany",
-    "postcode": 38004,
+    "city": "Kerava",
+    "state": "Lapland",
+    "country": "Finland",
+    "postcode": 99586,
     "coordinates": {
-      "latitude": "-48.9036",
-      "longitude": "61.6363"
+      "latitude": "-29.4382",
+      "longitude": "-132.0717"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "agathe.weinert@example.com",
+  "email": "aatu.pulli@example.com",
   "login": {
-    "uuid": "0f572a41-4005-4f74-bfdd-718c48f47e59",
-    "username": "ticklishladybug180",
-    "password": "slinky",
-    "salt": "adw7Drm9",
-    "md5": "7308fb4c3837379ca74756eba8260e4a",
-    "sha1": "3e7d5ce9560f20f3658ccd7b81f72c888c6f287f",
-    "sha256": "9a5b74a989d8e3c6c4cfd0317ebdfa25f84669210871a5fb0c38f271e8112970"
+    "uuid": "0ba7a44f-3b99-4d0f-9e7e-0a5c6b012cb8",
+    "username": "lazywolf138",
+    "password": "tina",
+    "salt": "mRKJZa7Z",
+    "md5": "65532a028e995f1c0d42cdb2f9f536a1",
+    "sha1": "02d4f99337ab6446953aea554faa51fb0e899cb9",
+    "sha256": "bbca95d911e26ac353db0c7f53d91a740c7fc9b41c5f65ede1995de89488393a"
   },
   "dob": {
-    "date": "1974-10-28T15:21:30.464Z",
-    "age": 50
+    "date": "1980-04-16T04:25:05.699Z",
+    "age": 44
   },
   "registered": {
-    "date": "2018-07-04T17:11:39.524Z",
-    "age": 6
+    "date": "2008-08-21T19:36:20.514Z",
+    "age": 16
   },
-  "phone": "0593-4935788",
-  "cell": "0173-4684202",
+  "phone": "05-700-177",
+  "cell": "045-250-48-85",
   "id": {
-    "name": "SVNR",
-    "value": "46 281074 W 729"
+    "name": "HETU",
+    "value": "NaNNA163undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/28.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+    "large": "https://randomuser.me/api/portraits/men/76.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
   },
-  "nat": "DE"
+  "nat": "FI"
 }

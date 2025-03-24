@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Veera",
-    "last": "Lauri"
+    "title": "Mr",
+    "first": "Kai",
+    "last": "Westermann"
   },
   "location": {
     "street": {
-      "number": 8225,
-      "name": "Nordenskiöldinkatu"
+      "number": 1660,
+      "name": "Kapellenweg"
     },
-    "city": "Sipoo",
-    "state": "Central Ostrobothnia",
-    "country": "Finland",
-    "postcode": 87568,
+    "city": "Selbitz",
+    "state": "Niedersachsen",
+    "country": "Germany",
+    "postcode": 82317,
     "coordinates": {
-      "latitude": "-27.9205",
-      "longitude": "86.4795"
+      "latitude": "-53.7377",
+      "longitude": "-120.0741"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "veera.lauri@example.com",
+  "email": "kai.westermann@example.com",
   "login": {
-    "uuid": "e77cd7c1-d7b7-4ea0-8efd-f10568cace9d",
-    "username": "ticklishzebra184",
-    "password": "worker",
-    "salt": "DTB4QbH4",
-    "md5": "1e232c5796a9b90f0f7cb1870589bb45",
-    "sha1": "29a4bf8709535cea9ba53b8f520bc58f64ef03ac",
-    "sha256": "a70c253149b26165e697dcb6446b5ef64c8f06c82e92ffd49d11d25f27572497"
+    "uuid": "8fe27c8c-969c-4fa8-893d-a6a851a79eb4",
+    "username": "bluesnake693",
+    "password": "mittens",
+    "salt": "LAKW8PIs",
+    "md5": "b10b633881240420cbc22ca8ed74508e",
+    "sha1": "b44ec15d54fa0b0da8eeafb8481f1de514a62376",
+    "sha256": "d8d542377fce24fd0cf993bdd6be1ddabb8df1e9e558baeba70515c77bb4fae4"
   },
   "dob": {
-    "date": "1945-06-17T17:33:42.952Z",
-    "age": 79
+    "date": "1966-07-12T01:03:08.202Z",
+    "age": 58
   },
   "registered": {
-    "date": "2008-08-01T23:02:58.153Z",
-    "age": 16
+    "date": "2015-10-22T15:47:06.520Z",
+    "age": 9
   },
-  "phone": "06-867-858",
-  "cell": "042-292-72-27",
+  "phone": "0306-4597279",
+  "cell": "0175-8282881",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA442undefined"
+    "name": "SVNR",
+    "value": "60 110766 W 179"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    "large": "https://randomuser.me/api/portraits/men/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
   },
-  "nat": "FI"
+  "nat": "DE"
 }

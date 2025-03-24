@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "رضا",
-    "last": "نكو نظر"
+    "first": "Max",
+    "last": "Kumar"
   },
   "location": {
     "street": {
-      "number": 8241,
-      "name": "راستوان"
+      "number": 3089,
+      "name": "Northcote Road"
     },
-    "city": "بروجرد",
-    "state": "قم",
-    "country": "Iran",
-    "postcode": 51561,
+    "city": "Napier",
+    "state": "Tasman",
+    "country": "New Zealand",
+    "postcode": 34946,
     "coordinates": {
-      "latitude": "20.5064",
-      "longitude": "-49.3033"
+      "latitude": "47.2116",
+      "longitude": "-127.7729"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "rd.nkwnzr@example.com",
+  "email": "max.kumar@example.com",
   "login": {
-    "uuid": "6b3d5387-3be4-4072-895d-4997297c0350",
-    "username": "greenswan357",
-    "password": "massage",
-    "salt": "nT4sdDka",
-    "md5": "a3335299a98ff031a7b4c1849a1157d0",
-    "sha1": "99199c6fe7a3b51c5faa96a4422021801aef2aaa",
-    "sha256": "e27978649c732f8d4a8864b6548b4bed892744ea99963b9c354b89b2920b1e33"
+    "uuid": "b60497c4-92d9-4120-ac9e-d16935b2eb44",
+    "username": "organicwolf877",
+    "password": "saturn",
+    "salt": "Jl2JflbP",
+    "md5": "85733fddc4c8f49ae61728579312aa3f",
+    "sha1": "057e22bd771b961c5cad454b7157ffde0ab9fc5b",
+    "sha256": "ac6c4de3196e6d15fbfcea2c3fdd28b2c79314ce8ab8835bdc46562c771eff51"
   },
   "dob": {
-    "date": "1976-12-23T06:01:30.830Z",
-    "age": 48
+    "date": "1948-06-05T18:52:10.573Z",
+    "age": 76
   },
   "registered": {
-    "date": "2014-01-28T15:47:32.813Z",
-    "age": 11
+    "date": "2010-03-07T15:56:18.286Z",
+    "age": 15
   },
-  "phone": "016-47023078",
-  "cell": "0992-767-1157",
+  "phone": "(236)-187-2238",
+  "cell": "(819)-693-3737",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/45.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+    "large": "https://randomuser.me/api/portraits/men/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
   },
-  "nat": "IR"
+  "nat": "NZ"
 }

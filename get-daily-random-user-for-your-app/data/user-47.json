@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Freja",
-    "last": "Christiansen"
+    "first": "Keya",
+    "last": "Salian"
   },
   "location": {
     "street": {
-      "number": 7244,
-      "name": "Kløvermarksvej"
+      "number": 1210,
+      "name": "Hazratganj"
     },
-    "city": "Kongens  Lyngby",
-    "state": "Nordjylland",
-    "country": "Denmark",
-    "postcode": 19510,
+    "city": "Phagwara",
+    "state": "Bihar",
+    "country": "India",
+    "postcode": 36668,
     "coordinates": {
-      "latitude": "-46.4895",
-      "longitude": "36.9935"
+      "latitude": "6.5257",
+      "longitude": "123.6386"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "freja.christiansen@example.com",
+  "email": "keya.salian@example.com",
   "login": {
-    "uuid": "51dab66a-1321-4f96-9521-8d83c2ef519a",
-    "username": "beautifulleopard885",
-    "password": "bristol",
-    "salt": "okd7Ly2v",
-    "md5": "c82b982ef7b3f4d4570dc5fcbfd786b2",
-    "sha1": "0942878ccdbadb333d38e040582807cb9aa91a4b",
-    "sha256": "3ad07c1e8612ea7d69ed86cd5e7ed65c218b7377de1fa0e67ce2ef9a928f9a7e"
+    "uuid": "5cfe15b2-49c1-4cf9-bd4e-42973f6d3f2f",
+    "username": "tinyfish215",
+    "password": "dolly",
+    "salt": "KUeW7JU1",
+    "md5": "6668319fd68b43621ef6d86ae76b4596",
+    "sha1": "7dce02da2792d996dfa047de56b39e600ce33dd2",
+    "sha256": "b69820896f43f60bb52c3799edafbb3305b786935fc81814bd40d2b8497cd533"
   },
   "dob": {
-    "date": "1976-04-25T10:26:24.934Z",
-    "age": 48
+    "date": "1978-11-08T09:17:56.110Z",
+    "age": 46
   },
   "registered": {
-    "date": "2006-10-28T02:29:38.298Z",
-    "age": 18
+    "date": "2011-07-17T21:44:33.554Z",
+    "age": 13
   },
-  "phone": "18930561",
-  "cell": "69360481",
+  "phone": "9482919569",
+  "cell": "7000517204",
   "id": {
-    "name": "CPR",
-    "value": "250476-3526"
+    "name": "UIDAI",
+    "value": "260973340951"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/75.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+    "large": "https://randomuser.me/api/portraits/women/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
   },
-  "nat": "DK"
+  "nat": "IN"
 }

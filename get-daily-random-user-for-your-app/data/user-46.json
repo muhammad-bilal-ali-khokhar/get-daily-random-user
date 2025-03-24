@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Alicia",
-    "last": "Bouchard"
+    "title": "Mr",
+    "first": "Nathan",
+    "last": "Ma"
   },
   "location": {
     "street": {
-      "number": 8273,
-      "name": "Balmoral St"
+      "number": 871,
+      "name": "Main St"
     },
-    "city": "Westport",
-    "state": "Alberta",
+    "city": "Woodstock",
+    "state": "Nova Scotia",
     "country": "Canada",
-    "postcode": "H8R 9B3",
+    "postcode": "J0V 2X0",
     "coordinates": {
-      "latitude": "-67.3900",
-      "longitude": "44.0779"
+      "latitude": "-69.8517",
+      "longitude": "-100.6014"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "alicia.bouchard@example.com",
+  "email": "nathan.ma@example.com",
   "login": {
-    "uuid": "1117d2f0-9f59-46e5-9e76-1fe7754f47b8",
-    "username": "happycat994",
-    "password": "hoosiers",
-    "salt": "7tMz4wg6",
-    "md5": "02f174e34695dc1b0bb71df81c505895",
-    "sha1": "84f726e53fa7c1770c676ee11554be8110b9844a",
-    "sha256": "96e4bc8ad6eab61cc48e0e43fd88f5392b27ed8eba78ce1d94b89e38b49e14c4"
+    "uuid": "a9019f8f-ec9a-47ab-8db0-159978db5f0d",
+    "username": "sadbear159",
+    "password": "slinky",
+    "salt": "6YJPENUs",
+    "md5": "13ea30bb15552e35c54b0acdb16c1c2e",
+    "sha1": "f4f8b167d5b7aa49c6eb3cff6c2d0393e565d821",
+    "sha256": "c8dd0ded76b3c61e0d3f4f1801912e013baa8bc5283080afa453810b122c3220"
   },
   "dob": {
-    "date": "1996-11-10T13:03:48.699Z",
-    "age": 28
+    "date": "1962-12-26T10:24:10.651Z",
+    "age": 62
   },
   "registered": {
-    "date": "2011-02-05T05:23:24.475Z",
-    "age": 14
+    "date": "2013-09-26T19:13:43.645Z",
+    "age": 11
   },
-  "phone": "I29 H47-5087",
-  "cell": "K00 K38-7870",
+  "phone": "L58 S39-0811",
+  "cell": "V67 L22-0969",
   "id": {
     "name": "SIN",
-    "value": "754117240"
+    "value": "593870710"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+    "large": "https://randomuser.me/api/portraits/men/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
   },
   "nat": "CA"
 }

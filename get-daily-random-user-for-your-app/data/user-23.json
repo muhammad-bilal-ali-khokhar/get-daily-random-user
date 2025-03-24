@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Danilo",
-    "last": "Pejaković"
+    "first": "Ekkehard",
+    "last": "Hellmuth"
   },
   "location": {
     "street": {
-      "number": 4489,
-      "name": "Koprivnička"
+      "number": 5788,
+      "name": "Talstraße"
     },
-    "city": "Kula",
-    "state": "Nišava",
-    "country": "Serbia",
-    "postcode": 25929,
+    "city": "Hochheim am Main",
+    "state": "Brandenburg",
+    "country": "Germany",
+    "postcode": 17656,
     "coordinates": {
-      "latitude": "62.3123",
-      "longitude": "-63.0765"
+      "latitude": "-47.7178",
+      "longitude": "-61.3456"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "danilo.pejakovic@example.com",
+  "email": "ekkehard.hellmuth@example.com",
   "login": {
-    "uuid": "28576652-8519-4c99-ba30-d60f09648a34",
-    "username": "bluebear835",
-    "password": "peterpan",
-    "salt": "GuhJYMK8",
-    "md5": "8f55ad19227b05e9fbd91a50914c7bbe",
-    "sha1": "7b446b83aa0ca3eb27872fa968ad004094c4742d",
-    "sha256": "7495e52a8f96719a7bc768cca650d3f4331d70fce9e53d49da594cd283f93ad0"
+    "uuid": "3529e631-3b93-447e-878d-9f43f2a64937",
+    "username": "orangesnake619",
+    "password": "hover",
+    "salt": "nRKnrC4W",
+    "md5": "2f471fe6ad4bfbe04f8587f509620330",
+    "sha1": "8805beb9527e80d23cc18d52dace426279877456",
+    "sha256": "bc12eb94bbcd8ebe509de18f082e8c337e7bd76f66569cb855d4558b6dd5ba42"
   },
   "dob": {
-    "date": "1968-02-01T07:05:15.349Z",
-    "age": 57
+    "date": "1999-01-26T10:00:37.396Z",
+    "age": 26
   },
   "registered": {
-    "date": "2002-09-17T08:22:19.492Z",
-    "age": 22
+    "date": "2007-05-28T18:46:43.169Z",
+    "age": 17
   },
-  "phone": "016-3256-235",
-  "cell": "068-7967-473",
+  "phone": "0916-3362412",
+  "cell": "0173-7178495",
   "id": {
-    "name": "SID",
-    "value": "286115836"
+    "name": "SVNR",
+    "value": "75 260199 H 472"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/97.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    "large": "https://randomuser.me/api/portraits/men/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
   },
-  "nat": "RS"
+  "nat": "DE"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Scarlett",
-    "last": "Robinson"
+    "title": "Mr",
+    "first": "Same",
+    "last": "Webb"
   },
   "location": {
     "street": {
-      "number": 9335,
-      "name": "Wellesley Street"
+      "number": 2029,
+      "name": "Nowlin Rd"
     },
-    "city": "New Plymouth",
-    "state": "Canterbury",
-    "country": "New Zealand",
-    "postcode": 90979,
+    "city": "Rockhampton",
+    "state": "Victoria",
+    "country": "Australia",
+    "postcode": 4010,
     "coordinates": {
-      "latitude": "49.1486",
-      "longitude": "28.6340"
+      "latitude": "-89.6257",
+      "longitude": "-7.0286"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "scarlett.robinson@example.com",
+  "email": "same.webb@example.com",
   "login": {
-    "uuid": "e9f9ef82-e4f4-4efa-b4df-5c23612d1e0f",
-    "username": "yellowfrog789",
-    "password": "skyhawk",
-    "salt": "s8q47Npq",
-    "md5": "8ac4999cade84dc8143ade462b998870",
-    "sha1": "d47d84157aeb733b9fe17de41665ec7b9c46e4c5",
-    "sha256": "01c53e9477fdf09a8a0fd57536cb0207451f0136e07cc3f53ab3509a445abe8d"
+    "uuid": "df539bc9-749b-41a0-b0d3-e4c0d5be1a60",
+    "username": "ticklishdog929",
+    "password": "262626",
+    "salt": "CpLSeOb0",
+    "md5": "accf2065817ec50c6f21e3ca8da24a2f",
+    "sha1": "c3bd2a9964a8f3497b5528bd88e68ac164adfb79",
+    "sha256": "24dd06d1051f7af07bde4a04bff3b55c8dda24248f5dcbe9b9fe2d1dd5891d53"
   },
   "dob": {
-    "date": "1953-12-28T04:10:16.414Z",
-    "age": 71
+    "date": "1961-02-28T17:17:24.796Z",
+    "age": 64
   },
   "registered": {
-    "date": "2006-04-01T16:10:44.697Z",
-    "age": 18
+    "date": "2018-05-19T19:30:49.668Z",
+    "age": 6
   },
-  "phone": "(018)-190-9347",
-  "cell": "(144)-365-3664",
+  "phone": "08-3790-6407",
+  "cell": "0480-314-642",
   "id": {
-    "name": "",
-    "value": null
+    "name": "TFN",
+    "value": "335790081"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
   },
-  "nat": "NZ"
+  "nat": "AU"
 }
