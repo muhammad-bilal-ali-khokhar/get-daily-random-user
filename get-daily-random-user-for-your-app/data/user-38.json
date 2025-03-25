@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Hermine",
-    "last": "Dumas"
+    "title": "Miss",
+    "first": "Teresa",
+    "last": "Rodríguez"
   },
   "location": {
     "street": {
-      "number": 7595,
-      "name": "Montée du Chemin-Neuf"
+      "number": 7220,
+      "name": "Calle Covadonga"
     },
-    "city": "Hofstetten (Zh)",
-    "state": "Neuchâtel",
-    "country": "Switzerland",
-    "postcode": 8238,
+    "city": "Talavera de la Reina",
+    "state": "Comunidad de Madrid",
+    "country": "Spain",
+    "postcode": 23897,
     "coordinates": {
-      "latitude": "-57.4622",
-      "longitude": "104.3695"
+      "latitude": "-32.3704",
+      "longitude": "46.3939"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "hermine.dumas@example.com",
+  "email": "teresa.rodriguez@example.com",
   "login": {
-    "uuid": "63e8c267-8d3d-428d-b696-36a6a7c4982d",
-    "username": "heavyduck485",
-    "password": "mamas",
-    "salt": "Zn2kIYoA",
-    "md5": "be8fd72f55d992509622b794e1cf6410",
-    "sha1": "e0ca0a41efa29486fda08fa95f0a903ebf875212",
-    "sha256": "c20bcaf134435bad11fbeb55a459737d09eb110643704613a6a4186adfdf739a"
+    "uuid": "ec45b3d7-2109-4982-93ed-4f4fbf37c770",
+    "username": "smallfish959",
+    "password": "teddybea",
+    "salt": "fcMKGiZo",
+    "md5": "4dc8f75aa491ea92d63c68553574ba5b",
+    "sha1": "4113245f2e82cef0d78175ade17a6090d26d321b",
+    "sha256": "b87e687e8f07ae1d00853ee9d07106baec2694da88d0ea0ba65ca9621ba32d43"
   },
   "dob": {
-    "date": "1980-09-06T01:52:16.398Z",
-    "age": 44
+    "date": "1962-02-06T17:04:27.156Z",
+    "age": 63
   },
   "registered": {
-    "date": "2010-04-02T12:37:47.614Z",
-    "age": 14
+    "date": "2021-06-25T12:50:53.530Z",
+    "age": 3
   },
-  "phone": "076 651 89 81",
-  "cell": "079 605 48 80",
+  "phone": "991-474-408",
+  "cell": "641-842-435",
   "id": {
-    "name": "AVS",
-    "value": "756.8446.2252.99"
+    "name": "DNI",
+    "value": "05043437-J"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/64.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+    "large": "https://randomuser.me/api/portraits/women/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
   },
-  "nat": "CH"
+  "nat": "ES"
 }

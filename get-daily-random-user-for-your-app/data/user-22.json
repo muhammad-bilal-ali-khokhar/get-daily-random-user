@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Max",
-    "last": "Kumar"
+    "title": "Miss",
+    "first": "Erika",
+    "last": "Grishchenko"
   },
   "location": {
     "street": {
-      "number": 3089,
-      "name": "Northcote Road"
+      "number": 3368,
+      "name": "Yaroslaviv Val"
     },
-    "city": "Napier",
-    "state": "Tasman",
-    "country": "New Zealand",
-    "postcode": 34946,
+    "city": "Gola Pristan",
+    "state": "Dnipropetrovska",
+    "country": "Ukraine",
+    "postcode": 21421,
     "coordinates": {
-      "latitude": "47.2116",
-      "longitude": "-127.7729"
+      "latitude": "79.0770",
+      "longitude": "114.4329"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "max.kumar@example.com",
+  "email": "erika.grishchenko@example.com",
   "login": {
-    "uuid": "b60497c4-92d9-4120-ac9e-d16935b2eb44",
-    "username": "organicwolf877",
-    "password": "saturn",
-    "salt": "Jl2JflbP",
-    "md5": "85733fddc4c8f49ae61728579312aa3f",
-    "sha1": "057e22bd771b961c5cad454b7157ffde0ab9fc5b",
-    "sha256": "ac6c4de3196e6d15fbfcea2c3fdd28b2c79314ce8ab8835bdc46562c771eff51"
+    "uuid": "43155f32-2ad7-437a-9f80-3950ffc5bb9f",
+    "username": "angryduck661",
+    "password": "kathleen",
+    "salt": "PZBmBQe8",
+    "md5": "06b1f8f7be10a9678b2962336068a579",
+    "sha1": "e6027daedbd831ff8fde0ba05f3132afd34a0bab",
+    "sha256": "2d3936af3c23d7fbc2f7188fdffbb735456d3c4b219e9933aeea1ffd97a17db3"
   },
   "dob": {
-    "date": "1948-06-05T18:52:10.573Z",
-    "age": 76
+    "date": "1963-10-17T00:08:10.511Z",
+    "age": 61
   },
   "registered": {
-    "date": "2010-03-07T15:56:18.286Z",
-    "age": 15
+    "date": "2003-03-11T21:11:42.779Z",
+    "age": 22
   },
-  "phone": "(236)-187-2238",
-  "cell": "(819)-693-3737",
+  "phone": "(099) T37-7596",
+  "cell": "(068) C32-7492",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/60.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+    "large": "https://randomuser.me/api/portraits/women/94.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
   },
-  "nat": "NZ"
+  "nat": "UA"
 }

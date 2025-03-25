@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Emile",
-    "last": "Addy"
+    "title": "Ms",
+    "first": "Afina",
+    "last": "Krichevskiy"
   },
   "location": {
     "street": {
-      "number": 5347,
-      "name": "Dieppe Ave"
+      "number": 9066,
+      "name": "Grabovskogo"
     },
-    "city": "Inwood",
-    "state": "Québec",
-    "country": "Canada",
-    "postcode": "K8U 8M9",
+    "city": "Novodnistrovsk",
+    "state": "Dnipropetrovska",
+    "country": "Ukraine",
+    "postcode": 66063,
     "coordinates": {
-      "latitude": "-72.3089",
-      "longitude": "-178.8963"
+      "latitude": "73.9391",
+      "longitude": "42.8602"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "emile.addy@example.com",
+  "email": "afina.krichevskiy@example.com",
   "login": {
-    "uuid": "40d857de-790c-4f96-a2d8-6e8b7939881f",
-    "username": "smallleopard460",
-    "password": "bronze",
-    "salt": "DMbW8JAz",
-    "md5": "c0477826a4b9b789cf45c023c8bd9279",
-    "sha1": "06616242a315664279713a7f065e308c0d9dfa5d",
-    "sha256": "45714e9ff169ff7ca3ba38f076b0d7d23503b12515a91a46a3eee317f2ea259c"
+    "uuid": "17b8e492-9caa-4605-8c84-8288ca9bdd0a",
+    "username": "crazyleopard247",
+    "password": "krystal",
+    "salt": "UQOzauaV",
+    "md5": "b74f0547c004f2d59ce47740f9a04ac2",
+    "sha1": "32e6ee1b27b368b9c56c51480114b676c6305bfa",
+    "sha256": "223a0202098875615fccc21bb6cec662b4b016839ea0b51129d51213e9b01e1b"
   },
   "dob": {
-    "date": "1995-01-07T01:07:15.125Z",
-    "age": 30
+    "date": "1974-01-12T08:44:33.159Z",
+    "age": 51
   },
   "registered": {
-    "date": "2012-07-28T22:30:52.396Z",
+    "date": "2012-08-11T06:42:09.704Z",
     "age": 12
   },
-  "phone": "M62 P55-0997",
-  "cell": "V77 B26-7526",
+  "phone": "(097) O78-8060",
+  "cell": "(068) A86-2094",
   "id": {
-    "name": "SIN",
-    "value": "477588784"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/71.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    "large": "https://randomuser.me/api/portraits/women/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
   },
-  "nat": "CA"
+  "nat": "UA"
 }

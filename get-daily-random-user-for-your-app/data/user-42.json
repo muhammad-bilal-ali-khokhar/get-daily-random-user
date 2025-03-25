@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Viljami",
-    "last": "Palo"
+    "first": "Efe",
+    "last": "Balaban"
   },
   "location": {
     "street": {
-      "number": 6856,
-      "name": "Tehtaankatu"
+      "number": 1903,
+      "name": "Istiklal Cd"
     },
-    "city": "Pertunmaa",
-    "state": "Tavastia Proper",
-    "country": "Finland",
-    "postcode": 23582,
+    "city": "Ardahan",
+    "state": "Elazığ",
+    "country": "Turkey",
+    "postcode": 39966,
     "coordinates": {
-      "latitude": "-29.8551",
-      "longitude": "-139.5965"
+      "latitude": "65.2413",
+      "longitude": "-69.9127"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "viljami.palo@example.com",
+  "email": "efe.balaban@example.com",
   "login": {
-    "uuid": "fa2aead2-d65a-4abf-b9ab-42821f957fbc",
-    "username": "redpanda376",
-    "password": "maria",
-    "salt": "YAxOQT8n",
-    "md5": "001a7822e7b40ec32b8ba1e1b6fdf9b7",
-    "sha1": "03b192c5ebeab73444759fe35a71b86f13b4e3f6",
-    "sha256": "5b19b628727e408120dfd68db427ee3cdd199b3713b2b3f3d5586c6d3ad1facc"
+    "uuid": "43e37e45-3ab5-4cd6-89b3-e791374bb054",
+    "username": "sadelephant907",
+    "password": "michael",
+    "salt": "mPTvVZAX",
+    "md5": "2cb2b1b49c61a4d4abb6ee6c1bd0c303",
+    "sha1": "3c36c5826f42a0294ed98ae461fb97d21da9a51d",
+    "sha256": "75c20d00c43d645718dffb5ee74a2da3018a79618946a4a69ea8bc2c9aa7331b"
   },
   "dob": {
-    "date": "1952-05-01T17:39:57.799Z",
-    "age": 72
+    "date": "1971-07-28T14:21:40.810Z",
+    "age": 53
   },
   "registered": {
-    "date": "2012-10-27T17:04:14.496Z",
-    "age": 12
+    "date": "2014-09-19T16:54:27.801Z",
+    "age": 10
   },
-  "phone": "02-963-497",
-  "cell": "047-769-77-95",
+  "phone": "(242)-770-3284",
+  "cell": "(638)-926-0398",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA763undefined"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "FI"
+  "nat": "TR"
 }

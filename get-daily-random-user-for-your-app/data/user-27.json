@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Louise",
-    "last": "Myers"
+    "title": "Mr",
+    "first": "Jeremy",
+    "last": "Smith"
   },
   "location": {
     "street": {
-      "number": 5166,
-      "name": "W Dallas St"
+      "number": 5640,
+      "name": "Vimy St"
     },
-    "city": "Rockhampton",
-    "state": "Western Australia",
-    "country": "Australia",
-    "postcode": 1345,
+    "city": "Vanier",
+    "state": "Ontario",
+    "country": "Canada",
+    "postcode": "K9N 7C2",
     "coordinates": {
-      "latitude": "-89.3765",
-      "longitude": "123.0101"
+      "latitude": "-70.1308",
+      "longitude": "-16.2328"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "louise.myers@example.com",
+  "email": "jeremy.smith@example.com",
   "login": {
-    "uuid": "9ac48ebf-47ce-4d37-8a2e-7b6572fd604a",
-    "username": "tinyladybug747",
-    "password": "bobbob",
-    "salt": "EW51lBFO",
-    "md5": "b52962d9d454704439cf40dd1ac05195",
-    "sha1": "eb569fbd421bea93d2b7bd3dfe3b1ed313588fd2",
-    "sha256": "f4f5396b0b7d14e39b3ac120afaff3df9be84a1ed1851758b717eaf1e2b3734f"
+    "uuid": "7d69eea3-12bf-444d-8459-1857cbb7de6e",
+    "username": "goldenmeercat181",
+    "password": "dreaming",
+    "salt": "eiS0rpZr",
+    "md5": "1b5bba6cdaeb050966c9cad579864914",
+    "sha1": "a73bfdf40eacde322be82894d1c8492bf646d2c9",
+    "sha256": "d677ce3e7069e1b51ebad8a6952f6c3a46f9508877ffa25191fe347b18b62b10"
   },
   "dob": {
-    "date": "1966-11-08T05:35:01.677Z",
-    "age": 58
+    "date": "1973-02-10T17:27:34.077Z",
+    "age": 52
   },
   "registered": {
-    "date": "2009-04-15T16:50:29.151Z",
-    "age": 15
+    "date": "2009-02-02T04:15:51.727Z",
+    "age": 16
   },
-  "phone": "01-9840-2600",
-  "cell": "0435-919-646",
+  "phone": "T77 M89-4865",
+  "cell": "Z12 N24-8336",
   "id": {
-    "name": "TFN",
-    "value": "417716740"
+    "name": "SIN",
+    "value": "971714282"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
   },
-  "nat": "AU"
+  "nat": "CA"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Marinei",
-    "last": "Barros"
+    "title": "Ms",
+    "first": "Tverdogosta",
+    "last": "Oleshchuk"
   },
   "location": {
     "street": {
-      "number": 7592,
-      "name": "Rua Bela Vista "
+      "number": 7212,
+      "name": "Ivana Mazepi"
     },
-    "city": "Cabo de Santo Agostinho",
-    "state": "Goiás",
-    "country": "Brazil",
-    "postcode": 98089,
+    "city": "Shcholkine",
+    "state": "Hmelnicka",
+    "country": "Ukraine",
+    "postcode": 69941,
     "coordinates": {
-      "latitude": "-77.5089",
-      "longitude": "143.2770"
+      "latitude": "75.6409",
+      "longitude": "15.3961"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "marinei.barros@example.com",
+  "email": "tverdogosta.oleshchuk@example.com",
   "login": {
-    "uuid": "a195c225-f8b5-4dbf-98ff-f899eeafbfc0",
-    "username": "whitewolf589",
-    "password": "youknow",
-    "salt": "IUt2R8gH",
-    "md5": "16b95db736facbfac6a4a000ed4538c5",
-    "sha1": "4e086e30cbadde937596ff8605a9023f88ed12c0",
-    "sha256": "e3d91f59e8da72d5fb1601c85a2b377c2be6c4e251f517fbd370e7e44a50715d"
+    "uuid": "eae6b5fe-a7db-42d0-ab88-4d12417628ec",
+    "username": "orangeelephant885",
+    "password": "lollipop",
+    "salt": "C3Qj2d4U",
+    "md5": "5825e3ad041552e6541890ca48a30224",
+    "sha1": "b615da9241f76dae7b0d3237cf7d96957f9f1507",
+    "sha256": "39150411dc4f66823817237e3e26dadd321d0a5bbcdd7f07e1989a93396a5bbc"
   },
   "dob": {
-    "date": "1979-11-06T04:24:38.373Z",
-    "age": 45
+    "date": "1950-02-08T14:45:44.756Z",
+    "age": 75
   },
   "registered": {
-    "date": "2014-07-22T15:46:02.673Z",
-    "age": 10
+    "date": "2005-05-14T11:20:41.635Z",
+    "age": 19
   },
-  "phone": "(96) 9797-0328",
-  "cell": "(96) 0740-0870",
+  "phone": "(066) M41-5971",
+  "cell": "(099) S14-2760",
   "id": {
-    "name": "CPF",
-    "value": "546.921.806-39"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/85.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+    "large": "https://randomuser.me/api/portraits/women/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
   },
-  "nat": "BR"
+  "nat": "UA"
 }

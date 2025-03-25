@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Sivert",
-    "last": "Thorgersen"
+    "first": "Semibor",
+    "last": "Tistik"
   },
   "location": {
     "street": {
-      "number": 3230,
-      "name": "Tuengveien"
+      "number": 3469,
+      "name": "295-yi Hersonskoyi diviziyi"
     },
-    "city": "Rophus",
-    "state": "Trøndelag",
-    "country": "Norway",
-    "postcode": "3321",
+    "city": "Zhovti Vodi",
+    "state": "Odeska",
+    "country": "Ukraine",
+    "postcode": 90018,
     "coordinates": {
-      "latitude": "44.6087",
-      "longitude": "-97.3410"
+      "latitude": "76.4901",
+      "longitude": "-112.2797"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "sivert.thorgersen@example.com",
+  "email": "semibor.tistik@example.com",
   "login": {
-    "uuid": "dd05eaed-762a-497c-b27b-a7806aff6ad8",
-    "username": "heavyostrich665",
-    "password": "bing",
-    "salt": "CxiNKCYT",
-    "md5": "e378e598b78d917f576af6a4314de8db",
-    "sha1": "135463f0f3ad4452bd33f4611bf0538834294b10",
-    "sha256": "942d7a42485dc2881cce65b4ec85c951ec7cccee441d7617115dfef5617d903b"
+    "uuid": "cd65049e-c9b1-4a59-81ee-f115ac95cfb3",
+    "username": "tinyswan945",
+    "password": "baggio",
+    "salt": "WLTeNuLY",
+    "md5": "3785ab3f9a55abf2b59e539089357600",
+    "sha1": "765a3b6c53340f4a1bab25faaa66b280b1c7a099",
+    "sha256": "4eda3d9ea738b240b2612b457a2e58a78554ad9eeb1a557b708dd6b79b5593f3"
   },
   "dob": {
-    "date": "1972-01-27T14:44:34.607Z",
-    "age": 53
+    "date": "1950-06-29T11:09:01.121Z",
+    "age": 74
   },
   "registered": {
-    "date": "2012-05-02T00:22:51.530Z",
-    "age": 12
+    "date": "2004-07-10T05:25:42.517Z",
+    "age": 20
   },
-  "phone": "56994685",
-  "cell": "97857523",
+  "phone": "(097) U53-7972",
+  "cell": "(097) Z70-7963",
   "id": {
-    "name": "FN",
-    "value": "27017220999"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "NO"
+  "nat": "UA"
 }

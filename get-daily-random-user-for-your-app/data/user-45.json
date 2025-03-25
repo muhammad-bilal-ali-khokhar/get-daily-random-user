@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Liam",
-    "last": "Macdonald"
+    "first": "Mahmoud",
+    "last": "Lind"
   },
   "location": {
     "street": {
-      "number": 5849,
-      "name": "Elgin St"
+      "number": 5951,
+      "name": "Arildsvingen"
     },
-    "city": "Lasalle",
-    "state": "Nunavut",
-    "country": "Canada",
-    "postcode": "Y7S 0M7",
+    "city": "Hønefoss",
+    "state": "Rogaland",
+    "country": "Norway",
+    "postcode": "2690",
     "coordinates": {
-      "latitude": "-70.3569",
-      "longitude": "-145.6024"
+      "latitude": "44.2880",
+      "longitude": "-30.5316"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "liam.macdonald@example.com",
+  "email": "mahmoud.lind@example.com",
   "login": {
-    "uuid": "89397894-2bb8-466c-b873-7b9b80df1693",
-    "username": "heavyduck522",
-    "password": "kittycat",
-    "salt": "jRTHzzX9",
-    "md5": "86e5b92b48e116ac85d5bf11807bbc75",
-    "sha1": "870be6d0594c092ca543f2804f43011537206269",
-    "sha256": "025df70f89f4e62a4587e090f3ef09dbfb4f330505f1b4ca607d36a5e7880ea0"
+    "uuid": "97e905a0-41c3-416d-bb7b-57586fc0f8c9",
+    "username": "lazypanda411",
+    "password": "qwerty12",
+    "salt": "pfXnfyZT",
+    "md5": "c97c317c7ade421a60d663a492015a43",
+    "sha1": "3e47ace54b60ac88c93361f8c04c406877768bcb",
+    "sha256": "7183c81e2f38d61f2698ca24230599e13015125588a2cce4e25e88d969e03dbb"
   },
   "dob": {
-    "date": "1985-01-22T23:53:58.413Z",
-    "age": 40
+    "date": "1970-01-13T21:42:15.910Z",
+    "age": 55
   },
   "registered": {
-    "date": "2014-04-11T20:13:18.446Z",
-    "age": 10
+    "date": "2009-03-08T17:24:39.027Z",
+    "age": 16
   },
-  "phone": "O08 Z03-5187",
-  "cell": "J57 I13-9349",
+  "phone": "59709575",
+  "cell": "96387577",
   "id": {
-    "name": "SIN",
-    "value": "197257900"
+    "name": "FN",
+    "value": "13017010705"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/73.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    "large": "https://randomuser.me/api/portraits/men/50.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
   },
-  "nat": "CA"
+  "nat": "NO"
 }

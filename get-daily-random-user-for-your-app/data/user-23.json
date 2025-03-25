@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Ekkehard",
-    "last": "Hellmuth"
+    "title": "Miss",
+    "first": "Stella",
+    "last": "Marie"
   },
   "location": {
     "street": {
-      "number": 5788,
-      "name": "Talstraße"
+      "number": 1871,
+      "name": "Place de L'Église"
     },
-    "city": "Hochheim am Main",
-    "state": "Brandenburg",
-    "country": "Germany",
-    "postcode": 17656,
+    "city": "Aubervilliers",
+    "state": "Ille-et-Vilaine",
+    "country": "France",
+    "postcode": 78057,
     "coordinates": {
-      "latitude": "-47.7178",
-      "longitude": "-61.3456"
+      "latitude": "-14.1159",
+      "longitude": "0.7694"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "ekkehard.hellmuth@example.com",
+  "email": "stella.marie@example.com",
   "login": {
-    "uuid": "3529e631-3b93-447e-878d-9f43f2a64937",
-    "username": "orangesnake619",
-    "password": "hover",
-    "salt": "nRKnrC4W",
-    "md5": "2f471fe6ad4bfbe04f8587f509620330",
-    "sha1": "8805beb9527e80d23cc18d52dace426279877456",
-    "sha256": "bc12eb94bbcd8ebe509de18f082e8c337e7bd76f66569cb855d4558b6dd5ba42"
+    "uuid": "f9292317-c29a-412e-87b8-5bddf26f4f24",
+    "username": "orangefrog768",
+    "password": "regina",
+    "salt": "jMNgi5qB",
+    "md5": "2eb688847b4e43355cf57918e66e98b4",
+    "sha1": "8a1edda752d10389e17976259d447bb6e437ccbb",
+    "sha256": "cc93a9f02c47df25d08ff4ffa6fe780480d90ced01abfce89d04497e2fae9371"
   },
   "dob": {
-    "date": "1999-01-26T10:00:37.396Z",
-    "age": 26
+    "date": "1990-12-26T00:08:46.010Z",
+    "age": 34
   },
   "registered": {
-    "date": "2007-05-28T18:46:43.169Z",
-    "age": 17
+    "date": "2019-01-21T14:20:04.132Z",
+    "age": 6
   },
-  "phone": "0916-3362412",
-  "cell": "0173-7178495",
+  "phone": "01-49-39-12-84",
+  "cell": "06-95-09-03-07",
   "id": {
-    "name": "SVNR",
-    "value": "75 260199 H 472"
+    "name": "INSEE",
+    "value": "2901151543180 32"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    "large": "https://randomuser.me/api/portraits/women/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
   },
-  "nat": "DE"
+  "nat": "FR"
 }

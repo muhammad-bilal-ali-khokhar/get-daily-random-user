@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Celia",
-    "last": "Yildiz"
+    "title": "Mr",
+    "first": "Ilija",
+    "last": "Žikić"
   },
   "location": {
     "street": {
-      "number": 1039,
-      "name": "Vækerøveien"
+      "number": 9347,
+      "name": "Kneza Vlastimira "
     },
-    "city": "Fiksdal",
-    "state": "Akershus",
-    "country": "Norway",
-    "postcode": "6895",
+    "city": "Ivanjica",
+    "state": "Kosovo-Pomoravlje",
+    "country": "Serbia",
+    "postcode": 53706,
     "coordinates": {
-      "latitude": "46.7220",
-      "longitude": "49.3280"
+      "latitude": "59.6575",
+      "longitude": "-69.5143"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "celia.yildiz@example.com",
+  "email": "ilija.zikic@example.com",
   "login": {
-    "uuid": "2f7e1f20-403a-4522-99a7-d1e66dfe1366",
-    "username": "heavysnake163",
-    "password": "peter",
-    "salt": "bmPujhhL",
-    "md5": "8f37e16b641dafda520fe91c71cdb8e5",
-    "sha1": "6c17b4d0fd6c3839172dc070ad80faa28010c629",
-    "sha256": "d165b9d6fa3c062fabbd78bf17e4ec0558bb68ef7ed83005f0b1faa4395dd316"
+    "uuid": "5f6e5437-4008-4b76-a33f-99707e7bdfb6",
+    "username": "brownzebra617",
+    "password": "chef",
+    "salt": "qcaISDy3",
+    "md5": "49fb74c20c4bba4e9d9aef647f41ab4d",
+    "sha1": "889ba79302631fb824072304dfeea261a1bdbdb6",
+    "sha256": "10fca0367ca64527bd8e90de64a0338cfaaf31ebaf67ef1a152b75af2c61dd2b"
   },
   "dob": {
-    "date": "1997-09-08T19:05:26.871Z",
-    "age": 27
+    "date": "1978-10-10T13:09:33.231Z",
+    "age": 46
   },
   "registered": {
-    "date": "2010-07-14T11:00:01.614Z",
-    "age": 14
+    "date": "2011-06-01T15:39:49.954Z",
+    "age": 13
   },
-  "phone": "89802448",
-  "cell": "94219599",
+  "phone": "029-4689-747",
+  "cell": "069-1055-739",
   "id": {
-    "name": "FN",
-    "value": "08099741695"
+    "name": "SID",
+    "value": "060422916"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "NO"
+  "nat": "RS"
 }

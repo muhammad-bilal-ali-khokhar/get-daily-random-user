@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Dorian",
-    "last": "Mercier"
+    "title": "Mademoiselle",
+    "first": "Seraina",
+    "last": "Bonnet"
   },
   "location": {
     "street": {
-      "number": 9198,
-      "name": "Rue du Bât-D'Argent"
+      "number": 9523,
+      "name": "Rue du Village"
     },
-    "city": "Rennes",
-    "state": "Yvelines",
-    "country": "France",
-    "postcode": 48459,
+    "city": "Niederhelfenschwil",
+    "state": "Valais",
+    "country": "Switzerland",
+    "postcode": 1354,
     "coordinates": {
-      "latitude": "-20.1674",
-      "longitude": "-130.9427"
+      "latitude": "-63.8280",
+      "longitude": "31.8130"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "dorian.mercier@example.com",
+  "email": "seraina.bonnet@example.com",
   "login": {
-    "uuid": "3aeeccf6-60c8-4246-8eab-b536e250562c",
-    "username": "redpeacock749",
-    "password": "tickler",
-    "salt": "yaWHiszV",
-    "md5": "e80fb3c154098f3802ec412bc0bd6d29",
-    "sha1": "c5f5ffda1d48447cc8dd142effd5dc1865720e51",
-    "sha256": "e7bbec9c7c3236f1fd38d0ecb76b5e87d9cc7680f2042213f8d07af83ea8a613"
+    "uuid": "d190fd9d-4cfe-482d-bc06-e3039708de56",
+    "username": "greentiger291",
+    "password": "010101",
+    "salt": "V86HjZ8V",
+    "md5": "de9bc61b1e10d6358e85e506335713bd",
+    "sha1": "541c40afaa7a403d641867bc5c414a0ad51034c7",
+    "sha256": "5194c40990bdfc7aec6dc5974458660fdeac26ed568a3c8d20c466fe0f6c4230"
   },
   "dob": {
-    "date": "1962-12-15T23:53:11.472Z",
-    "age": 62
+    "date": "1946-02-18T18:54:47.363Z",
+    "age": 79
   },
   "registered": {
-    "date": "2006-08-30T04:27:53.801Z",
+    "date": "2006-10-08T11:36:41.105Z",
     "age": 18
   },
-  "phone": "05-13-03-41-75",
-  "cell": "06-12-37-12-04",
+  "phone": "077 883 41 25",
+  "cell": "077 005 13 78",
   "id": {
-    "name": "INSEE",
-    "value": "1621162598431 32"
+    "name": "AVS",
+    "value": "756.7236.6727.84"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    "large": "https://randomuser.me/api/portraits/women/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
   },
-  "nat": "FR"
+  "nat": "CH"
 }

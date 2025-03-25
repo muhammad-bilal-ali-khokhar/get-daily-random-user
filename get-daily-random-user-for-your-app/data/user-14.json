@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jorge",
-    "last": "Téllez"
+    "first": "Alex",
+    "last": "Rojas"
   },
   "location": {
     "street": {
-      "number": 165,
-      "name": "Pasaje Valencia"
+      "number": 2306,
+      "name": "Calle de Téllez"
     },
-    "city": "Moyahua",
-    "state": "Guerrero",
-    "country": "Mexico",
-    "postcode": 82587,
+    "city": "San Sebastián",
+    "state": "Ceuta",
+    "country": "Spain",
+    "postcode": 72089,
     "coordinates": {
-      "latitude": "24.3004",
-      "longitude": "-55.6264"
+      "latitude": "-31.9042",
+      "longitude": "-15.0398"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "jorge.tellez@example.com",
+  "email": "alex.rojas@example.com",
   "login": {
-    "uuid": "8d20b86c-612d-497a-8d99-1c338b42095c",
-    "username": "orangemeercat168",
-    "password": "sims",
-    "salt": "Agh1LEMb",
-    "md5": "020bd7cf9279b7be7828ac2449f55b5d",
-    "sha1": "9173d494ccbacdab2ecb46907256fd659b971d6f",
-    "sha256": "d19abf8f976bad51fdb1b10eda7274723c1588c689fed4e34e8a9d0ac3db58b1"
+    "uuid": "1c03bb6b-bebb-4900-b66f-1ef1cd7acdf4",
+    "username": "happyzebra201",
+    "password": "herring",
+    "salt": "S3TRKcbm",
+    "md5": "f221ccd1cdcfcd4db143fd181dbad628",
+    "sha1": "6ae34c4d9f068a24bb3c50757a7071fc29ab1179",
+    "sha256": "16c8fa33f41a5a6cd104e1ab72ae5f9b07bc46992e21d1b8340e4a9f3a5351b7"
   },
   "dob": {
-    "date": "1990-04-01T22:11:49.111Z",
-    "age": 34
+    "date": "1997-11-07T18:55:49.287Z",
+    "age": 27
   },
   "registered": {
-    "date": "2006-11-19T00:32:27.490Z",
-    "age": 18
+    "date": "2021-10-03T12:40:49.641Z",
+    "age": 3
   },
-  "phone": "(657) 210 5370",
-  "cell": "(642) 312 0017",
+  "phone": "978-468-893",
+  "cell": "622-357-030",
   "id": {
-    "name": "NSS",
-    "value": "32 69 60 0434 9"
+    "name": "DNI",
+    "value": "30762122-I"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/20.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
   },
-  "nat": "MX"
+  "nat": "ES"
 }

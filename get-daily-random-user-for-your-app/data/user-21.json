@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Lauri",
-    "last": "Hietala"
+    "first": "Daniel",
+    "last": "Li"
   },
   "location": {
     "street": {
-      "number": 6154,
-      "name": "Hatanpään Valtatie"
+      "number": 385,
+      "name": "Whakatu Drive"
     },
-    "city": "Jomala",
-    "state": "Tavastia Proper",
-    "country": "Finland",
-    "postcode": 11870,
+    "city": "New Plymouth",
+    "state": "Otago",
+    "country": "New Zealand",
+    "postcode": 62799,
     "coordinates": {
-      "latitude": "-26.6469",
-      "longitude": "-82.3948"
+      "latitude": "53.9924",
+      "longitude": "-179.5453"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "lauri.hietala@example.com",
+  "email": "daniel.li@example.com",
   "login": {
-    "uuid": "72b922d0-a197-49e2-a4d3-9035329e5ab0",
-    "username": "smallelephant658",
-    "password": "dancing",
-    "salt": "OeJDJ3jQ",
-    "md5": "9252a37ed36fedcd3ceabd4a69c9c77e",
-    "sha1": "3d05bf8d79369a9c5f439bc29d4926885b1ecb15",
-    "sha256": "9128da3d3154550d89dba2712c6fdcb9e053bc1bf4c780b12f188191d2abcbbf"
+    "uuid": "47e0f899-be5a-4016-8b46-5f26fcd2fc28",
+    "username": "crazygorilla431",
+    "password": "redman",
+    "salt": "U3wNdeyc",
+    "md5": "87a5aa24a03975f2667a6443cde70311",
+    "sha1": "d5e38ff0d04cbf431f8b2ee0b21485b9435e6084",
+    "sha256": "3e09e01ce41425e9708fd0644825697ccbf12e56abdd959bf64393c391f47c99"
   },
   "dob": {
-    "date": "1948-03-05T05:25:33.476Z",
-    "age": 77
+    "date": "2001-02-06T09:12:30.058Z",
+    "age": 24
   },
   "registered": {
-    "date": "2006-03-07T18:10:43.591Z",
-    "age": 19
+    "date": "2004-09-29T00:41:59.141Z",
+    "age": 20
   },
-  "phone": "03-159-367",
-  "cell": "040-953-64-60",
+  "phone": "(978)-197-1529",
+  "cell": "(869)-712-8531",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA391undefined"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
   },
-  "nat": "FI"
+  "nat": "NZ"
 }

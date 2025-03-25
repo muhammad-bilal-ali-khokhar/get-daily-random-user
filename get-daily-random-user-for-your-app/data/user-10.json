@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Osman",
-    "last": "Sanchez"
+    "title": "Mr",
+    "first": "Karl-Josef",
+    "last": "Abraham"
   },
   "location": {
     "street": {
-      "number": 6424,
-      "name": "Rue du Bon-Pasteur"
+      "number": 9761,
+      "name": "Königsberger Straße"
     },
-    "city": "Eschert",
-    "state": "Bern",
-    "country": "Switzerland",
-    "postcode": 5654,
+    "city": "Kiel",
+    "state": "Hessen",
+    "country": "Germany",
+    "postcode": 60486,
     "coordinates": {
-      "latitude": "-58.9742",
-      "longitude": "-133.3633"
+      "latitude": "-53.9008",
+      "longitude": "-156.6332"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "osman.sanchez@example.com",
+  "email": "karl-josef.abraham@example.com",
   "login": {
-    "uuid": "cffac431-569a-42e4-975a-6cf781b277ca",
-    "username": "goldenmouse455",
-    "password": "julian",
-    "salt": "uzMPl4rh",
-    "md5": "f814498215c8a6227d6f2381199d7c48",
-    "sha1": "cc54141507441337cf189f467c05aa6da2b86581",
-    "sha256": "9f2bbdf792375cabfb410cada6eba27d89635ec9b69050977b9dc7a3999b79d5"
+    "uuid": "90df8768-48ad-4038-ae81-83ca5b824eb2",
+    "username": "lazybutterfly598",
+    "password": "tuan",
+    "salt": "rFPYaoH4",
+    "md5": "d5485c42375c7898758781b0f0af0345",
+    "sha1": "8de77053b24c8c6d613b5719157dee8edc0d84c3",
+    "sha256": "4070322246572027d834f525b1843d67aee8b882e4b7275e9abb1b51ff69376a"
   },
   "dob": {
-    "date": "1988-10-03T11:45:43.199Z",
-    "age": 36
+    "date": "1956-06-26T15:28:23.988Z",
+    "age": 68
   },
   "registered": {
-    "date": "2021-12-30T01:09:34.324Z",
-    "age": 3
+    "date": "2018-05-10T22:37:32.194Z",
+    "age": 6
   },
-  "phone": "075 714 48 69",
-  "cell": "078 028 47 54",
+  "phone": "0375-1286107",
+  "cell": "0173-0376044",
   "id": {
-    "name": "AVS",
-    "value": "756.7794.3339.07"
+    "name": "SVNR",
+    "value": "65 260656 A 093"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/64.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
   },
-  "nat": "CH"
+  "nat": "DE"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Rashmitha",
-    "last": "Prabhu"
+    "title": "Mr",
+    "first": "Cooper",
+    "last": "Smith"
   },
   "location": {
     "street": {
-      "number": 3167,
-      "name": "Lindsay St"
+      "number": 6134,
+      "name": "Highcliff Road"
     },
-    "city": "Hazaribagh",
-    "state": "Tripura",
-    "country": "India",
-    "postcode": 52468,
+    "city": "Lower Hutt",
+    "state": "Marlborough",
+    "country": "New Zealand",
+    "postcode": 94883,
     "coordinates": {
-      "latitude": "4.7469",
-      "longitude": "50.8967"
+      "latitude": "55.1692",
+      "longitude": "-13.6151"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "rashmitha.prabhu@example.com",
+  "email": "cooper.smith@example.com",
   "login": {
-    "uuid": "9a6b575e-7eca-4824-bdeb-45334116aad9",
-    "username": "sadfish433",
-    "password": "tanner",
-    "salt": "4YNGhrnZ",
-    "md5": "070f70301740a95c3e4c64ec43a9e211",
-    "sha1": "dcf4fb30523ce7ffaa2812513b1e443750cf008d",
-    "sha256": "522d8d175d25b985947f696eff96fd5ab636003b2ee6b8428e860b8ef3966b66"
+    "uuid": "4ab9666f-bdd9-4465-b54f-06ba9ee5295e",
+    "username": "crazyzebra148",
+    "password": "ferrari",
+    "salt": "UZ3IpxwQ",
+    "md5": "3955c52fd91bcf6655e68240743ad27b",
+    "sha1": "13728acb0f43dd92e5bf7c1202c7a76849ae017e",
+    "sha256": "239e8863225f7316752df1d5476f92246236892f0fca363576e1a38590adfccc"
   },
   "dob": {
-    "date": "1956-05-31T19:07:42.315Z",
-    "age": 68
+    "date": "1967-06-16T21:09:18.327Z",
+    "age": 57
   },
   "registered": {
-    "date": "2007-03-31T21:16:50.238Z",
-    "age": 17
+    "date": "2016-04-10T13:52:23.046Z",
+    "age": 8
   },
-  "phone": "7146686941",
-  "cell": "8274159420",
+  "phone": "(589)-316-3922",
+  "cell": "(432)-238-9927",
   "id": {
-    "name": "UIDAI",
-    "value": "840939965094"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/25.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+    "large": "https://randomuser.me/api/portraits/men/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
   },
-  "nat": "IN"
+  "nat": "NZ"
 }

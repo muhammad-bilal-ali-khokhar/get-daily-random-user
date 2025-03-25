@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Bonnie",
-    "last": "King"
+    "first": "Afet",
+    "last": "Süleymanoğlu"
   },
   "location": {
     "street": {
-      "number": 6806,
-      "name": "Wheeler Ridge Dr"
+      "number": 8869,
+      "name": "Filistin Cd"
     },
-    "city": "Brownsville",
-    "state": "Florida",
-    "country": "United States",
-    "postcode": 10411,
+    "city": "Niğde",
+    "state": "Aydın",
+    "country": "Turkey",
+    "postcode": 21444,
     "coordinates": {
-      "latitude": "86.9082",
-      "longitude": "135.1367"
+      "latitude": "68.7996",
+      "longitude": "50.3866"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "bonnie.king@example.com",
+  "email": "afet.suleymanoglu@example.com",
   "login": {
-    "uuid": "178daf12-0285-4461-84fa-d8bc6a19bd2d",
-    "username": "redswan585",
-    "password": "zachary1",
-    "salt": "kFwsAeIr",
-    "md5": "0d8f97550b6573d938876c19a7516845",
-    "sha1": "2b3bd56456896f8aa10fa51a21a4519296c83b9b",
-    "sha256": "e78d9cbac42d604bcb2209da2bce854a96ece95b33376e7e7479ba224fd3ed8f"
+    "uuid": "0b69e9a1-2e84-4743-be3d-1216e29ec297",
+    "username": "ticklishbutterfly262",
+    "password": "columbia",
+    "salt": "5GtEsmC6",
+    "md5": "59441a65a66b26b69a70049f9855f9ac",
+    "sha1": "a07ee5d0d7a7776dbb462eec5600555600d422e9",
+    "sha256": "fb916784f36390ff92588f46845fd3725684c444a393dd9d2e21be04180a350e"
   },
   "dob": {
-    "date": "1984-10-05T19:39:49.589Z",
-    "age": 40
+    "date": "1950-03-17T06:18:31.698Z",
+    "age": 75
   },
   "registered": {
-    "date": "2018-06-22T22:40:10.315Z",
-    "age": 6
+    "date": "2010-07-06T05:39:56.177Z",
+    "age": 14
   },
-  "phone": "(705) 781-8116",
-  "cell": "(929) 610-5330",
+  "phone": "(159)-716-4361",
+  "cell": "(992)-991-4906",
   "id": {
-    "name": "SSN",
-    "value": "120-16-6405"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
-  "nat": "US"
+  "nat": "TR"
 }

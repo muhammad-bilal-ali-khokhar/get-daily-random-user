@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Miss",
-    "first": "Wendy",
-    "last": "Van Geene"
+    "first": "Angela",
+    "last": "Muñoz"
   },
   "location": {
     "street": {
-      "number": 2328,
-      "name": "Fockstraat"
+      "number": 5429,
+      "name": "Calle de Segovia"
     },
-    "city": "Terhorst",
-    "state": "Zuid-Holland",
-    "country": "Netherlands",
-    "postcode": "6344 GY",
+    "city": "Granada",
+    "state": "Islas Baleares",
+    "country": "Spain",
+    "postcode": 44135,
     "coordinates": {
-      "latitude": "32.6555",
-      "longitude": "176.3482"
+      "latitude": "-35.3086",
+      "longitude": "142.3591"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "wendy.vangeene@example.com",
+  "email": "angela.munoz@example.com",
   "login": {
-    "uuid": "fd3838df-cf14-497e-93fd-cf1eb1393978",
-    "username": "smallsnake976",
-    "password": "whiskey",
-    "salt": "9erKB3Lo",
-    "md5": "c5d5a9cbf7e8c446b412570a54e22aea",
-    "sha1": "fe5ca18bf6de25a0cfe5219cdc72b1eea289fac8",
-    "sha256": "fb1c2ab78fc154c19c977bad0cfe2fa48fdc08653b6ee36bdbff9d24b62e481e"
+    "uuid": "1a45895b-647d-42f7-9c1e-3e295df92adc",
+    "username": "whiteelephant901",
+    "password": "barrett",
+    "salt": "sDYj8BKX",
+    "md5": "e6bc4f9f79b58aba9da77edf10b26601",
+    "sha1": "c5933201f59be35a5c64860999f2018477609c4c",
+    "sha256": "4046d6acad690806c616fc0b1320fc3e016e53e64e3960fafa46587bf27c2eb3"
   },
   "dob": {
-    "date": "1951-03-02T03:29:37.207Z",
-    "age": 74
+    "date": "1954-10-31T16:07:21.834Z",
+    "age": 70
   },
   "registered": {
-    "date": "2020-03-21T11:31:25.989Z",
-    "age": 5
+    "date": "2014-04-06T22:47:32.266Z",
+    "age": 10
   },
-  "phone": "(0480) 805983",
-  "cell": "(06) 73324413",
+  "phone": "989-616-870",
+  "cell": "660-867-402",
   "id": {
-    "name": "BSN",
-    "value": "79503409"
+    "name": "DNI",
+    "value": "05319109-N"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/67.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+    "large": "https://randomuser.me/api/portraits/women/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
   },
-  "nat": "NL"
+  "nat": "ES"
 }

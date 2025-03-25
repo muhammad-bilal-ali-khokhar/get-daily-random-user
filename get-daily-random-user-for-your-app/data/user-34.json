@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Alexander",
-    "last": "Craig"
+    "title": "Monsieur",
+    "first": "Valentin",
+    "last": "Nguyen"
   },
   "location": {
     "street": {
-      "number": 7043,
-      "name": "Pearse Street"
+      "number": 7480,
+      "name": "Rue Denfert-Rochereau"
     },
-    "city": "Ballinasloe",
-    "state": "Meath",
-    "country": "Ireland",
-    "postcode": 26303,
+    "city": "Bellevue",
+    "state": "Luzern",
+    "country": "Switzerland",
+    "postcode": 3467,
     "coordinates": {
-      "latitude": "-2.9533",
-      "longitude": "-66.1999"
+      "latitude": "-62.4306",
+      "longitude": "-142.9888"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "alexander.craig@example.com",
+  "email": "valentin.nguyen@example.com",
   "login": {
-    "uuid": "027ba1a2-2782-4907-8358-61354d560caf",
-    "username": "goldenleopard439",
-    "password": "colin",
-    "salt": "kBHkMcEc",
-    "md5": "517e867373271f9f4e73e31ae1a3687a",
-    "sha1": "6bca7310b2df14009179a836a46d9308741dde18",
-    "sha256": "b89e337ba3698e29a21770db66c505cd00b5a3cb276d062098d8a47a64c493cb"
+    "uuid": "fbbba171-8536-4b2a-8ada-88e14445f6a1",
+    "username": "ticklishostrich565",
+    "password": "orchid",
+    "salt": "HtoBSkPX",
+    "md5": "91cfc3881123777efc41311e1df24a52",
+    "sha1": "90a0c34ed88824c38b11859b139ff02b7dfe297b",
+    "sha256": "738d22338459d1302180496e28357b33ee31a67bd0e5182c1683652c7a22efdb"
   },
   "dob": {
-    "date": "1949-03-25T08:09:21.319Z",
-    "age": 75
+    "date": "1974-02-09T06:37:20.183Z",
+    "age": 51
   },
   "registered": {
-    "date": "2007-01-30T09:42:52.125Z",
-    "age": 18
+    "date": "2020-09-11T10:54:21.340Z",
+    "age": 4
   },
-  "phone": "031-834-0769",
-  "cell": "081-356-9180",
+  "phone": "076 339 36 10",
+  "cell": "076 366 89 55",
   "id": {
-    "name": "PPS",
-    "value": "1792710T"
+    "name": "AVS",
+    "value": "756.1871.8864.90"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "IE"
+  "nat": "CH"
 }

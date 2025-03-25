@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Ethan",
-    "last": "Johnson"
+    "first": "Jor",
+    "last": "Cörvers"
   },
   "location": {
     "street": {
-      "number": 5846,
-      "name": "Rangitikei Street"
+      "number": 4090,
+      "name": "Deken Brantsstraat"
     },
-    "city": "Gisborne",
-    "state": "Auckland",
-    "country": "New Zealand",
-    "postcode": 64605,
+    "city": "Reutum",
+    "state": "Friesland",
+    "country": "Netherlands",
+    "postcode": "9074 NS",
     "coordinates": {
-      "latitude": "50.4309",
-      "longitude": "-107.0025"
+      "latitude": "33.9882",
+      "longitude": "-118.9870"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "ethan.johnson@example.com",
+  "email": "jor.corvers@example.com",
   "login": {
-    "uuid": "55c9b209-6e88-4212-932f-702781ed656e",
-    "username": "blackwolf508",
-    "password": "cheerleaers",
-    "salt": "A6FFkejM",
-    "md5": "64548e28e60fc718d7925c28964bec07",
-    "sha1": "f4f717a55ebb56a037bf5102fc5db4e4d38baff6",
-    "sha256": "c3594b4f86c4b0beb7b9270aa910bed0e3c91b0093410583a5e5bdfdf64eb1a4"
+    "uuid": "72f66b38-f8ca-42da-a8ae-ab20ce31614e",
+    "username": "redtiger671",
+    "password": "lotus",
+    "salt": "8IYPl2Oz",
+    "md5": "0a6fc0d87b3b58564ec448b6c1ec002e",
+    "sha1": "d56e2fb0105c21ad44e3af721382eb777f1d4dc4",
+    "sha256": "19017f6658abf1fbf11b0af7933b65e920d9da0ed499b66a203e154f5a9e40ca"
   },
   "dob": {
-    "date": "1944-10-16T05:59:19.259Z",
-    "age": 80
+    "date": "1986-02-08T17:33:00.463Z",
+    "age": 39
   },
   "registered": {
-    "date": "2005-07-23T20:33:07.468Z",
+    "date": "2005-12-06T11:06:29.639Z",
     "age": 19
   },
-  "phone": "(509)-843-4906",
-  "cell": "(586)-550-7862",
+  "phone": "(0385) 379822",
+  "cell": "(06) 08050848",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "62019821"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
   },
-  "nat": "NZ"
+  "nat": "NL"
 }

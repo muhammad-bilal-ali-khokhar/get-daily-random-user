@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Prisha",
-    "last": "Kulkarni"
+    "title": "Mr",
+    "first": "Samir",
+    "last": "Kasius"
   },
   "location": {
     "street": {
-      "number": 2384,
-      "name": "Bannerghatta Rd"
+      "number": 7022,
+      "name": "Kortelandseweg"
     },
-    "city": "Navi Mumbai",
-    "state": "Sikkim",
-    "country": "India",
-    "postcode": 24416,
+    "city": "Tjalhuizum",
+    "state": "Overijssel",
+    "country": "Netherlands",
+    "postcode": "3063 ER",
     "coordinates": {
-      "latitude": "7.8747",
-      "longitude": "112.1952"
+      "latitude": "37.2631",
+      "longitude": "-46.8692"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "prisha.kulkarni@example.com",
+  "email": "samir.kasius@example.com",
   "login": {
-    "uuid": "978830ad-2e3a-4096-b974-54e8c3b9deaa",
-    "username": "crazygoose329",
-    "password": "install",
-    "salt": "3lMbMxnJ",
-    "md5": "82939ef2df42db139567a783b9e82b83",
-    "sha1": "18c28ba04d7d75cfb9ccb7995650315a2f4c9bc7",
-    "sha256": "6090256164c389b788a91121f31ab9461bea476c1bcf1a64d245c69cd760b3dd"
+    "uuid": "c5fbfdbc-4e1a-4fd4-922e-a543bb1d10e3",
+    "username": "bluetiger692",
+    "password": "britney",
+    "salt": "r6fP9YqL",
+    "md5": "d6d4760940644039b5119fb814b7c9c7",
+    "sha1": "bfe355eaf45ce03cb21927192321a7a49203e801",
+    "sha256": "b2e3b17d22dd303b3004a6ce56a76991e3dbe49c2f2f0cbc39492037195c715e"
   },
   "dob": {
-    "date": "1994-11-12T06:25:14.311Z",
-    "age": 30
+    "date": "1963-02-26T04:03:01.918Z",
+    "age": 62
   },
   "registered": {
-    "date": "2013-05-16T20:28:21.928Z",
-    "age": 11
+    "date": "2007-05-26T10:14:32.048Z",
+    "age": 17
   },
-  "phone": "7758966339",
-  "cell": "9283557265",
+  "phone": "(067) 0800811",
+  "cell": "(06) 63854186",
   "id": {
-    "name": "UIDAI",
-    "value": "608567869954"
+    "name": "BSN",
+    "value": "94678617"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/74.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+    "large": "https://randomuser.me/api/portraits/men/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
   },
-  "nat": "IN"
+  "nat": "NL"
 }

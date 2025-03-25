@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Azra",
-    "last": "Pierre"
+    "title": "Mr",
+    "first": "Santiago",
+    "last": "Morales"
   },
   "location": {
     "street": {
-      "number": 5481,
-      "name": "Avenue Vauban"
+      "number": 227,
+      "name": "Paseo de Zorrilla"
     },
-    "city": "Giswil",
-    "state": "Neuchâtel",
-    "country": "Switzerland",
-    "postcode": 5538,
+    "city": "Burgos",
+    "state": "Melilla",
+    "country": "Spain",
+    "postcode": 22388,
     "coordinates": {
-      "latitude": "-59.5582",
-      "longitude": "18.5368"
+      "latitude": "-36.3875",
+      "longitude": "-145.3503"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "azra.pierre@example.com",
+  "email": "santiago.morales@example.com",
   "login": {
-    "uuid": "1d3f8257-d3fb-41fa-806c-073995813565",
-    "username": "silverbird510",
-    "password": "gideon",
-    "salt": "n0Re0Oqb",
-    "md5": "8885a216307936ba1d3357112551ec57",
-    "sha1": "1129f0f1ad601389c187a5ed5039c0b0f20bd84d",
-    "sha256": "110ff2dfafe98644bdae7d0becaae72b12d7d13ee97219e6d1db5600d99b2736"
+    "uuid": "e910f2d2-c0af-476d-af1d-940678d72908",
+    "username": "bigsnake606",
+    "password": "winners",
+    "salt": "YcM7Bz1P",
+    "md5": "a59c3eaebcf8c52f4ff260def03838a5",
+    "sha1": "fc3aaeb0eb2be879274a985061950141a09d10a1",
+    "sha256": "b1270f791558f6dfc78f1edc4da9ae4d456a9a09fe97ee88cd92faa6436165f6"
   },
   "dob": {
-    "date": "1957-04-12T16:29:02.435Z",
-    "age": 67
+    "date": "1959-04-12T17:58:27.680Z",
+    "age": 65
   },
   "registered": {
-    "date": "2014-09-23T21:16:55.740Z",
-    "age": 10
+    "date": "2002-09-10T14:49:04.645Z",
+    "age": 22
   },
-  "phone": "075 234 32 17",
-  "cell": "077 967 91 52",
+  "phone": "945-841-605",
+  "cell": "693-068-618",
   "id": {
-    "name": "AVS",
-    "value": "756.1196.9703.85"
+    "name": "DNI",
+    "value": "48849108-V"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
   },
-  "nat": "CH"
+  "nat": "ES"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Nélson",
-    "last": "Silva"
+    "title": "Mrs",
+    "first": "Rachel",
+    "last": "Garberg"
   },
   "location": {
     "street": {
-      "number": 9622,
-      "name": "Rua Três"
+      "number": 2538,
+      "name": "Claus Borchs vei"
     },
-    "city": "Bragança Paulista",
-    "state": "Rio de Janeiro",
-    "country": "Brazil",
-    "postcode": 37572,
+    "city": "Åse",
+    "state": "Troms - Romsa",
+    "country": "Norway",
+    "postcode": "4026",
     "coordinates": {
-      "latitude": "-74.5540",
-      "longitude": "-171.9893"
+      "latitude": "47.0708",
+      "longitude": "151.5336"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "nelson.silva@example.com",
+  "email": "rachel.garberg@example.com",
   "login": {
-    "uuid": "be8fe2a4-c3d6-4634-b657-05213b085c6c",
-    "username": "greenkoala132",
-    "password": "gillian",
-    "salt": "Vo1zzprm",
-    "md5": "77b7fcfa9f0e2d2801602633e780fef1",
-    "sha1": "fa7802d17a70170fb88f6d824e0a5f0116fbf18a",
-    "sha256": "6911f483619ce24c4276eace2ead6258c774a4d953dd26feaff0d9429bf3d0d0"
+    "uuid": "c35742fd-5408-4a44-8121-c5ac176dc4bc",
+    "username": "bigrabbit413",
+    "password": "bluesky",
+    "salt": "rdFQsrde",
+    "md5": "e23beb85a1d75c1b6b9854841770a477",
+    "sha1": "b9a4431bf3fa6e75871344093242ba0e90784267",
+    "sha256": "9515a12211f4fc1969c3706548dfdd381fe3f0f0e73aa7ad358b5c3ce548b755"
   },
   "dob": {
-    "date": "1964-06-04T14:41:13.961Z",
-    "age": 60
+    "date": "1980-11-05T06:58:15.285Z",
+    "age": 44
   },
   "registered": {
-    "date": "2005-12-09T12:18:57.767Z",
-    "age": 19
+    "date": "2018-06-02T04:56:18.560Z",
+    "age": 6
   },
-  "phone": "(17) 0537-4789",
-  "cell": "(01) 9022-6173",
+  "phone": "54872689",
+  "cell": "40842306",
   "id": {
-    "name": "CPF",
-    "value": "043.526.406-99"
+    "name": "FN",
+    "value": "05118048468"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/9.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+    "large": "https://randomuser.me/api/portraits/women/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
   },
-  "nat": "BR"
+  "nat": "NO"
 }

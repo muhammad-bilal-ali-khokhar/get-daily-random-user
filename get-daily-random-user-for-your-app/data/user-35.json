@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Geetha",
-    "last": "Chatterjee"
+    "title": "Mr",
+    "first": "Pereyaslav",
+    "last": "Karas"
   },
   "location": {
     "street": {
-      "number": 3601,
-      "name": "Kasturba Rd"
+      "number": 1385,
+      "name": "Kreveckogo"
     },
-    "city": "Thiruvananthapuram",
-    "state": "Lakshadweep",
-    "country": "India",
-    "postcode": 36669,
+    "city": "Barvinkove",
+    "state": "Zaporizka",
+    "country": "Ukraine",
+    "postcode": 42633,
     "coordinates": {
-      "latitude": "12.3288",
-      "longitude": "23.1463"
+      "latitude": "77.1341",
+      "longitude": "-174.4673"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "geetha.chatterjee@example.com",
+  "email": "pereyaslav.karas@example.com",
   "login": {
-    "uuid": "33b556e8-4e5b-496a-bc35-3d5266fa875b",
-    "username": "goldenduck868",
-    "password": "chuckie",
-    "salt": "6xTJxQTV",
-    "md5": "cff84d99ec5614b9cc6a56562f4a2a63",
-    "sha1": "f3c787b0d1879d03b3c0ad590d3a0f3625f3b668",
-    "sha256": "9c627bcc5422926478a2f12e384c6361ef65f92a1d67d411adcd42fe8d2b01f7"
+    "uuid": "a5f27055-4206-4872-be3b-fb2343bfbd8c",
+    "username": "bluepeacock968",
+    "password": "track",
+    "salt": "qlbyHDkD",
+    "md5": "35227242411f9d84c9f8507d93a934e8",
+    "sha1": "ea3a77cc6ac227035452c6f904a0daa8a307eaf5",
+    "sha256": "7754544f43e6fbc5fe6413cc78ae29598a93d63490dcc4de5c376149d8acf2ae"
   },
   "dob": {
-    "date": "1965-04-09T12:55:36.530Z",
-    "age": 59
+    "date": "1985-12-09T15:09:44.520Z",
+    "age": 39
   },
   "registered": {
-    "date": "2005-10-03T08:47:35.505Z",
+    "date": "2005-09-13T01:46:47.605Z",
     "age": 19
   },
-  "phone": "8965437068",
-  "cell": "8267326029",
+  "phone": "(068) F79-7857",
+  "cell": "(096) A59-7260",
   "id": {
-    "name": "UIDAI",
-    "value": "523332938629"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
   },
-  "nat": "IN"
+  "nat": "UA"
 }

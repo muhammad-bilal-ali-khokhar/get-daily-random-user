@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Eduarda",
-    "last": "Monteiro"
+    "title": "Mr",
+    "first": "Alfonso",
+    "last": "Pizarro"
   },
   "location": {
     "street": {
-      "number": 6438,
-      "name": "Rua Dom Pedro Ii "
+      "number": 9435,
+      "name": "Callejón Sur Estévez"
     },
-    "city": "Ourinhos",
-    "state": "Santa Catarina",
-    "country": "Brazil",
-    "postcode": 28646,
+    "city": "Acatlán de Pérez Figueroa",
+    "state": "Colima",
+    "country": "Mexico",
+    "postcode": 35129,
     "coordinates": {
-      "latitude": "-73.4812",
-      "longitude": "45.1081"
+      "latitude": "28.4309",
+      "longitude": "-53.7105"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "eduarda.monteiro@example.com",
+  "email": "alfonso.pizarro@example.com",
   "login": {
-    "uuid": "497ea49d-3b12-4ce4-8364-bcee030fbbf3",
-    "username": "crazypanda809",
-    "password": "garion",
-    "salt": "SejY6qso",
-    "md5": "30958ab23c2633332adf47d5af7df8ea",
-    "sha1": "05922b5d049de89f43219cb83e850d961b14f347",
-    "sha256": "1f81a8287572ac910eb65db0737adabbf0f7c5f92b3714701d5222f648711e52"
+    "uuid": "0b1f3044-44ba-43ce-ad03-996eb88223ed",
+    "username": "beautifulelephant655",
+    "password": "snowboard",
+    "salt": "qtSOmY4k",
+    "md5": "481bb3b335508c44846464b0a34a7ee3",
+    "sha1": "597a1d1ad08306777e92f6c6003b3169296e8a1c",
+    "sha256": "3b96160f4b6bda19cd0748f1a0f27fb0724ec33714857b2406e06cb685ac122a"
   },
   "dob": {
-    "date": "1995-02-22T22:41:15.023Z",
-    "age": 30
+    "date": "1979-11-21T12:12:33.422Z",
+    "age": 45
   },
   "registered": {
-    "date": "2019-12-25T04:00:14.336Z",
-    "age": 5
+    "date": "2010-12-15T19:34:57.572Z",
+    "age": 14
   },
-  "phone": "(20) 9779-2096",
-  "cell": "(76) 0237-5078",
+  "phone": "(675) 511 2981",
+  "cell": "(645) 985 4397",
   "id": {
-    "name": "CPF",
-    "value": "396.305.973-56"
+    "name": "NSS",
+    "value": "40 34 57 6500 2"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
   },
-  "nat": "BR"
+  "nat": "MX"
 }
