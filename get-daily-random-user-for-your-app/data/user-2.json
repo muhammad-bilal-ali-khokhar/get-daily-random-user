@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Ruža",
-    "last": "Živadinović"
+    "title": "Mr",
+    "first": "Saksham",
+    "last": "Kavser"
   },
   "location": {
     "street": {
-      "number": 672,
-      "name": "Bobovačka"
+      "number": 7711,
+      "name": "Swargate"
     },
-    "city": "Vrnjačka Banja",
-    "state": "Prizren",
-    "country": "Serbia",
-    "postcode": 94696,
+    "city": "Surendranagar",
+    "state": "Manipur",
+    "country": "India",
+    "postcode": 42747,
     "coordinates": {
-      "latitude": "60.1774",
-      "longitude": "86.0952"
+      "latitude": "4.4740",
+      "longitude": "-46.3581"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "ruza.zivadinovic@example.com",
+  "email": "saksham.kavser@example.com",
   "login": {
-    "uuid": "bf7211f9-f0d8-4e34-a9be-ed2f8216c52d",
-    "username": "whitetiger858",
-    "password": "player1",
-    "salt": "a2F3ms5K",
-    "md5": "f074a4d735ba44c3e1fbca1316f734e4",
-    "sha1": "9a8041cb0cf37e2d378d10abeee20f30c29c3ce3",
-    "sha256": "c33c4229d5bdd826ce8e631b6a38faded68c15dfaefc90faded5d62326c088c5"
+    "uuid": "d66cee95-0408-4889-a1db-73d4c19f7945",
+    "username": "ticklishpanda503",
+    "password": "achtung",
+    "salt": "bpaHHFJj",
+    "md5": "a2712b45acc6be8bf7e48890b237b026",
+    "sha1": "d081cf6eeba1bfe806c3c09af97cacf3a161dbc7",
+    "sha256": "780b88ac5080a75d1f287c3b7233ef5320ab5a053d5a9275a8f3c88cb9f8c326"
   },
   "dob": {
-    "date": "1952-08-17T22:03:48.449Z",
-    "age": 72
+    "date": "1958-04-04T04:16:49.121Z",
+    "age": 66
   },
   "registered": {
-    "date": "2021-12-23T09:23:02.845Z",
-    "age": 3
+    "date": "2019-06-01T02:55:36.560Z",
+    "age": 5
   },
-  "phone": "010-3731-838",
-  "cell": "067-4734-755",
+  "phone": "9059452356",
+  "cell": "7876440962",
   "id": {
-    "name": "SID",
-    "value": "609668367"
+    "name": "UIDAI",
+    "value": "359981862088"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
   },
-  "nat": "RS"
+  "nat": "IN"
 }

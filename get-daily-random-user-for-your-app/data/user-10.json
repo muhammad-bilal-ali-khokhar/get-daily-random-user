@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Karl-Josef",
-    "last": "Abraham"
+    "title": "Miss",
+    "first": "Magda",
+    "last": "Knopf"
   },
   "location": {
     "street": {
-      "number": 9761,
-      "name": "Königsberger Straße"
+      "number": 3463,
+      "name": "Lindenstraße"
     },
-    "city": "Kiel",
-    "state": "Hessen",
+    "city": "Bad Homburg vor der Höhe",
+    "state": "Sachsen-Anhalt",
     "country": "Germany",
-    "postcode": 60486,
+    "postcode": 65817,
     "coordinates": {
-      "latitude": "-53.9008",
-      "longitude": "-156.6332"
+      "latitude": "-50.0808",
+      "longitude": "93.8000"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "karl-josef.abraham@example.com",
+  "email": "magda.knopf@example.com",
   "login": {
-    "uuid": "90df8768-48ad-4038-ae81-83ca5b824eb2",
-    "username": "lazybutterfly598",
-    "password": "tuan",
-    "salt": "rFPYaoH4",
-    "md5": "d5485c42375c7898758781b0f0af0345",
-    "sha1": "8de77053b24c8c6d613b5719157dee8edc0d84c3",
-    "sha256": "4070322246572027d834f525b1843d67aee8b882e4b7275e9abb1b51ff69376a"
+    "uuid": "a72c590d-9039-4d39-af17-b088d3c75aa4",
+    "username": "heavypanda113",
+    "password": "antelope",
+    "salt": "dmK2pMN9",
+    "md5": "02a605eda6816e944b2a3b1e5f00c8df",
+    "sha1": "ae9754c741c3216b5b582610554c79ef35fcad34",
+    "sha256": "f907059699a643f1cc443e1f977d48d328cd73f6103abf9d39753703c2d27515"
   },
   "dob": {
-    "date": "1956-06-26T15:28:23.988Z",
-    "age": 68
+    "date": "1976-04-27T10:26:08.920Z",
+    "age": 48
   },
   "registered": {
-    "date": "2018-05-10T22:37:32.194Z",
-    "age": 6
+    "date": "2013-01-29T09:10:00.133Z",
+    "age": 12
   },
-  "phone": "0375-1286107",
-  "cell": "0173-0376044",
+  "phone": "0274-3662866",
+  "cell": "0177-3221872",
   "id": {
     "name": "SVNR",
-    "value": "65 260656 A 093"
+    "value": "02 270476 K 906"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/64.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+    "large": "https://randomuser.me/api/portraits/women/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
   },
   "nat": "DE"
 }

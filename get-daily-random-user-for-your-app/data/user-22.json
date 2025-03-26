@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Erika",
-    "last": "Grishchenko"
+    "title": "Monsieur",
+    "first": "Samir",
+    "last": "Carpentier"
   },
   "location": {
     "street": {
-      "number": 3368,
-      "name": "Yaroslaviv Val"
+      "number": 3840,
+      "name": "Place du 22 Novembre 1943"
     },
-    "city": "Gola Pristan",
-    "state": "Dnipropetrovska",
-    "country": "Ukraine",
-    "postcode": 21421,
+    "city": "Bettingen",
+    "state": "St. Gallen",
+    "country": "Switzerland",
+    "postcode": 4538,
     "coordinates": {
-      "latitude": "79.0770",
-      "longitude": "114.4329"
+      "latitude": "-60.1760",
+      "longitude": "-139.9504"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "erika.grishchenko@example.com",
+  "email": "samir.carpentier@example.com",
   "login": {
-    "uuid": "43155f32-2ad7-437a-9f80-3950ffc5bb9f",
-    "username": "angryduck661",
-    "password": "kathleen",
-    "salt": "PZBmBQe8",
-    "md5": "06b1f8f7be10a9678b2962336068a579",
-    "sha1": "e6027daedbd831ff8fde0ba05f3132afd34a0bab",
-    "sha256": "2d3936af3c23d7fbc2f7188fdffbb735456d3c4b219e9933aeea1ffd97a17db3"
+    "uuid": "d22641bf-2c2f-42aa-9d3b-014260148257",
+    "username": "bluepanda106",
+    "password": "stephane",
+    "salt": "jVj7kQO3",
+    "md5": "f8c1319b1a262002a920deb45c7f357c",
+    "sha1": "3bc59d247a0c303a8b3165353f9de71cc60fe992",
+    "sha256": "0cab43a5e0c268e30f85ed1f3bcf64ea9f04163baaa8fd997f2a45203048ebf6"
   },
   "dob": {
-    "date": "1963-10-17T00:08:10.511Z",
-    "age": 61
+    "date": "1950-02-02T12:58:52.320Z",
+    "age": 75
   },
   "registered": {
-    "date": "2003-03-11T21:11:42.779Z",
-    "age": 22
+    "date": "2008-05-14T01:10:42.943Z",
+    "age": 16
   },
-  "phone": "(099) T37-7596",
-  "cell": "(068) C32-7492",
+  "phone": "075 025 13 44",
+  "cell": "077 890 92 66",
   "id": {
-    "name": "",
-    "value": null
+    "name": "AVS",
+    "value": "756.6010.3204.33"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/94.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
   },
-  "nat": "UA"
+  "nat": "CH"
 }

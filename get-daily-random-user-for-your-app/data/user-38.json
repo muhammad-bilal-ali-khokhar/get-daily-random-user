@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Miss",
-    "first": "Teresa",
-    "last": "Rodríguez"
+    "first": "Marcela",
+    "last": "Meraz"
   },
   "location": {
     "street": {
-      "number": 7220,
-      "name": "Calle Covadonga"
+      "number": 9159,
+      "name": "Periférico Ocasio"
     },
-    "city": "Talavera de la Reina",
-    "state": "Comunidad de Madrid",
-    "country": "Spain",
-    "postcode": 23897,
+    "city": "La Luz (Mpio. Pajacuarán)",
+    "state": "Durango",
+    "country": "Mexico",
+    "postcode": 92814,
     "coordinates": {
-      "latitude": "-32.3704",
-      "longitude": "46.3939"
+      "latitude": "22.2756",
+      "longitude": "40.7054"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "teresa.rodriguez@example.com",
+  "email": "marcela.meraz@example.com",
   "login": {
-    "uuid": "ec45b3d7-2109-4982-93ed-4f4fbf37c770",
-    "username": "smallfish959",
-    "password": "teddybea",
-    "salt": "fcMKGiZo",
-    "md5": "4dc8f75aa491ea92d63c68553574ba5b",
-    "sha1": "4113245f2e82cef0d78175ade17a6090d26d321b",
-    "sha256": "b87e687e8f07ae1d00853ee9d07106baec2694da88d0ea0ba65ca9621ba32d43"
+    "uuid": "982aec64-ed4a-412e-92ed-fc84ab9bec41",
+    "username": "ticklishwolf792",
+    "password": "thegreat",
+    "salt": "2pPgj5Ji",
+    "md5": "b958d7e081d061eeb5c3cffb760784f7",
+    "sha1": "15073ec398d82fc4d5adeddd716e3b5b16725591",
+    "sha256": "ad7c77ebe225f9e771dc8e639f382c0972c076ff8a31844eb89be45d39e5c651"
   },
   "dob": {
-    "date": "1962-02-06T17:04:27.156Z",
-    "age": 63
+    "date": "1975-08-22T03:08:58.312Z",
+    "age": 49
   },
   "registered": {
-    "date": "2021-06-25T12:50:53.530Z",
-    "age": 3
+    "date": "2007-10-09T18:12:42.828Z",
+    "age": 17
   },
-  "phone": "991-474-408",
-  "cell": "641-842-435",
+  "phone": "(675) 797 3185",
+  "cell": "(627) 913 4488",
   "id": {
-    "name": "DNI",
-    "value": "05043437-J"
+    "name": "NSS",
+    "value": "29 38 41 3180 0"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    "large": "https://randomuser.me/api/portraits/women/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
   },
-  "nat": "ES"
+  "nat": "MX"
 }

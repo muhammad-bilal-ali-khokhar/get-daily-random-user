@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "مهدي",
-    "last": "موسوی"
+    "title": "Miss",
+    "first": "Ava",
+    "last": "Fournier"
   },
   "location": {
     "street": {
-      "number": 5810,
-      "name": "30 تیر"
+      "number": 8281,
+      "name": "Avenue des Ternes"
     },
-    "city": "آمل",
-    "state": "مازندران",
-    "country": "Iran",
-    "postcode": 60457,
+    "city": "Brest",
+    "state": "Mayenne",
+    "country": "France",
+    "postcode": 81334,
     "coordinates": {
-      "latitude": "19.4715",
-      "longitude": "-28.0324"
+      "latitude": "-20.1075",
+      "longitude": "122.0309"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "mhdy.mwswy@example.com",
+  "email": "ava.fournier@example.com",
   "login": {
-    "uuid": "dad90098-570a-4830-a48e-d8f187385b72",
-    "username": "orangetiger849",
-    "password": "dennis",
-    "salt": "wEcQFoa4",
-    "md5": "4353f2b845ea2aa5aeecbfeb071c966f",
-    "sha1": "d50b881f0b38cb81aa76162e5e103d36e72d1677",
-    "sha256": "01f4c18521e207faa2e5e52093e317f0fdf9a8a94f3eef1f91cdc852b29da270"
+    "uuid": "254ad03a-c08a-4f07-8c7d-e855e87e36b5",
+    "username": "ticklishtiger567",
+    "password": "integra",
+    "salt": "bIN0aCIW",
+    "md5": "cac7bd1959b13dcf62e03cbd3c64d40e",
+    "sha1": "75657f3eeba1f7d6f30be7caa404c18150fff123",
+    "sha256": "d53ce1e6d98ec49db0e599662afc7840867739069ec74ec7c5868c61bf9f877d"
   },
   "dob": {
-    "date": "1973-04-04T00:28:08.628Z",
-    "age": 51
+    "date": "1964-03-31T08:15:46.032Z",
+    "age": 60
   },
   "registered": {
-    "date": "2021-04-20T18:53:56.868Z",
-    "age": 3
+    "date": "2008-08-25T15:14:25.561Z",
+    "age": 16
   },
-  "phone": "054-25364171",
-  "cell": "0943-199-9010",
+  "phone": "03-48-24-73-51",
+  "cell": "06-48-72-14-29",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "2640279513927 74"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    "large": "https://randomuser.me/api/portraits/women/90.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
   },
-  "nat": "IR"
+  "nat": "FR"
 }

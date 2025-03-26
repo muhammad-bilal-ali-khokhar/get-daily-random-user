@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Sadie",
-    "last": "Cooper"
+    "title": "Mr",
+    "first": "Zi",
+    "last": "Peters"
   },
   "location": {
     "street": {
-      "number": 1147,
-      "name": "Queenstown Road"
+      "number": 6282,
+      "name": "Gerichtsweg"
     },
-    "city": "Hamilton",
-    "state": "Taranaki",
-    "country": "New Zealand",
-    "postcode": 54290,
+    "city": "Uithoorn",
+    "state": "Flevoland",
+    "country": "Netherlands",
+    "postcode": "0478 HP",
     "coordinates": {
-      "latitude": "47.2218",
-      "longitude": "84.9622"
+      "latitude": "34.2495",
+      "longitude": "-87.4846"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "sadie.cooper@example.com",
+  "email": "zi.peters@example.com",
   "login": {
-    "uuid": "d1fb1b4b-759c-4e4e-a7b8-4b960ca046ee",
-    "username": "orangefrog725",
-    "password": "rainbow",
-    "salt": "uKV4q5kC",
-    "md5": "5aacdc8a3913e6be5c3cf8e4e7663eb6",
-    "sha1": "f943a7d11a14f5076224ecd447ade57e501c1bd8",
-    "sha256": "8d013c3f7883fdd43b48ca169f946c65dbba125e98678caa53d99478995b22a1"
+    "uuid": "f80a9d2a-3606-4fa8-9ea5-b1a670ba2dc5",
+    "username": "redgoose759",
+    "password": "tarzan",
+    "salt": "myaz7NIY",
+    "md5": "efb910dfc04c4fb53fe51888a67ad207",
+    "sha1": "f3f0862e6007cfab7405a35a0b38e045f7169246",
+    "sha256": "e42a32e4e759223656f3ac4acb901ff5e3222519535dd93db46d051e12c655ae"
   },
   "dob": {
-    "date": "1980-01-15T14:59:58.594Z",
-    "age": 45
+    "date": "1949-04-30T00:08:48.868Z",
+    "age": 75
   },
   "registered": {
-    "date": "2010-03-29T13:02:07.892Z",
-    "age": 14
+    "date": "2015-05-16T07:02:08.224Z",
+    "age": 9
   },
-  "phone": "(760)-238-8521",
-  "cell": "(970)-869-7024",
+  "phone": "(040) 7618732",
+  "cell": "(06) 55321412",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "72206573"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+    "large": "https://randomuser.me/api/portraits/men/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
   },
-  "nat": "NZ"
+  "nat": "NL"
 }

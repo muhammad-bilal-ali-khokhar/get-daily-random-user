@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Alex",
-    "last": "Rojas"
+    "first": "Deniz",
+    "last": "Abanuz"
   },
   "location": {
     "street": {
-      "number": 2306,
-      "name": "Calle de Téllez"
+      "number": 9520,
+      "name": "Abanoz Sk"
     },
-    "city": "San Sebastián",
-    "state": "Ceuta",
-    "country": "Spain",
-    "postcode": 72089,
+    "city": "Çanakkale",
+    "state": "Zonguldak",
+    "country": "Turkey",
+    "postcode": 25392,
     "coordinates": {
-      "latitude": "-31.9042",
-      "longitude": "-15.0398"
+      "latitude": "64.5172",
+      "longitude": "-115.7149"
     },
     "timezone": {
       "offset": "-12:00",
       "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "alex.rojas@example.com",
+  "email": "deniz.abanuz@example.com",
   "login": {
-    "uuid": "1c03bb6b-bebb-4900-b66f-1ef1cd7acdf4",
-    "username": "happyzebra201",
-    "password": "herring",
-    "salt": "S3TRKcbm",
-    "md5": "f221ccd1cdcfcd4db143fd181dbad628",
-    "sha1": "6ae34c4d9f068a24bb3c50757a7071fc29ab1179",
-    "sha256": "16c8fa33f41a5a6cd104e1ab72ae5f9b07bc46992e21d1b8340e4a9f3a5351b7"
+    "uuid": "300f63d2-131e-4c4e-9fda-c2b3bfd2acc5",
+    "username": "ticklishmouse782",
+    "password": "white",
+    "salt": "dng4Wr6u",
+    "md5": "3f321d44cee0cb718a6a8cd99c74b230",
+    "sha1": "802a06eeb62e8667c8ffd40555af413becbe56df",
+    "sha256": "902854e4c2dce917c5c9e26014cb553502dd092b56b6c26e661a2ddd417a3a44"
   },
   "dob": {
-    "date": "1997-11-07T18:55:49.287Z",
-    "age": 27
+    "date": "1955-01-07T10:35:33.025Z",
+    "age": 70
   },
   "registered": {
-    "date": "2021-10-03T12:40:49.641Z",
-    "age": 3
+    "date": "2016-07-16T23:25:15.456Z",
+    "age": 8
   },
-  "phone": "978-468-893",
-  "cell": "622-357-030",
+  "phone": "(698)-168-7344",
+  "cell": "(867)-194-9269",
   "id": {
-    "name": "DNI",
-    "value": "30762122-I"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/10.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    "large": "https://randomuser.me/api/portraits/men/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
   },
-  "nat": "ES"
+  "nat": "TR"
 }

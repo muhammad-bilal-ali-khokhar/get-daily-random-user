@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Pereyaslav",
-    "last": "Karas"
+    "first": "Douglas",
+    "last": "Hunt"
   },
   "location": {
     "street": {
-      "number": 1385,
-      "name": "Kreveckogo"
+      "number": 8221,
+      "name": "Mockingbird Hill"
     },
-    "city": "Barvinkove",
-    "state": "Zaporizka",
-    "country": "Ukraine",
-    "postcode": 42633,
+    "city": "Bunbury",
+    "state": "South Australia",
+    "country": "Australia",
+    "postcode": 6065,
     "coordinates": {
-      "latitude": "77.1341",
-      "longitude": "-174.4673"
+      "latitude": "-83.6932",
+      "longitude": "-26.2110"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "pereyaslav.karas@example.com",
+  "email": "douglas.hunt@example.com",
   "login": {
-    "uuid": "a5f27055-4206-4872-be3b-fb2343bfbd8c",
-    "username": "bluepeacock968",
-    "password": "track",
-    "salt": "qlbyHDkD",
-    "md5": "35227242411f9d84c9f8507d93a934e8",
-    "sha1": "ea3a77cc6ac227035452c6f904a0daa8a307eaf5",
-    "sha256": "7754544f43e6fbc5fe6413cc78ae29598a93d63490dcc4de5c376149d8acf2ae"
+    "uuid": "472d839a-f456-414f-8e2f-5af7bdf61529",
+    "username": "bluezebra382",
+    "password": "termite",
+    "salt": "8ptAfs9I",
+    "md5": "41dff4b4daec94d7669cbe6ee0a12980",
+    "sha1": "b0b0a77bc56321f18ded38524e2a5bdb8c735f2d",
+    "sha256": "e029f753ac0a80b7ae953ca8ca9cd3272046fe318ebe5d51990fd59c9a3fbd12"
   },
   "dob": {
-    "date": "1985-12-09T15:09:44.520Z",
-    "age": 39
+    "date": "1981-05-05T01:44:24.202Z",
+    "age": 43
   },
   "registered": {
-    "date": "2005-09-13T01:46:47.605Z",
-    "age": 19
+    "date": "2021-05-26T14:03:43.478Z",
+    "age": 3
   },
-  "phone": "(068) F79-7857",
-  "cell": "(096) A59-7260",
+  "phone": "07-8931-3162",
+  "cell": "0484-298-589",
   "id": {
-    "name": "",
-    "value": null
+    "name": "TFN",
+    "value": "996430415"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
   },
-  "nat": "UA"
+  "nat": "AU"
 }

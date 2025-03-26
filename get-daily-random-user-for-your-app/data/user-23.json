@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Stella",
-    "last": "Marie"
+    "title": "Mr",
+    "first": "Mohamad",
+    "last": "Lillevik"
   },
   "location": {
     "street": {
-      "number": 1871,
-      "name": "Place de L'Église"
+      "number": 5377,
+      "name": "Ole Messelts vei"
     },
-    "city": "Aubervilliers",
-    "state": "Ille-et-Vilaine",
-    "country": "France",
-    "postcode": 78057,
+    "city": "Hauge",
+    "state": "Akershus",
+    "country": "Norway",
+    "postcode": "5729",
     "coordinates": {
-      "latitude": "-14.1159",
-      "longitude": "0.7694"
+      "latitude": "45.8722",
+      "longitude": "-150.2446"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "stella.marie@example.com",
+  "email": "mohamad.lillevik@example.com",
   "login": {
-    "uuid": "f9292317-c29a-412e-87b8-5bddf26f4f24",
-    "username": "orangefrog768",
-    "password": "regina",
-    "salt": "jMNgi5qB",
-    "md5": "2eb688847b4e43355cf57918e66e98b4",
-    "sha1": "8a1edda752d10389e17976259d447bb6e437ccbb",
-    "sha256": "cc93a9f02c47df25d08ff4ffa6fe780480d90ced01abfce89d04497e2fae9371"
+    "uuid": "a738a40b-5559-4ee0-aa28-e45775413df8",
+    "username": "blacklion906",
+    "password": "pasadena",
+    "salt": "vwwM44dP",
+    "md5": "95a3d363f65eb6f1b6554232c04c8f93",
+    "sha1": "88af89204053fdf4ee04e9915dc12d1e371f3c62",
+    "sha256": "e3e0d6b6bb3dd189d333185dae2b08b775cb6573fb8348a114ecaac8b1ce07e1"
   },
   "dob": {
-    "date": "1990-12-26T00:08:46.010Z",
-    "age": 34
+    "date": "1962-03-20T07:39:58.684Z",
+    "age": 63
   },
   "registered": {
-    "date": "2019-01-21T14:20:04.132Z",
-    "age": 6
+    "date": "2008-11-30T02:52:51.809Z",
+    "age": 16
   },
-  "phone": "01-49-39-12-84",
-  "cell": "06-95-09-03-07",
+  "phone": "53302895",
+  "cell": "97827035",
   "id": {
-    "name": "INSEE",
-    "value": "2901151543180 32"
+    "name": "FN",
+    "value": "20036245728"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/93.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+    "large": "https://randomuser.me/api/portraits/men/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
   },
-  "nat": "FR"
+  "nat": "NO"
 }

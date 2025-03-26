@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Alex",
-    "last": "Allen"
+    "first": "Sarthak",
+    "last": "Singh"
   },
   "location": {
     "street": {
-      "number": 9767,
-      "name": "Country Club Rd"
+      "number": 401,
+      "name": "Santhekatte"
     },
-    "city": "Mackay",
-    "state": "New South Wales",
-    "country": "Australia",
-    "postcode": 3117,
+    "city": "Malda",
+    "state": "Mizoram",
+    "country": "India",
+    "postcode": 88859,
     "coordinates": {
-      "latitude": "-84.8247",
-      "longitude": "-119.6775"
+      "latitude": "7.7909",
+      "longitude": "-9.7354"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "alex.allen@example.com",
+  "email": "sarthak.singh@example.com",
   "login": {
-    "uuid": "00af2831-0a9b-48d1-b9e9-0c56bddc5edb",
-    "username": "whitelion150",
-    "password": "mississi",
-    "salt": "dOMUH2hT",
-    "md5": "8fbe768a77bc8964d8e8586c0b717d9d",
-    "sha1": "6c9f8ef499cd7aa86f0d2f9e1626f19e09deb3df",
-    "sha256": "63a418f3e5ca5a392d9b8745ea4ee51325a3b46c0bb1c7c44434f3681dde6282"
+    "uuid": "de90d9ae-b414-4fb9-b893-03eee8ae7061",
+    "username": "purpleduck141",
+    "password": "lespaul",
+    "salt": "Rseq8QKD",
+    "md5": "c966219112ca2cf91df7d1609bd3ff79",
+    "sha1": "299bb28aae85491a050f38b9dc76fc5af8d18da1",
+    "sha256": "8f068b801d726de135acad09ed72237d5ff0d0df5feaa2fbaa0651fe3f55453e"
   },
   "dob": {
-    "date": "1987-03-27T00:46:01.496Z",
-    "age": 37
+    "date": "1956-10-04T11:37:53.077Z",
+    "age": 68
   },
   "registered": {
-    "date": "2008-08-13T14:52:16.461Z",
-    "age": 16
+    "date": "2020-01-26T17:00:34.029Z",
+    "age": 5
   },
-  "phone": "07-8883-8871",
-  "cell": "0425-409-694",
+  "phone": "9569404190",
+  "cell": "7183897585",
   "id": {
-    "name": "TFN",
-    "value": "992038881"
+    "name": "UIDAI",
+    "value": "639882478586"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
   },
-  "nat": "AU"
+  "nat": "IN"
 }

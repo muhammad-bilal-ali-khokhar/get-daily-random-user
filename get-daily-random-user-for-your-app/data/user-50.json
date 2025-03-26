@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Rachel",
-    "last": "Garberg"
+    "title": "Ms",
+    "first": "Vildan",
+    "last": "Poyrazoğlu"
   },
   "location": {
     "street": {
-      "number": 2538,
-      "name": "Claus Borchs vei"
+      "number": 9428,
+      "name": "Kushimoto Sk"
     },
-    "city": "Åse",
-    "state": "Troms - Romsa",
-    "country": "Norway",
-    "postcode": "4026",
+    "city": "Mardin",
+    "state": "Bartın",
+    "country": "Turkey",
+    "postcode": 75756,
     "coordinates": {
-      "latitude": "47.0708",
-      "longitude": "151.5336"
+      "latitude": "68.4644",
+      "longitude": "29.0532"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "rachel.garberg@example.com",
+  "email": "vildan.poyrazoglu@example.com",
   "login": {
-    "uuid": "c35742fd-5408-4a44-8121-c5ac176dc4bc",
-    "username": "bigrabbit413",
-    "password": "bluesky",
-    "salt": "rdFQsrde",
-    "md5": "e23beb85a1d75c1b6b9854841770a477",
-    "sha1": "b9a4431bf3fa6e75871344093242ba0e90784267",
-    "sha256": "9515a12211f4fc1969c3706548dfdd381fe3f0f0e73aa7ad358b5c3ce548b755"
+    "uuid": "fbfdf39e-be47-4a20-874d-7a182c555112",
+    "username": "ticklishkoala698",
+    "password": "cross",
+    "salt": "7pBMjdWD",
+    "md5": "3a507e1f6a3e3b35a186a36725f30321",
+    "sha1": "d0caaa24be9e2e75941dfeba0a16251f234eea4a",
+    "sha256": "50d5e1d533da7ecbcf699e7b36a9f3b4e6a77ff0919ec537783b0ae90a3214ed"
   },
   "dob": {
-    "date": "1980-11-05T06:58:15.285Z",
-    "age": 44
+    "date": "1948-10-06T01:59:57.560Z",
+    "age": 76
   },
   "registered": {
-    "date": "2018-06-02T04:56:18.560Z",
-    "age": 6
+    "date": "2013-03-17T17:19:23.967Z",
+    "age": 12
   },
-  "phone": "54872689",
-  "cell": "40842306",
+  "phone": "(733)-300-1531",
+  "cell": "(525)-586-1043",
   "id": {
-    "name": "FN",
-    "value": "05118048468"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
   },
-  "nat": "NO"
+  "nat": "TR"
 }

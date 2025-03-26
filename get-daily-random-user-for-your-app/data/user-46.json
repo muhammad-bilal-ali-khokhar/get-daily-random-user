@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Wilma",
-    "last": "Gonzalez"
+    "title": "Mr",
+    "first": "Anton",
+    "last": "Laitinen"
   },
   "location": {
     "street": {
-      "number": 880,
-      "name": "Homestead Rd"
+      "number": 9287,
+      "name": "Otavalankatu"
     },
-    "city": "Nowra",
-    "state": "Queensland",
-    "country": "Australia",
-    "postcode": 7450,
+    "city": "Kemijärvi",
+    "state": "Southern Savonia",
+    "country": "Finland",
+    "postcode": 33866,
     "coordinates": {
-      "latitude": "-84.1786",
-      "longitude": "62.0422"
+      "latitude": "-24.9461",
+      "longitude": "-25.0391"
     },
     "timezone": {
       "offset": "+4:30",
       "description": "Kabul"
     }
   },
-  "email": "wilma.gonzalez@example.com",
+  "email": "anton.laitinen@example.com",
   "login": {
-    "uuid": "f54a1697-56df-4c45-8575-ed0336cac9b3",
-    "username": "greentiger840",
-    "password": "jojojo",
-    "salt": "AZ8VswWw",
-    "md5": "c2e50a2c3decfa0c28616eaab31b45d3",
-    "sha1": "114ab00dbc32a42faa3c1aeaf5c8ffdd922c553d",
-    "sha256": "f668e1021ae29953c0160b25c868922cab2290344e2a8cb238d695b032546a01"
+    "uuid": "16ae84c4-492f-4b4a-9597-05cccc5319ce",
+    "username": "purpleladybug109",
+    "password": "ffff",
+    "salt": "tJl9RrNK",
+    "md5": "ac501a35ee3c0c3301068ac8a87571d8",
+    "sha1": "05acd5feb39975c49b9706a35418e9e08fb90965",
+    "sha256": "e5e74f16617a62a2363536fc7c627c5a199834894a3d3490e2b7101bfacde375"
   },
   "dob": {
-    "date": "1945-09-08T10:15:41.238Z",
-    "age": 79
+    "date": "1964-05-31T11:23:38.411Z",
+    "age": 60
   },
   "registered": {
-    "date": "2006-04-18T12:05:44.248Z",
-    "age": 18
+    "date": "2017-10-25T23:56:28.519Z",
+    "age": 7
   },
-  "phone": "04-7675-6201",
-  "cell": "0496-890-685",
+  "phone": "08-732-068",
+  "cell": "048-476-79-27",
   "id": {
-    "name": "TFN",
-    "value": "266650441"
+    "name": "HETU",
+    "value": "NaNNA933undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/20.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "AU"
+  "nat": "FI"
 }

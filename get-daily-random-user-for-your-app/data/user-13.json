@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Milagros",
-    "last": "Gómez"
+    "title": "Mr",
+    "first": "Virgil",
+    "last": "Carter"
   },
   "location": {
     "street": {
-      "number": 3074,
-      "name": "Ronda de Toledo"
+      "number": 3036,
+      "name": "Crockett St"
     },
-    "city": "Torrente",
-    "state": "País Vasco",
-    "country": "Spain",
-    "postcode": 15598,
+    "city": "North Charleston",
+    "state": "South Carolina",
+    "country": "United States",
+    "postcode": 24082,
     "coordinates": {
-      "latitude": "-35.9456",
-      "longitude": "84.9478"
+      "latitude": "82.3587",
+      "longitude": "-8.1560"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "milagros.gomez@example.com",
+  "email": "virgil.carter@example.com",
   "login": {
-    "uuid": "a50c4fef-0f15-4f17-a9c8-2a2377778764",
-    "username": "orangedog670",
-    "password": "scanner",
-    "salt": "9hw0gCAL",
-    "md5": "196bde5c0d3a40b628a971861ec99ad7",
-    "sha1": "36c9117535df340f99c35dc539ce5c3885d5fc91",
-    "sha256": "cf22ae3278ff76dd623135bace246888ec4790e54f3b7d9f35f05eb27cb1c76f"
+    "uuid": "f20429c2-5807-4ba8-9d24-b38132b0be87",
+    "username": "blackfish724",
+    "password": "spiral",
+    "salt": "wFdCRMHh",
+    "md5": "23babec28fca6e53922d3bd90ac24508",
+    "sha1": "1f020a0763080492971ceb070027ae1b3ae81f4e",
+    "sha256": "fe2ce27aa1aeb9286379483f8715d6eeefaff3fe636f30eb253eab63dfc9f769"
   },
   "dob": {
-    "date": "1954-09-19T02:14:33.395Z",
-    "age": 70
+    "date": "1956-10-07T13:49:02.832Z",
+    "age": 68
   },
   "registered": {
-    "date": "2006-01-02T05:54:18.574Z",
-    "age": 19
+    "date": "2013-02-17T00:35:29.896Z",
+    "age": 12
   },
-  "phone": "944-454-426",
-  "cell": "628-615-806",
+  "phone": "(317) 279-5473",
+  "cell": "(551) 726-4818",
   "id": {
-    "name": "DNI",
-    "value": "63443385-J"
+    "name": "SSN",
+    "value": "319-06-4775"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+    "large": "https://randomuser.me/api/portraits/men/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
   },
-  "nat": "ES"
+  "nat": "US"
 }

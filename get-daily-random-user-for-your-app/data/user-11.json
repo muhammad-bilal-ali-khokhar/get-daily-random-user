@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Angela",
-    "last": "Muñoz"
+    "title": "Mr",
+    "first": "Etienne",
+    "last": "Bouchard"
   },
   "location": {
     "street": {
-      "number": 5429,
-      "name": "Calle de Segovia"
+      "number": 2694,
+      "name": "Dalhousie Ave"
     },
-    "city": "Granada",
-    "state": "Islas Baleares",
-    "country": "Spain",
-    "postcode": 44135,
+    "city": "Greenwood",
+    "state": "Québec",
+    "country": "Canada",
+    "postcode": "Z2G 2I3",
     "coordinates": {
-      "latitude": "-35.3086",
-      "longitude": "142.3591"
+      "latitude": "-68.1983",
+      "longitude": "-121.4212"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "angela.munoz@example.com",
+  "email": "etienne.bouchard@example.com",
   "login": {
-    "uuid": "1a45895b-647d-42f7-9c1e-3e295df92adc",
-    "username": "whiteelephant901",
-    "password": "barrett",
-    "salt": "sDYj8BKX",
-    "md5": "e6bc4f9f79b58aba9da77edf10b26601",
-    "sha1": "c5933201f59be35a5c64860999f2018477609c4c",
-    "sha256": "4046d6acad690806c616fc0b1320fc3e016e53e64e3960fafa46587bf27c2eb3"
+    "uuid": "51a456c8-a189-41d0-8fbd-df25cb3a0633",
+    "username": "silversnake866",
+    "password": "windsor",
+    "salt": "MhIKhZcH",
+    "md5": "5280a222236f20a1b39507ed3606545d",
+    "sha1": "8cbc978ace415fea29eac93c8c456c8a118cb070",
+    "sha256": "3a825f512e334bcf52d02a3758bbd3b7f509342974bcbb5860e5b020527241c2"
   },
   "dob": {
-    "date": "1954-10-31T16:07:21.834Z",
-    "age": 70
+    "date": "2000-06-08T23:03:33.879Z",
+    "age": 24
   },
   "registered": {
-    "date": "2014-04-06T22:47:32.266Z",
-    "age": 10
+    "date": "2005-11-27T03:31:40.363Z",
+    "age": 19
   },
-  "phone": "989-616-870",
-  "cell": "660-867-402",
+  "phone": "T71 Q04-2286",
+  "cell": "L63 Z83-3116",
   "id": {
-    "name": "DNI",
-    "value": "05319109-N"
+    "name": "SIN",
+    "value": "958713851"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/32.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "ES"
+  "nat": "CA"
 }

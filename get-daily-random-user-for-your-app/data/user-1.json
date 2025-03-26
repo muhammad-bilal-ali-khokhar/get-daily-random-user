@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Cooper",
-    "last": "Smith"
+    "first": "Benito",
+    "last": "Aguirre"
   },
   "location": {
     "street": {
-      "number": 6134,
-      "name": "Highcliff Road"
+      "number": 2091,
+      "name": "Diagonal Soria"
     },
-    "city": "Lower Hutt",
-    "state": "Marlborough",
-    "country": "New Zealand",
-    "postcode": 94883,
+    "city": "Mérida",
+    "state": "Guanajuato",
+    "country": "Mexico",
+    "postcode": 24063,
     "coordinates": {
-      "latitude": "55.1692",
-      "longitude": "-13.6151"
+      "latitude": "29.3905",
+      "longitude": "-35.1268"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "cooper.smith@example.com",
+  "email": "benito.aguirre@example.com",
   "login": {
-    "uuid": "4ab9666f-bdd9-4465-b54f-06ba9ee5295e",
-    "username": "crazyzebra148",
-    "password": "ferrari",
-    "salt": "UZ3IpxwQ",
-    "md5": "3955c52fd91bcf6655e68240743ad27b",
-    "sha1": "13728acb0f43dd92e5bf7c1202c7a76849ae017e",
-    "sha256": "239e8863225f7316752df1d5476f92246236892f0fca363576e1a38590adfccc"
+    "uuid": "20739752-3394-40a4-876b-f9676a51616f",
+    "username": "greenpanda963",
+    "password": "hollow",
+    "salt": "opMsaMrG",
+    "md5": "2290e8a931d25272b2d5fb3d2866a6a9",
+    "sha1": "d77ed0080929917d7da9009890ede2bfd24736c3",
+    "sha256": "da2ad805b060eec1d6da4c5c9fb36e73dbd8a831cc176cbf67965b2450b929bd"
   },
   "dob": {
-    "date": "1967-06-16T21:09:18.327Z",
-    "age": 57
+    "date": "1978-01-02T06:35:01.631Z",
+    "age": 47
   },
   "registered": {
-    "date": "2016-04-10T13:52:23.046Z",
-    "age": 8
+    "date": "2010-04-06T21:08:46.306Z",
+    "age": 14
   },
-  "phone": "(589)-316-3922",
-  "cell": "(432)-238-9927",
+  "phone": "(636) 304 0396",
+  "cell": "(678) 199 4687",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NSS",
+    "value": "82 72 36 4308 4"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
   },
-  "nat": "NZ"
+  "nat": "MX"
 }

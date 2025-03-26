@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Nieves",
-    "last": "Santos"
+    "title": "Mr",
+    "first": "Glib",
+    "last": "Hristenko"
   },
   "location": {
     "street": {
-      "number": 4348,
-      "name": "Calle de Tetuán"
+      "number": 5885,
+      "name": "Pasichna"
     },
-    "city": "Vigo",
-    "state": "Cantabria",
-    "country": "Spain",
-    "postcode": 99574,
+    "city": "Novovolinsk",
+    "state": "Kirovogradska",
+    "country": "Ukraine",
+    "postcode": 12298,
     "coordinates": {
-      "latitude": "-33.7215",
-      "longitude": "136.3989"
+      "latitude": "76.6402",
+      "longitude": "-114.1714"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "nieves.santos@example.com",
+  "email": "glib.hristenko@example.com",
   "login": {
-    "uuid": "be9e6af4-faa7-4e91-968e-622277a155b9",
-    "username": "whitegorilla247",
-    "password": "keller",
-    "salt": "NNC6KftA",
-    "md5": "5c8e39d19e440362ca2f3c210cd1250e",
-    "sha1": "bd6077feab9a8b98d7e7ec50fe589752b48ba1a4",
-    "sha256": "4efaa296976e3273b88ab68effab16c4480e0c7f46ecd77b0716dbd855499d61"
+    "uuid": "3e89a970-8803-4898-a0b7-32563293e4ee",
+    "username": "redkoala269",
+    "password": "1982",
+    "salt": "GGdoGLIN",
+    "md5": "5d84cdbd272acc02056e982f1b330219",
+    "sha1": "997c43197e3f16eed9bb5d0a7465c7d3c1d252bd",
+    "sha256": "462a3e5338d9737790b0062abbd0f8a3740d2b46e06b413b56c6bdd0f198ca42"
   },
   "dob": {
-    "date": "1953-04-20T14:22:48.203Z",
-    "age": 71
+    "date": "1952-06-26T18:39:14.470Z",
+    "age": 72
   },
   "registered": {
-    "date": "2005-02-26T17:05:37.596Z",
-    "age": 20
+    "date": "2009-05-05T00:34:25.986Z",
+    "age": 15
   },
-  "phone": "946-133-760",
-  "cell": "676-900-784",
+  "phone": "(067) E51-8288",
+  "cell": "(097) Y27-8482",
   "id": {
-    "name": "DNI",
-    "value": "62020014-U"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
   },
-  "nat": "ES"
+  "nat": "UA"
 }

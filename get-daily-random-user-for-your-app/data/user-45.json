@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Mahmoud",
-    "last": "Lind"
+    "title": "Miss",
+    "first": "Begüm",
+    "last": "Abadan"
   },
   "location": {
     "street": {
-      "number": 5951,
-      "name": "Arildsvingen"
+      "number": 7042,
+      "name": "Abanoz Sk"
     },
-    "city": "Hønefoss",
-    "state": "Rogaland",
-    "country": "Norway",
-    "postcode": "2690",
+    "city": "Kayseri",
+    "state": "Bayburt",
+    "country": "Turkey",
+    "postcode": 10295,
     "coordinates": {
-      "latitude": "44.2880",
-      "longitude": "-30.5316"
+      "latitude": "65.4238",
+      "longitude": "17.4612"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "mahmoud.lind@example.com",
+  "email": "begum.abadan@example.com",
   "login": {
-    "uuid": "97e905a0-41c3-416d-bb7b-57586fc0f8c9",
-    "username": "lazypanda411",
-    "password": "qwerty12",
-    "salt": "pfXnfyZT",
-    "md5": "c97c317c7ade421a60d663a492015a43",
-    "sha1": "3e47ace54b60ac88c93361f8c04c406877768bcb",
-    "sha256": "7183c81e2f38d61f2698ca24230599e13015125588a2cce4e25e88d969e03dbb"
+    "uuid": "2017b67d-058a-4a9b-8054-1cdf27e4be1d",
+    "username": "crazybutterfly801",
+    "password": "female",
+    "salt": "tIQPMQsa",
+    "md5": "64974f245c8ca7c53634b25324391ada",
+    "sha1": "4aedf50f6f52762047b975c0d6c508f5b3eceb6c",
+    "sha256": "22c0f6fb8b5f4d430624961f9fc611508e97465c97a53a054c23019d385f1a06"
   },
   "dob": {
-    "date": "1970-01-13T21:42:15.910Z",
-    "age": 55
+    "date": "1991-06-07T03:54:04.273Z",
+    "age": 33
   },
   "registered": {
-    "date": "2009-03-08T17:24:39.027Z",
-    "age": 16
+    "date": "2022-02-11T20:05:24.237Z",
+    "age": 3
   },
-  "phone": "59709575",
-  "cell": "96387577",
+  "phone": "(492)-781-8968",
+  "cell": "(372)-282-9915",
   "id": {
-    "name": "FN",
-    "value": "13017010705"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/50.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+    "large": "https://randomuser.me/api/portraits/women/15.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
   },
-  "nat": "NO"
+  "nat": "TR"
 }

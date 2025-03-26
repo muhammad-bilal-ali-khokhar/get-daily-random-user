@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Seraina",
-    "last": "Bonnet"
+    "title": "Mr",
+    "first": "Borja",
+    "last": "Castro"
   },
   "location": {
     "street": {
-      "number": 9523,
-      "name": "Rue du Village"
+      "number": 4897,
+      "name": "Calle de Argumosa"
     },
-    "city": "Niederhelfenschwil",
-    "state": "Valais",
-    "country": "Switzerland",
-    "postcode": 1354,
+    "city": "Burgos",
+    "state": "Castilla la Mancha",
+    "country": "Spain",
+    "postcode": 38222,
     "coordinates": {
-      "latitude": "-63.8280",
-      "longitude": "31.8130"
+      "latitude": "-36.5956",
+      "longitude": "-32.3807"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "seraina.bonnet@example.com",
+  "email": "borja.castro@example.com",
   "login": {
-    "uuid": "d190fd9d-4cfe-482d-bc06-e3039708de56",
-    "username": "greentiger291",
-    "password": "010101",
-    "salt": "V86HjZ8V",
-    "md5": "de9bc61b1e10d6358e85e506335713bd",
-    "sha1": "541c40afaa7a403d641867bc5c414a0ad51034c7",
-    "sha256": "5194c40990bdfc7aec6dc5974458660fdeac26ed568a3c8d20c466fe0f6c4230"
+    "uuid": "22075245-8511-434e-b55b-08371118c6a3",
+    "username": "greenpanda152",
+    "password": "erin",
+    "salt": "Fuhfpr3R",
+    "md5": "23215fdcef51ed42a1d18493aa4a926a",
+    "sha1": "300c4d7ca38565ad4a0f40defeeef566a55f0c9a",
+    "sha256": "4036025dc4c15dfee105fc54d6c6b967bf32b45fdc6f3db6e5e87a34163f499c"
   },
   "dob": {
-    "date": "1946-02-18T18:54:47.363Z",
-    "age": 79
+    "date": "1973-04-20T11:57:42.368Z",
+    "age": 51
   },
   "registered": {
-    "date": "2006-10-08T11:36:41.105Z",
+    "date": "2006-09-13T01:40:38.232Z",
     "age": 18
   },
-  "phone": "077 883 41 25",
-  "cell": "077 005 13 78",
+  "phone": "901-057-362",
+  "cell": "690-608-943",
   "id": {
-    "name": "AVS",
-    "value": "756.7236.6727.84"
+    "name": "DNI",
+    "value": "67618915-A"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/59.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
   },
-  "nat": "CH"
+  "nat": "ES"
 }

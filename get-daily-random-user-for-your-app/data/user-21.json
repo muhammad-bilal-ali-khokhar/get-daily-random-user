@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Daniel",
-    "last": "Li"
+    "title": "Mrs",
+    "first": "Elif",
+    "last": "Demirbaş"
   },
   "location": {
     "street": {
-      "number": 385,
-      "name": "Whakatu Drive"
+      "number": 9361,
+      "name": "Talak Göktepe Cd"
     },
-    "city": "New Plymouth",
-    "state": "Otago",
-    "country": "New Zealand",
-    "postcode": 62799,
+    "city": "Zonguldak",
+    "state": "Yalova",
+    "country": "Turkey",
+    "postcode": 72883,
     "coordinates": {
-      "latitude": "53.9924",
-      "longitude": "-179.5453"
+      "latitude": "68.5792",
+      "longitude": "93.7178"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "daniel.li@example.com",
+  "email": "elif.demirbas@example.com",
   "login": {
-    "uuid": "47e0f899-be5a-4016-8b46-5f26fcd2fc28",
-    "username": "crazygorilla431",
-    "password": "redman",
-    "salt": "U3wNdeyc",
-    "md5": "87a5aa24a03975f2667a6443cde70311",
-    "sha1": "d5e38ff0d04cbf431f8b2ee0b21485b9435e6084",
-    "sha256": "3e09e01ce41425e9708fd0644825697ccbf12e56abdd959bf64393c391f47c99"
+    "uuid": "54a8e4df-b5c5-4156-8c67-d5114774711f",
+    "username": "lazysnake428",
+    "password": "ginger",
+    "salt": "vWvevxsY",
+    "md5": "4e06fa38935d85cdd338f82dfeacd366",
+    "sha1": "360b6e2c118bcfd809e4e9b7df96654f01d27e17",
+    "sha256": "76fa418b8370a2e833bc0bac7d45d2037f70c8c862fba7073da5d87173833bca"
   },
   "dob": {
-    "date": "2001-02-06T09:12:30.058Z",
-    "age": 24
+    "date": "1951-05-26T10:53:33.106Z",
+    "age": 73
   },
   "registered": {
-    "date": "2004-09-29T00:41:59.141Z",
-    "age": 20
+    "date": "2003-10-10T13:22:22.541Z",
+    "age": 21
   },
-  "phone": "(978)-197-1529",
-  "cell": "(869)-712-8531",
+  "phone": "(442)-400-9509",
+  "cell": "(842)-137-0346",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/women/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
   },
-  "nat": "NZ"
+  "nat": "TR"
 }

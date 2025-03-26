@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Rodney",
-    "last": "Bishop"
+    "first": "Elias",
+    "last": "Madsen"
   },
   "location": {
     "street": {
-      "number": 7058,
-      "name": "Broadway"
+      "number": 7931,
+      "name": "Skolegade"
     },
-    "city": "Hereford",
-    "state": "County Fermanagh",
-    "country": "United Kingdom",
-    "postcode": "R8 1JB",
+    "city": "Gjern",
+    "state": "Sjælland",
+    "country": "Denmark",
+    "postcode": 90660,
     "coordinates": {
-      "latitude": "-7.3320",
-      "longitude": "-83.1310"
+      "latitude": "-39.8452",
+      "longitude": "-13.1284"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "rodney.bishop@example.com",
+  "email": "elias.madsen@example.com",
   "login": {
-    "uuid": "d15b0635-04e5-4aea-85ea-75060a02a973",
-    "username": "whiteostrich517",
-    "password": "eraser",
-    "salt": "cq5wN4Pt",
-    "md5": "6fb371695db2768003d865ba73847d62",
-    "sha1": "a5aadd2410ba0e7b3d86a098d4d7c770f863399d",
-    "sha256": "3bc34b39a2dbccba8c95857eca7490c6eac0e29fdc455a192deb129707f5b8bb"
+    "uuid": "47ccb3be-10d5-456f-8212-c7a7e486f435",
+    "username": "bigcat825",
+    "password": "bonehead",
+    "salt": "ec1uvx9c",
+    "md5": "c7c7c5a6607f45a83d0f440299790724",
+    "sha1": "77d41c94fd148d1d9bcddfe738ab0b397896b74d",
+    "sha256": "215fde3976df8511929e0a6297592be6546a879c3f8f9337ef3c6f98e00e663b"
   },
   "dob": {
-    "date": "1965-04-16T12:41:13.964Z",
-    "age": 59
+    "date": "1972-05-07T04:52:38.144Z",
+    "age": 52
   },
   "registered": {
-    "date": "2003-02-04T07:45:32.558Z",
-    "age": 22
+    "date": "2015-08-05T16:31:53.852Z",
+    "age": 9
   },
-  "phone": "0161 313 8937",
-  "cell": "07266 348776",
+  "phone": "82539313",
+  "cell": "01750952",
   "id": {
-    "name": "NINO",
-    "value": "XM 69 60 09 A"
+    "name": "CPR",
+    "value": "060572-6734"
   },
   "picture": {
     "large": "https://randomuser.me/api/portraits/men/43.jpg",
     "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
     "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
   },
-  "nat": "GB"
+  "nat": "DK"
 }

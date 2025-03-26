@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Sue",
-    "last": "Carlson"
+    "title": "Monsieur",
+    "first": "Aurélien",
+    "last": "Denis"
   },
   "location": {
     "street": {
-      "number": 5407,
-      "name": "Poplar Dr"
+      "number": 2551,
+      "name": "Rue de la Baleine"
     },
-    "city": "Warragul",
-    "state": "Western Australia",
-    "country": "Australia",
-    "postcode": 9779,
+    "city": "Thusis",
+    "state": "Thurgau",
+    "country": "Switzerland",
+    "postcode": 6892,
     "coordinates": {
-      "latitude": "-89.2433",
-      "longitude": "108.7459"
+      "latitude": "-59.9159",
+      "longitude": "-174.6123"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "sue.carlson@example.com",
+  "email": "aurelien.denis@example.com",
   "login": {
-    "uuid": "e1e58afe-0c24-4209-a1a5-5d377b7b2bb1",
-    "username": "greenfrog886",
-    "password": "musical",
-    "salt": "WitjbMje",
-    "md5": "a40b8f42e2bb9f31bf78f25ea30fdfd8",
-    "sha1": "45061ba1c32df574e92746baff33ecbbe9f0be49",
-    "sha256": "16c385cab7e403b94174babcdc39b144fef26ae589c95728401de4677739b02b"
+    "uuid": "13649db9-6360-4306-8502-fb1aa35f62e7",
+    "username": "beautifuldog990",
+    "password": "fashion",
+    "salt": "zmxclazs",
+    "md5": "57db7104c1ba5909b968d8fcedd23acb",
+    "sha1": "ee942d462bdac969b59ffe91970ff5e73a987e09",
+    "sha256": "17010e80e843eba3c0c1a8fdd1b19b8b5ef7e827d06455b41e14d42a25eea7fb"
   },
   "dob": {
-    "date": "1956-07-09T04:32:44.133Z",
-    "age": 68
+    "date": "1985-03-10T18:49:05.229Z",
+    "age": 40
   },
   "registered": {
-    "date": "2011-10-03T17:15:53.943Z",
-    "age": 13
+    "date": "2003-08-02T19:37:08.641Z",
+    "age": 21
   },
-  "phone": "06-4717-7004",
-  "cell": "0407-484-327",
+  "phone": "076 394 18 44",
+  "cell": "079 238 19 72",
   "id": {
-    "name": "TFN",
-    "value": "059804421"
+    "name": "AVS",
+    "value": "756.9296.8426.46"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
   },
-  "nat": "AU"
+  "nat": "CH"
 }

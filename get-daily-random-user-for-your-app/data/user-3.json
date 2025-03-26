@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jor",
-    "last": "Cörvers"
+    "first": "Luís",
+    "last": "da Cunha"
   },
   "location": {
     "street": {
-      "number": 4090,
-      "name": "Deken Brantsstraat"
+      "number": 4401,
+      "name": "Rua Dezenove de Outubro"
     },
-    "city": "Reutum",
-    "state": "Friesland",
-    "country": "Netherlands",
-    "postcode": "9074 NS",
+    "city": "Caraguatatuba",
+    "state": "Rio Grande do Sul",
+    "country": "Brazil",
+    "postcode": 88462,
     "coordinates": {
-      "latitude": "33.9882",
-      "longitude": "-118.9870"
+      "latitude": "-77.2086",
+      "longitude": "-41.3229"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "jor.corvers@example.com",
+  "email": "luis.dacunha@example.com",
   "login": {
-    "uuid": "72f66b38-f8ca-42da-a8ae-ab20ce31614e",
-    "username": "redtiger671",
-    "password": "lotus",
-    "salt": "8IYPl2Oz",
-    "md5": "0a6fc0d87b3b58564ec448b6c1ec002e",
-    "sha1": "d56e2fb0105c21ad44e3af721382eb777f1d4dc4",
-    "sha256": "19017f6658abf1fbf11b0af7933b65e920d9da0ed499b66a203e154f5a9e40ca"
+    "uuid": "946733cd-92f3-412b-9b9a-a7dbbcb1ce41",
+    "username": "organicostrich711",
+    "password": "pinhead",
+    "salt": "Ml7nelTf",
+    "md5": "1d40b0df8be5220dad8e8d2fbdacc2d5",
+    "sha1": "07fc80d2d67149cc656664bf407139ad610b55f8",
+    "sha256": "b0ea2913d8e454ec720f27a8aff4c8c30baf0dc0aac35de60c8b81f2ce1bf999"
   },
   "dob": {
-    "date": "1986-02-08T17:33:00.463Z",
-    "age": 39
+    "date": "1972-05-08T21:16:36.029Z",
+    "age": 52
   },
   "registered": {
-    "date": "2005-12-06T11:06:29.639Z",
-    "age": 19
+    "date": "2018-12-08T06:27:13.025Z",
+    "age": 6
   },
-  "phone": "(0385) 379822",
-  "cell": "(06) 08050848",
+  "phone": "(67) 6079-2046",
+  "cell": "(85) 0716-9703",
   "id": {
-    "name": "BSN",
-    "value": "62019821"
+    "name": "CPF",
+    "value": "740.683.790-39"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    "large": "https://randomuser.me/api/portraits/men/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
   },
-  "nat": "NL"
+  "nat": "BR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Carmen",
-    "last": "Torres"
+    "title": "Mr",
+    "first": "Sebastian",
+    "last": "Petersen"
   },
   "location": {
     "street": {
-      "number": 9715,
-      "name": "Calle de Segovia"
+      "number": 5137,
+      "name": "Skovbyvej"
     },
-    "city": "Vitoria",
-    "state": "Comunidad de Madrid",
-    "country": "Spain",
-    "postcode": 38334,
+    "city": "Randers Nv",
+    "state": "Sjælland",
+    "country": "Denmark",
+    "postcode": 10858,
     "coordinates": {
-      "latitude": "-30.3188",
-      "longitude": "157.4454"
+      "latitude": "-40.7545",
+      "longitude": "-166.2344"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "carmen.torres@example.com",
+  "email": "sebastian.petersen@example.com",
   "login": {
-    "uuid": "2fb8f9f8-5e49-4b04-831f-9a52ba5ba303",
-    "username": "whitemouse674",
-    "password": "bbking",
-    "salt": "5rMSdqFn",
-    "md5": "a8092aaa9044fc4c829e494bb6c5a3d0",
-    "sha1": "096a632e6d95b6030d0c4eaa11fcc6e252ad7c1c",
-    "sha256": "4ddd1a1474d31f4c327f29dd7cc3366622b24d929d64861173b6cd77b027acdf"
+    "uuid": "dc48bad0-9cf7-4778-8356-58c0825757a6",
+    "username": "greengorilla404",
+    "password": "chicken",
+    "salt": "JX0BEEGG",
+    "md5": "3180debdfd21805ddb0da979dd7ebfc1",
+    "sha1": "cb517721e875ff0cf095d1bcad97ec0c04387c72",
+    "sha256": "743479c9e57b6f0e913634d9b25d77ea91c2dc029d6c8b6bd4c7906ab969de3d"
   },
   "dob": {
-    "date": "1962-11-08T18:07:39.903Z",
-    "age": 62
+    "date": "1973-12-25T18:26:57.205Z",
+    "age": 51
   },
   "registered": {
-    "date": "2005-11-08T08:09:36.404Z",
-    "age": 19
+    "date": "2017-11-17T14:01:47.494Z",
+    "age": 7
   },
-  "phone": "963-761-025",
-  "cell": "685-371-667",
+  "phone": "51343464",
+  "cell": "30637956",
   "id": {
-    "name": "DNI",
-    "value": "60699152-O"
+    "name": "CPR",
+    "value": "251273-7359"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/71.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+    "large": "https://randomuser.me/api/portraits/men/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
   },
-  "nat": "ES"
+  "nat": "DK"
 }

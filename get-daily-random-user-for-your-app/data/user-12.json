@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Tverdogosta",
-    "last": "Oleshchuk"
+    "title": "Miss",
+    "first": "Krasnovida",
+    "last": "Kurcevichi"
   },
   "location": {
     "street": {
-      "number": 7212,
-      "name": "Ivana Mazepi"
+      "number": 6403,
+      "name": "Internacionalna"
     },
-    "city": "Shcholkine",
-    "state": "Hmelnicka",
+    "city": "Lutugine",
+    "state": "Mikolayivska",
     "country": "Ukraine",
-    "postcode": 69941,
+    "postcode": 75931,
     "coordinates": {
-      "latitude": "75.6409",
-      "longitude": "15.3961"
+      "latitude": "73.5828",
+      "longitude": "42.8858"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "tverdogosta.oleshchuk@example.com",
+  "email": "krasnovida.kurcevichi@example.com",
   "login": {
-    "uuid": "eae6b5fe-a7db-42d0-ab88-4d12417628ec",
-    "username": "orangeelephant885",
-    "password": "lollipop",
-    "salt": "C3Qj2d4U",
-    "md5": "5825e3ad041552e6541890ca48a30224",
-    "sha1": "b615da9241f76dae7b0d3237cf7d96957f9f1507",
-    "sha256": "39150411dc4f66823817237e3e26dadd321d0a5bbcdd7f07e1989a93396a5bbc"
+    "uuid": "6732a688-b163-4f79-bdc6-0dfebabafa8e",
+    "username": "greenbird862",
+    "password": "rocky",
+    "salt": "dzm7EMEY",
+    "md5": "e22b3ff455223c0038c99a35e94b12d1",
+    "sha1": "0e8f0858cb2d65291a1726a750e20978250f8235",
+    "sha256": "c9993f291bb5dfeaee514b92343a9556cf09a865ceb49932b7112610eb7290b3"
   },
   "dob": {
-    "date": "1950-02-08T14:45:44.756Z",
-    "age": 75
+    "date": "2000-10-03T08:08:42.337Z",
+    "age": 24
   },
   "registered": {
-    "date": "2005-05-14T11:20:41.635Z",
-    "age": 19
+    "date": "2020-11-28T12:31:26.137Z",
+    "age": 4
   },
-  "phone": "(066) M41-5971",
-  "cell": "(099) S14-2760",
+  "phone": "(097) T69-6597",
+  "cell": "(098) Z47-2518",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/28.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+    "large": "https://randomuser.me/api/portraits/women/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
   },
   "nat": "UA"
 }

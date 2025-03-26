@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Monsieur",
-    "first": "Valentin",
-    "last": "Nguyen"
+    "title": "Miss",
+    "first": "Diane",
+    "last": "Snyder"
   },
   "location": {
     "street": {
-      "number": 7480,
-      "name": "Rue Denfert-Rochereau"
+      "number": 3,
+      "name": "Locust Rd"
     },
-    "city": "Bellevue",
-    "state": "Luzern",
-    "country": "Switzerland",
-    "postcode": 3467,
+    "city": "Fontana",
+    "state": "Indiana",
+    "country": "United States",
+    "postcode": 90138,
     "coordinates": {
-      "latitude": "-62.4306",
-      "longitude": "-142.9888"
+      "latitude": "89.2682",
+      "longitude": "73.6791"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "valentin.nguyen@example.com",
+  "email": "diane.snyder@example.com",
   "login": {
-    "uuid": "fbbba171-8536-4b2a-8ada-88e14445f6a1",
-    "username": "ticklishostrich565",
-    "password": "orchid",
-    "salt": "HtoBSkPX",
-    "md5": "91cfc3881123777efc41311e1df24a52",
-    "sha1": "90a0c34ed88824c38b11859b139ff02b7dfe297b",
-    "sha256": "738d22338459d1302180496e28357b33ee31a67bd0e5182c1683652c7a22efdb"
+    "uuid": "4d4c0754-eeb1-46f6-ab75-d1b8e13616d9",
+    "username": "greensnake204",
+    "password": "jerry",
+    "salt": "4Sgy0zjT",
+    "md5": "39911a2467a35aab9abb8828b2be65aa",
+    "sha1": "e6484285bc4113948e3056c702e1792b36318680",
+    "sha256": "1717bd522251af86eb3e3fc7a00b9e3a7318ec06f05aef349d595b9624e238bf"
   },
   "dob": {
-    "date": "1974-02-09T06:37:20.183Z",
-    "age": 51
+    "date": "1986-10-04T06:02:06.690Z",
+    "age": 38
   },
   "registered": {
-    "date": "2020-09-11T10:54:21.340Z",
-    "age": 4
+    "date": "2013-02-26T09:30:21.179Z",
+    "age": 12
   },
-  "phone": "076 339 36 10",
-  "cell": "076 366 89 55",
+  "phone": "(224) 238-5676",
+  "cell": "(981) 659-7648",
   "id": {
-    "name": "AVS",
-    "value": "756.1871.8864.90"
+    "name": "SSN",
+    "value": "793-09-6666"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
-  "nat": "CH"
+  "nat": "US"
 }
