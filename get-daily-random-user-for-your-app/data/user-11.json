@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Etienne",
-    "last": "Bouchard"
+    "first": "Murat",
+    "last": "Koçyiğit"
   },
   "location": {
     "street": {
-      "number": 2694,
-      "name": "Dalhousie Ave"
+      "number": 7380,
+      "name": "Kushimoto Sk"
     },
-    "city": "Greenwood",
-    "state": "Québec",
-    "country": "Canada",
-    "postcode": "Z2G 2I3",
+    "city": "Tokat",
+    "state": "Bingöl",
+    "country": "Turkey",
+    "postcode": 95909,
     "coordinates": {
-      "latitude": "-68.1983",
-      "longitude": "-121.4212"
+      "latitude": "64.9560",
+      "longitude": "-115.2202"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "etienne.bouchard@example.com",
+  "email": "murat.kocyigit@example.com",
   "login": {
-    "uuid": "51a456c8-a189-41d0-8fbd-df25cb3a0633",
-    "username": "silversnake866",
-    "password": "windsor",
-    "salt": "MhIKhZcH",
-    "md5": "5280a222236f20a1b39507ed3606545d",
-    "sha1": "8cbc978ace415fea29eac93c8c456c8a118cb070",
-    "sha256": "3a825f512e334bcf52d02a3758bbd3b7f509342974bcbb5860e5b020527241c2"
+    "uuid": "b89b3b2f-d7ef-4fee-9dc0-0f2e27d429e5",
+    "username": "smallbird137",
+    "password": "stan",
+    "salt": "1B37966f",
+    "md5": "15af648289be5e608c7c4ea4c6133751",
+    "sha1": "a41540b0ab72356f3bc4e4ade6a4c1128741b33d",
+    "sha256": "b88a3e637fa5079372f92c681f971a67b9421f1bf5c52d37b4ea12ae727c906d"
   },
   "dob": {
-    "date": "2000-06-08T23:03:33.879Z",
+    "date": "2001-01-25T09:53:14.383Z",
     "age": 24
   },
   "registered": {
-    "date": "2005-11-27T03:31:40.363Z",
+    "date": "2005-08-29T21:54:34.792Z",
     "age": 19
   },
-  "phone": "T71 Q04-2286",
-  "cell": "L63 Z83-3116",
+  "phone": "(148)-215-8375",
+  "cell": "(191)-024-5897",
   "id": {
-    "name": "SIN",
-    "value": "958713851"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
   },
-  "nat": "CA"
+  "nat": "TR"
 }

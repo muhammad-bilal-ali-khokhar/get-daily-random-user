@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Vildan",
-    "last": "Poyrazoğlu"
+    "title": "Mr",
+    "first": "Ramon",
+    "last": "Rodriguez"
   },
   "location": {
     "street": {
-      "number": 9428,
-      "name": "Kushimoto Sk"
+      "number": 4482,
+      "name": "James St"
     },
-    "city": "Mardin",
-    "state": "Bartın",
-    "country": "Turkey",
-    "postcode": 75756,
+    "city": "Elizabeth",
+    "state": "Connecticut",
+    "country": "United States",
+    "postcode": 23981,
     "coordinates": {
-      "latitude": "68.4644",
-      "longitude": "29.0532"
+      "latitude": "81.6616",
+      "longitude": "-2.4315"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "vildan.poyrazoglu@example.com",
+  "email": "ramon.rodriguez@example.com",
   "login": {
-    "uuid": "fbfdf39e-be47-4a20-874d-7a182c555112",
-    "username": "ticklishkoala698",
-    "password": "cross",
-    "salt": "7pBMjdWD",
-    "md5": "3a507e1f6a3e3b35a186a36725f30321",
-    "sha1": "d0caaa24be9e2e75941dfeba0a16251f234eea4a",
-    "sha256": "50d5e1d533da7ecbcf699e7b36a9f3b4e6a77ff0919ec537783b0ae90a3214ed"
+    "uuid": "cc676422-b26e-4d59-9e74-511580673512",
+    "username": "heavyfish424",
+    "password": "username",
+    "salt": "TiA52wML",
+    "md5": "862aadd4ec241310710f8da61816546c",
+    "sha1": "a2963353375a05d29fbd3aac68dc3fcdf9ab7ad4",
+    "sha256": "c1de4256a228cc7fa8f309156e8f98c90c6d49ce4e715940379e43b2e7e0fa9f"
   },
   "dob": {
-    "date": "1948-10-06T01:59:57.560Z",
+    "date": "1948-05-02T21:33:18.275Z",
     "age": 76
   },
   "registered": {
-    "date": "2013-03-17T17:19:23.967Z",
-    "age": 12
+    "date": "2003-12-09T02:51:16.794Z",
+    "age": 21
   },
-  "phone": "(733)-300-1531",
-  "cell": "(525)-586-1043",
+  "phone": "(604) 523-0152",
+  "cell": "(314) 414-0333",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SSN",
+    "value": "178-82-3955"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "TR"
+  "nat": "US"
 }

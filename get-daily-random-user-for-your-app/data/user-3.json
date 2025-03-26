@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Luís",
-    "last": "da Cunha"
+    "first": "Thomas",
+    "last": "Walker"
   },
   "location": {
     "street": {
-      "number": 4401,
-      "name": "Rua Dezenove de Outubro"
+      "number": 3142,
+      "name": "Prince Albert Road"
     },
-    "city": "Caraguatatuba",
-    "state": "Rio Grande do Sul",
-    "country": "Brazil",
-    "postcode": 88462,
+    "city": "Whangarei",
+    "state": "Hawke'S Bay",
+    "country": "New Zealand",
+    "postcode": 11577,
     "coordinates": {
-      "latitude": "-77.2086",
-      "longitude": "-41.3229"
+      "latitude": "55.6746",
+      "longitude": "-121.6880"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "luis.dacunha@example.com",
+  "email": "thomas.walker@example.com",
   "login": {
-    "uuid": "946733cd-92f3-412b-9b9a-a7dbbcb1ce41",
-    "username": "organicostrich711",
-    "password": "pinhead",
-    "salt": "Ml7nelTf",
-    "md5": "1d40b0df8be5220dad8e8d2fbdacc2d5",
-    "sha1": "07fc80d2d67149cc656664bf407139ad610b55f8",
-    "sha256": "b0ea2913d8e454ec720f27a8aff4c8c30baf0dc0aac35de60c8b81f2ce1bf999"
+    "uuid": "ed75bf40-56fc-443e-ba33-41c5ea8da269",
+    "username": "brownduck351",
+    "password": "patch",
+    "salt": "xx9Urn6B",
+    "md5": "f68796c4ee22fc877e85887543cb00c5",
+    "sha1": "0340757ca2d4471d7253ec53f11a0fd3b4eb78fb",
+    "sha256": "71fab0c6cc00920dd914a0335cfc6f8d3f65527ca6e6e2941bc45ba26572c8f6"
   },
   "dob": {
-    "date": "1972-05-08T21:16:36.029Z",
-    "age": 52
+    "date": "1950-11-08T08:58:57.648Z",
+    "age": 74
   },
   "registered": {
-    "date": "2018-12-08T06:27:13.025Z",
-    "age": 6
+    "date": "2018-02-05T04:37:42.391Z",
+    "age": 7
   },
-  "phone": "(67) 6079-2046",
-  "cell": "(85) 0716-9703",
+  "phone": "(865)-861-3515",
+  "cell": "(409)-699-2872",
   "id": {
-    "name": "CPF",
-    "value": "740.683.790-39"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "BR"
+  "nat": "NZ"
 }

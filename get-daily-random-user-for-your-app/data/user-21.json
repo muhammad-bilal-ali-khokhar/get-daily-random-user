@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Elif",
-    "last": "Demirbaş"
+    "title": "Miss",
+    "first": "Thea",
+    "last": "Singh"
   },
   "location": {
     "street": {
-      "number": 9361,
-      "name": "Talak Göktepe Cd"
+      "number": 2464,
+      "name": "Wiri Station Road"
     },
-    "city": "Zonguldak",
-    "state": "Yalova",
-    "country": "Turkey",
-    "postcode": 72883,
+    "city": "Porirua",
+    "state": "Wellington",
+    "country": "New Zealand",
+    "postcode": 14313,
     "coordinates": {
-      "latitude": "68.5792",
-      "longitude": "93.7178"
+      "latitude": "54.2558",
+      "longitude": "25.3867"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "elif.demirbas@example.com",
+  "email": "thea.singh@example.com",
   "login": {
-    "uuid": "54a8e4df-b5c5-4156-8c67-d5114774711f",
-    "username": "lazysnake428",
-    "password": "ginger",
-    "salt": "vWvevxsY",
-    "md5": "4e06fa38935d85cdd338f82dfeacd366",
-    "sha1": "360b6e2c118bcfd809e4e9b7df96654f01d27e17",
-    "sha256": "76fa418b8370a2e833bc0bac7d45d2037f70c8c862fba7073da5d87173833bca"
+    "uuid": "fa453fae-07be-4fc3-b90e-df6ce322b89f",
+    "username": "tinysnake978",
+    "password": "98765",
+    "salt": "DT37WmBL",
+    "md5": "2b9aed5375f4642f94999eafc9f60c35",
+    "sha1": "5471a73caada01589bcf3bba9535b3cac78d90c6",
+    "sha256": "a149e6f778fb5e89fce68c3a625ea8ce3333f8af25194eb74893305a70a59eda"
   },
   "dob": {
-    "date": "1951-05-26T10:53:33.106Z",
-    "age": 73
+    "date": "1966-01-19T05:18:48.240Z",
+    "age": 59
   },
   "registered": {
-    "date": "2003-10-10T13:22:22.541Z",
-    "age": 21
+    "date": "2017-07-04T11:00:41.876Z",
+    "age": 7
   },
-  "phone": "(442)-400-9509",
-  "cell": "(842)-137-0346",
+  "phone": "(211)-756-9938",
+  "cell": "(250)-700-5648",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
-  "nat": "TR"
+  "nat": "NZ"
 }

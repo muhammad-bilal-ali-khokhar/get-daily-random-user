@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Virgil",
-    "last": "Carter"
+    "first": "Santiago",
+    "last": "Pastor"
   },
   "location": {
     "street": {
-      "number": 3036,
-      "name": "Crockett St"
+      "number": 5564,
+      "name": "Avenida de Salamanca"
     },
-    "city": "North Charleston",
-    "state": "South Carolina",
-    "country": "United States",
-    "postcode": 24082,
+    "city": "Toledo",
+    "state": "Galicia",
+    "country": "Spain",
+    "postcode": 44209,
     "coordinates": {
-      "latitude": "82.3587",
-      "longitude": "-8.1560"
+      "latitude": "-35.4505",
+      "longitude": "-120.0962"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "virgil.carter@example.com",
+  "email": "santiago.pastor@example.com",
   "login": {
-    "uuid": "f20429c2-5807-4ba8-9d24-b38132b0be87",
-    "username": "blackfish724",
-    "password": "spiral",
-    "salt": "wFdCRMHh",
-    "md5": "23babec28fca6e53922d3bd90ac24508",
-    "sha1": "1f020a0763080492971ceb070027ae1b3ae81f4e",
-    "sha256": "fe2ce27aa1aeb9286379483f8715d6eeefaff3fe636f30eb253eab63dfc9f769"
+    "uuid": "eb782da6-cf8f-44da-8997-75fc8d8e8463",
+    "username": "organicladybug493",
+    "password": "mariners",
+    "salt": "V7F8qZQI",
+    "md5": "7ee6161f03e9d4eb6c4298acd094838d",
+    "sha1": "50e81bec8590568fa87cc6ede6afc43a98d22c86",
+    "sha256": "09e2d526e421c4e5e71d135f05744167bdba5b7418229ac1c60c40757d9989b7"
   },
   "dob": {
-    "date": "1956-10-07T13:49:02.832Z",
-    "age": 68
+    "date": "1964-02-04T12:56:47.088Z",
+    "age": 61
   },
   "registered": {
-    "date": "2013-02-17T00:35:29.896Z",
-    "age": 12
+    "date": "2021-05-11T02:34:03.896Z",
+    "age": 3
   },
-  "phone": "(317) 279-5473",
-  "cell": "(551) 726-4818",
+  "phone": "958-585-242",
+  "cell": "676-475-712",
   "id": {
-    "name": "SSN",
-    "value": "319-06-4775"
+    "name": "DNI",
+    "value": "24626371-F"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/6.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "US"
+  "nat": "ES"
 }

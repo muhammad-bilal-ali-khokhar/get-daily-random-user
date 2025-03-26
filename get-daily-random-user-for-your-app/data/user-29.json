@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Debbie",
-    "last": "Anderson"
+    "title": "Mr",
+    "first": "Eelis",
+    "last": "Manninen"
   },
   "location": {
     "street": {
-      "number": 3212,
-      "name": "The Crescent"
+      "number": 4019,
+      "name": "Korkeavuorenkatu"
     },
-    "city": "Cambridge",
-    "state": "County Tyrone",
-    "country": "United Kingdom",
-    "postcode": "AK2G 5PA",
+    "city": "Lumparland",
+    "state": "Päijät-Häme",
+    "country": "Finland",
+    "postcode": 22027,
     "coordinates": {
-      "latitude": "-7.1708",
-      "longitude": "20.6356"
+      "latitude": "-22.9821",
+      "longitude": "-45.7426"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "debbie.anderson@example.com",
+  "email": "eelis.manninen@example.com",
   "login": {
-    "uuid": "403c5d23-21c6-4f46-a8d0-ddc2a394f3ab",
-    "username": "beautifulswan868",
-    "password": "sugar1",
-    "salt": "hYz9syzH",
-    "md5": "5c6cd10940bbe19f7bc4a6c95ddef3ff",
-    "sha1": "495e58526022801c5fddeafd88daf2bbd683da94",
-    "sha256": "331ebdf6fadc5a216b67a18db7d994ab5038584e62c192174888e2f68cf91bee"
+    "uuid": "292657a2-ac20-410c-b92c-06b4f7c53943",
+    "username": "blackrabbit104",
+    "password": "massage",
+    "salt": "NWhdebUE",
+    "md5": "697e78656051911b284695cd1970b1e2",
+    "sha1": "9ba4f46029bc2881109d0a8542f4ca15782e1780",
+    "sha256": "8e689fbb8d72696dcc43f64e4dad87d753ff16b7339d8aa4208491953783a956"
   },
   "dob": {
-    "date": "1989-01-26T11:40:02.472Z",
-    "age": 36
+    "date": "1966-02-16T18:50:36.363Z",
+    "age": 59
   },
   "registered": {
-    "date": "2005-06-02T17:36:02.095Z",
-    "age": 19
+    "date": "2016-07-31T11:34:17.472Z",
+    "age": 8
   },
-  "phone": "019467 50862",
-  "cell": "07406 234706",
+  "phone": "09-473-262",
+  "cell": "041-859-49-87",
   "id": {
-    "name": "NINO",
-    "value": "HJ 37 63 08 E"
+    "name": "HETU",
+    "value": "NaNNA573undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/64.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "GB"
+  "nat": "FI"
 }

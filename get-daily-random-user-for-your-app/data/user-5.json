@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Nihal",
-    "last": "Küçükler"
+    "title": "Monsieur",
+    "first": "Dragan",
+    "last": "Mathieu"
   },
   "location": {
     "street": {
-      "number": 7063,
-      "name": "Mevlana Cd"
+      "number": 7867,
+      "name": "Rue de L'Abbé-Patureau"
     },
-    "city": "Karabük",
-    "state": "Kütahya",
-    "country": "Turkey",
-    "postcode": 53642,
+    "city": "Fraubrunnen",
+    "state": "Basel-Stadt",
+    "country": "Switzerland",
+    "postcode": 4989,
     "coordinates": {
-      "latitude": "66.8261",
-      "longitude": "-89.7698"
+      "latitude": "-58.4211",
+      "longitude": "-117.3831"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "nihal.kucukler@example.com",
+  "email": "dragan.mathieu@example.com",
   "login": {
-    "uuid": "c99bef87-552b-4952-8e49-92fb2bf161dc",
-    "username": "brownmeercat624",
-    "password": "torpedo",
-    "salt": "tukUKwic",
-    "md5": "4e3b791f52a2bd9d15b43abd520b0546",
-    "sha1": "f3128efc09470c9c3ba160124cb1468d4227f72c",
-    "sha256": "ac8bd3ddc22a6204219aa858434ea6609e7002688ac2e3b12d9021ec0dcc74d6"
+    "uuid": "3abc942d-cb9c-4fb7-8932-045f7dbc8a48",
+    "username": "browndog111",
+    "password": "marshall",
+    "salt": "VRMW8UDX",
+    "md5": "0dd49a64e3d0b4827a72aea093d06a16",
+    "sha1": "5f8f436056f7caf99db44699a59a7a1cb228998d",
+    "sha256": "87194eff32e3c3d49444dd09b24406777e7bc75ab3ed1790ff67e6832248bbeb"
   },
   "dob": {
-    "date": "1955-03-20T23:47:31.048Z",
-    "age": 70
+    "date": "1962-03-19T04:26:00.568Z",
+    "age": 63
   },
   "registered": {
-    "date": "2021-10-28T13:21:01.728Z",
-    "age": 3
+    "date": "2009-04-22T08:18:31.402Z",
+    "age": 15
   },
-  "phone": "(179)-141-8772",
-  "cell": "(428)-436-3155",
+  "phone": "079 775 62 52",
+  "cell": "079 606 13 41",
   "id": {
-    "name": "",
-    "value": null
+    "name": "AVS",
+    "value": "756.3364.2944.16"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/73.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    "large": "https://randomuser.me/api/portraits/men/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
   },
-  "nat": "TR"
+  "nat": "CH"
 }

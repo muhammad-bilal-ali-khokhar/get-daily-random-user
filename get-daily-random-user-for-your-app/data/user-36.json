@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Timothy",
-    "last": "Garcia"
+    "first": "Odin",
+    "last": "Ødegård"
   },
   "location": {
     "street": {
-      "number": 5129,
-      "name": "North Road"
+      "number": 5982,
+      "name": "Johan Castbergs vei"
     },
-    "city": "Carlisle",
-    "state": "West Sussex",
-    "country": "United Kingdom",
-    "postcode": "OO9K 2HQ",
+    "city": "Etne",
+    "state": "Buskerud",
+    "country": "Norway",
+    "postcode": "0657",
     "coordinates": {
-      "latitude": "-7.4841",
-      "longitude": "-141.0381"
+      "latitude": "46.0972",
+      "longitude": "-68.9861"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "timothy.garcia@example.com",
+  "email": "odin.odegard@example.com",
   "login": {
-    "uuid": "e40883fe-ccf4-4f40-a5cf-7393aa155ea3",
-    "username": "smallzebra525",
-    "password": "fingerig",
-    "salt": "WU7r7rbi",
-    "md5": "d5df7fe104ae9c210eb3bfb68fd89316",
-    "sha1": "2cb12a8e2ac2b5eb01072bd833d49676529f3baf",
-    "sha256": "d5c0c2e6f04a70ffbe9677b8b087358155b490a1fb9e2d967602ebb50753764e"
+    "uuid": "bfa9622e-bba0-4170-bad2-6e247644bd22",
+    "username": "tinydog456",
+    "password": "newyork1",
+    "salt": "RQNaeCdC",
+    "md5": "2c5dd9d912170bffc62418d03205a4b9",
+    "sha1": "c17bc2c5d06b603b34a40e59251d059f55f9530f",
+    "sha256": "ed181e34d1bbe97b8f2da16eb79d238b0bc6bd1a62e27cfa9d64699916d9f99f"
   },
   "dob": {
-    "date": "1955-04-18T18:26:48.979Z",
-    "age": 69
+    "date": "1994-10-11T13:09:25.043Z",
+    "age": 30
   },
   "registered": {
-    "date": "2013-11-17T15:59:10.288Z",
-    "age": 11
+    "date": "2005-07-17T08:31:49.796Z",
+    "age": 19
   },
-  "phone": "015394 06450",
-  "cell": "07848 475729",
+  "phone": "54227811",
+  "cell": "48220232",
   "id": {
-    "name": "NINO",
-    "value": "BA 14 18 56 V"
+    "name": "FN",
+    "value": "11109414737"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "GB"
+  "nat": "NO"
 }

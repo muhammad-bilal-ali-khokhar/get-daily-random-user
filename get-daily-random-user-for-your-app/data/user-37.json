@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Emily",
-    "last": "Reid"
+    "title": "Mr",
+    "first": "Abdul",
+    "last": "Silva"
   },
   "location": {
     "street": {
-      "number": 8672,
-      "name": "Tara Street"
+      "number": 2823,
+      "name": "Rua Amazonas "
     },
-    "city": "Carrigaline",
-    "state": "Offaly",
-    "country": "Ireland",
-    "postcode": 45904,
+    "city": "Araraquara",
+    "state": "Acre",
+    "country": "Brazil",
+    "postcode": 38211,
     "coordinates": {
-      "latitude": "2.7039",
-      "longitude": "168.1970"
+      "latitude": "-81.0218",
+      "longitude": "-0.3828"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "emily.reid@example.com",
+  "email": "abdul.silva@example.com",
   "login": {
-    "uuid": "5c3ddd3b-6f9f-4486-ab4a-4afe81d10e45",
-    "username": "purplefish673",
-    "password": "crusher",
-    "salt": "9L9sHAPT",
-    "md5": "24184edcee29be0bbf6fe870dcb3ba39",
-    "sha1": "0f0a5c315902d0c10994a621130b7acebf5b0b88",
-    "sha256": "8fc65823ab9513bc958e96d9240d899775dbae446b6c4d9807c32911d19f38a5"
+    "uuid": "0ec41005-cf61-49e3-92a1-cce140fd5edf",
+    "username": "redbutterfly794",
+    "password": "buddie",
+    "salt": "X9zfK3nZ",
+    "md5": "f64b12a3407804049d5f11f9b15a5891",
+    "sha1": "dcfda24137da38c8353aa11ac5243cefc0ec6b64",
+    "sha256": "100fdb170a2c4c01b066b6476f5a718224a55236f23c2961fcd385ca4b4957e0"
   },
   "dob": {
-    "date": "1998-07-09T14:12:33.666Z",
-    "age": 26
+    "date": "1988-08-15T23:50:40.418Z",
+    "age": 36
   },
   "registered": {
-    "date": "2020-05-11T21:17:27.920Z",
-    "age": 4
+    "date": "2020-03-09T05:45:03.833Z",
+    "age": 5
   },
-  "phone": "011-800-8239",
-  "cell": "081-655-1376",
+  "phone": "(20) 9839-8900",
+  "cell": "(42) 9521-9328",
   "id": {
-    "name": "PPS",
-    "value": "5700122T"
+    "name": "CPF",
+    "value": "152.981.224-32"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/54.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    "large": "https://randomuser.me/api/portraits/men/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
   },
-  "nat": "IE"
+  "nat": "BR"
 }

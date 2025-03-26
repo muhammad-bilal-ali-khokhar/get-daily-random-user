@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Krasnovida",
-    "last": "Kurcevichi"
+    "title": "Ms",
+    "first": "Sayali",
+    "last": "Saldanha"
   },
   "location": {
     "street": {
-      "number": 6403,
-      "name": "Internacionalna"
+      "number": 6879,
+      "name": "Shanmugham Rd"
     },
-    "city": "Lutugine",
-    "state": "Mikolayivska",
-    "country": "Ukraine",
-    "postcode": 75931,
+    "city": "Panipat",
+    "state": "Haryana",
+    "country": "India",
+    "postcode": 15147,
     "coordinates": {
-      "latitude": "73.5828",
-      "longitude": "42.8858"
+      "latitude": "11.3473",
+      "longitude": "78.5183"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "krasnovida.kurcevichi@example.com",
+  "email": "sayali.saldanha@example.com",
   "login": {
-    "uuid": "6732a688-b163-4f79-bdc6-0dfebabafa8e",
-    "username": "greenbird862",
-    "password": "rocky",
-    "salt": "dzm7EMEY",
-    "md5": "e22b3ff455223c0038c99a35e94b12d1",
-    "sha1": "0e8f0858cb2d65291a1726a750e20978250f8235",
-    "sha256": "c9993f291bb5dfeaee514b92343a9556cf09a865ceb49932b7112610eb7290b3"
+    "uuid": "bcd7bdb5-07e1-4a1d-9248-dcfe6f5117bb",
+    "username": "orangeswan813",
+    "password": "deedee",
+    "salt": "E4eOf2Ll",
+    "md5": "8d9df0dc9a255d605a02745321563347",
+    "sha1": "9d98ef0195c827934098e95b22f73ef45ef89abd",
+    "sha256": "d5c6c27d34fadf8e0eb5b70092b8bf529dc6f38c078cc916071a755c98ace944"
   },
   "dob": {
-    "date": "2000-10-03T08:08:42.337Z",
-    "age": 24
+    "date": "2000-01-19T12:58:59.068Z",
+    "age": 25
   },
   "registered": {
-    "date": "2020-11-28T12:31:26.137Z",
+    "date": "2020-12-12T12:04:35.389Z",
     "age": 4
   },
-  "phone": "(097) T69-6597",
-  "cell": "(098) Z47-2518",
+  "phone": "9301477318",
+  "cell": "9474520437",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "792624182533"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/71.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+    "large": "https://randomuser.me/api/portraits/women/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
   },
-  "nat": "UA"
+  "nat": "IN"
 }

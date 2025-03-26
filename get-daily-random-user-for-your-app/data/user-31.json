@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Crispiana",
-    "last": "Moreira"
+    "title": "Mr",
+    "first": "Harrison",
+    "last": "Wang"
   },
   "location": {
     "street": {
-      "number": 2556,
-      "name": "Rua Doze "
+      "number": 3077,
+      "name": "Grey Street"
     },
-    "city": "Cabo Frio",
-    "state": "Santa Catarina",
-    "country": "Brazil",
-    "postcode": 86290,
+    "city": "Whangarei",
+    "state": "Canterbury",
+    "country": "New Zealand",
+    "postcode": 79188,
     "coordinates": {
-      "latitude": "-74.3243",
-      "longitude": "174.9435"
+      "latitude": "55.0295",
+      "longitude": "-21.0279"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "crispiana.moreira@example.com",
+  "email": "harrison.wang@example.com",
   "login": {
-    "uuid": "2a9a452e-d507-4d44-9153-492a35b166b9",
-    "username": "brownfish647",
-    "password": "friendly",
-    "salt": "wdEYqsYh",
-    "md5": "786f6706bfe53c8e98fca5494233d060",
-    "sha1": "9618202d75c074ca05db19ef98879c58abfd6334",
-    "sha256": "22e09a4267bbfa859b7461a1bd2c87b0b2b241fd0329ac1d7f69b41e756bfc07"
+    "uuid": "6d345f2c-3333-4437-84c0-a5c68a92577a",
+    "username": "smallbear673",
+    "password": "dogcat",
+    "salt": "lnnoqmDV",
+    "md5": "9e2a6d0c9117068046310d1459c8098d",
+    "sha1": "296ca3078ee61017902cdfcf1dad3a1c1ecee9b7",
+    "sha256": "2fc09bf18e08db17e22883977d8f6f20800c0a119ccfa4f6f6775f228c6a2469"
   },
   "dob": {
-    "date": "1953-08-22T03:56:15.142Z",
-    "age": 71
+    "date": "1963-01-28T14:46:46.669Z",
+    "age": 62
   },
   "registered": {
-    "date": "2015-06-04T09:51:36.283Z",
-    "age": 9
+    "date": "2018-02-26T02:52:20.479Z",
+    "age": 7
   },
-  "phone": "(37) 1337-5628",
-  "cell": "(09) 6040-6253",
+  "phone": "(565)-134-4629",
+  "cell": "(974)-224-8045",
   "id": {
-    "name": "CPF",
-    "value": "414.356.823-46"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "BR"
+  "nat": "NZ"
 }

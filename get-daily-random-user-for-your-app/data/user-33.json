@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Iida",
-    "last": "Peltonen"
+    "title": "Mr",
+    "first": "Tommy",
+    "last": "Harper"
   },
   "location": {
     "street": {
-      "number": 759,
-      "name": "Aleksanterinkatu"
+      "number": 3758,
+      "name": "Preston Rd"
     },
-    "city": "Luvia",
-    "state": "North Karelia",
-    "country": "Finland",
-    "postcode": 24619,
+    "city": "Des Moines",
+    "state": "Arizona",
+    "country": "United States",
+    "postcode": 24397,
     "coordinates": {
-      "latitude": "-25.1900",
-      "longitude": "34.6305"
+      "latitude": "89.2979",
+      "longitude": "-137.8098"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "iida.peltonen@example.com",
+  "email": "tommy.harper@example.com",
   "login": {
-    "uuid": "5b711075-2725-4260-8f4b-2c0f3a00d83c",
-    "username": "reddog814",
-    "password": "daffy",
-    "salt": "Biwixbd0",
-    "md5": "5dd3c5b7b3a6954d7582b3d2250f2dcd",
-    "sha1": "9ad0d5a22e46d90a3f6db20f65d24f359b212f95",
-    "sha256": "4b95855368b880ad5e7bf35b4c978636d4111936c1a95bfff8b53442b08c576f"
+    "uuid": "e5f6a302-2a81-4dc9-b59c-d30cf6109740",
+    "username": "organicrabbit832",
+    "password": "duan",
+    "salt": "jOGg2VJn",
+    "md5": "fc781969c01c89512392e6c9b2665a66",
+    "sha1": "417abf3748163596f93e64c0ec372e9dd2f1a3d9",
+    "sha256": "1e3f84a41baecf90829f64502841a588eba95b9f43be9700f59d31fa92c99f37"
   },
   "dob": {
-    "date": "1946-12-19T09:44:03.541Z",
-    "age": 78
+    "date": "1957-05-15T14:09:26.328Z",
+    "age": 67
   },
   "registered": {
-    "date": "2021-10-25T22:34:08.261Z",
-    "age": 3
+    "date": "2003-06-06T07:42:27.161Z",
+    "age": 21
   },
-  "phone": "07-008-517",
-  "cell": "043-079-91-86",
+  "phone": "(930) 254-2063",
+  "cell": "(759) 593-2029",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA436undefined"
+    "name": "SSN",
+    "value": "405-14-0026"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/23.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+    "large": "https://randomuser.me/api/portraits/men/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
   },
-  "nat": "FI"
+  "nat": "US"
 }

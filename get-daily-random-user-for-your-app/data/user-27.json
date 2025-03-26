@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Jessie",
-    "last": "Rodriquez"
+    "title": "Madame",
+    "first": "Aurélie",
+    "last": "Vincent"
   },
   "location": {
     "street": {
-      "number": 2240,
-      "name": "Frances Ct"
+      "number": 6256,
+      "name": "Rue Gasparin"
     },
-    "city": "Helena",
-    "state": "New Hampshire",
-    "country": "United States",
-    "postcode": 15606,
+    "city": "Rheinau",
+    "state": "Ticino",
+    "country": "Switzerland",
+    "postcode": 9995,
     "coordinates": {
-      "latitude": "83.9962",
-      "longitude": "-42.5802"
+      "latitude": "-58.3735",
+      "longitude": "81.5422"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "jessie.rodriquez@example.com",
+  "email": "aurelie.vincent@example.com",
   "login": {
-    "uuid": "7c934690-de57-4985-8d22-819e07eb4712",
-    "username": "bluecat584",
-    "password": "stiletto",
-    "salt": "Z4vDLGvF",
-    "md5": "69d028207322619d4c5bb23ef90b625a",
-    "sha1": "7cee1daa750e07f0d95b387fd535aa28b9ef9e9e",
-    "sha256": "4eebd02a7bdd31e7c684edeb7825370ad2b671071c4afdc636c490c07cb40573"
+    "uuid": "1f53aebc-ed1d-4ff8-880f-2de089f607fd",
+    "username": "yellowcat843",
+    "password": "1234567",
+    "salt": "2eZ07GVI",
+    "md5": "2706abdf8458eaa880ff2b5c09f48a4d",
+    "sha1": "be9179fc5eb33f0a93e451c61a1f216bf441bd91",
+    "sha256": "3003d72dd22611eadcc325f9b4b2dd34252da186215293f60cd9886c6e63c7ce"
   },
   "dob": {
-    "date": "1951-01-02T02:47:52.094Z",
-    "age": 74
+    "date": "1996-03-02T09:32:40.339Z",
+    "age": 29
   },
   "registered": {
-    "date": "2014-10-10T14:14:13.783Z",
-    "age": 10
+    "date": "2003-04-07T05:09:14.723Z",
+    "age": 21
   },
-  "phone": "(249) 734-0130",
-  "cell": "(830) 773-1039",
+  "phone": "077 049 86 12",
+  "cell": "079 168 20 98",
   "id": {
-    "name": "SSN",
-    "value": "145-62-4955"
+    "name": "AVS",
+    "value": "756.4577.7767.53"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
   },
-  "nat": "US"
+  "nat": "CH"
 }

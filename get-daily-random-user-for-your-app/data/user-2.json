@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Saksham",
-    "last": "Kavser"
+    "first": "Guillermo",
+    "last": "Escalante"
   },
   "location": {
     "street": {
-      "number": 7711,
-      "name": "Swargate"
+      "number": 9109,
+      "name": "Diagonal República Centroafricana"
     },
-    "city": "Surendranagar",
-    "state": "Manipur",
-    "country": "India",
-    "postcode": 42747,
+    "city": "Huautla de Jiménez",
+    "state": "Guanajuato",
+    "country": "Mexico",
+    "postcode": 22007,
     "coordinates": {
-      "latitude": "4.4740",
-      "longitude": "-46.3581"
+      "latitude": "27.9567",
+      "longitude": "-152.7126"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "saksham.kavser@example.com",
+  "email": "guillermo.escalante@example.com",
   "login": {
-    "uuid": "d66cee95-0408-4889-a1db-73d4c19f7945",
-    "username": "ticklishpanda503",
-    "password": "achtung",
-    "salt": "bpaHHFJj",
-    "md5": "a2712b45acc6be8bf7e48890b237b026",
-    "sha1": "d081cf6eeba1bfe806c3c09af97cacf3a161dbc7",
-    "sha256": "780b88ac5080a75d1f287c3b7233ef5320ab5a053d5a9275a8f3c88cb9f8c326"
+    "uuid": "64ce9552-c02f-4c91-b9b5-45238861a800",
+    "username": "sadgoose363",
+    "password": "mommy",
+    "salt": "Ych9XKeT",
+    "md5": "4a0b15795598b2a6581417164163fd05",
+    "sha1": "88596c6ea2c8c500b06b54847a08aeabf57fd78f",
+    "sha256": "1618876cebe3db3a5c12dc277b5966860dac4876ae1022c8517641d969de7865"
   },
   "dob": {
-    "date": "1958-04-04T04:16:49.121Z",
-    "age": 66
+    "date": "1964-10-21T12:19:23.470Z",
+    "age": 60
   },
   "registered": {
-    "date": "2019-06-01T02:55:36.560Z",
-    "age": 5
+    "date": "2005-06-14T01:45:33.656Z",
+    "age": 19
   },
-  "phone": "9059452356",
-  "cell": "7876440962",
+  "phone": "(655) 406 5007",
+  "cell": "(649) 180 8523",
   "id": {
-    "name": "UIDAI",
-    "value": "359981862088"
+    "name": "NSS",
+    "value": "31 03 12 5307 0"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
   },
-  "nat": "IN"
+  "nat": "MX"
 }

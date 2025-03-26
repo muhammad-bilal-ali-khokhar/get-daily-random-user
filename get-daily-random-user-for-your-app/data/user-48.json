@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Teodora",
-    "last": "Miljković"
+    "title": "Mr",
+    "first": "Enrique",
+    "last": "Gallego"
   },
   "location": {
     "street": {
-      "number": 912,
-      "name": "Doljanska"
+      "number": 2855,
+      "name": "Paseo de Extremadura"
     },
-    "city": "Valjevo",
-    "state": "Kolubara",
-    "country": "Serbia",
-    "postcode": 44845,
+    "city": "Bilbao",
+    "state": "Castilla y León",
+    "country": "Spain",
+    "postcode": 58636,
     "coordinates": {
-      "latitude": "59.0363",
-      "longitude": "56.5629"
+      "latitude": "-38.3187",
+      "longitude": "-51.3344"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "teodora.miljkovic@example.com",
+  "email": "enrique.gallego@example.com",
   "login": {
-    "uuid": "d66612e2-6025-42de-9f1c-5d2e69861c77",
-    "username": "silverfrog862",
-    "password": "allsop",
-    "salt": "cjtkY5K7",
-    "md5": "155134b666714c71a7f064e715bd6fbc",
-    "sha1": "51d53283b597cc92b94e66d3f2387788a2f3c7d4",
-    "sha256": "fbad768d99c1d7684f287951fd684aba696693dd641665eb5577b110fb51399b"
+    "uuid": "4434e258-6402-4d1a-96da-9247eeadca52",
+    "username": "ticklishostrich629",
+    "password": "gotham",
+    "salt": "ysdk2gQt",
+    "md5": "93fb5cfb4c25f091a31951fc535ca993",
+    "sha1": "4d61d78c2babc17425d8499d66db63f2ba0b9ef2",
+    "sha256": "47ef1133b5433ab2b31e2e98fa98ce41cb0b1848a3a5e6a40b9c17890ed02f46"
   },
   "dob": {
-    "date": "1954-01-26T21:11:35.111Z",
-    "age": 71
+    "date": "1954-04-28T14:13:12.812Z",
+    "age": 70
   },
   "registered": {
-    "date": "2019-11-17T22:43:18.632Z",
-    "age": 5
+    "date": "2007-05-14T23:12:27.896Z",
+    "age": 17
   },
-  "phone": "025-4074-451",
-  "cell": "065-3892-693",
+  "phone": "989-687-631",
+  "cell": "632-710-271",
   "id": {
-    "name": "SID",
-    "value": "921610875"
+    "name": "DNI",
+    "value": "16885025-R"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
   },
-  "nat": "RS"
+  "nat": "ES"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Sophia",
-    "last": "Côté"
+    "title": "Mr",
+    "first": "Joshua",
+    "last": "Baustad"
   },
   "location": {
     "street": {
-      "number": 6979,
-      "name": "College Ave"
+      "number": 6612,
+      "name": "Toftes gate"
     },
-    "city": "Sutton",
-    "state": "Northwest Territories",
-    "country": "Canada",
-    "postcode": "L0K 6I7",
+    "city": "Austreim",
+    "state": "Bergen",
+    "country": "Norway",
+    "postcode": "8009",
     "coordinates": {
-      "latitude": "-64.9953",
-      "longitude": "177.0122"
+      "latitude": "45.3284",
+      "longitude": "-48.7720"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "sophia.cote@example.com",
+  "email": "joshua.baustad@example.com",
   "login": {
-    "uuid": "f304b4e7-8bb5-4aa5-98e5-c07d95192bf5",
-    "username": "goldenrabbit110",
-    "password": "tarheels",
-    "salt": "RRtPPuJH",
-    "md5": "966ed76fafcb896f760665a32ca01f89",
-    "sha1": "63d1674b5028c971ec4640e6ee8a364b8e596829",
-    "sha256": "1dcbc455570a16dd12b208d8eb9e9f00eb25aa96e5321cf7498d05d98cd52133"
+    "uuid": "707ae022-5b5b-43c6-b02a-c46b10900732",
+    "username": "blackmouse827",
+    "password": "1003",
+    "salt": "uRuRoVzT",
+    "md5": "9063e0d5a1a9fee945b16f5948814c9d",
+    "sha1": "86cf7d055d2b5a03099d3d414adcf6c57907750c",
+    "sha256": "622188354a35ff2f38d2252fa2cde11d58eb1fe2c6f30c91259b524f6f7efe91"
   },
   "dob": {
-    "date": "1969-12-30T12:26:18.800Z",
-    "age": 55
+    "date": "1961-04-03T22:43:53.564Z",
+    "age": 63
   },
   "registered": {
-    "date": "2019-05-02T01:58:05.145Z",
-    "age": 5
+    "date": "2010-06-16T13:27:31.071Z",
+    "age": 14
   },
-  "phone": "J15 E79-3295",
-  "cell": "K08 T81-9139",
+  "phone": "20500421",
+  "cell": "47720940",
   "id": {
-    "name": "SIN",
-    "value": "319586392"
+    "name": "FN",
+    "value": "03046111914"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/59.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+    "large": "https://randomuser.me/api/portraits/men/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
   },
-  "nat": "CA"
+  "nat": "NO"
 }

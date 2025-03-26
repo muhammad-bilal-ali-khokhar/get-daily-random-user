@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Sam",
-    "last": "Meyer"
+    "title": "Mr",
+    "first": "Aurelio",
+    "last": "Mascareñas"
   },
   "location": {
     "street": {
-      "number": 4922,
-      "name": "The Avenue"
+      "number": 5360,
+      "name": "Viaducto Hidalgo"
     },
-    "city": "Monaghan",
-    "state": "Westmeath",
-    "country": "Ireland",
-    "postcode": 37139,
+    "city": "Plenitud",
+    "state": "Baja California Sur",
+    "country": "Mexico",
+    "postcode": 35843,
     "coordinates": {
-      "latitude": "-0.3720",
-      "longitude": "69.1755"
+      "latitude": "29.3166",
+      "longitude": "-63.4861"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "sam.meyer@example.com",
+  "email": "aurelio.mascarenas@example.com",
   "login": {
-    "uuid": "d9007dae-492c-41ee-8501-4fb78eec2ad7",
-    "username": "beautifulfrog970",
-    "password": "2424",
-    "salt": "KiXh66Xv",
-    "md5": "9a3040b39f8b0347e8c0f0ece17143e8",
-    "sha1": "d741f707c8bebd3ad96f0607d43eb1b7437739fc",
-    "sha256": "b7b83810dc29419dcbf99f8176e491746d85d078adee48c9de169ee629aabe90"
+    "uuid": "18b8f914-861f-451f-b153-82c0a82a4da6",
+    "username": "goldenduck573",
+    "password": "anchor",
+    "salt": "Gyh7vf8C",
+    "md5": "fe568c4b2c0c46db80fd279f98a94ce2",
+    "sha1": "9bd0bc688a259f17f87f55de9426938bbc3e84d9",
+    "sha256": "23191eead71ce654ff9b952493d1290830c98a3bfa367d0cc4dcbb3eea8d3d1f"
   },
   "dob": {
-    "date": "1986-11-08T12:41:39.925Z",
-    "age": 38
+    "date": "1952-12-24T18:16:41.122Z",
+    "age": 72
   },
   "registered": {
-    "date": "2011-11-21T03:32:36.621Z",
-    "age": 13
+    "date": "2018-02-26T11:14:56.844Z",
+    "age": 7
   },
-  "phone": "071-881-6845",
-  "cell": "081-990-0840",
+  "phone": "(665) 162 8643",
+  "cell": "(662) 700 1980",
   "id": {
-    "name": "PPS",
-    "value": "7714379T"
+    "name": "NSS",
+    "value": "30 27 64 6891 0"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
   },
-  "nat": "IE"
+  "nat": "MX"
 }

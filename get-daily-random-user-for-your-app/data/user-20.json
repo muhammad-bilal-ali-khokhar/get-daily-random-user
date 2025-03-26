@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Sebastian",
-    "last": "Petersen"
+    "first": "Jack",
+    "last": "Van de Poel"
   },
   "location": {
     "street": {
-      "number": 5137,
-      "name": "Skovbyvej"
+      "number": 8102,
+      "name": "Amberhof"
     },
-    "city": "Randers Nv",
-    "state": "Sjælland",
-    "country": "Denmark",
-    "postcode": 10858,
+    "city": "Alteveer",
+    "state": "Noord-Holland",
+    "country": "Netherlands",
+    "postcode": "6399 UD",
     "coordinates": {
-      "latitude": "-40.7545",
-      "longitude": "-166.2344"
+      "latitude": "32.2881",
+      "longitude": "-90.6746"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "sebastian.petersen@example.com",
+  "email": "jack.vandepoel@example.com",
   "login": {
-    "uuid": "dc48bad0-9cf7-4778-8356-58c0825757a6",
-    "username": "greengorilla404",
-    "password": "chicken",
-    "salt": "JX0BEEGG",
-    "md5": "3180debdfd21805ddb0da979dd7ebfc1",
-    "sha1": "cb517721e875ff0cf095d1bcad97ec0c04387c72",
-    "sha256": "743479c9e57b6f0e913634d9b25d77ea91c2dc029d6c8b6bd4c7906ab969de3d"
+    "uuid": "6bec00a9-dcb2-4fd9-93a3-1ee0c288f8e8",
+    "username": "redduck196",
+    "password": "claudio",
+    "salt": "1VSi82ML",
+    "md5": "6af7a90eafaab6e0aaac9a772b6c681c",
+    "sha1": "ac13312a8b4bac10b6b0472eb43ad1734ecf1833",
+    "sha256": "1174dc2656537557d407b427d0677c98f2a0c10d585be0a2510cce035b34bb66"
   },
   "dob": {
-    "date": "1973-12-25T18:26:57.205Z",
-    "age": 51
+    "date": "1995-12-25T15:00:08.927Z",
+    "age": 29
   },
   "registered": {
-    "date": "2017-11-17T14:01:47.494Z",
-    "age": 7
+    "date": "2020-05-03T12:08:27.513Z",
+    "age": 4
   },
-  "phone": "51343464",
-  "cell": "30637956",
+  "phone": "(071) 5595958",
+  "cell": "(06) 84134608",
   "id": {
-    "name": "CPR",
-    "value": "251273-7359"
+    "name": "BSN",
+    "value": "82631646"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "DK"
+  "nat": "NL"
 }

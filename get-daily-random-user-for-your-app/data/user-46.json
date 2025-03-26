@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Anton",
-    "last": "Laitinen"
+    "title": "Ms",
+    "first": "Ege",
+    "last": "Akal"
   },
   "location": {
     "street": {
-      "number": 9287,
-      "name": "Otavalankatu"
+      "number": 7188,
+      "name": "Abanoz Sk"
     },
-    "city": "Kemijärvi",
-    "state": "Southern Savonia",
-    "country": "Finland",
-    "postcode": 33866,
+    "city": "İzmir",
+    "state": "Konya",
+    "country": "Turkey",
+    "postcode": 54647,
     "coordinates": {
-      "latitude": "-24.9461",
-      "longitude": "-25.0391"
+      "latitude": "66.6858",
+      "longitude": "133.1175"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "anton.laitinen@example.com",
+  "email": "ege.akal@example.com",
   "login": {
-    "uuid": "16ae84c4-492f-4b4a-9597-05cccc5319ce",
-    "username": "purpleladybug109",
-    "password": "ffff",
-    "salt": "tJl9RrNK",
-    "md5": "ac501a35ee3c0c3301068ac8a87571d8",
-    "sha1": "05acd5feb39975c49b9706a35418e9e08fb90965",
-    "sha256": "e5e74f16617a62a2363536fc7c627c5a199834894a3d3490e2b7101bfacde375"
+    "uuid": "40bab668-750a-4c01-8702-a28e022e842d",
+    "username": "blackostrich225",
+    "password": "1962",
+    "salt": "ucPYdeHD",
+    "md5": "a092dfcd358d09d8603a111df07839ea",
+    "sha1": "48e3ed628a5540004ee1cdf07d42be6a3bd91e49",
+    "sha256": "78b2df88315ca03adedc2a842234760476890116abaf41cc0c180d1deff039f2"
   },
   "dob": {
-    "date": "1964-05-31T11:23:38.411Z",
-    "age": 60
+    "date": "1974-08-17T07:32:52.639Z",
+    "age": 50
   },
   "registered": {
-    "date": "2017-10-25T23:56:28.519Z",
-    "age": 7
+    "date": "2020-04-18T21:57:03.518Z",
+    "age": 4
   },
-  "phone": "08-732-068",
-  "cell": "048-476-79-27",
+  "phone": "(119)-521-8591",
+  "cell": "(822)-953-4413",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA933undefined"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    "large": "https://randomuser.me/api/portraits/women/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
   },
-  "nat": "FI"
+  "nat": "TR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Luukas",
-    "last": "Ahola"
+    "title": "Miss",
+    "first": "Olivia",
+    "last": "Thompson"
   },
   "location": {
     "street": {
-      "number": 1194,
-      "name": "Rotuaari"
+      "number": 7016,
+      "name": "Maunganui Road"
     },
-    "city": "Veteli",
-    "state": "Central Finland",
-    "country": "Finland",
-    "postcode": 63567,
+    "city": "Rotorua",
+    "state": "West Coast",
+    "country": "New Zealand",
+    "postcode": 57350,
     "coordinates": {
-      "latitude": "-28.9251",
-      "longitude": "-112.0090"
+      "latitude": "50.4376",
+      "longitude": "137.3981"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "luukas.ahola@example.com",
+  "email": "olivia.thompson@example.com",
   "login": {
-    "uuid": "80d1bf09-0eba-4a3a-b6de-2984fac7ec39",
-    "username": "ticklishtiger212",
-    "password": "hello",
-    "salt": "d5TMOoO9",
-    "md5": "6923ea3bb3b07bd260beefbd727c092e",
-    "sha1": "cc2816e7cff643ecb1a10e0f75f24674d709ef20",
-    "sha256": "e418ca700a3b98a44b91d168a87dbc43df995baff7d7c86711f64e38281ce10f"
+    "uuid": "cb57b8af-8b16-4322-b259-c94b83516095",
+    "username": "purplesnake649",
+    "password": "french",
+    "salt": "ShypjkCj",
+    "md5": "00ae1df1bc318f2db976ea046b1fcd99",
+    "sha1": "35feaa56d904284085b72a7e20941b838a56d18c",
+    "sha256": "06b70aea2d10254445a0c55c4c1955f72117b2186c028d5ce3cb8295a5539c6e"
   },
   "dob": {
-    "date": "1977-10-04T18:53:36.719Z",
-    "age": 47
+    "date": "1960-07-15T15:13:10.853Z",
+    "age": 64
   },
   "registered": {
-    "date": "2013-05-30T07:52:25.261Z",
-    "age": 11
+    "date": "2016-10-23T17:59:44.636Z",
+    "age": 8
   },
-  "phone": "09-674-972",
-  "cell": "046-149-93-89",
+  "phone": "(231)-306-3766",
+  "cell": "(852)-367-8431",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA521undefined"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
   },
-  "nat": "FI"
+  "nat": "NZ"
 }

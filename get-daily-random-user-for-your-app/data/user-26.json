@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Sarthak",
-    "last": "Singh"
+    "title": "Miss",
+    "first": "Angela",
+    "last": "Velasco"
   },
   "location": {
     "street": {
-      "number": 401,
-      "name": "Santhekatte"
+      "number": 4973,
+      "name": "Calle de Bravo Murillo"
     },
-    "city": "Malda",
-    "state": "Mizoram",
-    "country": "India",
-    "postcode": 88859,
+    "city": "Lorca",
+    "state": "Asturias",
+    "country": "Spain",
+    "postcode": 75843,
     "coordinates": {
-      "latitude": "7.7909",
-      "longitude": "-9.7354"
+      "latitude": "-32.5108",
+      "longitude": "33.8225"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "sarthak.singh@example.com",
+  "email": "angela.velasco@example.com",
   "login": {
-    "uuid": "de90d9ae-b414-4fb9-b893-03eee8ae7061",
-    "username": "purpleduck141",
-    "password": "lespaul",
-    "salt": "Rseq8QKD",
-    "md5": "c966219112ca2cf91df7d1609bd3ff79",
-    "sha1": "299bb28aae85491a050f38b9dc76fc5af8d18da1",
-    "sha256": "8f068b801d726de135acad09ed72237d5ff0d0df5feaa2fbaa0651fe3f55453e"
+    "uuid": "1f4b7671-b917-463e-9d28-e27ed4a85f5a",
+    "username": "orangetiger239",
+    "password": "brenda",
+    "salt": "KhCzm3uZ",
+    "md5": "4add48e9414aa138478a0ca2d0a5f8bf",
+    "sha1": "98c7ca0c324219cce99ed4dbc4283d8c1c9850ec",
+    "sha256": "4d2ba25dc2348e1bf41a08dae06b9d8b17cff5bfa2fc2e7d8a09380b3d011ff0"
   },
   "dob": {
-    "date": "1956-10-04T11:37:53.077Z",
-    "age": 68
+    "date": "1972-12-21T06:21:16.110Z",
+    "age": 52
   },
   "registered": {
-    "date": "2020-01-26T17:00:34.029Z",
+    "date": "2019-12-17T00:49:38.826Z",
     "age": 5
   },
-  "phone": "9569404190",
-  "cell": "7183897585",
+  "phone": "926-539-366",
+  "cell": "643-283-495",
   "id": {
-    "name": "UIDAI",
-    "value": "639882478586"
+    "name": "DNI",
+    "value": "27829508-G"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
   },
-  "nat": "IN"
+  "nat": "ES"
 }

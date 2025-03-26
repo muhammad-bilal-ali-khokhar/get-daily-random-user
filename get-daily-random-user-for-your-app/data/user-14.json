@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Deniz",
-    "last": "Abanuz"
+    "title": "Miss",
+    "first": "Benita",
+    "last": "Westhoff"
   },
   "location": {
     "street": {
-      "number": 9520,
-      "name": "Abanoz Sk"
+      "number": 6880,
+      "name": "Tannenweg"
     },
-    "city": "Çanakkale",
-    "state": "Zonguldak",
-    "country": "Turkey",
-    "postcode": 25392,
+    "city": "Uckermark",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "postcode": 52990,
     "coordinates": {
-      "latitude": "64.5172",
-      "longitude": "-115.7149"
+      "latitude": "-49.8987",
+      "longitude": "59.6138"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "deniz.abanuz@example.com",
+  "email": "benita.westhoff@example.com",
   "login": {
-    "uuid": "300f63d2-131e-4c4e-9fda-c2b3bfd2acc5",
-    "username": "ticklishmouse782",
-    "password": "white",
-    "salt": "dng4Wr6u",
-    "md5": "3f321d44cee0cb718a6a8cd99c74b230",
-    "sha1": "802a06eeb62e8667c8ffd40555af413becbe56df",
-    "sha256": "902854e4c2dce917c5c9e26014cb553502dd092b56b6c26e661a2ddd417a3a44"
+    "uuid": "1f41bee0-7cf6-402c-86e5-4eef285073fb",
+    "username": "greenelephant919",
+    "password": "testing1",
+    "salt": "X9ybjXqA",
+    "md5": "61c4d43dd874040dcf19d285b814760f",
+    "sha1": "98c1c6f4cdec8fedf4bf56c9f930544162bfabb5",
+    "sha256": "832e7c41063552b09389342385bd9673d816594c08c7786ae0d1b5e7e2257d99"
   },
   "dob": {
-    "date": "1955-01-07T10:35:33.025Z",
-    "age": 70
+    "date": "1997-02-03T18:18:28.439Z",
+    "age": 28
   },
   "registered": {
-    "date": "2016-07-16T23:25:15.456Z",
-    "age": 8
+    "date": "2021-04-19T19:50:04.174Z",
+    "age": 3
   },
-  "phone": "(698)-168-7344",
-  "cell": "(867)-194-9269",
+  "phone": "0530-4297905",
+  "cell": "0175-4963102",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SVNR",
+    "value": "61 030297 W 502"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    "large": "https://randomuser.me/api/portraits/women/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
   },
-  "nat": "TR"
+  "nat": "DE"
 }

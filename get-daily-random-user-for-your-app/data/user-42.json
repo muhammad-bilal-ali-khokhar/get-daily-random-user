@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Marina",
-    "last": "Novak"
+    "title": "Mr",
+    "first": "Oliver",
+    "last": "Barnaby"
   },
   "location": {
     "street": {
-      "number": 8261,
-      "name": "Vojislava Đurića"
+      "number": 8154,
+      "name": "York St"
     },
-    "city": "Knić",
-    "state": "Moravica",
-    "country": "Serbia",
-    "postcode": 64994,
+    "city": "Inwood",
+    "state": "Manitoba",
+    "country": "Canada",
+    "postcode": "I9D 1O4",
     "coordinates": {
-      "latitude": "64.0409",
-      "longitude": "125.2437"
+      "latitude": "-69.1041",
+      "longitude": "-152.2796"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "marina.novak@example.com",
+  "email": "oliver.barnaby@example.com",
   "login": {
-    "uuid": "87cfde45-925a-47a0-969a-95835c736b6d",
-    "username": "redlion405",
-    "password": "mnbv",
-    "salt": "kuQCPaxz",
-    "md5": "7d520eb73ad53439507c8113717c9081",
-    "sha1": "195ae477f2fa09820ea3a15823f2c01a1dbe59f5",
-    "sha256": "f4d535a8937e9328ac2e91e124d530767c2b386ea43b54045aa877b6541b186e"
+    "uuid": "b10df733-fd40-421c-b871-752d0fb60c79",
+    "username": "heavycat502",
+    "password": "ling",
+    "salt": "9YpcihXC",
+    "md5": "063bcfebff0cdc192a454b3bdf893fd7",
+    "sha1": "3b2bb316616db24931a27c2a1eb032d6b0a30a46",
+    "sha256": "8919da03af15639fa7c92535c53242f481b7715925c07f87df4ed214e61d0410"
   },
   "dob": {
-    "date": "1974-03-02T07:54:16.092Z",
-    "age": 51
+    "date": "1965-11-06T19:32:44.942Z",
+    "age": 59
   },
   "registered": {
-    "date": "2007-02-12T11:40:59.881Z",
-    "age": 18
+    "date": "2005-06-07T06:15:26.945Z",
+    "age": 19
   },
-  "phone": "034-2473-862",
-  "cell": "064-4580-626",
+  "phone": "A97 K07-4616",
+  "cell": "V02 C45-9653",
   "id": {
-    "name": "SID",
-    "value": "857360360"
+    "name": "SIN",
+    "value": "487628687"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+    "large": "https://randomuser.me/api/portraits/men/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
   },
-  "nat": "RS"
+  "nat": "CA"
 }

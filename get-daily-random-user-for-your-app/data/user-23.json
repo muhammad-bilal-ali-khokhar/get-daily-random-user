@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mohamad",
-    "last": "Lillevik"
+    "first": "Nitesh",
+    "last": "Prabhu"
   },
   "location": {
     "street": {
-      "number": 5377,
-      "name": "Ole Messelts vei"
+      "number": 878,
+      "name": "Fontainhas"
     },
-    "city": "Hauge",
-    "state": "Akershus",
-    "country": "Norway",
-    "postcode": "5729",
+    "city": "Karaikudi",
+    "state": "Kerala",
+    "country": "India",
+    "postcode": 88008,
     "coordinates": {
-      "latitude": "45.8722",
-      "longitude": "-150.2446"
+      "latitude": "11.9307",
+      "longitude": "-85.3591"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "mohamad.lillevik@example.com",
+  "email": "nitesh.prabhu@example.com",
   "login": {
-    "uuid": "a738a40b-5559-4ee0-aa28-e45775413df8",
-    "username": "blacklion906",
-    "password": "pasadena",
-    "salt": "vwwM44dP",
-    "md5": "95a3d363f65eb6f1b6554232c04c8f93",
-    "sha1": "88af89204053fdf4ee04e9915dc12d1e371f3c62",
-    "sha256": "e3e0d6b6bb3dd189d333185dae2b08b775cb6573fb8348a114ecaac8b1ce07e1"
+    "uuid": "aa01478d-bca3-4e42-90fd-1accb8f78416",
+    "username": "yellowsnake183",
+    "password": "767676",
+    "salt": "RWNn4sk1",
+    "md5": "8f1b12860c84d656f47ba11dcef0548b",
+    "sha1": "d8519cecb2c04ea4fe3a3a444aa84c8127f1a682",
+    "sha256": "b802d8a6367501e550bd71b28304c25fe49804951c97018ec5c98a5021649aa6"
   },
   "dob": {
-    "date": "1962-03-20T07:39:58.684Z",
-    "age": 63
+    "date": "1981-12-28T00:35:23.397Z",
+    "age": 43
   },
   "registered": {
-    "date": "2008-11-30T02:52:51.809Z",
-    "age": 16
+    "date": "2017-10-29T17:06:18.551Z",
+    "age": 7
   },
-  "phone": "53302895",
-  "cell": "97827035",
+  "phone": "9594521404",
+  "cell": "8570235110",
   "id": {
-    "name": "FN",
-    "value": "20036245728"
+    "name": "UIDAI",
+    "value": "167261768620"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+    "large": "https://randomuser.me/api/portraits/men/76.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
   },
-  "nat": "NO"
+  "nat": "IN"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Mary",
-    "last": "Watson"
+    "title": "Mr",
+    "first": "Dhanush",
+    "last": "Kulkarni"
   },
   "location": {
     "street": {
-      "number": 2074,
-      "name": "Shady Ln Dr"
+      "number": 8842,
+      "name": "Ranganathan St"
     },
-    "city": "Queanbeyan",
-    "state": "South Australia",
-    "country": "Australia",
-    "postcode": 1965,
+    "city": "Pallavaram",
+    "state": "Bihar",
+    "country": "India",
+    "postcode": 99700,
     "coordinates": {
-      "latitude": "-88.9502",
-      "longitude": "129.0917"
+      "latitude": "11.3308",
+      "longitude": "-177.2069"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "mary.watson@example.com",
+  "email": "dhanush.kulkarni@example.com",
   "login": {
-    "uuid": "af863cb9-9d84-43bc-81d0-dc346235e749",
-    "username": "beautifulsnake786",
-    "password": "sinatra",
-    "salt": "ZHqoRVph",
-    "md5": "3d363812c7575707780e0e0b3ba41d30",
-    "sha1": "273f604794ea0a2fecb26fe708010174c22239a2",
-    "sha256": "18a5736cceafd8e07aba5a2542d1a94f776574b58853c8ac727133a240e35f8b"
+    "uuid": "472ebb1f-ad01-486e-869e-6faf69b9651e",
+    "username": "organictiger458",
+    "password": "head",
+    "salt": "PZcfIz4r",
+    "md5": "3d095923622a4a78248beccf435466ef",
+    "sha1": "4882d61f892a7c9c6bdd5f4b70c36829919f374d",
+    "sha256": "2f26735cc8c66e19ac3b1f39c0b29181fd0bffdbe3f8869eea8bb32ebc245a2d"
   },
   "dob": {
-    "date": "1957-12-24T17:00:40.580Z",
-    "age": 67
+    "date": "2001-02-13T03:17:42.676Z",
+    "age": 24
   },
   "registered": {
-    "date": "2007-06-11T15:45:21.932Z",
-    "age": 17
+    "date": "2015-09-14T15:35:21.042Z",
+    "age": 9
   },
-  "phone": "01-1394-2570",
-  "cell": "0463-123-927",
+  "phone": "8575431995",
+  "cell": "7963868868",
   "id": {
-    "name": "TFN",
-    "value": "654026281"
+    "name": "UIDAI",
+    "value": "307255500361"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
   },
-  "nat": "AU"
+  "nat": "IN"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Benito",
-    "last": "Aguirre"
+    "first": "Tihomir",
+    "last": "Lastovenko"
   },
   "location": {
     "street": {
-      "number": 2091,
-      "name": "Diagonal Soria"
+      "number": 1051,
+      "name": "Dzvonarska"
     },
-    "city": "Mérida",
-    "state": "Guanajuato",
-    "country": "Mexico",
-    "postcode": 24063,
+    "city": "Striy",
+    "state": "Kirovogradska",
+    "country": "Ukraine",
+    "postcode": 24610,
     "coordinates": {
-      "latitude": "29.3905",
-      "longitude": "-35.1268"
+      "latitude": "78.3938",
+      "longitude": "-157.7252"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "benito.aguirre@example.com",
+  "email": "tihomir.lastovenko@example.com",
   "login": {
-    "uuid": "20739752-3394-40a4-876b-f9676a51616f",
-    "username": "greenpanda963",
-    "password": "hollow",
-    "salt": "opMsaMrG",
-    "md5": "2290e8a931d25272b2d5fb3d2866a6a9",
-    "sha1": "d77ed0080929917d7da9009890ede2bfd24736c3",
-    "sha256": "da2ad805b060eec1d6da4c5c9fb36e73dbd8a831cc176cbf67965b2450b929bd"
+    "uuid": "e7514d72-b28a-43b1-bb06-8d0d7a16fce2",
+    "username": "angrygorilla595",
+    "password": "raymond",
+    "salt": "TjINpRfE",
+    "md5": "4f3d40564137a71003e3f45bf4b9d308",
+    "sha1": "73c9609cd8293afe2176109943ba0c1952add0a5",
+    "sha256": "56213f5efd36b64975047c30d98695fc0f65900bda296614e361317de1a8ae4a"
   },
   "dob": {
-    "date": "1978-01-02T06:35:01.631Z",
-    "age": 47
+    "date": "1993-05-25T22:59:48.003Z",
+    "age": 31
   },
   "registered": {
-    "date": "2010-04-06T21:08:46.306Z",
-    "age": 14
+    "date": "2002-09-03T10:12:51.039Z",
+    "age": 22
   },
-  "phone": "(636) 304 0396",
-  "cell": "(678) 199 4687",
+  "phone": "(096) R03-9781",
+  "cell": "(066) P21-4602",
   "id": {
-    "name": "NSS",
-    "value": "82 72 36 4308 4"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/47.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    "large": "https://randomuser.me/api/portraits/men/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
   },
-  "nat": "MX"
+  "nat": "UA"
 }

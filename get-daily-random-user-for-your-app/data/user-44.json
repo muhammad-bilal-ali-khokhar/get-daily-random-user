@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Glib",
-    "last": "Hristenko"
+    "title": "Mademoiselle",
+    "first": "Raffaella",
+    "last": "Leclerc"
   },
   "location": {
     "street": {
-      "number": 5885,
-      "name": "Pasichna"
+      "number": 2151,
+      "name": "Rue Desaix"
     },
-    "city": "Novovolinsk",
-    "state": "Kirovogradska",
-    "country": "Ukraine",
-    "postcode": 12298,
+    "city": "Saint-Légier-La Chiésaz",
+    "state": "Schwyz",
+    "country": "Switzerland",
+    "postcode": 9165,
     "coordinates": {
-      "latitude": "76.6402",
-      "longitude": "-114.1714"
+      "latitude": "-56.8260",
+      "longitude": "35.4142"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "glib.hristenko@example.com",
+  "email": "raffaella.leclerc@example.com",
   "login": {
-    "uuid": "3e89a970-8803-4898-a0b7-32563293e4ee",
-    "username": "redkoala269",
-    "password": "1982",
-    "salt": "GGdoGLIN",
-    "md5": "5d84cdbd272acc02056e982f1b330219",
-    "sha1": "997c43197e3f16eed9bb5d0a7465c7d3c1d252bd",
-    "sha256": "462a3e5338d9737790b0062abbd0f8a3740d2b46e06b413b56c6bdd0f198ca42"
+    "uuid": "c8443bca-0be0-4296-b5d5-829a11ee1662",
+    "username": "greenleopard261",
+    "password": "striker",
+    "salt": "R5bkKxRx",
+    "md5": "1349bb9f7656828c3cca20fd41ea1774",
+    "sha1": "672573fcc522d33610e6378af1e0372f7fa2a6e2",
+    "sha256": "1a5b74fc8281aefee0b88a4fefa4fb68783adce9159582c4225c8b3c7404f6c1"
   },
   "dob": {
-    "date": "1952-06-26T18:39:14.470Z",
-    "age": 72
+    "date": "1976-08-19T04:36:03.674Z",
+    "age": 48
   },
   "registered": {
-    "date": "2009-05-05T00:34:25.986Z",
-    "age": 15
+    "date": "2015-12-21T05:25:59.486Z",
+    "age": 9
   },
-  "phone": "(067) E51-8288",
-  "cell": "(097) Y27-8482",
+  "phone": "079 034 17 26",
+  "cell": "076 991 28 17",
   "id": {
-    "name": "",
-    "value": null
+    "name": "AVS",
+    "value": "756.5587.1341.42"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/women/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
   },
-  "nat": "UA"
+  "nat": "CH"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Aurélien",
-    "last": "Denis"
+    "title": "Mr",
+    "first": "Zvezdan",
+    "last": "Jovanović"
   },
   "location": {
     "street": {
-      "number": 2551,
-      "name": "Rue de la Baleine"
+      "number": 229,
+      "name": "Dol"
     },
-    "city": "Thusis",
-    "state": "Thurgau",
-    "country": "Switzerland",
-    "postcode": 6892,
+    "city": "Beočin",
+    "state": "Kosovo-Pomoravlje",
+    "country": "Serbia",
+    "postcode": 55023,
     "coordinates": {
-      "latitude": "-59.9159",
-      "longitude": "-174.6123"
+      "latitude": "60.0726",
+      "longitude": "-1.3320"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "aurelien.denis@example.com",
+  "email": "zvezdan.jovanovic@example.com",
   "login": {
-    "uuid": "13649db9-6360-4306-8502-fb1aa35f62e7",
-    "username": "beautifuldog990",
-    "password": "fashion",
-    "salt": "zmxclazs",
-    "md5": "57db7104c1ba5909b968d8fcedd23acb",
-    "sha1": "ee942d462bdac969b59ffe91970ff5e73a987e09",
-    "sha256": "17010e80e843eba3c0c1a8fdd1b19b8b5ef7e827d06455b41e14d42a25eea7fb"
+    "uuid": "f4502138-220b-4c63-bbaa-5d07c2c8957f",
+    "username": "redmouse413",
+    "password": "pikachu",
+    "salt": "jkaUXyo9",
+    "md5": "cb12b9926f8d44fd05ea02e335091d8a",
+    "sha1": "652a37f442c5d29eb99e105717bb89bb3f8f8060",
+    "sha256": "ef4c843022992711e7dfb2fc910b6a6f9011cbb3108a2b1c1f3aff12b40bfe5d"
   },
   "dob": {
-    "date": "1985-03-10T18:49:05.229Z",
-    "age": 40
+    "date": "1993-04-01T11:24:35.066Z",
+    "age": 31
   },
   "registered": {
-    "date": "2003-08-02T19:37:08.641Z",
-    "age": 21
+    "date": "2002-10-24T13:31:45.013Z",
+    "age": 22
   },
-  "phone": "076 394 18 44",
-  "cell": "079 238 19 72",
+  "phone": "031-7553-497",
+  "cell": "067-9320-306",
   "id": {
-    "name": "AVS",
-    "value": "756.9296.8426.46"
+    "name": "SID",
+    "value": "736021211"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "CH"
+  "nat": "RS"
 }

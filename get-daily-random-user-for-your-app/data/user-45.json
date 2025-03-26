@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Begüm",
-    "last": "Abadan"
+    "title": "Mrs",
+    "first": "Amanda",
+    "last": "Dean"
   },
   "location": {
     "street": {
-      "number": 7042,
-      "name": "Abanoz Sk"
+      "number": 2395,
+      "name": "Marsh Ln"
     },
-    "city": "Kayseri",
-    "state": "Bayburt",
-    "country": "Turkey",
-    "postcode": 10295,
+    "city": "Edison",
+    "state": "Kentucky",
+    "country": "United States",
+    "postcode": 73433,
     "coordinates": {
-      "latitude": "65.4238",
-      "longitude": "17.4612"
+      "latitude": "82.2234",
+      "longitude": "121.6200"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "begum.abadan@example.com",
+  "email": "amanda.dean@example.com",
   "login": {
-    "uuid": "2017b67d-058a-4a9b-8054-1cdf27e4be1d",
-    "username": "crazybutterfly801",
-    "password": "female",
-    "salt": "tIQPMQsa",
-    "md5": "64974f245c8ca7c53634b25324391ada",
-    "sha1": "4aedf50f6f52762047b975c0d6c508f5b3eceb6c",
-    "sha256": "22c0f6fb8b5f4d430624961f9fc611508e97465c97a53a054c23019d385f1a06"
+    "uuid": "03563745-b831-4965-be11-bb3dcedef34c",
+    "username": "bigpanda730",
+    "password": "ashley1",
+    "salt": "GmhKAwC3",
+    "md5": "1c657f793650a5152be67720b04e528f",
+    "sha1": "9e07d1c9472c0d42d080ad29d6958f91d4dc9b45",
+    "sha256": "6adab8d5add874fffbd3730270a9e2c5358101ab4dc64fc0514a32c2122ea685"
   },
   "dob": {
-    "date": "1991-06-07T03:54:04.273Z",
-    "age": 33
+    "date": "1957-03-30T04:19:51.429Z",
+    "age": 67
   },
   "registered": {
-    "date": "2022-02-11T20:05:24.237Z",
-    "age": 3
+    "date": "2019-01-11T13:25:58.436Z",
+    "age": 6
   },
-  "phone": "(492)-781-8968",
-  "cell": "(372)-282-9915",
+  "phone": "(989) 923-7142",
+  "cell": "(562) 673-1448",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SSN",
+    "value": "504-32-5245"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/15.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+    "large": "https://randomuser.me/api/portraits/women/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
   },
-  "nat": "TR"
+  "nat": "US"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Borja",
-    "last": "Castro"
+    "first": "Tijmen",
+    "last": "Leijssen"
   },
   "location": {
     "street": {
-      "number": 4897,
-      "name": "Calle de Argumosa"
+      "number": 796,
+      "name": "Heiligenwaard"
     },
-    "city": "Burgos",
-    "state": "Castilla la Mancha",
-    "country": "Spain",
-    "postcode": 38222,
+    "city": "Krommeniedijk",
+    "state": "Noord-Brabant",
+    "country": "Netherlands",
+    "postcode": "8024 ZJ",
     "coordinates": {
-      "latitude": "-36.5956",
-      "longitude": "-32.3807"
+      "latitude": "36.5508",
+      "longitude": "-98.8959"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "borja.castro@example.com",
+  "email": "tijmen.leijssen@example.com",
   "login": {
-    "uuid": "22075245-8511-434e-b55b-08371118c6a3",
-    "username": "greenpanda152",
-    "password": "erin",
-    "salt": "Fuhfpr3R",
-    "md5": "23215fdcef51ed42a1d18493aa4a926a",
-    "sha1": "300c4d7ca38565ad4a0f40defeeef566a55f0c9a",
-    "sha256": "4036025dc4c15dfee105fc54d6c6b967bf32b45fdc6f3db6e5e87a34163f499c"
+    "uuid": "e6f1b780-e418-4efb-a793-238d19f04250",
+    "username": "purpleduck240",
+    "password": "inferno",
+    "salt": "5qeF37TN",
+    "md5": "fee0a82695838ae5b0a57121ff59e1a4",
+    "sha1": "58560b0292f0b40edd3ec5c4dd120daf343e45fa",
+    "sha256": "58d63f10f29a484b506da40d268d4f3ace602f0e3589d8bec21bea214f2437c0"
   },
   "dob": {
-    "date": "1973-04-20T11:57:42.368Z",
-    "age": 51
+    "date": "1955-05-08T09:21:29.152Z",
+    "age": 69
   },
   "registered": {
-    "date": "2006-09-13T01:40:38.232Z",
-    "age": 18
+    "date": "2013-05-19T13:51:54.106Z",
+    "age": 11
   },
-  "phone": "901-057-362",
-  "cell": "690-608-943",
+  "phone": "(006) 9021308",
+  "cell": "(06) 41713785",
   "id": {
-    "name": "DNI",
-    "value": "67618915-A"
+    "name": "BSN",
+    "value": "18902699"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
   },
-  "nat": "ES"
+  "nat": "NL"
 }

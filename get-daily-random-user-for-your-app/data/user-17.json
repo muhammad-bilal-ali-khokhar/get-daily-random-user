@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Ružica",
-    "last": "Glavaš"
+    "title": "Monsieur",
+    "first": "Orlando",
+    "last": "Faure"
   },
   "location": {
     "street": {
-      "number": 6735,
-      "name": "Kapetana Deroka"
+      "number": 9409,
+      "name": "Rue Gasparin"
     },
-    "city": "Sokobanja",
-    "state": "Central Banat",
-    "country": "Serbia",
-    "postcode": 25842,
+    "city": "Terre Di Pedemonte",
+    "state": "Basel-Landschaft",
+    "country": "Switzerland",
+    "postcode": 5629,
     "coordinates": {
-      "latitude": "60.5529",
-      "longitude": "165.2064"
+      "latitude": "-60.8045",
+      "longitude": "-153.5495"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "ruzica.glavas@example.com",
+  "email": "orlando.faure@example.com",
   "login": {
-    "uuid": "b2aca5c1-2780-4633-ad58-78f8a5519916",
-    "username": "orangekoala603",
-    "password": "fenway",
-    "salt": "DHcynmPZ",
-    "md5": "3c5d3da2611c0a2ef7b74cacac1c0c64",
-    "sha1": "471ec2d891a5cd66e64505ad366b827140a23109",
-    "sha256": "015da6ae9a0c3972a9fd8293ccecbc1716294105bc7f202c6f04c3aeba2f5808"
+    "uuid": "c46fed2a-32d1-479a-bfba-5520838573bb",
+    "username": "redostrich382",
+    "password": "willis",
+    "salt": "piZgEKNR",
+    "md5": "ff6d0350036f8d872b6be97a3867cfd0",
+    "sha1": "d3cb4d36318e97d8ff60e8bdc9fcb9b406b4f4d5",
+    "sha256": "8e51201b4d9644dc5be91add1118a037f8ee56feb31d7a8dea90ab0526fa2e0b"
   },
   "dob": {
-    "date": "2000-04-15T11:09:25.395Z",
-    "age": 24
+    "date": "1963-01-25T03:47:04.195Z",
+    "age": 62
   },
   "registered": {
-    "date": "2013-04-16T19:06:01.216Z",
-    "age": 11
+    "date": "2005-09-01T15:29:09.720Z",
+    "age": 19
   },
-  "phone": "013-0661-435",
-  "cell": "063-2578-512",
+  "phone": "075 534 27 74",
+  "cell": "078 285 16 00",
   "id": {
-    "name": "SID",
-    "value": "773002953"
+    "name": "AVS",
+    "value": "756.5418.3142.55"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+    "large": "https://randomuser.me/api/portraits/men/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
   },
-  "nat": "RS"
+  "nat": "CH"
 }
