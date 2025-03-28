@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Adriana",
-    "last": "Camacho"
+    "title": "Mr",
+    "first": "Divozir",
+    "last": "Vertinska"
   },
   "location": {
     "street": {
-      "number": 4669,
-      "name": "Continuación Comoras"
+      "number": 6085,
+      "name": "Ivana Kochergi"
     },
-    "city": "San Diego",
-    "state": "Sonora",
-    "country": "Mexico",
-    "postcode": 64500,
+    "city": "Baturin",
+    "state": "Kirovogradska",
+    "country": "Ukraine",
+    "postcode": 36136,
     "coordinates": {
-      "latitude": "27.6230",
-      "longitude": "6.0363"
+      "latitude": "72.8767",
+      "longitude": "-82.8407"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "adriana.camacho@example.com",
+  "email": "divozir.vertinska@example.com",
   "login": {
-    "uuid": "02a977ac-911c-42e0-b92f-fb810ac29786",
-    "username": "yellowwolf728",
-    "password": "bigdawg",
-    "salt": "ehYi7a8J",
-    "md5": "6812a1c06313525e6f49214bf64bb05e",
-    "sha1": "83e1503d8fac1f73dc2768f25be8968313407b90",
-    "sha256": "8a757a75a2a6003e36742a8c09af4d510b025faf33bbcd0ce92dbae16ed04ad8"
+    "uuid": "52b97064-138a-4a3c-a6de-38ff2924739e",
+    "username": "ticklishtiger322",
+    "password": "hatred",
+    "salt": "hlIQNmWy",
+    "md5": "82b13dd77813d4bafb1c1fbfe0375211",
+    "sha1": "47abff6d2f7090d7e577a363ff724cc56a85bf8c",
+    "sha256": "973d1018588aabaa9804f0ea7870b5da28d5cddf7361af7c5b1e4828efd765f1"
   },
   "dob": {
-    "date": "1973-03-15T05:05:24.819Z",
-    "age": 52
+    "date": "1974-07-20T02:38:42.514Z",
+    "age": 50
   },
   "registered": {
-    "date": "2004-03-05T07:31:40.510Z",
-    "age": 21
+    "date": "2021-06-20T15:54:18.129Z",
+    "age": 3
   },
-  "phone": "(667) 154 5429",
-  "cell": "(651) 704 9828",
+  "phone": "(067) P13-4269",
+  "cell": "(067) E26-0043",
   "id": {
-    "name": "NSS",
-    "value": "91 60 04 1338 5"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/4.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "MX"
+  "nat": "UA"
 }

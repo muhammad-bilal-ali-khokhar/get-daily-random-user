@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Amanda",
-    "last": "Dean"
+    "first": "Cheslava",
+    "last": "Baranik"
   },
   "location": {
     "street": {
-      "number": 2395,
-      "name": "Marsh Ln"
+      "number": 8517,
+      "name": "Svyatoslavska"
     },
-    "city": "Edison",
-    "state": "Kentucky",
-    "country": "United States",
-    "postcode": 73433,
+    "city": "Gaysin",
+    "state": "Zhitomirska",
+    "country": "Ukraine",
+    "postcode": 80059,
     "coordinates": {
-      "latitude": "82.2234",
-      "longitude": "121.6200"
+      "latitude": "72.8651",
+      "longitude": "122.1628"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "amanda.dean@example.com",
+  "email": "cheslava.baranik@example.com",
   "login": {
-    "uuid": "03563745-b831-4965-be11-bb3dcedef34c",
-    "username": "bigpanda730",
-    "password": "ashley1",
-    "salt": "GmhKAwC3",
-    "md5": "1c657f793650a5152be67720b04e528f",
-    "sha1": "9e07d1c9472c0d42d080ad29d6958f91d4dc9b45",
-    "sha256": "6adab8d5add874fffbd3730270a9e2c5358101ab4dc64fc0514a32c2122ea685"
+    "uuid": "f098dc33-c7be-460d-9530-2ad535efd6e5",
+    "username": "angrydog700",
+    "password": "celeron",
+    "salt": "DS6ybYhv",
+    "md5": "a02904144ef93c6d7b987267fdd94471",
+    "sha1": "4601beefa639f18f169a36c2243307596f5026a2",
+    "sha256": "d9240d1276a8ed5d46b0baea72a483c01e38bb128ea095079426fa38f727fee2"
   },
   "dob": {
-    "date": "1957-03-30T04:19:51.429Z",
-    "age": 67
+    "date": "1992-01-29T04:27:07.494Z",
+    "age": 33
   },
   "registered": {
-    "date": "2019-01-11T13:25:58.436Z",
-    "age": 6
+    "date": "2009-01-29T23:52:56.912Z",
+    "age": 16
   },
-  "phone": "(989) 923-7142",
-  "cell": "(562) 673-1448",
+  "phone": "(068) X98-3834",
+  "cell": "(099) O42-5233",
   "id": {
-    "name": "SSN",
-    "value": "504-32-5245"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/78.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+    "large": "https://randomuser.me/api/portraits/women/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
   },
-  "nat": "US"
+  "nat": "UA"
 }

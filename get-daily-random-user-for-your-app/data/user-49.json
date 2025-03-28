@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Aurelio",
-    "last": "Mascareñas"
+    "first": "Kuybida",
+    "last": "Gornyatkevich"
   },
   "location": {
     "street": {
-      "number": 5360,
-      "name": "Viaducto Hidalgo"
+      "number": 4011,
+      "name": "Krolevecka"
     },
-    "city": "Plenitud",
-    "state": "Baja California Sur",
-    "country": "Mexico",
-    "postcode": 35843,
+    "city": "Chernivci",
+    "state": "Zhitomirska",
+    "country": "Ukraine",
+    "postcode": 36603,
     "coordinates": {
-      "latitude": "29.3166",
-      "longitude": "-63.4861"
+      "latitude": "78.4481",
+      "longitude": "-28.0096"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "aurelio.mascarenas@example.com",
+  "email": "kuybida.gornyatkevich@example.com",
   "login": {
-    "uuid": "18b8f914-861f-451f-b153-82c0a82a4da6",
-    "username": "goldenduck573",
-    "password": "anchor",
-    "salt": "Gyh7vf8C",
-    "md5": "fe568c4b2c0c46db80fd279f98a94ce2",
-    "sha1": "9bd0bc688a259f17f87f55de9426938bbc3e84d9",
-    "sha256": "23191eead71ce654ff9b952493d1290830c98a3bfa367d0cc4dcbb3eea8d3d1f"
+    "uuid": "73467f34-a023-49a4-bd5a-df089d17ed6b",
+    "username": "goldenmouse851",
+    "password": "starstar",
+    "salt": "McioJPsl",
+    "md5": "7da18350d96512d6837c11cfca5cea43",
+    "sha1": "d747fdd18d13f115f770267dc6d60aaedcd2c74c",
+    "sha256": "12d789aab2aabfa9b5a8c2baa67a14b840d9419187581f48b9bf93494b680f6d"
   },
   "dob": {
-    "date": "1952-12-24T18:16:41.122Z",
-    "age": 72
+    "date": "1999-06-21T21:54:41.108Z",
+    "age": 25
   },
   "registered": {
-    "date": "2018-02-26T11:14:56.844Z",
-    "age": 7
+    "date": "2002-04-30T21:58:48.008Z",
+    "age": 22
   },
-  "phone": "(665) 162 8643",
-  "cell": "(662) 700 1980",
+  "phone": "(097) V04-9846",
+  "cell": "(096) M23-8629",
   "id": {
-    "name": "NSS",
-    "value": "30 27 64 6891 0"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/0.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    "large": "https://randomuser.me/api/portraits/men/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
   },
-  "nat": "MX"
+  "nat": "UA"
 }

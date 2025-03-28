@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Dhanush",
-    "last": "Kulkarni"
+    "first": "Samuel",
+    "last": "Stewart"
   },
   "location": {
     "street": {
-      "number": 8842,
-      "name": "Ranganathan St"
+      "number": 5393,
+      "name": "London Road"
     },
-    "city": "Pallavaram",
-    "state": "Bihar",
-    "country": "India",
-    "postcode": 99700,
+    "city": "Birmingham",
+    "state": "Cambridgeshire",
+    "country": "United Kingdom",
+    "postcode": "U9 7UD",
     "coordinates": {
-      "latitude": "11.3308",
-      "longitude": "-177.2069"
+      "latitude": "-10.0719",
+      "longitude": "-53.7665"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "dhanush.kulkarni@example.com",
+  "email": "samuel.stewart@example.com",
   "login": {
-    "uuid": "472ebb1f-ad01-486e-869e-6faf69b9651e",
-    "username": "organictiger458",
-    "password": "head",
-    "salt": "PZcfIz4r",
-    "md5": "3d095923622a4a78248beccf435466ef",
-    "sha1": "4882d61f892a7c9c6bdd5f4b70c36829919f374d",
-    "sha256": "2f26735cc8c66e19ac3b1f39c0b29181fd0bffdbe3f8869eea8bb32ebc245a2d"
+    "uuid": "de985118-c53a-428e-9821-381553985202",
+    "username": "blackcat286",
+    "password": "kappa",
+    "salt": "WumNlH6e",
+    "md5": "8cc6874b991bad9b72b84d17f00f4edd",
+    "sha1": "f61519184307422a99ec1bfb45ef73382f6c2419",
+    "sha256": "19f40f7870ae77e37f851fa1323fcb2e0951be6d79eb9108f8b083119c8997ef"
   },
   "dob": {
-    "date": "2001-02-13T03:17:42.676Z",
-    "age": 24
+    "date": "1975-03-14T06:16:55.069Z",
+    "age": 50
   },
   "registered": {
-    "date": "2015-09-14T15:35:21.042Z",
-    "age": 9
+    "date": "2004-02-19T17:24:12.354Z",
+    "age": 21
   },
-  "phone": "8575431995",
-  "cell": "7963868868",
+  "phone": "016977 0178",
+  "cell": "07309 826338",
   "id": {
-    "name": "UIDAI",
-    "value": "307255500361"
+    "name": "NINO",
+    "value": "OK 90 52 13 T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
   },
-  "nat": "IN"
+  "nat": "GB"
 }

@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Krasunya",
-    "last": "Ilinskiy"
+    "first": "Zoe",
+    "last": "Matthews"
   },
   "location": {
     "street": {
-      "number": 3926,
-      "name": "Yuriya Klena"
+      "number": 6598,
+      "name": "Victoria Street"
     },
-    "city": "Chornobil",
-    "state": "Mikolayivska",
-    "country": "Ukraine",
-    "postcode": 17964,
+    "city": "Leicester",
+    "state": "North Yorkshire",
+    "country": "United Kingdom",
+    "postcode": "E65 4UR",
     "coordinates": {
-      "latitude": "73.8939",
-      "longitude": "6.2315"
+      "latitude": "-7.9918",
+      "longitude": "2.6132"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "krasunya.ilinskiy@example.com",
+  "email": "zoe.matthews@example.com",
   "login": {
-    "uuid": "65dc66f9-1daa-45b1-afb2-704b32e4a616",
-    "username": "blueladybug104",
-    "password": "quartz",
-    "salt": "ZOPvTfA9",
-    "md5": "2ae3654b36a6f6509958a808d468c2ae",
-    "sha1": "490ab7af56835f4e87a4ac4dcdd030ef4e7c84ec",
-    "sha256": "70ff2057c4ff8b11645b8b8ea3de5723505425adb7cf50087e7691c0c3f14d4c"
+    "uuid": "f9c3af7a-3135-496e-8c40-e740fe9f61a0",
+    "username": "beautifultiger544",
+    "password": "darkman",
+    "salt": "gnuKz3bV",
+    "md5": "816d9c9d6750e8af27287d1ca1cdfe2f",
+    "sha1": "fa6eab9f7faa9c1b087b9e12c052e3ccb736751d",
+    "sha256": "e6c86e4214ed06c6e22b06b076947b5e14ac033182ceaba1474165b6a8045d02"
   },
   "dob": {
-    "date": "1959-11-21T07:59:46.101Z",
-    "age": 65
+    "date": "1962-04-25T07:36:43.429Z",
+    "age": 62
   },
   "registered": {
-    "date": "2016-07-13T12:22:44.997Z",
-    "age": 8
+    "date": "2003-01-26T22:28:05.787Z",
+    "age": 22
   },
-  "phone": "(067) Y26-4044",
-  "cell": "(097) P45-5074",
+  "phone": "017687 80054",
+  "cell": "07153 592283",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NINO",
+    "value": "ZY 95 92 78 X"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/22.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+    "large": "https://randomuser.me/api/portraits/women/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
   },
-  "nat": "UA"
+  "nat": "GB"
 }

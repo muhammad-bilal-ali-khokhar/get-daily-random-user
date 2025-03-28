@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Dragan",
-    "last": "Mathieu"
+    "title": "Mr",
+    "first": "Harry",
+    "last": "Morris"
   },
   "location": {
     "street": {
-      "number": 7867,
-      "name": "Rue de L'Abbé-Patureau"
+      "number": 6196,
+      "name": "Wellesley Street"
     },
-    "city": "Fraubrunnen",
-    "state": "Basel-Stadt",
-    "country": "Switzerland",
-    "postcode": 4989,
+    "city": "Whangarei",
+    "state": "Manawatu-Wanganui",
+    "country": "New Zealand",
+    "postcode": 94428,
     "coordinates": {
-      "latitude": "-58.4211",
-      "longitude": "-117.3831"
+      "latitude": "54.1825",
+      "longitude": "-11.4467"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "dragan.mathieu@example.com",
+  "email": "harry.morris@example.com",
   "login": {
-    "uuid": "3abc942d-cb9c-4fb7-8932-045f7dbc8a48",
-    "username": "browndog111",
-    "password": "marshall",
-    "salt": "VRMW8UDX",
-    "md5": "0dd49a64e3d0b4827a72aea093d06a16",
-    "sha1": "5f8f436056f7caf99db44699a59a7a1cb228998d",
-    "sha256": "87194eff32e3c3d49444dd09b24406777e7bc75ab3ed1790ff67e6832248bbeb"
+    "uuid": "6809ff5f-53cf-44a5-a440-dde7ee8ba0a0",
+    "username": "crazybear875",
+    "password": "dadada",
+    "salt": "upW0sNxA",
+    "md5": "7238a91d3c97f2887a9e7de51c5962dc",
+    "sha1": "89d7e667f40231b61f15de382a2cad3b1c535de9",
+    "sha256": "a00c755f131317cda1a44b2ea01291d4eba67417f1202bd73c012afb559666d3"
   },
   "dob": {
-    "date": "1962-03-19T04:26:00.568Z",
-    "age": 63
+    "date": "1992-04-10T22:18:59.754Z",
+    "age": 32
   },
   "registered": {
-    "date": "2009-04-22T08:18:31.402Z",
-    "age": 15
+    "date": "2020-04-08T01:07:57.538Z",
+    "age": 4
   },
-  "phone": "079 775 62 52",
-  "cell": "079 606 13 41",
+  "phone": "(995)-760-6001",
+  "cell": "(006)-846-1783",
   "id": {
-    "name": "AVS",
-    "value": "756.3364.2944.16"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
   },
-  "nat": "CH"
+  "nat": "NZ"
 }

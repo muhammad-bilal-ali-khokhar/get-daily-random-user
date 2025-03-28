@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Aurélie",
-    "last": "Vincent"
+    "title": "Mr",
+    "first": "Jacob",
+    "last": "Harris"
   },
   "location": {
     "street": {
-      "number": 6256,
-      "name": "Rue Gasparin"
+      "number": 3971,
+      "name": "Pitt Street"
     },
-    "city": "Rheinau",
-    "state": "Ticino",
-    "country": "Switzerland",
-    "postcode": 9995,
+    "city": "Masterton",
+    "state": "Waikato",
+    "country": "New Zealand",
+    "postcode": 68936,
     "coordinates": {
-      "latitude": "-58.3735",
-      "longitude": "81.5422"
+      "latitude": "49.3467",
+      "longitude": "-149.7634"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "aurelie.vincent@example.com",
+  "email": "jacob.harris@example.com",
   "login": {
-    "uuid": "1f53aebc-ed1d-4ff8-880f-2de089f607fd",
-    "username": "yellowcat843",
-    "password": "1234567",
-    "salt": "2eZ07GVI",
-    "md5": "2706abdf8458eaa880ff2b5c09f48a4d",
-    "sha1": "be9179fc5eb33f0a93e451c61a1f216bf441bd91",
-    "sha256": "3003d72dd22611eadcc325f9b4b2dd34252da186215293f60cd9886c6e63c7ce"
+    "uuid": "8456a6da-4d06-4fe1-af07-1b9c7189e055",
+    "username": "angrykoala177",
+    "password": "zildjian",
+    "salt": "t1ay75gk",
+    "md5": "058eacf0a0edbbb9f3b919a767938ffd",
+    "sha1": "92a686e684e8c47f741d37e7e23c555841b03776",
+    "sha256": "9ed0c1f4730bf5dffa3b59d96028cc4406c6416a1441fd10aaf5483d6a5f8db2"
   },
   "dob": {
-    "date": "1996-03-02T09:32:40.339Z",
-    "age": 29
+    "date": "1984-12-25T18:24:23.153Z",
+    "age": 40
   },
   "registered": {
-    "date": "2003-04-07T05:09:14.723Z",
-    "age": 21
+    "date": "2013-09-09T08:02:23.599Z",
+    "age": 11
   },
-  "phone": "077 049 86 12",
-  "cell": "079 168 20 98",
+  "phone": "(415)-590-3389",
+  "cell": "(130)-060-0711",
   "id": {
-    "name": "AVS",
-    "value": "756.4577.7767.53"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
   },
-  "nat": "CH"
+  "nat": "NZ"
 }

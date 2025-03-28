@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Mila",
-    "last": "Gonzalez"
+    "first": "Junilvana",
+    "last": "da Costa"
   },
   "location": {
     "street": {
-      "number": 5160,
-      "name": "Rue de L'Abbaye"
+      "number": 7417,
+      "name": "Rua João Xxiii"
     },
-    "city": "Boulogne-Billancourt",
-    "state": "Bouches-du-Rhône",
-    "country": "France",
-    "postcode": 44401,
+    "city": "Itajaí",
+    "state": "Rio Grande do Sul",
+    "country": "Brazil",
+    "postcode": 16450,
     "coordinates": {
-      "latitude": "-13.7379",
-      "longitude": "153.4925"
+      "latitude": "-77.1329",
+      "longitude": "87.5971"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "mila.gonzalez@example.com",
+  "email": "junilvana.dacosta@example.com",
   "login": {
-    "uuid": "c6718822-6892-4d21-97ca-cf2c6ebfea74",
-    "username": "redrabbit974",
-    "password": "shanghai",
-    "salt": "HJk1lf2E",
-    "md5": "b828309b1987c2a00d73045c55b5c8c2",
-    "sha1": "15d767a0c90068f82235b530d2c89050070dfde0",
-    "sha256": "93d59b82c2efba2d2e9a86d6ecc4a6cf292645543466ef23482b46035802abc2"
+    "uuid": "835ab66c-1975-45c9-b208-8a3a1b977ea5",
+    "username": "lazyleopard674",
+    "password": "424242",
+    "salt": "JDwuYM7k",
+    "md5": "2d746b5378b6fe60b8f8aeb0c35bb803",
+    "sha1": "e18ca212c7d7cddf70d7d72f571662250ed9ff4c",
+    "sha256": "9ebafd8dc9702cd3332bed33204c7cb18843cdad0bc4b5bfb743b39f258469fe"
   },
   "dob": {
-    "date": "1953-12-04T21:14:21.762Z",
-    "age": 71
+    "date": "1958-03-06T14:01:22.529Z",
+    "age": 67
   },
   "registered": {
-    "date": "2017-10-21T22:52:31.099Z",
-    "age": 7
+    "date": "2015-01-20T21:18:51.096Z",
+    "age": 10
   },
-  "phone": "05-69-86-42-76",
-  "cell": "06-81-47-29-23",
+  "phone": "(76) 4486-3999",
+  "cell": "(04) 8844-5162",
   "id": {
-    "name": "INSEE",
-    "value": "2531100619505 35"
+    "name": "CPF",
+    "value": "597.424.021-88"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    "large": "https://randomuser.me/api/portraits/women/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
   },
-  "nat": "FR"
+  "nat": "BR"
 }

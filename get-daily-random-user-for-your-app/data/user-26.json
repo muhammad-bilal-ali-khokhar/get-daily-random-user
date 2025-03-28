@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Angela",
-    "last": "Velasco"
+    "title": "Ms",
+    "first": "Caitlin",
+    "last": "Smith"
   },
   "location": {
     "street": {
-      "number": 4973,
-      "name": "Calle de Bravo Murillo"
+      "number": 9329,
+      "name": "Whakatu Drive"
     },
-    "city": "Lorca",
-    "state": "Asturias",
-    "country": "Spain",
-    "postcode": 75843,
+    "city": "Napier",
+    "state": "Wellington",
+    "country": "New Zealand",
+    "postcode": 44609,
     "coordinates": {
-      "latitude": "-32.5108",
-      "longitude": "33.8225"
+      "latitude": "48.2082",
+      "longitude": "7.0739"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "angela.velasco@example.com",
+  "email": "caitlin.smith@example.com",
   "login": {
-    "uuid": "1f4b7671-b917-463e-9d28-e27ed4a85f5a",
-    "username": "orangetiger239",
-    "password": "brenda",
-    "salt": "KhCzm3uZ",
-    "md5": "4add48e9414aa138478a0ca2d0a5f8bf",
-    "sha1": "98c7ca0c324219cce99ed4dbc4283d8c1c9850ec",
-    "sha256": "4d2ba25dc2348e1bf41a08dae06b9d8b17cff5bfa2fc2e7d8a09380b3d011ff0"
+    "uuid": "2ae7ef7e-6b6d-4c68-9561-1d7999b023fe",
+    "username": "bigbutterfly850",
+    "password": "gray",
+    "salt": "Ry2VyGgu",
+    "md5": "81107b6b36cd7a685d462fbb7c49e047",
+    "sha1": "b7c980ceb74850be4044c0ca8a72a947ad0fafe3",
+    "sha256": "1ef456386d2a04f8f06ffe014440b9426d579222b8a6814cf9adfe6779b3d9e0"
   },
   "dob": {
-    "date": "1972-12-21T06:21:16.110Z",
-    "age": 52
+    "date": "1970-06-08T13:05:50.780Z",
+    "age": 54
   },
   "registered": {
-    "date": "2019-12-17T00:49:38.826Z",
-    "age": 5
+    "date": "2014-04-15T17:53:07.672Z",
+    "age": 10
   },
-  "phone": "926-539-366",
-  "cell": "643-283-495",
+  "phone": "(560)-129-9370",
+  "cell": "(622)-162-7141",
   "id": {
-    "name": "DNI",
-    "value": "27829508-G"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+    "large": "https://randomuser.me/api/portraits/women/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
   },
-  "nat": "ES"
+  "nat": "NZ"
 }

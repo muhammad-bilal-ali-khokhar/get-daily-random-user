@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Andre",
-    "last": "Den Breejen"
+    "first": "Mostafa",
+    "last": "Grønning"
   },
   "location": {
     "street": {
-      "number": 2612,
-      "name": "Ds J Mindenuslaan"
+      "number": 4886,
+      "name": "Bjørnehiet"
     },
-    "city": "Tilburg",
-    "state": "Groningen",
-    "country": "Netherlands",
-    "postcode": "5110 IM",
+    "city": "Vigrestad",
+    "state": "Vest-Agder",
+    "country": "Norway",
+    "postcode": "3890",
     "coordinates": {
-      "latitude": "32.5956",
-      "longitude": "-87.6543"
+      "latitude": "43.0940",
+      "longitude": "-178.1676"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "andre.denbreejen@example.com",
+  "email": "mostafa.gronning@example.com",
   "login": {
-    "uuid": "02a47d65-05e5-47c9-bbc3-98bc9c9029a6",
-    "username": "silverelephant628",
-    "password": "rangers",
-    "salt": "au5wBXKU",
-    "md5": "a7c3548a164753af491914c66f5ae607",
-    "sha1": "3e41e0b4e376cdcf31074920540719aa09f913e8",
-    "sha256": "299c6bbb158f4be504560675a47fd9f8ff92df3bc4504f67fabfbc5306664d2a"
+    "uuid": "a4a71ef1-4fc2-460e-80a9-8fd6af6e7f24",
+    "username": "purplemeercat588",
+    "password": "414141",
+    "salt": "t0Viya6d",
+    "md5": "45c200cc266842b6331bc852cd7f34b2",
+    "sha1": "033bbcd432fcfa482b278f07f746d5d23c887918",
+    "sha256": "3497a248fedf83d0071c1fca01d7f338d26dfdbdaaf00e2d73218a2628d1139a"
   },
   "dob": {
-    "date": "1973-02-22T03:14:58.038Z",
-    "age": 52
+    "date": "1997-11-16T05:05:25.044Z",
+    "age": 27
   },
   "registered": {
-    "date": "2017-02-01T20:10:57.404Z",
-    "age": 8
+    "date": "2019-10-05T01:00:40.770Z",
+    "age": 5
   },
-  "phone": "(0191) 388535",
-  "cell": "(06) 10388689",
+  "phone": "79384912",
+  "cell": "46942411",
   "id": {
-    "name": "BSN",
-    "value": "77092920"
+    "name": "FN",
+    "value": "16119747981"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    "large": "https://randomuser.me/api/portraits/men/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
   },
-  "nat": "NL"
+  "nat": "NO"
 }

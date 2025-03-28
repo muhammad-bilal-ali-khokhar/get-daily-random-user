@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Joshua",
-    "last": "Baustad"
+    "first": "Kasper",
+    "last": "Christensen"
   },
   "location": {
     "street": {
-      "number": 6612,
-      "name": "Toftes gate"
+      "number": 6463,
+      "name": "Åtoften"
     },
-    "city": "Austreim",
-    "state": "Bergen",
-    "country": "Norway",
-    "postcode": "8009",
+    "city": "Roedovre",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 17982,
     "coordinates": {
-      "latitude": "45.3284",
-      "longitude": "-48.7720"
+      "latitude": "-42.9751",
+      "longitude": "-60.4530"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "joshua.baustad@example.com",
+  "email": "kasper.christensen@example.com",
   "login": {
-    "uuid": "707ae022-5b5b-43c6-b02a-c46b10900732",
-    "username": "blackmouse827",
-    "password": "1003",
-    "salt": "uRuRoVzT",
-    "md5": "9063e0d5a1a9fee945b16f5948814c9d",
-    "sha1": "86cf7d055d2b5a03099d3d414adcf6c57907750c",
-    "sha256": "622188354a35ff2f38d2252fa2cde11d58eb1fe2c6f30c91259b524f6f7efe91"
+    "uuid": "704afa21-d0f8-4af7-9f30-31eba1d9fe78",
+    "username": "brownbird323",
+    "password": "volleyba",
+    "salt": "1c8GN0Ew",
+    "md5": "e76f707872b2d9a430280fd72acc440d",
+    "sha1": "31ae443c15f84dba16da758fed0571d095633752",
+    "sha256": "283dbbcbe1ed065b2de5076c57b0161f9540bd6e6a8119236b01df12130f2ed9"
   },
   "dob": {
-    "date": "1961-04-03T22:43:53.564Z",
-    "age": 63
+    "date": "1951-01-01T10:47:49.508Z",
+    "age": 74
   },
   "registered": {
-    "date": "2010-06-16T13:27:31.071Z",
-    "age": 14
+    "date": "2019-12-21T13:06:40.538Z",
+    "age": 5
   },
-  "phone": "20500421",
-  "cell": "47720940",
+  "phone": "60869845",
+  "cell": "53972268",
   "id": {
-    "name": "FN",
-    "value": "03046111914"
+    "name": "CPR",
+    "value": "010151-0228"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/74.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
   },
-  "nat": "NO"
+  "nat": "DK"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Raffaella",
-    "last": "Leclerc"
+    "title": "Mr",
+    "first": "Sergio",
+    "last": "Jiménez"
   },
   "location": {
     "street": {
-      "number": 2151,
-      "name": "Rue Desaix"
+      "number": 3589,
+      "name": "Calle de La Democracia"
     },
-    "city": "Saint-Légier-La Chiésaz",
-    "state": "Schwyz",
-    "country": "Switzerland",
-    "postcode": 9165,
+    "city": "Torrente",
+    "state": "País Vasco",
+    "country": "Spain",
+    "postcode": 51705,
     "coordinates": {
-      "latitude": "-56.8260",
-      "longitude": "35.4142"
+      "latitude": "-37.6427",
+      "longitude": "-65.2754"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "raffaella.leclerc@example.com",
+  "email": "sergio.jimenez@example.com",
   "login": {
-    "uuid": "c8443bca-0be0-4296-b5d5-829a11ee1662",
-    "username": "greenleopard261",
-    "password": "striker",
-    "salt": "R5bkKxRx",
-    "md5": "1349bb9f7656828c3cca20fd41ea1774",
-    "sha1": "672573fcc522d33610e6378af1e0372f7fa2a6e2",
-    "sha256": "1a5b74fc8281aefee0b88a4fefa4fb68783adce9159582c4225c8b3c7404f6c1"
+    "uuid": "f7258ee7-ed35-4a5e-bca2-18bcf7d1bf06",
+    "username": "purpledog207",
+    "password": "rich",
+    "salt": "52muMv3E",
+    "md5": "852a83ebcf786f696ceeee4ef099d3de",
+    "sha1": "70b0ddc57bb41039d98bee84162a50667cb2e6ef",
+    "sha256": "7f152155ee755ecf2ade5849186ed387018371292af542d9bbc9b013fc6323fd"
   },
   "dob": {
-    "date": "1976-08-19T04:36:03.674Z",
-    "age": 48
+    "date": "1974-05-09T14:02:48.743Z",
+    "age": 50
   },
   "registered": {
-    "date": "2015-12-21T05:25:59.486Z",
-    "age": 9
+    "date": "2016-06-13T10:31:22.103Z",
+    "age": 8
   },
-  "phone": "079 034 17 26",
-  "cell": "076 991 28 17",
+  "phone": "994-806-903",
+  "cell": "644-283-787",
   "id": {
-    "name": "AVS",
-    "value": "756.5587.1341.42"
+    "name": "DNI",
+    "value": "33459887-S"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/11.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+    "large": "https://randomuser.me/api/portraits/men/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
   },
-  "nat": "CH"
+  "nat": "ES"
 }

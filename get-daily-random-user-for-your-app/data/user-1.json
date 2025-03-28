@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Tihomir",
-    "last": "Lastovenko"
+    "first": "Firmino",
+    "last": "Sales"
   },
   "location": {
     "street": {
-      "number": 1051,
-      "name": "Dzvonarska"
+      "number": 61,
+      "name": "Avenida D. Pedro Ii"
     },
-    "city": "Striy",
-    "state": "Kirovogradska",
-    "country": "Ukraine",
-    "postcode": 24610,
+    "city": "Viamão",
+    "state": "Sergipe",
+    "country": "Brazil",
+    "postcode": 84328,
     "coordinates": {
-      "latitude": "78.3938",
-      "longitude": "-157.7252"
+      "latitude": "-75.9128",
+      "longitude": "-77.6046"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "tihomir.lastovenko@example.com",
+  "email": "firmino.sales@example.com",
   "login": {
-    "uuid": "e7514d72-b28a-43b1-bb06-8d0d7a16fce2",
-    "username": "angrygorilla595",
-    "password": "raymond",
-    "salt": "TjINpRfE",
-    "md5": "4f3d40564137a71003e3f45bf4b9d308",
-    "sha1": "73c9609cd8293afe2176109943ba0c1952add0a5",
-    "sha256": "56213f5efd36b64975047c30d98695fc0f65900bda296614e361317de1a8ae4a"
+    "uuid": "6e200fed-88cd-4304-848b-9a5883f7a795",
+    "username": "lazypanda656",
+    "password": "decker",
+    "salt": "GIX1ldsH",
+    "md5": "2f9567b893c324088b6318bb1a4fde39",
+    "sha1": "9572eba8c13065d9a183e996bd97781a98611cd7",
+    "sha256": "86dd3bad5e0d318c1326719707b7e7c71dad8486fa9d5ea9b0b5019630ceb388"
   },
   "dob": {
-    "date": "1993-05-25T22:59:48.003Z",
-    "age": 31
+    "date": "1981-05-07T02:35:06.615Z",
+    "age": 43
   },
   "registered": {
-    "date": "2002-09-03T10:12:51.039Z",
-    "age": 22
+    "date": "2009-04-08T01:56:12.993Z",
+    "age": 15
   },
-  "phone": "(096) R03-9781",
-  "cell": "(066) P21-4602",
+  "phone": "(51) 9464-6337",
+  "cell": "(04) 5597-4474",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "542.846.217-57"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/82.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
+    "large": "https://randomuser.me/api/portraits/men/51.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
   },
-  "nat": "UA"
+  "nat": "BR"
 }

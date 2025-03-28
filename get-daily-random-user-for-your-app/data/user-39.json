@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Radoje",
-    "last": "Vučetić"
+    "first": "Jeff",
+    "last": "Smith"
   },
   "location": {
     "street": {
-      "number": 4837,
-      "name": "Dušana Manojlovića"
+      "number": 9470,
+      "name": "Hogan St"
     },
-    "city": "Pećinci",
-    "state": "West Bačka",
-    "country": "Serbia",
-    "postcode": 93224,
+    "city": "Albany",
+    "state": "Victoria",
+    "country": "Australia",
+    "postcode": 8957,
     "coordinates": {
-      "latitude": "60.6209",
-      "longitude": "-140.5255"
+      "latitude": "-81.4620",
+      "longitude": "-125.2979"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "radoje.vucetic@example.com",
+  "email": "jeff.smith@example.com",
   "login": {
-    "uuid": "aef739fe-bff0-4912-81cb-5af9fead75d8",
-    "username": "silverostrich420",
-    "password": "artist",
-    "salt": "R78bKfkr",
-    "md5": "b3ef52b3e589cd95f89fc8558858b939",
-    "sha1": "0d9deacc2d3a976a09ecc513e530fa5075b64e59",
-    "sha256": "8688548ed146dcabe91f30a29191ec33db207decdbfea97db0bf777b0305af1f"
+    "uuid": "7d6f50d6-fa00-48ad-b215-3cdf445773e6",
+    "username": "beautifulgoose298",
+    "password": "buckeyes",
+    "salt": "0NabINZC",
+    "md5": "61682301feeb2a4b7a1d59fa3926a9a5",
+    "sha1": "72555e6fe592403f97e5711c68782a866ee96e42",
+    "sha256": "90d36e24889cd810d253d68012fa0cb5d901d73c23b8bc67bdc9bd46bc0ede76"
   },
   "dob": {
-    "date": "1983-07-08T15:22:53.688Z",
-    "age": 41
+    "date": "1989-04-06T17:31:08.652Z",
+    "age": 35
   },
   "registered": {
-    "date": "2022-04-23T20:40:39.233Z",
-    "age": 2
+    "date": "2019-08-31T02:05:52.167Z",
+    "age": 5
   },
-  "phone": "039-6843-856",
-  "cell": "062-0266-741",
+  "phone": "03-2344-1938",
+  "cell": "0434-654-273",
   "id": {
-    "name": "SID",
-    "value": "957720132"
+    "name": "TFN",
+    "value": "270762058"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/58.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
   },
-  "nat": "RS"
+  "nat": "AU"
 }

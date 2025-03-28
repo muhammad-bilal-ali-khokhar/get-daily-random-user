@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Murat",
-    "last": "Koçyiğit"
+    "first": "Edgar",
+    "last": "Perez"
   },
   "location": {
     "street": {
-      "number": 7380,
-      "name": "Kushimoto Sk"
+      "number": 3485,
+      "name": "Rue Laure-Diebold"
     },
-    "city": "Tokat",
-    "state": "Bingöl",
-    "country": "Turkey",
-    "postcode": 95909,
+    "city": "Paris",
+    "state": "Aveyron",
+    "country": "France",
+    "postcode": 79471,
     "coordinates": {
-      "latitude": "64.9560",
-      "longitude": "-115.2202"
+      "latitude": "-19.2954",
+      "longitude": "-50.9618"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "murat.kocyigit@example.com",
+  "email": "edgar.perez@example.com",
   "login": {
-    "uuid": "b89b3b2f-d7ef-4fee-9dc0-0f2e27d429e5",
-    "username": "smallbird137",
-    "password": "stan",
-    "salt": "1B37966f",
-    "md5": "15af648289be5e608c7c4ea4c6133751",
-    "sha1": "a41540b0ab72356f3bc4e4ade6a4c1128741b33d",
-    "sha256": "b88a3e637fa5079372f92c681f971a67b9421f1bf5c52d37b4ea12ae727c906d"
+    "uuid": "3c65ea1c-252f-46c9-9338-5da4f55c2c9a",
+    "username": "blueleopard393",
+    "password": "chichi",
+    "salt": "jul9xXJu",
+    "md5": "5cb996f777b78f1bd089a5f49c6b7eee",
+    "sha1": "ea11871bf43903e2bef6f3ec4a8deb6d83be77b6",
+    "sha256": "80e0b6beee34b34e562370b749d34687d144e9819e02cc28190e697cf8d3774b"
   },
   "dob": {
-    "date": "2001-01-25T09:53:14.383Z",
-    "age": 24
+    "date": "1992-11-04T11:31:55.300Z",
+    "age": 32
   },
   "registered": {
-    "date": "2005-08-29T21:54:34.792Z",
-    "age": 19
+    "date": "2015-08-15T03:58:57.323Z",
+    "age": 9
   },
-  "phone": "(148)-215-8375",
-  "cell": "(191)-024-5897",
+  "phone": "05-33-71-75-69",
+  "cell": "06-29-81-60-57",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "1921032140770 50"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "TR"
+  "nat": "FR"
 }

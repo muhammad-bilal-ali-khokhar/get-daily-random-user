@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Ege",
-    "last": "Akal"
+    "title": "Mr",
+    "first": "Francisco Javier",
+    "last": "Cornejo"
   },
   "location": {
     "street": {
-      "number": 7188,
-      "name": "Abanoz Sk"
+      "number": 3998,
+      "name": "Periférico Tamaulipas"
     },
-    "city": "İzmir",
-    "state": "Konya",
-    "country": "Turkey",
-    "postcode": 54647,
+    "city": "Cerano (San Juan Cerano)",
+    "state": "Michoacan",
+    "country": "Mexico",
+    "postcode": 80819,
     "coordinates": {
-      "latitude": "66.6858",
-      "longitude": "133.1175"
+      "latitude": "29.8543",
+      "longitude": "-132.5451"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "ege.akal@example.com",
+  "email": "franciscojavier.cornejo@example.com",
   "login": {
-    "uuid": "40bab668-750a-4c01-8702-a28e022e842d",
-    "username": "blackostrich225",
-    "password": "1962",
-    "salt": "ucPYdeHD",
-    "md5": "a092dfcd358d09d8603a111df07839ea",
-    "sha1": "48e3ed628a5540004ee1cdf07d42be6a3bd91e49",
-    "sha256": "78b2df88315ca03adedc2a842234760476890116abaf41cc0c180d1deff039f2"
+    "uuid": "54d6d17c-49d7-4c9a-ae35-8a302c048b41",
+    "username": "brownfrog557",
+    "password": "titan",
+    "salt": "qK1EUMO6",
+    "md5": "875eca4feaef3b5a405df90eb84e5f94",
+    "sha1": "2cb9bce4a618de9d503cd39deb5f2237251ba864",
+    "sha256": "8b201dc4d477f12b3f0f092c7c3594ded774fad9e48aed7eef1a5df7c3d10c7d"
   },
   "dob": {
-    "date": "1974-08-17T07:32:52.639Z",
-    "age": 50
+    "date": "1982-04-30T08:35:13.366Z",
+    "age": 42
   },
   "registered": {
-    "date": "2020-04-18T21:57:03.518Z",
-    "age": 4
+    "date": "2006-02-21T12:37:32.794Z",
+    "age": 19
   },
-  "phone": "(119)-521-8591",
-  "cell": "(822)-953-4413",
+  "phone": "(617) 025 6308",
+  "cell": "(620) 430 9671",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NSS",
+    "value": "24 13 18 4119 9"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/5.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "TR"
+  "nat": "MX"
 }

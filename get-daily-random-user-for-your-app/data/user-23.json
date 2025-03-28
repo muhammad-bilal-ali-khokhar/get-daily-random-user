@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Nitesh",
-    "last": "Prabhu"
+    "first": "Craig",
+    "last": "Kelly"
   },
   "location": {
     "street": {
-      "number": 878,
-      "name": "Fontainhas"
+      "number": 1679,
+      "name": "Shady Ln Dr"
     },
-    "city": "Karaikudi",
-    "state": "Kerala",
-    "country": "India",
-    "postcode": 88008,
+    "city": "Lowell",
+    "state": "West Virginia",
+    "country": "United States",
+    "postcode": 12024,
     "coordinates": {
-      "latitude": "11.9307",
-      "longitude": "-85.3591"
+      "latitude": "88.7177",
+      "longitude": "-127.1411"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "nitesh.prabhu@example.com",
+  "email": "craig.kelly@example.com",
   "login": {
-    "uuid": "aa01478d-bca3-4e42-90fd-1accb8f78416",
-    "username": "yellowsnake183",
-    "password": "767676",
-    "salt": "RWNn4sk1",
-    "md5": "8f1b12860c84d656f47ba11dcef0548b",
-    "sha1": "d8519cecb2c04ea4fe3a3a444aa84c8127f1a682",
-    "sha256": "b802d8a6367501e550bd71b28304c25fe49804951c97018ec5c98a5021649aa6"
+    "uuid": "37d2b8f0-41f6-4ea5-afdd-6a6b503a3d6e",
+    "username": "ticklishswan442",
+    "password": "vision",
+    "salt": "tf9z6Qwz",
+    "md5": "ce0bcce2a5fc79a274b0a278a33c2ec0",
+    "sha1": "6cde4c6697eb72925b0f0ce471b57910a613ce78",
+    "sha256": "495fd7792d96f7f6a30b824210cf09ff740e12f650790e20527ae595a782d121"
   },
   "dob": {
-    "date": "1981-12-28T00:35:23.397Z",
-    "age": 43
+    "date": "1983-06-08T14:48:29.861Z",
+    "age": 41
   },
   "registered": {
-    "date": "2017-10-29T17:06:18.551Z",
-    "age": 7
+    "date": "2010-06-07T10:56:37.117Z",
+    "age": 14
   },
-  "phone": "9594521404",
-  "cell": "8570235110",
+  "phone": "(402) 728-4928",
+  "cell": "(614) 617-0882",
   "id": {
-    "name": "UIDAI",
-    "value": "167261768620"
+    "name": "SSN",
+    "value": "697-23-9543"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/76.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
   },
-  "nat": "IN"
+  "nat": "US"
 }

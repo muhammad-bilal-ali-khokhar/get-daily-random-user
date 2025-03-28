@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Eelis",
-    "last": "Manninen"
+    "title": "Ms",
+    "first": "Julie",
+    "last": "Johansen"
   },
   "location": {
     "street": {
-      "number": 4019,
-      "name": "Korkeavuorenkatu"
+      "number": 9608,
+      "name": "Mirabellevej"
     },
-    "city": "Lumparland",
-    "state": "Päijät-Häme",
-    "country": "Finland",
-    "postcode": 22027,
+    "city": "Kongsvinger",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "postcode": 17471,
     "coordinates": {
-      "latitude": "-22.9821",
-      "longitude": "-45.7426"
+      "latitude": "-43.8476",
+      "longitude": "98.1306"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "eelis.manninen@example.com",
+  "email": "julie.johansen@example.com",
   "login": {
-    "uuid": "292657a2-ac20-410c-b92c-06b4f7c53943",
-    "username": "blackrabbit104",
-    "password": "massage",
-    "salt": "NWhdebUE",
-    "md5": "697e78656051911b284695cd1970b1e2",
-    "sha1": "9ba4f46029bc2881109d0a8542f4ca15782e1780",
-    "sha256": "8e689fbb8d72696dcc43f64e4dad87d753ff16b7339d8aa4208491953783a956"
+    "uuid": "74cbf863-1a66-448b-a39a-946d72f69a40",
+    "username": "purplemeercat349",
+    "password": "mollie",
+    "salt": "MxzpFS6p",
+    "md5": "815f2696a155cfa4401c765fe9330de2",
+    "sha1": "36f8d5f8029aafb5ceb47c1b55a4478a60324947",
+    "sha256": "fbf304817f1a410ab245513646aefc3043576dbcaf52474f66541f6e9d40f13d"
   },
   "dob": {
-    "date": "1966-02-16T18:50:36.363Z",
-    "age": 59
+    "date": "1966-07-13T17:31:05.874Z",
+    "age": 58
   },
   "registered": {
-    "date": "2016-07-31T11:34:17.472Z",
-    "age": 8
+    "date": "2018-09-03T17:49:41.888Z",
+    "age": 6
   },
-  "phone": "09-473-262",
-  "cell": "041-859-49-87",
+  "phone": "19466304",
+  "cell": "32921243",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA573undefined"
+    "name": "CPR",
+    "value": "130766-4043"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    "large": "https://randomuser.me/api/portraits/women/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
   },
-  "nat": "FI"
+  "nat": "DK"
 }

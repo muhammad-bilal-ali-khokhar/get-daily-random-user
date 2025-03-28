@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Abdul",
-    "last": "Silva"
+    "first": "Dan",
+    "last": "Kuzik"
   },
   "location": {
     "street": {
-      "number": 2823,
-      "name": "Rua Amazonas "
+      "number": 7189,
+      "name": "Kemerovska"
     },
-    "city": "Araraquara",
-    "state": "Acre",
-    "country": "Brazil",
-    "postcode": 38211,
+    "city": "Simferopol",
+    "state": "Dnipropetrovska",
+    "country": "Ukraine",
+    "postcode": 17920,
     "coordinates": {
-      "latitude": "-81.0218",
-      "longitude": "-0.3828"
+      "latitude": "74.0562",
+      "longitude": "-154.3219"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "abdul.silva@example.com",
+  "email": "dan.kuzik@example.com",
   "login": {
-    "uuid": "0ec41005-cf61-49e3-92a1-cce140fd5edf",
-    "username": "redbutterfly794",
-    "password": "buddie",
-    "salt": "X9zfK3nZ",
-    "md5": "f64b12a3407804049d5f11f9b15a5891",
-    "sha1": "dcfda24137da38c8353aa11ac5243cefc0ec6b64",
-    "sha256": "100fdb170a2c4c01b066b6476f5a718224a55236f23c2961fcd385ca4b4957e0"
+    "uuid": "474b6c21-86a5-48a7-9cb0-808aeed90371",
+    "username": "sadbear604",
+    "password": "sensei",
+    "salt": "HxPtIOEu",
+    "md5": "373824f51cb7515264b45b6959db2244",
+    "sha1": "a5825fcfa2a96710cefa3fb5a2f5f89a8bc050f7",
+    "sha256": "7856272b6680e6cb08ec69360b5d3de895a499aff42b0f7a35682b0f68043406"
   },
   "dob": {
-    "date": "1988-08-15T23:50:40.418Z",
-    "age": 36
+    "date": "1946-02-15T20:34:45.616Z",
+    "age": 79
   },
   "registered": {
-    "date": "2020-03-09T05:45:03.833Z",
-    "age": 5
+    "date": "2012-04-28T13:58:27.120Z",
+    "age": 12
   },
-  "phone": "(20) 9839-8900",
-  "cell": "(42) 9521-9328",
+  "phone": "(099) Y85-0240",
+  "cell": "(066) G85-4242",
   "id": {
-    "name": "CPF",
-    "value": "152.981.224-32"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/11.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    "large": "https://randomuser.me/api/portraits/men/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
   },
-  "nat": "BR"
+  "nat": "UA"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Orlando",
-    "last": "Faure"
+    "title": "Mr",
+    "first": "Lubomir",
+    "last": "Borjan"
   },
   "location": {
     "street": {
-      "number": 9409,
-      "name": "Rue Gasparin"
+      "number": 1841,
+      "name": "Sare Bernar"
     },
-    "city": "Terre Di Pedemonte",
-    "state": "Basel-Landschaft",
-    "country": "Switzerland",
-    "postcode": 5629,
+    "city": "Leskovac",
+    "state": "South Bačka",
+    "country": "Serbia",
+    "postcode": 95211,
     "coordinates": {
-      "latitude": "-60.8045",
-      "longitude": "-153.5495"
+      "latitude": "60.5683",
+      "longitude": "-8.7369"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "orlando.faure@example.com",
+  "email": "lubomir.borjan@example.com",
   "login": {
-    "uuid": "c46fed2a-32d1-479a-bfba-5520838573bb",
-    "username": "redostrich382",
-    "password": "willis",
-    "salt": "piZgEKNR",
-    "md5": "ff6d0350036f8d872b6be97a3867cfd0",
-    "sha1": "d3cb4d36318e97d8ff60e8bdc9fcb9b406b4f4d5",
-    "sha256": "8e51201b4d9644dc5be91add1118a037f8ee56feb31d7a8dea90ab0526fa2e0b"
+    "uuid": "6102c6cf-2057-4bdf-8325-714fda1c9be4",
+    "username": "blackfrog525",
+    "password": "civic",
+    "salt": "jawCSZ8b",
+    "md5": "37bb83a10970c7ed021b26d7868b46f8",
+    "sha1": "f6b86d7990e17f921eca9e86a0df9a4681989dbd",
+    "sha256": "cbdbd8a450941fc733a2cbbef1949684db7a9cc74db2f0fd9dc5d74c0cbf8060"
   },
   "dob": {
-    "date": "1963-01-25T03:47:04.195Z",
-    "age": 62
+    "date": "1948-07-25T03:57:20.462Z",
+    "age": 76
   },
   "registered": {
-    "date": "2005-09-01T15:29:09.720Z",
-    "age": 19
+    "date": "2007-06-30T17:43:15.331Z",
+    "age": 17
   },
-  "phone": "075 534 27 74",
-  "cell": "078 285 16 00",
+  "phone": "036-0756-922",
+  "cell": "068-5884-889",
   "id": {
-    "name": "AVS",
-    "value": "756.5418.3142.55"
+    "name": "SID",
+    "value": "867824774"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/5.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "CH"
+  "nat": "RS"
 }
