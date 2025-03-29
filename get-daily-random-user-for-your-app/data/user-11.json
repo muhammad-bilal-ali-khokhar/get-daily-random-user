@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Edgar",
-    "last": "Perez"
+    "first": "Ralph",
+    "last": "Martin"
   },
   "location": {
     "street": {
-      "number": 3485,
-      "name": "Rue Laure-Diebold"
+      "number": 122,
+      "name": "St. John’S Road"
     },
-    "city": "Paris",
-    "state": "Aveyron",
-    "country": "France",
-    "postcode": 79471,
+    "city": "Oxford",
+    "state": "South Glamorgan",
+    "country": "United Kingdom",
+    "postcode": "GK25 9TA",
     "coordinates": {
-      "latitude": "-19.2954",
-      "longitude": "-50.9618"
+      "latitude": "-6.9665",
+      "longitude": "-136.4419"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "edgar.perez@example.com",
+  "email": "ralph.martin@example.com",
   "login": {
-    "uuid": "3c65ea1c-252f-46c9-9338-5da4f55c2c9a",
-    "username": "blueleopard393",
-    "password": "chichi",
-    "salt": "jul9xXJu",
-    "md5": "5cb996f777b78f1bd089a5f49c6b7eee",
-    "sha1": "ea11871bf43903e2bef6f3ec4a8deb6d83be77b6",
-    "sha256": "80e0b6beee34b34e562370b749d34687d144e9819e02cc28190e697cf8d3774b"
+    "uuid": "c800cacd-9cc5-4bf2-a043-5465000e327f",
+    "username": "crazyduck393",
+    "password": "030303",
+    "salt": "LYXuR8kz",
+    "md5": "9f2d6d82ef62003d1eb87bd80fbcb27a",
+    "sha1": "ed009da2a4c487ec217cc2bedfc2523c02a44212",
+    "sha256": "afd771df7b8a92e63b1b2da0362604d110d24938d528a2310b91412691fec475"
   },
   "dob": {
-    "date": "1992-11-04T11:31:55.300Z",
-    "age": 32
+    "date": "1961-08-24T02:20:57.329Z",
+    "age": 63
   },
   "registered": {
-    "date": "2015-08-15T03:58:57.323Z",
-    "age": 9
+    "date": "2010-04-22T14:36:02.905Z",
+    "age": 14
   },
-  "phone": "05-33-71-75-69",
-  "cell": "06-29-81-60-57",
+  "phone": "013873 71687",
+  "cell": "07206 083327",
   "id": {
-    "name": "INSEE",
-    "value": "1921032140770 50"
+    "name": "NINO",
+    "value": "XT 97 81 07 Q"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
   },
-  "nat": "FR"
+  "nat": "GB"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Zoe",
-    "last": "Matthews"
+    "title": "Mr",
+    "first": "Marc",
+    "last": "Lorenzo"
   },
   "location": {
     "street": {
-      "number": 6598,
-      "name": "Victoria Street"
+      "number": 6052,
+      "name": "Calle de Arganzuela"
     },
-    "city": "Leicester",
-    "state": "North Yorkshire",
-    "country": "United Kingdom",
-    "postcode": "E65 4UR",
+    "city": "Lugo",
+    "state": "Galicia",
+    "country": "Spain",
+    "postcode": 75726,
     "coordinates": {
-      "latitude": "-7.9918",
-      "longitude": "2.6132"
+      "latitude": "-31.1637",
+      "longitude": "-92.9304"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "zoe.matthews@example.com",
+  "email": "marc.lorenzo@example.com",
   "login": {
-    "uuid": "f9c3af7a-3135-496e-8c40-e740fe9f61a0",
-    "username": "beautifultiger544",
-    "password": "darkman",
-    "salt": "gnuKz3bV",
-    "md5": "816d9c9d6750e8af27287d1ca1cdfe2f",
-    "sha1": "fa6eab9f7faa9c1b087b9e12c052e3ccb736751d",
-    "sha256": "e6c86e4214ed06c6e22b06b076947b5e14ac033182ceaba1474165b6a8045d02"
+    "uuid": "b76947ab-981f-4745-bd23-af341d4b987c",
+    "username": "blackelephant670",
+    "password": "stories",
+    "salt": "LGf0Ervo",
+    "md5": "bc13a6c7551f24c9083608134ea596cb",
+    "sha1": "1fb826fd1a638c09b7c9bfcae045d274dd402335",
+    "sha256": "2491b0d4e4dfeffe42ef8b16350726b36d9ed4dcfd75a9342ccac537b7c45520"
   },
   "dob": {
-    "date": "1962-04-25T07:36:43.429Z",
-    "age": 62
+    "date": "1998-04-12T20:51:21.718Z",
+    "age": 26
   },
   "registered": {
-    "date": "2003-01-26T22:28:05.787Z",
-    "age": 22
+    "date": "2006-12-06T22:40:57.504Z",
+    "age": 18
   },
-  "phone": "017687 80054",
-  "cell": "07153 592283",
+  "phone": "908-275-547",
+  "cell": "632-780-573",
   "id": {
-    "name": "NINO",
-    "value": "ZY 95 92 78 X"
+    "name": "DNI",
+    "value": "29309880-L"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
   },
-  "nat": "GB"
+  "nat": "ES"
 }

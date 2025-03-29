@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "David",
-    "last": "Clarke"
+    "title": "Ms",
+    "first": "Sharanya",
+    "last": "Saldanha"
   },
   "location": {
     "street": {
-      "number": 9122,
-      "name": "Highcliff Road"
+      "number": 6839,
+      "name": "Shanmugham Rd"
     },
-    "city": "Hamilton",
-    "state": "Southland",
-    "country": "New Zealand",
-    "postcode": 52814,
+    "city": "Rourkela",
+    "state": "Karnataka",
+    "country": "India",
+    "postcode": 18539,
     "coordinates": {
-      "latitude": "54.6979",
-      "longitude": "-152.6418"
+      "latitude": "10.0153",
+      "longitude": "81.1348"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "david.clarke@example.com",
+  "email": "sharanya.saldanha@example.com",
   "login": {
-    "uuid": "415e64a7-fb70-4aa3-8f27-7502d2251038",
-    "username": "blackkoala523",
-    "password": "xtreme",
-    "salt": "7RCaNPoH",
-    "md5": "756508cc00918d8ab021d4bd76827563",
-    "sha1": "ffdb15694022ef35260c7b675a57d7e9dbb50be1",
-    "sha256": "257784dd06ef645b824b77d9d005531c02a41c48c33026a13bc33b8b5cab81b4"
+    "uuid": "bcdfadc7-15da-46df-a357-4afc6cb0275e",
+    "username": "heavyfish711",
+    "password": "florence",
+    "salt": "v2PxY86p",
+    "md5": "6a6e8779fa8ed2dd6bf84aab45c24c5b",
+    "sha1": "e6befafc448fde1d47cc404a54b51ef5f2434760",
+    "sha256": "81ae2289ab1acd8c85ea5e1e8c36bc5a32932ce64b07d037c02fbcdd63b53fa6"
   },
   "dob": {
-    "date": "1965-12-04T00:31:38.725Z",
-    "age": 59
+    "date": "2000-08-12T06:18:49.841Z",
+    "age": 24
   },
   "registered": {
-    "date": "2003-01-03T20:22:30.826Z",
-    "age": 22
+    "date": "2017-12-16T22:47:52.078Z",
+    "age": 7
   },
-  "phone": "(811)-300-2544",
-  "cell": "(086)-020-2122",
+  "phone": "9701439380",
+  "cell": "7525886004",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "994540152693"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    "large": "https://randomuser.me/api/portraits/women/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
   },
-  "nat": "NZ"
+  "nat": "IN"
 }

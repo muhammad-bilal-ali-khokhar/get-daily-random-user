@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Harper",
-    "last": "Slawa"
+    "title": "Mr",
+    "first": "Justiniano",
+    "last": "Lima"
   },
   "location": {
     "street": {
-      "number": 6925,
-      "name": "Oak St"
+      "number": 1799,
+      "name": "Rua Das Flores "
     },
-    "city": "Cochrane",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "J8T 8X0",
+    "city": "Linhares",
+    "state": "Bahia",
+    "country": "Brazil",
+    "postcode": 89339,
     "coordinates": {
-      "latitude": "-71.0717",
-      "longitude": "99.6088"
+      "latitude": "-78.9138",
+      "longitude": "-88.0770"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "harper.slawa@example.com",
+  "email": "justiniano.lima@example.com",
   "login": {
-    "uuid": "8d1eba33-fb69-4296-bb95-728c0de3f4c8",
-    "username": "greenladybug229",
-    "password": "marvin",
-    "salt": "TALjLAmR",
-    "md5": "17632bb60e5b1b3cefc6bc9b440b978e",
-    "sha1": "c07ed1f1df4774515badc306af682d0e1a4b2123",
-    "sha256": "d8dc503c8ee7c8a9248d40aa93385c2f020d7163780b6c6c426b285a99008601"
+    "uuid": "98d2372e-6336-415c-947d-fe7108ad602a",
+    "username": "heavyswan986",
+    "password": "darthvad",
+    "salt": "ylozhvYL",
+    "md5": "40df9670fc50d2ce2d5654e4b0e1606a",
+    "sha1": "5ae7ef77bb0b3b2919353c17b7b217a4241527d2",
+    "sha256": "1972b1915c511449e24be2cf24dab81d382d1595133d291b6c9fdf8786f9ca30"
   },
   "dob": {
-    "date": "1973-03-01T21:22:04.002Z",
-    "age": 52
+    "date": "1997-03-02T17:37:28.265Z",
+    "age": 28
   },
   "registered": {
-    "date": "2017-06-16T02:46:01.718Z",
-    "age": 7
+    "date": "2011-12-20T01:07:21.121Z",
+    "age": 13
   },
-  "phone": "W82 Z27-5314",
-  "cell": "C88 U08-0027",
+  "phone": "(05) 6830-1677",
+  "cell": "(35) 1897-0128",
   "id": {
-    "name": "SIN",
-    "value": "874330921"
+    "name": "CPF",
+    "value": "532.883.505-78"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "CA"
+  "nat": "BR"
 }

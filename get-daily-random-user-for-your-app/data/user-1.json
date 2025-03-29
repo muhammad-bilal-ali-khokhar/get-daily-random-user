@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Firmino",
-    "last": "Sales"
+    "title": "Ms",
+    "first": "Melina",
+    "last": "Bjelica"
   },
   "location": {
     "street": {
-      "number": 61,
-      "name": "Avenida D. Pedro Ii"
+      "number": 9105,
+      "name": "Mramoračka"
     },
-    "city": "Viamão",
-    "state": "Sergipe",
-    "country": "Brazil",
-    "postcode": 84328,
+    "city": "Sombor",
+    "state": "Braničevo",
+    "country": "Serbia",
+    "postcode": 40701,
     "coordinates": {
-      "latitude": "-75.9128",
-      "longitude": "-77.6046"
+      "latitude": "60.8351",
+      "longitude": "18.3561"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "firmino.sales@example.com",
+  "email": "melina.bjelica@example.com",
   "login": {
-    "uuid": "6e200fed-88cd-4304-848b-9a5883f7a795",
-    "username": "lazypanda656",
-    "password": "decker",
-    "salt": "GIX1ldsH",
-    "md5": "2f9567b893c324088b6318bb1a4fde39",
-    "sha1": "9572eba8c13065d9a183e996bd97781a98611cd7",
-    "sha256": "86dd3bad5e0d318c1326719707b7e7c71dad8486fa9d5ea9b0b5019630ceb388"
+    "uuid": "80aee9c1-5119-4877-bcc7-ae4f154cff86",
+    "username": "heavyostrich930",
+    "password": "russia",
+    "salt": "fhMGCE9V",
+    "md5": "d1d5ad24fe0ebb856edf12f59c0d5673",
+    "sha1": "d371d72f1bde75f26fd23a13863290dee3f5842e",
+    "sha256": "d563d0f178a8f1eab8fb51fc7aa5121b02340ce034753836ae775c74df1e9b98"
   },
   "dob": {
-    "date": "1981-05-07T02:35:06.615Z",
-    "age": 43
+    "date": "1961-04-27T00:58:39.331Z",
+    "age": 63
   },
   "registered": {
-    "date": "2009-04-08T01:56:12.993Z",
-    "age": 15
+    "date": "2021-05-31T16:45:01.527Z",
+    "age": 3
   },
-  "phone": "(51) 9464-6337",
-  "cell": "(04) 5597-4474",
+  "phone": "022-7995-496",
+  "cell": "069-5850-670",
   "id": {
-    "name": "CPF",
-    "value": "542.846.217-57"
+    "name": "SID",
+    "value": "724824599"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/51.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+    "large": "https://randomuser.me/api/portraits/women/7.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
   },
-  "nat": "BR"
+  "nat": "RS"
 }

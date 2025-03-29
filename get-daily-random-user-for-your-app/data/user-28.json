@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Rosemary",
-    "last": "Morris"
+    "title": "Mrs",
+    "first": "Rayisa",
+    "last": "Magera"
   },
   "location": {
     "street": {
-      "number": 156,
-      "name": "Pockrus Page Rd"
+      "number": 8812,
+      "name": "Amurska"
     },
-    "city": "Indianapolis",
-    "state": "New Jersey",
-    "country": "United States",
-    "postcode": 67337,
+    "city": "Primorsk",
+    "state": "Chernivecka",
+    "country": "Ukraine",
+    "postcode": 15372,
     "coordinates": {
-      "latitude": "82.7092",
-      "longitude": "111.6810"
+      "latitude": "73.0788",
+      "longitude": "0.9857"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "rosemary.morris@example.com",
+  "email": "rayisa.magera@example.com",
   "login": {
-    "uuid": "d9e90a69-a8f2-451f-80f6-261c65b02658",
-    "username": "happydog447",
-    "password": "woman",
-    "salt": "F7hve7Xd",
-    "md5": "846ec26ebdc1d4d9066e8ed063006b5e",
-    "sha1": "4dbe6db0ca9449e434f3424c51d108af90f65130",
-    "sha256": "973e65ca56747f3962fbe7121d2ff6ef0a0b76fa69ec3b97b29ada2032c9df0c"
+    "uuid": "b884e0bf-0eba-42a7-9ec8-3966afc98754",
+    "username": "orangeduck659",
+    "password": "sabbath",
+    "salt": "4RNjNDL6",
+    "md5": "d717a2a4fc74548fa6b6056f60857661",
+    "sha1": "16a8efc87305ee06a59fa4cd28932ce5bc746f17",
+    "sha256": "dba603e1fcc1e61031f7b0456150893fb645a164861c020e3da90108db0d1348"
   },
   "dob": {
-    "date": "1949-12-04T00:30:13.416Z",
-    "age": 75
+    "date": "1968-09-22T13:37:37.014Z",
+    "age": 56
   },
   "registered": {
-    "date": "2018-07-04T22:06:45.952Z",
-    "age": 6
+    "date": "2010-12-04T08:23:31.025Z",
+    "age": 14
   },
-  "phone": "(470) 333-5506",
-  "cell": "(959) 984-4519",
+  "phone": "(099) U55-4324",
+  "cell": "(068) C01-0870",
   "id": {
-    "name": "SSN",
-    "value": "574-49-3162"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    "large": "https://randomuser.me/api/portraits/women/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
   },
-  "nat": "US"
+  "nat": "UA"
 }

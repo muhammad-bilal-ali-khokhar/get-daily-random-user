@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Francisco Javier",
-    "last": "Cornejo"
+    "first": "Mikola",
+    "last": "Oseckiy"
   },
   "location": {
     "street": {
-      "number": 3998,
-      "name": "Periférico Tamaulipas"
+      "number": 7222,
+      "name": "Prospekt Ayvazovskogo"
     },
-    "city": "Cerano (San Juan Cerano)",
-    "state": "Michoacan",
-    "country": "Mexico",
-    "postcode": 80819,
+    "city": "Kreminna",
+    "state": "Avtonomna Respublika Krim",
+    "country": "Ukraine",
+    "postcode": 69601,
     "coordinates": {
-      "latitude": "29.8543",
-      "longitude": "-132.5451"
+      "latitude": "78.8182",
+      "longitude": "-50.3419"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "franciscojavier.cornejo@example.com",
+  "email": "mikola.oseckiy@example.com",
   "login": {
-    "uuid": "54d6d17c-49d7-4c9a-ae35-8a302c048b41",
-    "username": "brownfrog557",
-    "password": "titan",
-    "salt": "qK1EUMO6",
-    "md5": "875eca4feaef3b5a405df90eb84e5f94",
-    "sha1": "2cb9bce4a618de9d503cd39deb5f2237251ba864",
-    "sha256": "8b201dc4d477f12b3f0f092c7c3594ded774fad9e48aed7eef1a5df7c3d10c7d"
+    "uuid": "8a1b070a-6477-4924-a33e-29db5ecbab87",
+    "username": "browntiger225",
+    "password": "chicken",
+    "salt": "xrDDKitO",
+    "md5": "f9063922ffdb37a2a8903732ba6aa149",
+    "sha1": "e5d63feb5f07a03ccdda1a8848e4f25eaaed3825",
+    "sha256": "5a265e6a377e3c6e855f1784d05027c0a241e38a158c41f778304316878f65d3"
   },
   "dob": {
-    "date": "1982-04-30T08:35:13.366Z",
-    "age": 42
+    "date": "1976-10-09T00:07:03.230Z",
+    "age": 48
   },
   "registered": {
-    "date": "2006-02-21T12:37:32.794Z",
-    "age": 19
+    "date": "2019-01-12T00:27:50.344Z",
+    "age": 6
   },
-  "phone": "(617) 025 6308",
-  "cell": "(620) 430 9671",
+  "phone": "(068) W77-6754",
+  "cell": "(068) T71-9156",
   "id": {
-    "name": "NSS",
-    "value": "24 13 18 4119 9"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/4.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+    "large": "https://randomuser.me/api/portraits/men/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
   },
-  "nat": "MX"
+  "nat": "UA"
 }

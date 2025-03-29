@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Venla",
-    "last": "Wiitala"
+    "title": "Mr",
+    "first": "Aramis",
+    "last": "da Mata"
   },
   "location": {
     "street": {
-      "number": 9670,
-      "name": "Siilitie"
+      "number": 2548,
+      "name": "Rua Dois"
     },
-    "city": "Ylivieska",
-    "state": "Uusimaa",
-    "country": "Finland",
-    "postcode": 52905,
+    "city": "Atibaia",
+    "state": "Pernambuco",
+    "country": "Brazil",
+    "postcode": 51645,
     "coordinates": {
-      "latitude": "-21.6109",
-      "longitude": "55.1613"
+      "latitude": "-80.2025",
+      "longitude": "-171.2516"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "venla.wiitala@example.com",
+  "email": "aramis.damata@example.com",
   "login": {
-    "uuid": "ffa7fcfe-7480-4c37-9a1e-2926293e265b",
-    "username": "whitecat645",
-    "password": "angela",
-    "salt": "pGdXmCMP",
-    "md5": "08c47f3cef08d853698cf90a5624f725",
-    "sha1": "62004b02f49c6595dbe0ffb2eded33182839bb16",
-    "sha256": "a6f170728762ea798d58f3959a079d5549ddbe7198d6eec8652af6d6ea31bc31"
+    "uuid": "14a44197-e326-458a-a558-9c22c7ea28e9",
+    "username": "goldenlion644",
+    "password": "freckles",
+    "salt": "6lixvFQM",
+    "md5": "5cf85edf9ac60cf2863d726847506f11",
+    "sha1": "498bca5ccd6471ad4c3339799cd1f9dc685406e2",
+    "sha256": "6cc425dacf9336da8b5ab50c89560c3a4ed708dee00db83ad8cf86c200958ecb"
   },
   "dob": {
-    "date": "1952-08-04T07:47:16.799Z",
-    "age": 72
+    "date": "1987-12-09T05:57:12.944Z",
+    "age": 37
   },
   "registered": {
-    "date": "2010-05-06T08:33:51.905Z",
-    "age": 14
+    "date": "2005-11-07T03:54:17.463Z",
+    "age": 19
   },
-  "phone": "06-281-337",
-  "cell": "048-692-98-00",
+  "phone": "(74) 9615-9661",
+  "cell": "(33) 1788-7108",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA278undefined"
+    "name": "CPF",
+    "value": "478.973.580-44"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/15.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+    "large": "https://randomuser.me/api/portraits/men/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
   },
-  "nat": "FI"
+  "nat": "BR"
 }

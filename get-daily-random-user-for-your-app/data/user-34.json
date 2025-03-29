@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Ana",
-    "last": "Radivojević"
+    "title": "Mr",
+    "first": "Neil",
+    "last": "Reid"
   },
   "location": {
     "street": {
-      "number": 6813,
-      "name": "Milana Milovanovića"
+      "number": 9905,
+      "name": "Wheeler Ridge Dr"
     },
-    "city": "Lajkovac",
-    "state": "Kolubara",
-    "country": "Serbia",
-    "postcode": 27943,
+    "city": "Saginaw",
+    "state": "Tennessee",
+    "country": "United States",
+    "postcode": 73992,
     "coordinates": {
-      "latitude": "58.2943",
-      "longitude": "128.5689"
+      "latitude": "83.4759",
+      "longitude": "-172.0157"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "ana.radivojevic@example.com",
+  "email": "neil.reid@example.com",
   "login": {
-    "uuid": "0989a862-35aa-4c5e-914c-264d1cad4f83",
-    "username": "smallcat480",
-    "password": "court",
-    "salt": "vMNVw4ee",
-    "md5": "5cc42faf9d1339e2b37d612dd6f6858e",
-    "sha1": "54951b6dee34b30aaab61198e031be17218c65bf",
-    "sha256": "2e2d91cda30a3a0271615ee070343937b4480e7a8f8acf521733e93bd576b036"
+    "uuid": "bbbffcdb-1e66-4db6-a346-56d6c78386bd",
+    "username": "crazykoala407",
+    "password": "cheng",
+    "salt": "g6AA1Ryy",
+    "md5": "59927b07ce2d5093646cbfefa1b3b8e5",
+    "sha1": "89e65d3895df643f0ca22d575ee7cb774705e663",
+    "sha256": "3e67d655173966adc0403ba4c7f3a7df3809875d7926c78fafd085b688c5a9b1"
   },
   "dob": {
-    "date": "1959-10-23T06:47:21.089Z",
-    "age": 65
+    "date": "1966-12-18T09:44:04.338Z",
+    "age": 58
   },
   "registered": {
-    "date": "2018-11-30T20:23:06.977Z",
-    "age": 6
+    "date": "2019-06-18T21:36:44.048Z",
+    "age": 5
   },
-  "phone": "036-8295-216",
-  "cell": "066-8629-110",
+  "phone": "(845) 354-7845",
+  "cell": "(277) 892-6484",
   "id": {
-    "name": "SID",
-    "value": "415067842"
+    "name": "SSN",
+    "value": "019-84-4419"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/6.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    "large": "https://randomuser.me/api/portraits/men/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
   },
-  "nat": "RS"
+  "nat": "US"
 }

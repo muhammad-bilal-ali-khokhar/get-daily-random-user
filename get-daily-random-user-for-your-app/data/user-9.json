@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Samuel",
-    "last": "Stewart"
+    "first": "Radoje",
+    "last": "Vilotić"
   },
   "location": {
     "street": {
-      "number": 5393,
-      "name": "London Road"
+      "number": 329,
+      "name": "Osmog Marta"
     },
-    "city": "Birmingham",
-    "state": "Cambridgeshire",
-    "country": "United Kingdom",
-    "postcode": "U9 7UD",
+    "city": "Priboj",
+    "state": "Šumadija",
+    "country": "Serbia",
+    "postcode": 51239,
     "coordinates": {
-      "latitude": "-10.0719",
-      "longitude": "-53.7665"
+      "latitude": "60.2095",
+      "longitude": "-32.8166"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "samuel.stewart@example.com",
+  "email": "radoje.vilotic@example.com",
   "login": {
-    "uuid": "de985118-c53a-428e-9821-381553985202",
-    "username": "blackcat286",
-    "password": "kappa",
-    "salt": "WumNlH6e",
-    "md5": "8cc6874b991bad9b72b84d17f00f4edd",
-    "sha1": "f61519184307422a99ec1bfb45ef73382f6c2419",
-    "sha256": "19f40f7870ae77e37f851fa1323fcb2e0951be6d79eb9108f8b083119c8997ef"
+    "uuid": "ae209ae7-164b-436e-9e5a-12f90ef6cf6c",
+    "username": "goldenostrich161",
+    "password": "thegreat",
+    "salt": "fzsToy6f",
+    "md5": "51de6e197eb6ebc90c96e425d4d34ad4",
+    "sha1": "67d9778e16aea9308a1815769396f6c26c790f0f",
+    "sha256": "17b2787a859ce3a303bc99b420b401a57bb9448623c6e1bca714e63f3b4e8567"
   },
   "dob": {
-    "date": "1975-03-14T06:16:55.069Z",
-    "age": 50
+    "date": "1954-06-10T22:20:49.441Z",
+    "age": 70
   },
   "registered": {
-    "date": "2004-02-19T17:24:12.354Z",
-    "age": 21
+    "date": "2022-04-02T07:06:28.836Z",
+    "age": 2
   },
-  "phone": "016977 0178",
-  "cell": "07309 826338",
+  "phone": "018-9389-474",
+  "cell": "065-0466-038",
   "id": {
-    "name": "NINO",
-    "value": "OK 90 52 13 T"
+    "name": "SID",
+    "value": "006764415"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
   },
-  "nat": "GB"
+  "nat": "RS"
 }

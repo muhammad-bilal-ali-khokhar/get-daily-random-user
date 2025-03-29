@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Dan",
-    "last": "Kuzik"
+    "title": "Miss",
+    "first": "Sushmitha",
+    "last": "Prajapati"
   },
   "location": {
     "street": {
-      "number": 7189,
-      "name": "Kemerovska"
+      "number": 8177,
+      "name": "China Bazaar Rd"
     },
-    "city": "Simferopol",
-    "state": "Dnipropetrovska",
-    "country": "Ukraine",
-    "postcode": 17920,
+    "city": "Hajipur",
+    "state": "Chandigarh",
+    "country": "India",
+    "postcode": 23067,
     "coordinates": {
-      "latitude": "74.0562",
-      "longitude": "-154.3219"
+      "latitude": "6.6995",
+      "longitude": "90.1309"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "dan.kuzik@example.com",
+  "email": "sushmitha.prajapati@example.com",
   "login": {
-    "uuid": "474b6c21-86a5-48a7-9cb0-808aeed90371",
-    "username": "sadbear604",
-    "password": "sensei",
-    "salt": "HxPtIOEu",
-    "md5": "373824f51cb7515264b45b6959db2244",
-    "sha1": "a5825fcfa2a96710cefa3fb5a2f5f89a8bc050f7",
-    "sha256": "7856272b6680e6cb08ec69360b5d3de895a499aff42b0f7a35682b0f68043406"
+    "uuid": "ea19d252-230b-4fdb-b1ec-e275e5a17d4e",
+    "username": "silvertiger264",
+    "password": "tito",
+    "salt": "odR01Snh",
+    "md5": "f094ac285851b425d36fc1e7fc91a830",
+    "sha1": "85f2d228280791ae29adc23fe457d87c7fc6a40d",
+    "sha256": "0f3181e2a4535588cf722755c1c0c9bf2bf4717c6ebd08d28782a8038b7318ce"
   },
   "dob": {
-    "date": "1946-02-15T20:34:45.616Z",
-    "age": 79
+    "date": "1972-01-06T05:51:04.223Z",
+    "age": 53
   },
   "registered": {
-    "date": "2012-04-28T13:58:27.120Z",
-    "age": 12
+    "date": "2009-06-02T04:58:45.926Z",
+    "age": 15
   },
-  "phone": "(099) Y85-0240",
-  "cell": "(066) G85-4242",
+  "phone": "7614829854",
+  "cell": "7121581171",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "090444755986"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    "large": "https://randomuser.me/api/portraits/women/88.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
   },
-  "nat": "UA"
+  "nat": "IN"
 }

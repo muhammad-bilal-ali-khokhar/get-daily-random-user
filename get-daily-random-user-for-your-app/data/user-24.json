@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Olivia",
-    "last": "Johnson"
+    "title": "Mr",
+    "first": "Aashish",
+    "last": "Kulkarni"
   },
   "location": {
     "street": {
-      "number": 2306,
-      "name": "Lake Road"
+      "number": 2559,
+      "name": "Old Jail Rd"
     },
-    "city": "Nelson",
-    "state": "West Coast",
-    "country": "New Zealand",
-    "postcode": 83623,
+    "city": "Akola",
+    "state": "Puducherry",
+    "country": "India",
+    "postcode": 90619,
     "coordinates": {
-      "latitude": "47.9506",
-      "longitude": "20.5132"
+      "latitude": "9.7935",
+      "longitude": "-15.0936"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "olivia.johnson@example.com",
+  "email": "aashish.kulkarni@example.com",
   "login": {
-    "uuid": "c527378f-d24f-4902-8070-f265ca7eba01",
-    "username": "angryzebra215",
-    "password": "italian",
-    "salt": "jq9MdkFd",
-    "md5": "5ab376fbea97fa3d4f4a57aa72ee2fa1",
-    "sha1": "f59f4ec4bb265f828d03208f3196624bce6b795f",
-    "sha256": "fff58fb89ca5f7a5b7bd9e5f3ff31ca38f91ac50a84c53a41ca83ad2ae56aec3"
+    "uuid": "070490be-726d-465d-b3df-fc0d534626b0",
+    "username": "smallzebra949",
+    "password": "chang",
+    "salt": "BkxYAvZp",
+    "md5": "b91640bde5788b98d2d0c213ac13c111",
+    "sha1": "56a7168999250be6669fdfd9b2a448c058c527c1",
+    "sha256": "86f1b319dc075a6a284dea0feed79e1ab74486d6c887c42681b63c4724576047"
   },
   "dob": {
-    "date": "1966-09-03T22:47:09.692Z",
-    "age": 58
+    "date": "1988-10-22T18:19:13.712Z",
+    "age": 36
   },
   "registered": {
-    "date": "2008-10-27T10:46:02.499Z",
-    "age": 16
+    "date": "2002-11-12T02:54:03.880Z",
+    "age": 22
   },
-  "phone": "(649)-760-1060",
-  "cell": "(658)-342-2152",
+  "phone": "8224147021",
+  "cell": "8941936540",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "402107391879"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
   },
-  "nat": "NZ"
+  "nat": "IN"
 }

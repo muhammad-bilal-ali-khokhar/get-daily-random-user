@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Avery",
-    "last": "Morin"
+    "title": "Mr",
+    "first": "Mason",
+    "last": "Woods"
   },
   "location": {
     "street": {
-      "number": 6125,
-      "name": "Arctic Way"
+      "number": 3808,
+      "name": "Samaritan Dr"
     },
-    "city": "Hampstead",
-    "state": "Nunavut",
-    "country": "Canada",
-    "postcode": "C8Z 5Y3",
+    "city": "Maitland",
+    "state": "Australian Capital Territory",
+    "country": "Australia",
+    "postcode": 8563,
     "coordinates": {
-      "latitude": "-71.4885",
-      "longitude": "52.0254"
+      "latitude": "-86.8864",
+      "longitude": "-107.4530"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "avery.morin@example.com",
+  "email": "mason.woods@example.com",
   "login": {
-    "uuid": "3a679269-3d0a-44aa-9583-c7f98d7bba89",
-    "username": "brownpeacock528",
-    "password": "lumina",
-    "salt": "1cPsMQ2u",
-    "md5": "ab10b175fb586242dc69d3bdae32b004",
-    "sha1": "89cf518018c1ad2f30b78b46caaff2fd8f909c43",
-    "sha256": "782b1c000bc8ecbf4ab7bf068d9a88c1f4b22810f0e672735f6db48a1e7a04d3"
+    "uuid": "afd6b806-7642-48ec-a2ea-83d6b59add28",
+    "username": "tinymouse573",
+    "password": "bryan1",
+    "salt": "EzskH6WO",
+    "md5": "ce2345ba5e36bd3430fe8d1b34634a78",
+    "sha1": "97208c4e3463d35a8136fec371c9f0f5efe315f6",
+    "sha256": "a99d85cfcb00810e62e5ab4896bcf59388c262815b44271401a48ae63abdd34c"
   },
   "dob": {
-    "date": "2001-05-14T05:56:17.810Z",
-    "age": 23
+    "date": "1956-07-27T13:07:57.588Z",
+    "age": 68
   },
   "registered": {
-    "date": "2014-08-04T22:18:36.888Z",
-    "age": 10
+    "date": "2018-09-12T16:02:00.149Z",
+    "age": 6
   },
-  "phone": "W46 S65-5869",
-  "cell": "Z18 O90-8437",
+  "phone": "07-3568-8157",
+  "cell": "0465-059-749",
   "id": {
-    "name": "SIN",
-    "value": "712914654"
+    "name": "TFN",
+    "value": "699525549"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
   },
-  "nat": "CA"
+  "nat": "AU"
 }

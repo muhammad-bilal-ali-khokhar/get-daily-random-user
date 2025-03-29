@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Nika",
-    "last": "Meh"
+    "title": "Mr",
+    "first": "Marcus",
+    "last": "Christiansen"
   },
   "location": {
     "street": {
-      "number": 4922,
-      "name": "Sakko"
+      "number": 77,
+      "name": "Nygade"
     },
-    "city": "Shcholkine",
-    "state": "Lvivska",
-    "country": "Ukraine",
-    "postcode": 91491,
+    "city": "Lundby",
+    "state": "Nordjylland",
+    "country": "Denmark",
+    "postcode": 92752,
     "coordinates": {
-      "latitude": "73.2476",
-      "longitude": "123.6619"
+      "latitude": "-43.3819",
+      "longitude": "-158.7639"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "nika.meh@example.com",
+  "email": "marcus.christiansen@example.com",
   "login": {
-    "uuid": "99537cf8-e354-4d91-9b9c-8c86bfadac45",
-    "username": "smallleopard823",
-    "password": "munch",
-    "salt": "lwp1Le1Q",
-    "md5": "c0b7909e41f369ca48a34ddfd40a59cd",
-    "sha1": "1769c0e577697b7c9fd8197f7382b5c933926aa6",
-    "sha256": "e6ce73494549c7c26d33e79dea12964da95b98af1431164a2770a454a8910972"
+    "uuid": "92f0979e-8fdb-44e0-8be5-4c7e167a5ed4",
+    "username": "whitefrog360",
+    "password": "power",
+    "salt": "H81Tt7bI",
+    "md5": "2188f98730903bffb90216c2a715160c",
+    "sha1": "430d7ef3498cc2bc4338f306a3f3b4beb89da2f7",
+    "sha256": "353cb8c5d2efa741220eef131aa7acc4884d2f01d14f17c88299add14a7542cd"
   },
   "dob": {
-    "date": "1974-03-20T17:34:54.124Z",
-    "age": 51
+    "date": "1988-03-31T06:16:12.389Z",
+    "age": 36
   },
   "registered": {
-    "date": "2009-12-29T06:16:39.130Z",
-    "age": 15
+    "date": "2011-04-30T11:14:05.111Z",
+    "age": 13
   },
-  "phone": "(099) R86-7231",
-  "cell": "(099) B13-0954",
+  "phone": "03463882",
+  "cell": "63254404",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "310388-5698"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
   },
-  "nat": "UA"
+  "nat": "DK"
 }

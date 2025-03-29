@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Gonca",
-    "last": "Akal"
+    "title": "Mr",
+    "first": "Bruno",
+    "last": "Tafoya"
   },
   "location": {
     "street": {
-      "number": 8144,
-      "name": "Istiklal Cd"
+      "number": 7747,
+      "name": "Ampliación Coahuila de Zaragoza"
     },
-    "city": "Kilis",
-    "state": "Bartın",
-    "country": "Turkey",
-    "postcode": 45454,
+    "city": "Buctzotz",
+    "state": "Colima",
+    "country": "Mexico",
+    "postcode": 53910,
     "coordinates": {
-      "latitude": "69.4389",
-      "longitude": "63.1235"
+      "latitude": "26.4606",
+      "longitude": "-4.7989"
     },
     "timezone": {
       "offset": "+5:00",
       "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "gonca.akal@example.com",
+  "email": "bruno.tafoya@example.com",
   "login": {
-    "uuid": "70bad7fe-644d-4abf-bac2-a9b9d8e8dd9c",
-    "username": "blueostrich610",
-    "password": "safety",
-    "salt": "tqYPR89O",
-    "md5": "da47fea383500b283511d4dd6b616341",
-    "sha1": "5151e3353a9afe9ef131a2812e103e5f74f03045",
-    "sha256": "ed92dfec980dfbb097f4bf1df41cbbd5e9157a5dcf961f298901cbb789a68450"
+    "uuid": "2dbc0147-00d1-4d79-9363-252c24f6be78",
+    "username": "happyduck234",
+    "password": "button",
+    "salt": "ca2e2BLL",
+    "md5": "b34a5767c3c85a6fd32dcb81318d857d",
+    "sha1": "63586ee52afe73cdbb3f0406f7c2cb44a80fb975",
+    "sha256": "a6029147381b496218461141b96bbbd8a9e3d3e6fa6fc1fc8ebfffca9ab0416e"
   },
   "dob": {
-    "date": "1986-08-03T09:38:13.695Z",
-    "age": 38
+    "date": "1965-06-13T01:07:01.724Z",
+    "age": 59
   },
   "registered": {
-    "date": "2014-10-15T08:58:25.527Z",
-    "age": 10
+    "date": "2005-04-29T04:28:51.443Z",
+    "age": 19
   },
-  "phone": "(585)-886-7402",
-  "cell": "(347)-387-0275",
+  "phone": "(612) 937 9451",
+  "cell": "(677) 640 4563",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NSS",
+    "value": "24 19 46 2471 9"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
   },
-  "nat": "TR"
+  "nat": "MX"
 }

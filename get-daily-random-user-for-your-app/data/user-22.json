@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Marek",
-    "last": "Aubert"
+    "title": "Mr",
+    "first": "Alex",
+    "last": "Martin"
   },
   "location": {
     "street": {
-      "number": 4389,
-      "name": "Avenue Jean-Jaurès"
+      "number": 8086,
+      "name": "Calle de Pedro Bosch"
     },
-    "city": "Vuisternens-devant-Romont",
-    "state": "Genève",
-    "country": "Switzerland",
-    "postcode": 6435,
+    "city": "Palma de Mallorca",
+    "state": "Castilla la Mancha",
+    "country": "Spain",
+    "postcode": 67764,
     "coordinates": {
-      "latitude": "-56.2428",
-      "longitude": "-98.5413"
+      "latitude": "-37.0599",
+      "longitude": "-119.6515"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "marek.aubert@example.com",
+  "email": "alex.martin@example.com",
   "login": {
-    "uuid": "90671e49-3347-4d26-864b-24ac94ccdae5",
-    "username": "crazyostrich217",
-    "password": "hassan",
-    "salt": "onrD2izY",
-    "md5": "28f6a6ed72a11ea8037f6c36dd41a95b",
-    "sha1": "cae9fcfd8622dbdbbb2b324c372e872d3449333f",
-    "sha256": "91780653f52de82f1bd4498f9108a22febce67206519402270b7d59abc026b85"
+    "uuid": "182c9a4a-2ceb-40a9-a97a-0764664679d6",
+    "username": "heavymouse132",
+    "password": "mercedes",
+    "salt": "jV6TdPKQ",
+    "md5": "d28c8dd96d00fd865c9c4e39282baefe",
+    "sha1": "04a78cee56b33812b1f62d3d6c7a70599c162531",
+    "sha256": "d3313aa61eb7bf398305aab49ff00b7d1e2656eee5d9e6a5fab6b335b5d7e545"
   },
   "dob": {
-    "date": "1962-04-30T13:03:10.033Z",
-    "age": 62
+    "date": "1971-09-29T19:20:51.183Z",
+    "age": 53
   },
   "registered": {
-    "date": "2015-04-01T05:25:25.780Z",
-    "age": 9
+    "date": "2009-11-20T18:25:06.962Z",
+    "age": 15
   },
-  "phone": "076 778 69 37",
-  "cell": "075 654 53 50",
+  "phone": "944-344-683",
+  "cell": "690-949-810",
   "id": {
-    "name": "AVS",
-    "value": "756.9068.1392.23"
+    "name": "DNI",
+    "value": "71439753-E"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
   },
-  "nat": "CH"
+  "nat": "ES"
 }

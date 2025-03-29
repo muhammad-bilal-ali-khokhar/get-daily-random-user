@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Väinö",
-    "last": "Niemi"
+    "title": "Mrs",
+    "first": "Annabelle",
+    "last": "Edwards"
   },
   "location": {
     "street": {
-      "number": 7258,
-      "name": "Mechelininkatu"
+      "number": 3303,
+      "name": "Frederick Street"
     },
-    "city": "Kouvola",
-    "state": "Pirkanmaa",
-    "country": "Finland",
-    "postcode": 71059,
+    "city": "New Plymouth",
+    "state": "Otago",
+    "country": "New Zealand",
+    "postcode": 35873,
     "coordinates": {
-      "latitude": "-26.7017",
-      "longitude": "-156.2593"
+      "latitude": "51.2109",
+      "longitude": "16.6319"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "vaino.niemi@example.com",
+  "email": "annabelle.edwards@example.com",
   "login": {
-    "uuid": "fa5b658a-c95c-41a4-8986-bd3b86384d44",
-    "username": "lazykoala755",
-    "password": "mouse",
-    "salt": "VJvYdOsW",
-    "md5": "46ddb3f047f8a6439df2da2b921c7ca5",
-    "sha1": "db7ca144c2f1efeb37cd26e3afa3458774ebcbd6",
-    "sha256": "47eced8c789f2ec7a5efd0420bc98df5c4d42aeecfe43af699d537f70e31b5a8"
+    "uuid": "12835489-45fe-4d71-a43a-b0ebf6a1ef68",
+    "username": "purplepeacock132",
+    "password": "clippers",
+    "salt": "u95ZDhxr",
+    "md5": "f4b0b8538c56025f544f20bf64ff8b59",
+    "sha1": "a2cf75ec6d62c0a44eead75db07d4d3086675d59",
+    "sha256": "eaee68e20cdb8f3be518602a20f643637104b73dbffd2e86a8d2b7930efe2f1c"
   },
   "dob": {
-    "date": "1992-11-25T18:44:48.483Z",
-    "age": 32
+    "date": "1996-09-19T13:15:14.457Z",
+    "age": 28
   },
   "registered": {
-    "date": "2006-07-26T00:57:38.408Z",
-    "age": 18
+    "date": "2016-12-01T14:59:02.869Z",
+    "age": 8
   },
-  "phone": "06-425-382",
-  "cell": "043-286-97-32",
+  "phone": "(361)-994-5847",
+  "cell": "(237)-428-5045",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA477undefined"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/72.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+    "large": "https://randomuser.me/api/portraits/women/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
   },
-  "nat": "FI"
+  "nat": "NZ"
 }

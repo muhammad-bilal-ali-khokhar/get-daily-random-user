@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Junilvana",
-    "last": "da Costa"
+    "first": "Alice",
+    "last": "Anderson"
   },
   "location": {
     "street": {
-      "number": 7417,
-      "name": "Rua João Xxiii"
+      "number": 5053,
+      "name": "Lakeview Ave"
     },
-    "city": "Itajaí",
-    "state": "Rio Grande do Sul",
-    "country": "Brazil",
-    "postcode": 16450,
+    "city": "Port Elgin",
+    "state": "British Columbia",
+    "country": "Canada",
+    "postcode": "J4B 6X9",
     "coordinates": {
-      "latitude": "-77.1329",
-      "longitude": "87.5971"
+      "latitude": "-71.3376",
+      "longitude": "100.9203"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "junilvana.dacosta@example.com",
+  "email": "alice.anderson@example.com",
   "login": {
-    "uuid": "835ab66c-1975-45c9-b208-8a3a1b977ea5",
-    "username": "lazyleopard674",
-    "password": "424242",
-    "salt": "JDwuYM7k",
-    "md5": "2d746b5378b6fe60b8f8aeb0c35bb803",
-    "sha1": "e18ca212c7d7cddf70d7d72f571662250ed9ff4c",
-    "sha256": "9ebafd8dc9702cd3332bed33204c7cb18843cdad0bc4b5bfb743b39f258469fe"
+    "uuid": "11a389a2-5a01-4de3-873a-7ace44e85504",
+    "username": "purplekoala705",
+    "password": "chai",
+    "salt": "Naf14oGE",
+    "md5": "c534274a1fe4a740c075f5efcd193c21",
+    "sha1": "478e337ed54097913162c48781e1be1c48797c3a",
+    "sha256": "00791f7e8e80ef047fdf4744b083316edc0d1db323dbb29e5ef55c882015778e"
   },
   "dob": {
-    "date": "1958-03-06T14:01:22.529Z",
-    "age": 67
+    "date": "1989-03-13T05:37:03.916Z",
+    "age": 36
   },
   "registered": {
-    "date": "2015-01-20T21:18:51.096Z",
-    "age": 10
+    "date": "2020-09-01T13:48:58.014Z",
+    "age": 4
   },
-  "phone": "(76) 4486-3999",
-  "cell": "(04) 8844-5162",
+  "phone": "H85 J30-2302",
+  "cell": "K69 I13-8059",
   "id": {
-    "name": "CPF",
-    "value": "597.424.021-88"
+    "name": "SIN",
+    "value": "557526118"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/10.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+    "large": "https://randomuser.me/api/portraits/women/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
   },
-  "nat": "BR"
+  "nat": "CA"
 }

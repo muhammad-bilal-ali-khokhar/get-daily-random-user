@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Sergio",
-    "last": "Jiménez"
+    "title": "Miss",
+    "first": "Marisol",
+    "last": "Benavídez"
   },
   "location": {
     "street": {
-      "number": 3589,
-      "name": "Calle de La Democracia"
+      "number": 9480,
+      "name": "Pasaje Sur Velasco"
     },
-    "city": "Torrente",
-    "state": "País Vasco",
-    "country": "Spain",
-    "postcode": 51705,
+    "city": "Estanzuela",
+    "state": "Morelos",
+    "country": "Mexico",
+    "postcode": 93679,
     "coordinates": {
-      "latitude": "-37.6427",
-      "longitude": "-65.2754"
+      "latitude": "28.0108",
+      "longitude": "50.1660"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "sergio.jimenez@example.com",
+  "email": "marisol.benavidez@example.com",
   "login": {
-    "uuid": "f7258ee7-ed35-4a5e-bca2-18bcf7d1bf06",
-    "username": "purpledog207",
-    "password": "rich",
-    "salt": "52muMv3E",
-    "md5": "852a83ebcf786f696ceeee4ef099d3de",
-    "sha1": "70b0ddc57bb41039d98bee84162a50667cb2e6ef",
-    "sha256": "7f152155ee755ecf2ade5849186ed387018371292af542d9bbc9b013fc6323fd"
+    "uuid": "b12cfa48-e317-4b3b-bb9e-3c2ee518139a",
+    "username": "tinyduck816",
+    "password": "mmmmmmm",
+    "salt": "mhERmQ8S",
+    "md5": "d8ce52e514bde66599ab17c6bfff5b51",
+    "sha1": "816e3194f7bc499d4aaa0fe69e93456349b71c0e",
+    "sha256": "5f41cf9a0e74bdd34e1ce0fd3817033c084f25c728ae2497c25847b2f21dfc42"
   },
   "dob": {
-    "date": "1974-05-09T14:02:48.743Z",
-    "age": 50
+    "date": "1952-01-25T23:37:35.759Z",
+    "age": 73
   },
   "registered": {
-    "date": "2016-06-13T10:31:22.103Z",
-    "age": 8
+    "date": "2019-11-15T03:57:42.599Z",
+    "age": 5
   },
-  "phone": "994-806-903",
-  "cell": "644-283-787",
+  "phone": "(630) 512 5644",
+  "cell": "(688) 785 1177",
   "id": {
-    "name": "DNI",
-    "value": "33459887-S"
+    "name": "NSS",
+    "value": "74 62 94 7996 6"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
-  "nat": "ES"
+  "nat": "MX"
 }

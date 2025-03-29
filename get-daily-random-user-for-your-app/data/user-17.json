@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Lubomir",
-    "last": "Borjan"
+    "first": "Christian",
+    "last": "Nielsen"
   },
   "location": {
     "street": {
-      "number": 1841,
-      "name": "Sare Bernar"
+      "number": 5717,
+      "name": "Alleen"
     },
-    "city": "Leskovac",
-    "state": "South Bačka",
-    "country": "Serbia",
-    "postcode": 95211,
+    "city": "Hammel",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "postcode": 92355,
     "coordinates": {
-      "latitude": "60.5683",
-      "longitude": "-8.7369"
+      "latitude": "-45.9997",
+      "longitude": "-163.0499"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "lubomir.borjan@example.com",
+  "email": "christian.nielsen@example.com",
   "login": {
-    "uuid": "6102c6cf-2057-4bdf-8325-714fda1c9be4",
-    "username": "blackfrog525",
-    "password": "civic",
-    "salt": "jawCSZ8b",
-    "md5": "37bb83a10970c7ed021b26d7868b46f8",
-    "sha1": "f6b86d7990e17f921eca9e86a0df9a4681989dbd",
-    "sha256": "cbdbd8a450941fc733a2cbbef1949684db7a9cc74db2f0fd9dc5d74c0cbf8060"
+    "uuid": "39e9046e-0337-4c9f-8f9e-413c5e73a85b",
+    "username": "purpletiger335",
+    "password": "zxcv",
+    "salt": "dopDXK0s",
+    "md5": "099a1387ab8940b3d7e76afd90c8a0b8",
+    "sha1": "5afcdd851d3d0e9970ce8d0cc7676d22ce10ec6d",
+    "sha256": "0daf58652141ba506ab375203ef5ba86428d636b7f8d31909c27aa27a36bd109"
   },
   "dob": {
-    "date": "1948-07-25T03:57:20.462Z",
-    "age": 76
+    "date": "1951-09-23T14:40:16.283Z",
+    "age": 73
   },
   "registered": {
-    "date": "2007-06-30T17:43:15.331Z",
-    "age": 17
+    "date": "2007-02-04T07:19:42.240Z",
+    "age": 18
   },
-  "phone": "036-0756-922",
-  "cell": "068-5884-889",
+  "phone": "38426537",
+  "cell": "88133178",
   "id": {
-    "name": "SID",
-    "value": "867824774"
+    "name": "CPR",
+    "value": "230951-0518"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/97.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
   },
-  "nat": "RS"
+  "nat": "DK"
 }
