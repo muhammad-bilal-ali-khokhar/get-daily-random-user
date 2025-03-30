@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Radoje",
-    "last": "Vilotić"
+    "title": "Mrs",
+    "first": "Bertha",
+    "last": "Richards"
   },
   "location": {
     "street": {
-      "number": 329,
-      "name": "Osmog Marta"
+      "number": 9503,
+      "name": "Photinia Ave"
     },
-    "city": "Priboj",
-    "state": "Šumadija",
-    "country": "Serbia",
-    "postcode": 51239,
+    "city": "Colorado Springs",
+    "state": "Georgia",
+    "country": "United States",
+    "postcode": 34994,
     "coordinates": {
-      "latitude": "60.2095",
-      "longitude": "-32.8166"
+      "latitude": "82.6181",
+      "longitude": "143.8860"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "radoje.vilotic@example.com",
+  "email": "bertha.richards@example.com",
   "login": {
-    "uuid": "ae209ae7-164b-436e-9e5a-12f90ef6cf6c",
-    "username": "goldenostrich161",
-    "password": "thegreat",
-    "salt": "fzsToy6f",
-    "md5": "51de6e197eb6ebc90c96e425d4d34ad4",
-    "sha1": "67d9778e16aea9308a1815769396f6c26c790f0f",
-    "sha256": "17b2787a859ce3a303bc99b420b401a57bb9448623c6e1bca714e63f3b4e8567"
+    "uuid": "1c8df933-4424-464a-864e-0941932a75a6",
+    "username": "whitebird609",
+    "password": "davis",
+    "salt": "sirzpPVz",
+    "md5": "1bf207c5df0bd9ef7c51307dd607997a",
+    "sha1": "c01660a83412671e8064731491875281608e4d73",
+    "sha256": "96a92fc18b6d975816737c841556f393e61f83175edfe80966fc763859d64627"
   },
   "dob": {
-    "date": "1954-06-10T22:20:49.441Z",
-    "age": 70
+    "date": "1960-12-06T20:35:09.371Z",
+    "age": 64
   },
   "registered": {
-    "date": "2022-04-02T07:06:28.836Z",
-    "age": 2
+    "date": "2003-10-21T11:26:38.064Z",
+    "age": 21
   },
-  "phone": "018-9389-474",
-  "cell": "065-0466-038",
+  "phone": "(316) 536-4973",
+  "cell": "(424) 290-3709",
   "id": {
-    "name": "SID",
-    "value": "006764415"
+    "name": "SSN",
+    "value": "570-52-5003"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/56.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    "large": "https://randomuser.me/api/portraits/women/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
   },
-  "nat": "RS"
+  "nat": "US"
 }

@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Johanne",
-    "last": "Nielsen"
+    "first": "Lily",
+    "last": "Bennett"
   },
   "location": {
     "street": {
-      "number": 5048,
-      "name": "Færøvej"
+      "number": 9078,
+      "name": "Harrison Ct"
     },
-    "city": "Randers Nv",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 54503,
+    "city": "West Covina",
+    "state": "New York",
+    "country": "United States",
+    "postcode": 67349,
     "coordinates": {
-      "latitude": "-46.1710",
-      "longitude": "120.6000"
+      "latitude": "82.1554",
+      "longitude": "70.8916"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "johanne.nielsen@example.com",
+  "email": "lily.bennett@example.com",
   "login": {
-    "uuid": "698483a1-7fb6-4c05-891e-89a95f5a42b5",
-    "username": "tinyleopard611",
-    "password": "astros",
-    "salt": "9SAWauGL",
-    "md5": "16f609c542f1954986c385efced354ec",
-    "sha1": "71e9627c22d67d71622705f3580d84350bb77a75",
-    "sha256": "14b9fe64192ae9e4743c78322ab3948c39fb5ab5399e44122ab36dceca419b41"
+    "uuid": "9055e5fa-a656-45b7-ab6b-24ba557739ef",
+    "username": "reddog341",
+    "password": "harvest",
+    "salt": "zvywTEjT",
+    "md5": "59543981333b5d5c63fd0000342d70a3",
+    "sha1": "2c8cc3294f9143c8fbb67d506c35b2ced4e19fdd",
+    "sha256": "640c142d1f342bfab5b087c68dee647c81f302eead5507f0b187ee84cc3142d2"
   },
   "dob": {
-    "date": "1983-07-04T02:11:04.161Z",
-    "age": 41
+    "date": "1986-04-18T22:29:48.548Z",
+    "age": 38
   },
   "registered": {
-    "date": "2013-10-07T03:47:17.262Z",
-    "age": 11
+    "date": "2015-11-10T12:28:19.715Z",
+    "age": 9
   },
-  "phone": "93621639",
-  "cell": "12580523",
+  "phone": "(444) 358-9419",
+  "cell": "(935) 937-0397",
   "id": {
-    "name": "CPR",
-    "value": "030783-7005"
+    "name": "SSN",
+    "value": "298-88-4135"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+    "large": "https://randomuser.me/api/portraits/women/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
   },
-  "nat": "DK"
+  "nat": "US"
 }

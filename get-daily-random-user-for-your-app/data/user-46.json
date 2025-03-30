@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Mikola",
-    "last": "Oseckiy"
+    "title": "Mrs",
+    "first": "Brooke",
+    "last": "Zhang"
   },
   "location": {
     "street": {
-      "number": 7222,
-      "name": "Prospekt Ayvazovskogo"
+      "number": 8416,
+      "name": "Victoria Avenue"
     },
-    "city": "Kreminna",
-    "state": "Avtonomna Respublika Krim",
-    "country": "Ukraine",
-    "postcode": 69601,
+    "city": "Invercargill",
+    "state": "Waikato",
+    "country": "New Zealand",
+    "postcode": 76470,
     "coordinates": {
-      "latitude": "78.8182",
-      "longitude": "-50.3419"
+      "latitude": "52.1243",
+      "longitude": "58.3571"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "mikola.oseckiy@example.com",
+  "email": "brooke.zhang@example.com",
   "login": {
-    "uuid": "8a1b070a-6477-4924-a33e-29db5ecbab87",
-    "username": "browntiger225",
-    "password": "chicken",
-    "salt": "xrDDKitO",
-    "md5": "f9063922ffdb37a2a8903732ba6aa149",
-    "sha1": "e5d63feb5f07a03ccdda1a8848e4f25eaaed3825",
-    "sha256": "5a265e6a377e3c6e855f1784d05027c0a241e38a158c41f778304316878f65d3"
+    "uuid": "2f90de5d-b460-412f-9d8c-a1ce157e0a02",
+    "username": "smallostrich171",
+    "password": "long",
+    "salt": "qycek9d2",
+    "md5": "2068c61de4ed08472eac436747a55a90",
+    "sha1": "0797dc7522938b1a1494e38bbdb61c9cb2173bbd",
+    "sha256": "6a77fcebd0ab5993137edf487d1563714b3c1941cde80e3387089684e3a9dc9e"
   },
   "dob": {
-    "date": "1976-10-09T00:07:03.230Z",
-    "age": 48
+    "date": "1988-11-08T00:33:58.522Z",
+    "age": 36
   },
   "registered": {
-    "date": "2019-01-12T00:27:50.344Z",
-    "age": 6
+    "date": "2020-02-11T19:17:13.840Z",
+    "age": 5
   },
-  "phone": "(068) W77-6754",
-  "cell": "(068) T71-9156",
+  "phone": "(348)-060-1382",
+  "cell": "(516)-176-9746",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/71.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    "large": "https://randomuser.me/api/portraits/women/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
   },
-  "nat": "UA"
+  "nat": "NZ"
 }

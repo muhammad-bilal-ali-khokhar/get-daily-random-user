@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Marcus",
-    "last": "Christiansen"
+    "first": "Terje",
+    "last": "Welde"
   },
   "location": {
     "street": {
-      "number": 77,
-      "name": "Nygade"
+      "number": 995,
+      "name": "Sven Oftedals vei"
     },
-    "city": "Lundby",
-    "state": "Nordjylland",
-    "country": "Denmark",
-    "postcode": 92752,
+    "city": "Skatval",
+    "state": "Bergen",
+    "country": "Norway",
+    "postcode": "0380",
     "coordinates": {
-      "latitude": "-43.3819",
-      "longitude": "-158.7639"
+      "latitude": "45.9378",
+      "longitude": "-129.8506"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "marcus.christiansen@example.com",
+  "email": "terje.welde@example.com",
   "login": {
-    "uuid": "92f0979e-8fdb-44e0-8be5-4c7e167a5ed4",
-    "username": "whitefrog360",
-    "password": "power",
-    "salt": "H81Tt7bI",
-    "md5": "2188f98730903bffb90216c2a715160c",
-    "sha1": "430d7ef3498cc2bc4338f306a3f3b4beb89da2f7",
-    "sha256": "353cb8c5d2efa741220eef131aa7acc4884d2f01d14f17c88299add14a7542cd"
+    "uuid": "ef51db19-67ca-44d4-9574-dea0e39e9530",
+    "username": "heavyfish864",
+    "password": "emily",
+    "salt": "ABVNrYqx",
+    "md5": "9b288c6b779759ec9b436407da70a4d6",
+    "sha1": "778f410d4135abb7ba78b33bde4fd1ed05588386",
+    "sha256": "75e98e9cd2e47478a12ff102dc37b38415d9ef3dbebfe72480a750776079a1a5"
   },
   "dob": {
-    "date": "1988-03-31T06:16:12.389Z",
-    "age": 36
+    "date": "1995-12-13T16:38:47.030Z",
+    "age": 29
   },
   "registered": {
-    "date": "2011-04-30T11:14:05.111Z",
-    "age": 13
+    "date": "2015-09-01T12:19:10.606Z",
+    "age": 9
   },
-  "phone": "03463882",
-  "cell": "63254404",
+  "phone": "82595320",
+  "cell": "43431925",
   "id": {
-    "name": "CPR",
-    "value": "310388-5698"
+    "name": "FN",
+    "value": "13129508927"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/93.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "DK"
+  "nat": "NO"
 }

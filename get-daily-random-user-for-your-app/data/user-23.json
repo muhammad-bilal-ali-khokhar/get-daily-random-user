@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Akilina",
-    "last": "Pistun"
+    "first": "Özsu",
+    "last": "Demirbaş"
   },
   "location": {
     "street": {
-      "number": 1073,
-      "name": "Avtogenniy provulok"
+      "number": 3724,
+      "name": "Talak Göktepe Cd"
     },
-    "city": "Yalta",
-    "state": "Ivano-Frankivska",
-    "country": "Ukraine",
-    "postcode": 56198,
+    "city": "Adana",
+    "state": "Manisa",
+    "country": "Turkey",
+    "postcode": 47916,
     "coordinates": {
-      "latitude": "81.0636",
-      "longitude": "55.4592"
+      "latitude": "67.2412",
+      "longitude": "107.6277"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "akilina.pistun@example.com",
+  "email": "ozsu.demirbas@example.com",
   "login": {
-    "uuid": "0ab110f5-841b-4f3b-9b16-9a483f163809",
-    "username": "greenlion718",
-    "password": "abigail",
-    "salt": "thU9mShR",
-    "md5": "893a51d6f0e1f40efbcbf57fd304a292",
-    "sha1": "efb9d7138786318b30ac35fa45f8e32ff456477a",
-    "sha256": "9de6052981a0c1cd6c93939de4718551b85bd1f44cc912a5697accfe3352f9c8"
+    "uuid": "d4fa5408-6297-47bd-8e1a-250469729df7",
+    "username": "purplecat421",
+    "password": "avalanch",
+    "salt": "lKCDTYc3",
+    "md5": "68ae20189fb10303adf62735a0285391",
+    "sha1": "70161d227700b2189ea9b3fc41327ba9d56c932b",
+    "sha256": "bce60e85f10186134f36c8ff5bccf29237b13ff679f13a4d1f995fb4c0f2930b"
   },
   "dob": {
-    "date": "1960-08-19T21:43:53.221Z",
-    "age": 64
+    "date": "1944-09-20T20:08:36.715Z",
+    "age": 80
   },
   "registered": {
-    "date": "2012-07-28T15:54:45.316Z",
-    "age": 12
+    "date": "2007-08-26T22:09:04.957Z",
+    "age": 17
   },
-  "phone": "(099) B41-5067",
-  "cell": "(067) N30-0258",
+  "phone": "(541)-689-4274",
+  "cell": "(610)-730-4018",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/22.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+    "large": "https://randomuser.me/api/portraits/women/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
   },
-  "nat": "UA"
+  "nat": "TR"
 }

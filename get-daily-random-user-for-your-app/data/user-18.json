@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Alice",
-    "last": "Anderson"
+    "title": "Monsieur",
+    "first": "Nenad",
+    "last": "Morin"
   },
   "location": {
     "street": {
-      "number": 5053,
-      "name": "Lakeview Ave"
+      "number": 468,
+      "name": "Rue du Bât-D'Argent"
     },
-    "city": "Port Elgin",
-    "state": "British Columbia",
-    "country": "Canada",
-    "postcode": "J4B 6X9",
+    "city": "Engelberg",
+    "state": "Thurgau",
+    "country": "Switzerland",
+    "postcode": 6242,
     "coordinates": {
-      "latitude": "-71.3376",
-      "longitude": "100.9203"
+      "latitude": "-59.4443",
+      "longitude": "-104.6211"
     },
     "timezone": {
       "offset": "-6:00",
       "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "alice.anderson@example.com",
+  "email": "nenad.morin@example.com",
   "login": {
-    "uuid": "11a389a2-5a01-4de3-873a-7ace44e85504",
-    "username": "purplekoala705",
-    "password": "chai",
-    "salt": "Naf14oGE",
-    "md5": "c534274a1fe4a740c075f5efcd193c21",
-    "sha1": "478e337ed54097913162c48781e1be1c48797c3a",
-    "sha256": "00791f7e8e80ef047fdf4744b083316edc0d1db323dbb29e5ef55c882015778e"
+    "uuid": "bb30c4c8-0cb3-4745-98d2-ba2f96cd7e40",
+    "username": "ticklishcat739",
+    "password": "kurt",
+    "salt": "dXTlDrwL",
+    "md5": "b5ef354795560bc5f42d9dcb2231ef7e",
+    "sha1": "49273ff93c78c2e43dc46f43a824d663843bb2a0",
+    "sha256": "694bee4f7b4b58859adeffab7c9ef5a613777fd099ee4ce3eebc8acbfe11cb99"
   },
   "dob": {
-    "date": "1989-03-13T05:37:03.916Z",
-    "age": 36
+    "date": "1981-06-19T07:17:26.552Z",
+    "age": 43
   },
   "registered": {
-    "date": "2020-09-01T13:48:58.014Z",
-    "age": 4
+    "date": "2005-03-11T07:47:45.404Z",
+    "age": 20
   },
-  "phone": "H85 J30-2302",
-  "cell": "K69 I13-8059",
+  "phone": "077 784 92 02",
+  "cell": "078 042 23 90",
   "id": {
-    "name": "SIN",
-    "value": "557526118"
+    "name": "AVS",
+    "value": "756.9210.5439.40"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/30.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
   },
-  "nat": "CA"
+  "nat": "CH"
 }

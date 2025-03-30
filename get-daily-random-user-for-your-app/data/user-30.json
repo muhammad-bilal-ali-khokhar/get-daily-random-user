@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Bruno",
-    "last": "Tafoya"
+    "first": "Beau",
+    "last": "Thompson"
   },
   "location": {
     "street": {
-      "number": 7747,
-      "name": "Ampliación Coahuila de Zaragoza"
+      "number": 1718,
+      "name": "Elles Road"
     },
-    "city": "Buctzotz",
-    "state": "Colima",
-    "country": "Mexico",
-    "postcode": 53910,
+    "city": "Hastings",
+    "state": "Marlborough",
+    "country": "New Zealand",
+    "postcode": 37636,
     "coordinates": {
-      "latitude": "26.4606",
-      "longitude": "-4.7989"
+      "latitude": "52.0690",
+      "longitude": "-65.1775"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "bruno.tafoya@example.com",
+  "email": "beau.thompson@example.com",
   "login": {
-    "uuid": "2dbc0147-00d1-4d79-9363-252c24f6be78",
-    "username": "happyduck234",
-    "password": "button",
-    "salt": "ca2e2BLL",
-    "md5": "b34a5767c3c85a6fd32dcb81318d857d",
-    "sha1": "63586ee52afe73cdbb3f0406f7c2cb44a80fb975",
-    "sha256": "a6029147381b496218461141b96bbbd8a9e3d3e6fa6fc1fc8ebfffca9ab0416e"
+    "uuid": "2bb23564-ed2d-4c26-8816-386cb77cbc4b",
+    "username": "biggorilla322",
+    "password": "keegan",
+    "salt": "31kZYjyX",
+    "md5": "dcebc557bbfe26606405efd4d35f4ea6",
+    "sha1": "8c54f53bf881fd1a23facac019b583d327ee4d8c",
+    "sha256": "03db78b533d9e363a6d7a9bceaa291fafea4056c019cbbb49a02c00053619fd1"
   },
   "dob": {
-    "date": "1965-06-13T01:07:01.724Z",
-    "age": 59
+    "date": "1974-11-10T04:51:57.771Z",
+    "age": 50
   },
   "registered": {
-    "date": "2005-04-29T04:28:51.443Z",
-    "age": 19
+    "date": "2009-11-16T02:56:49.499Z",
+    "age": 15
   },
-  "phone": "(612) 937 9451",
-  "cell": "(677) 640 4563",
+  "phone": "(744)-777-2797",
+  "cell": "(952)-854-0104",
   "id": {
-    "name": "NSS",
-    "value": "24 19 46 2471 9"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/75.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "MX"
+  "nat": "NZ"
 }

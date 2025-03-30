@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Apollinariya",
-    "last": "Fedorenko"
+    "title": "Miss",
+    "first": "Evi",
+    "last": "Böckmann"
   },
   "location": {
     "street": {
-      "number": 3751,
-      "name": "Grodnenska"
+      "number": 9173,
+      "name": "Marktplatz"
     },
-    "city": "Harcizk",
-    "state": "Avtonomna Respublika Krim",
-    "country": "Ukraine",
-    "postcode": 58288,
+    "city": "Waldheim",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "postcode": 67083,
     "coordinates": {
-      "latitude": "76.4479",
-      "longitude": "140.2895"
+      "latitude": "-51.2118",
+      "longitude": "63.7185"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "apollinariya.fedorenko@example.com",
+  "email": "evi.bockmann@example.com",
   "login": {
-    "uuid": "1e5164e0-8b06-437b-8867-f697c175400f",
-    "username": "heavywolf492",
-    "password": "goober",
-    "salt": "QdxoDRIH",
-    "md5": "420f525a054ae9fb7f2b871d27b8a370",
-    "sha1": "f44a9ca36325891406b9fa5bb0c6ab3ad13e1d97",
-    "sha256": "762c1fdc9e0a09441963b607c7153dd00f5dcb05fb762c38d84cc85f6289a1fe"
+    "uuid": "4147e9e0-a734-49c7-87d6-22df1e581d37",
+    "username": "happydog229",
+    "password": "surgery",
+    "salt": "CnsMVBGE",
+    "md5": "9823ae1dce1e7a8ace314e83eb7ffefa",
+    "sha1": "702b2a97b79bfbc3b92096e71e09162f4e882e95",
+    "sha256": "6b7cd0b95dde2f25debcf36b9426f203adc958c9b34caa1926939f74ca940215"
   },
   "dob": {
-    "date": "1979-05-12T17:55:48.252Z",
-    "age": 45
+    "date": "1990-11-10T21:44:12.832Z",
+    "age": 34
   },
   "registered": {
-    "date": "2011-02-03T21:23:17.075Z",
-    "age": 14
+    "date": "2021-11-11T08:21:18.798Z",
+    "age": 3
   },
-  "phone": "(066) M32-0094",
-  "cell": "(096) L03-7592",
+  "phone": "0835-0814250",
+  "cell": "0175-7228939",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SVNR",
+    "value": "38 101190 B 544"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/74.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+    "large": "https://randomuser.me/api/portraits/women/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
   },
-  "nat": "UA"
+  "nat": "DE"
 }

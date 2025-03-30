@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Annabelle",
-    "last": "Walker"
+    "title": "Mr",
+    "first": "Kabir",
+    "last": "Moolya"
   },
   "location": {
     "street": {
-      "number": 4284,
-      "name": "Pakuranga Road"
+      "number": 7476,
+      "name": "NAD X Rd"
     },
-    "city": "Napier",
-    "state": "Northland",
-    "country": "New Zealand",
-    "postcode": 12322,
+    "city": "Morena",
+    "state": "Manipur",
+    "country": "India",
+    "postcode": 29208,
     "coordinates": {
-      "latitude": "47.5040",
-      "longitude": "0.7178"
+      "latitude": "9.4939",
+      "longitude": "-87.5231"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "annabelle.walker@example.com",
+  "email": "kabir.moolya@example.com",
   "login": {
-    "uuid": "1cd76a78-01a7-48c7-8a31-867821ae825d",
-    "username": "beautifulleopard459",
-    "password": "christin",
-    "salt": "gODHWDaM",
-    "md5": "c7b9eafbf55ce92d4554192c951d65f7",
-    "sha1": "ab5f84bb76d1a36c3349bc2be4d17ee11a28089e",
-    "sha256": "6d81fd73bc5b8cf2e0160ddf26d10dee6424d2f39efadfba00dc97510099fbd0"
+    "uuid": "88eb9993-798f-4f02-8abe-fafe175ceb62",
+    "username": "silverwolf976",
+    "password": "mykids",
+    "salt": "BJF78biI",
+    "md5": "b16639c411df5e7a7b8938fd41dc5be9",
+    "sha1": "d413530dc4bcebe588114d6799f9a93cf51ee24d",
+    "sha256": "21e3e16aa002aa029b1f78a5ea04454918953acb291618694309d00a14e2d093"
   },
   "dob": {
-    "date": "1972-08-24T21:42:16.649Z",
-    "age": 52
+    "date": "1983-06-07T07:38:59.346Z",
+    "age": 41
   },
   "registered": {
-    "date": "2013-07-22T11:06:09.633Z",
-    "age": 11
+    "date": "2021-10-27T12:48:37.402Z",
+    "age": 3
   },
-  "phone": "(068)-513-8792",
-  "cell": "(993)-730-4319",
+  "phone": "7437863120",
+  "cell": "9172660035",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "419350265749"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
   },
-  "nat": "NZ"
+  "nat": "IN"
 }

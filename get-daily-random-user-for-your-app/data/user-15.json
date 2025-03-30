@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Vânea",
-    "last": "Oliveira"
+    "title": "Mademoiselle",
+    "first": "Carmen",
+    "last": "Olivier"
   },
   "location": {
     "street": {
-      "number": 5954,
-      "name": "Rua Um"
+      "number": 9053,
+      "name": "Avenue du Fort-Caire"
     },
-    "city": "Umuarama",
-    "state": "Distrito Federal",
-    "country": "Brazil",
-    "postcode": 89921,
+    "city": "Montpreveyres",
+    "state": "Zug",
+    "country": "Switzerland",
+    "postcode": 8829,
     "coordinates": {
-      "latitude": "-74.3380",
-      "longitude": "75.8886"
+      "latitude": "-63.1691",
+      "longitude": "14.2439"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "vanea.oliveira@example.com",
+  "email": "carmen.olivier@example.com",
   "login": {
-    "uuid": "fb289ef3-eada-4725-a666-c24977411573",
-    "username": "happypeacock227",
-    "password": "graves",
-    "salt": "P2NBiwOx",
-    "md5": "c83a18a1723de96158c6b78f76b6d27f",
-    "sha1": "6b1d2eca77d1f0fa2a45fd949e279529f3395ec4",
-    "sha256": "6ab4ed4004024596f6f08c4ba9b9ea86104cbf6cae0df56463a772f381f1cd3b"
+    "uuid": "2c3de19f-77ce-494b-82b7-dfb7d0d3844f",
+    "username": "lazyswan982",
+    "password": "rambo",
+    "salt": "CX5KsSGi",
+    "md5": "626575c1165c82190ef80e35de4f5202",
+    "sha1": "caab91ac590ff85a0ccb0985f48d870037c264a9",
+    "sha256": "caba47f8e15cf340841f1ea34d7c402b836fe5a693597c82e0c3f641da86f2e9"
   },
   "dob": {
-    "date": "1960-05-29T13:03:56.121Z",
-    "age": 64
+    "date": "1985-12-30T19:05:15.580Z",
+    "age": 39
   },
   "registered": {
-    "date": "2013-09-21T16:01:38.465Z",
-    "age": 11
+    "date": "2011-08-30T21:02:46.549Z",
+    "age": 13
   },
-  "phone": "(42) 0134-2714",
-  "cell": "(35) 8783-0885",
+  "phone": "076 532 90 20",
+  "cell": "075 773 16 52",
   "id": {
-    "name": "CPF",
-    "value": "547.758.904-09"
+    "name": "AVS",
+    "value": "756.0354.0764.19"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
   },
-  "nat": "BR"
+  "nat": "CH"
 }

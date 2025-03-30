@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Milan",
-    "last": "Vincent"
+    "first": "Dylan",
+    "last": "Miller"
   },
   "location": {
     "street": {
-      "number": 1859,
-      "name": "Rue de Bonnel"
+      "number": 6784,
+      "name": "Park Rd"
     },
-    "city": "Le Havre",
-    "state": "Haute-Savoie",
-    "country": "France",
-    "postcode": 82759,
+    "city": "New Glasgow",
+    "state": "Nunavut",
+    "country": "Canada",
+    "postcode": "F6G 5O0",
     "coordinates": {
-      "latitude": "-14.1816",
-      "longitude": "-135.7083"
+      "latitude": "-71.8135",
+      "longitude": "-51.8875"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "milan.vincent@example.com",
+  "email": "dylan.miller@example.com",
   "login": {
-    "uuid": "af92766c-a6b8-46f0-8880-6147564a5751",
-    "username": "lazybird492",
-    "password": "looker",
-    "salt": "NxQGA8bc",
-    "md5": "e7be453e3a84f28bb338f69b80af75b6",
-    "sha1": "57c60524a247f6e1dac11c73a07be874da2f0187",
-    "sha256": "b856b134386203121da3450f8d487626afffabb422a0d112b8c54a97d1aa3af2"
+    "uuid": "4afaa99c-470c-40a6-918b-5f35a29baa08",
+    "username": "orangepanda412",
+    "password": "badgers",
+    "salt": "rBbYaPz2",
+    "md5": "deb8f7455732a77986671dc6c6da4f96",
+    "sha1": "be693b2f4235cc0292ba759dbf79c8a4271026cc",
+    "sha256": "361b4fda8753560f91c8f20f453074e1528eaabb81b6b40764963c299961b12d"
   },
   "dob": {
-    "date": "1951-08-13T12:06:41.895Z",
-    "age": 73
+    "date": "1999-12-07T08:38:42.753Z",
+    "age": 25
   },
   "registered": {
-    "date": "2007-12-26T13:45:48.314Z",
-    "age": 17
+    "date": "2006-01-26T22:16:35.048Z",
+    "age": 19
   },
-  "phone": "02-42-63-43-16",
-  "cell": "06-33-41-91-76",
+  "phone": "R15 S66-0518",
+  "cell": "L99 K61-4937",
   "id": {
-    "name": "INSEE",
-    "value": "1510782099927 85"
+    "name": "SIN",
+    "value": "417099512"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/45.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "FR"
+  "nat": "CA"
 }

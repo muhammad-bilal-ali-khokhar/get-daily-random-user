@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Sharanya",
-    "last": "Saldanha"
+    "title": "Mr",
+    "first": "Mathys",
+    "last": "Simon"
   },
   "location": {
     "street": {
-      "number": 6839,
-      "name": "Shanmugham Rd"
+      "number": 1747,
+      "name": "Rue Cyrus-Hugues"
     },
-    "city": "Rourkela",
-    "state": "Karnataka",
-    "country": "India",
-    "postcode": 18539,
+    "city": "Asnières-sur-Seine",
+    "state": "Gers",
+    "country": "France",
+    "postcode": 11365,
     "coordinates": {
-      "latitude": "10.0153",
-      "longitude": "81.1348"
+      "latitude": "-14.2555",
+      "longitude": "-14.9674"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "sharanya.saldanha@example.com",
+  "email": "mathys.simon@example.com",
   "login": {
-    "uuid": "bcdfadc7-15da-46df-a357-4afc6cb0275e",
-    "username": "heavyfish711",
-    "password": "florence",
-    "salt": "v2PxY86p",
-    "md5": "6a6e8779fa8ed2dd6bf84aab45c24c5b",
-    "sha1": "e6befafc448fde1d47cc404a54b51ef5f2434760",
-    "sha256": "81ae2289ab1acd8c85ea5e1e8c36bc5a32932ce64b07d037c02fbcdd63b53fa6"
+    "uuid": "af127150-04cf-4aba-9da0-f7e7af93c4b6",
+    "username": "redbear962",
+    "password": "southpar",
+    "salt": "csX9OROt",
+    "md5": "776b6bb9748468640010f5e0d4bbc437",
+    "sha1": "cbf8bb904dc6e402a59405de91dfc3e0cb1b39bf",
+    "sha256": "64335eb831969cc1eb7f2e3a11129d5ac07dedd886acd1b95953cc19f819a48b"
   },
   "dob": {
-    "date": "2000-08-12T06:18:49.841Z",
-    "age": 24
+    "date": "1971-12-30T16:00:01.200Z",
+    "age": 53
   },
   "registered": {
-    "date": "2017-12-16T22:47:52.078Z",
-    "age": 7
+    "date": "2020-02-18T00:23:43.643Z",
+    "age": 5
   },
-  "phone": "9701439380",
-  "cell": "7525886004",
+  "phone": "04-96-17-26-48",
+  "cell": "06-55-71-87-83",
   "id": {
-    "name": "UIDAI",
-    "value": "994540152693"
+    "name": "INSEE",
+    "value": "1711107022368 86"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/40.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
+    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
   },
-  "nat": "IN"
+  "nat": "FR"
 }

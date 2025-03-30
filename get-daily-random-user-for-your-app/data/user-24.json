@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Aashish",
-    "last": "Kulkarni"
+    "title": "Ms",
+    "first": "Sherry",
+    "last": "Baker"
   },
   "location": {
     "street": {
-      "number": 2559,
-      "name": "Old Jail Rd"
+      "number": 1484,
+      "name": "James St"
     },
-    "city": "Akola",
-    "state": "Puducherry",
-    "country": "India",
-    "postcode": 90619,
+    "city": "Fort Worth",
+    "state": "Montana",
+    "country": "United States",
+    "postcode": 32870,
     "coordinates": {
-      "latitude": "9.7935",
-      "longitude": "-15.0936"
+      "latitude": "89.5755",
+      "longitude": "83.7870"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "aashish.kulkarni@example.com",
+  "email": "sherry.baker@example.com",
   "login": {
-    "uuid": "070490be-726d-465d-b3df-fc0d534626b0",
-    "username": "smallzebra949",
-    "password": "chang",
-    "salt": "BkxYAvZp",
-    "md5": "b91640bde5788b98d2d0c213ac13c111",
-    "sha1": "56a7168999250be6669fdfd9b2a448c058c527c1",
-    "sha256": "86f1b319dc075a6a284dea0feed79e1ab74486d6c887c42681b63c4724576047"
+    "uuid": "d0df2658-4209-4302-a43e-3e5a0adbba88",
+    "username": "whiteduck929",
+    "password": "christine",
+    "salt": "jaKock3q",
+    "md5": "5541899839cdc7a42851e35c22c32703",
+    "sha1": "766520e7c57d9b387cc970416e58a1d3ffbce1ba",
+    "sha256": "800aab76039002e3bf74aa737dbdde4a4a865211fa100aece645e08c9d269eb2"
   },
   "dob": {
-    "date": "1988-10-22T18:19:13.712Z",
-    "age": 36
+    "date": "1964-09-14T01:59:10.428Z",
+    "age": 60
   },
   "registered": {
-    "date": "2002-11-12T02:54:03.880Z",
-    "age": 22
+    "date": "2015-10-07T09:00:22.874Z",
+    "age": 9
   },
-  "phone": "8224147021",
-  "cell": "8941936540",
+  "phone": "(787) 765-5083",
+  "cell": "(901) 440-6851",
   "id": {
-    "name": "UIDAI",
-    "value": "402107391879"
+    "name": "SSN",
+    "value": "808-39-2960"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
   },
-  "nat": "IN"
+  "nat": "US"
 }

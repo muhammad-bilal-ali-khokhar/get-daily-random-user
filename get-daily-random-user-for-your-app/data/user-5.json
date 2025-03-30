@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Erika",
-    "last": "Reid"
+    "title": "Mr",
+    "first": "Etienne",
+    "last": "Denys"
   },
   "location": {
     "street": {
-      "number": 4261,
-      "name": "Karen Dr"
+      "number": 5236,
+      "name": "Dieppe Ave"
     },
-    "city": "Charleston",
-    "state": "Virginia",
-    "country": "United States",
-    "postcode": 71272,
+    "city": "St. Antoine",
+    "state": "Ontario",
+    "country": "Canada",
+    "postcode": "S1X 0P4",
     "coordinates": {
-      "latitude": "84.2719",
-      "longitude": "23.5118"
+      "latitude": "-69.9977",
+      "longitude": "-57.1365"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "erika.reid@example.com",
+  "email": "etienne.denys@example.com",
   "login": {
-    "uuid": "5b92662e-a70c-4eb4-bab9-d6b20ebb3206",
-    "username": "organicswan491",
-    "password": "record",
-    "salt": "DcV3Tp0N",
-    "md5": "175d9e96b25a01be9fff7a0f97529201",
-    "sha1": "661f9035da0de69eb95bd3c97091aface3fa1a4d",
-    "sha256": "41c949c9b51e11976447cd9ab0cf01b9646ea3205ee5d096e6e41346fc79273c"
+    "uuid": "54285ca6-d7d7-4e92-a15c-4c0e268395c9",
+    "username": "goldenrabbit337",
+    "password": "amstel",
+    "salt": "ZBZE6Khi",
+    "md5": "ec8f78b7e75eec15c9b16424ab04f960",
+    "sha1": "ac2bebd8dd6e75f57b491a0d9b4692e87e0e0aa5",
+    "sha256": "38aaab5970e8e6bbae46e31c576e6452efa7bd1af420343d13df8734b382bdc0"
   },
   "dob": {
-    "date": "1984-09-12T23:55:38.690Z",
-    "age": 40
+    "date": "1989-10-12T02:58:26.807Z",
+    "age": 35
   },
   "registered": {
-    "date": "2005-05-04T04:45:57.727Z",
-    "age": 19
+    "date": "2002-08-04T20:31:56.036Z",
+    "age": 22
   },
-  "phone": "(977) 310-4272",
-  "cell": "(522) 300-2911",
+  "phone": "E45 F53-8555",
+  "cell": "B80 N09-8353",
   "id": {
-    "name": "SSN",
-    "value": "886-56-3574"
+    "name": "SIN",
+    "value": "216181578"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+    "large": "https://randomuser.me/api/portraits/men/90.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
   },
-  "nat": "US"
+  "nat": "CA"
 }

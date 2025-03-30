@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "بردیا",
-    "last": "کامروا"
+    "first": "Ajith",
+    "last": "Bhardwaj"
   },
   "location": {
     "street": {
-      "number": 4076,
-      "name": "کوی نصر"
+      "number": 560,
+      "name": "Sao Tome Old Quarter"
     },
-    "city": "بروجرد",
-    "state": "فارس",
-    "country": "Iran",
-    "postcode": 54534,
+    "city": "Dindigul",
+    "state": "Assam",
+    "country": "India",
+    "postcode": 31317,
     "coordinates": {
-      "latitude": "18.4719",
-      "longitude": "-131.2759"
+      "latitude": "5.5397",
+      "longitude": "-113.8546"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "brdy.khmrw@example.com",
+  "email": "ajith.bhardwaj@example.com",
   "login": {
-    "uuid": "4c56f387-62ff-40d2-8296-c6017f470bc7",
-    "username": "organickoala775",
-    "password": "benjamin",
-    "salt": "yl00c2lI",
-    "md5": "338f2f51cce4bf989891baa768e9bc84",
-    "sha1": "b52ba9f70e7ec2ed1ee6b9b0fc32526f4e34fe0e",
-    "sha256": "3b3fec650fedf1cd7a23d61095281a66f201bf29937d907a85bc0ed45014b4f1"
+    "uuid": "1270d413-b3a1-4ba7-a9b3-e90a71d7b748",
+    "username": "sadduck915",
+    "password": "mattie",
+    "salt": "RnOeSOEk",
+    "md5": "b11ad963f7d7702fb06815dc64e809d6",
+    "sha1": "8c786f810be90f07f82d83a28250e05ab326ef44",
+    "sha256": "ae2660c6b1528609cdf999fe426d234fc4fb549598f323adadd14458c8b56536"
   },
   "dob": {
-    "date": "1967-02-28T18:20:58.785Z",
-    "age": 58
+    "date": "1977-02-27T18:47:27.196Z",
+    "age": 48
   },
   "registered": {
-    "date": "2002-12-22T16:12:16.414Z",
+    "date": "2002-04-17T23:03:59.434Z",
     "age": 22
   },
-  "phone": "049-34077406",
-  "cell": "0950-345-6050",
+  "phone": "8184742534",
+  "cell": "8023911820",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "940110270123"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/7.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
+    "large": "https://randomuser.me/api/portraits/men/62.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
   },
-  "nat": "IR"
+  "nat": "IN"
 }

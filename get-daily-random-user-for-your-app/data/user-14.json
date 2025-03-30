@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Austin",
-    "last": "Fleming"
+    "first": "Niklas",
+    "last": "Nymark"
   },
   "location": {
     "street": {
-      "number": 9734,
-      "name": "Walnut Hill Ln"
+      "number": 9311,
+      "name": "Bogerudslyngen"
     },
-    "city": "Jackson",
-    "state": "Idaho",
-    "country": "United States",
-    "postcode": 86568,
+    "city": "Østhusvik",
+    "state": "Finnmark - Finnmárku",
+    "country": "Norway",
+    "postcode": "1961",
     "coordinates": {
-      "latitude": "81.5905",
-      "longitude": "-69.8870"
+      "latitude": "40.7679",
+      "longitude": "-51.9112"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "austin.fleming@example.com",
+  "email": "niklas.nymark@example.com",
   "login": {
-    "uuid": "148fe73d-3134-4165-9384-85ad568b244d",
-    "username": "orangefish568",
-    "password": "buzz",
-    "salt": "pfopfyvf",
-    "md5": "0355551fd16ca712263ad4e953941a88",
-    "sha1": "d978f96e4fb8bbdf575a7b641af9e41bbf8d6fc7",
-    "sha256": "5cc9aa4b29df5b82695c0abdb4189ffba62cd36dbd5de0803d69f89c180e1ab6"
+    "uuid": "b90e1f42-81fa-46fc-98b5-73d62ca362ec",
+    "username": "sadfrog535",
+    "password": "lian",
+    "salt": "Ig8Qz8Ww",
+    "md5": "7baaf70e7f8cd1cb921890d19f218f8d",
+    "sha1": "cedf873836911c8cb3574475a56c7c85d2fb1655",
+    "sha256": "09220ab4f83520463d5c789bde7ad9270e02b0c6ba04b6b5f0678a781c3675c0"
   },
   "dob": {
-    "date": "1963-09-11T18:43:04.814Z",
-    "age": 61
+    "date": "1958-02-07T08:58:51.479Z",
+    "age": 67
   },
   "registered": {
-    "date": "2015-03-26T11:40:16.849Z",
-    "age": 10
+    "date": "2019-09-22T19:32:56.290Z",
+    "age": 5
   },
-  "phone": "(445) 712-3855",
-  "cell": "(541) 757-2579",
+  "phone": "37624198",
+  "cell": "47589816",
   "id": {
-    "name": "SSN",
-    "value": "216-42-1308"
+    "name": "FN",
+    "value": "07025811393"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/87.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
   },
-  "nat": "US"
+  "nat": "NO"
 }

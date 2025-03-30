@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Gonçalo",
-    "last": "Roux"
+    "title": "Mr",
+    "first": "Ojas",
+    "last": "Pai"
   },
   "location": {
     "street": {
-      "number": 9439,
-      "name": "Rue de L'Abbé-Rousselot"
+      "number": 6671,
+      "name": "Commercial St"
     },
-    "city": "Glarus Nord",
-    "state": "Neuchâtel",
-    "country": "Switzerland",
-    "postcode": 7089,
+    "city": "Tenali",
+    "state": "Sikkim",
+    "country": "India",
+    "postcode": 62597,
     "coordinates": {
-      "latitude": "-63.7249",
-      "longitude": "-179.5437"
+      "latitude": "11.4958",
+      "longitude": "-39.5136"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "goncalo.roux@example.com",
+  "email": "ojas.pai@example.com",
   "login": {
-    "uuid": "5f4f9572-3813-4d1b-895c-4eeca7dd6292",
-    "username": "goldenpeacock335",
-    "password": "megadeth",
-    "salt": "mHgpYgTG",
-    "md5": "1fba4b2817ca60946a3ccf6d44a8aa8b",
-    "sha1": "b9a3593b8185b393f2179e591cc67d9eb41546cf",
-    "sha256": "c988239c9412fbe6ad7542c642223153c1c0c6a8e249a103efaec962d831f268"
+    "uuid": "aa5a3ed9-1b9c-430b-bd49-dfd47c8f71ee",
+    "username": "crazymeercat850",
+    "password": "storys",
+    "salt": "hRKWmdUm",
+    "md5": "021471d10d297c77888badfa1320647b",
+    "sha1": "c24534cbe32874eca79894187154d1da5809264d",
+    "sha256": "9319212905224461ad5c472fd2005d2206c60e9a7ab84c3cb37cd8a21252b3fb"
   },
   "dob": {
-    "date": "1997-01-14T00:54:29.087Z",
-    "age": 28
+    "date": "2000-09-04T00:05:56.452Z",
+    "age": 24
   },
   "registered": {
-    "date": "2020-03-10T00:41:41.076Z",
-    "age": 5
+    "date": "2018-09-14T04:50:53.907Z",
+    "age": 6
   },
-  "phone": "077 884 16 16",
-  "cell": "075 228 47 68",
+  "phone": "8759408991",
+  "cell": "7654452715",
   "id": {
-    "name": "AVS",
-    "value": "756.2777.8083.89"
+    "name": "UIDAI",
+    "value": "743454228829"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
   },
-  "nat": "CH"
+  "nat": "IN"
 }

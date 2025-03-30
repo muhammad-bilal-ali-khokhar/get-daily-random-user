@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Cristian",
-    "last": "Santos"
+    "first": "Ayman",
+    "last": "Slyngstad"
   },
   "location": {
     "street": {
-      "number": 8056,
-      "name": "Calle de Arturo Soria"
+      "number": 235,
+      "name": "Ospeskogveien"
     },
-    "city": "La Coruña",
-    "state": "Comunidad Valenciana",
-    "country": "Spain",
-    "postcode": 48560,
+    "city": "Tana Bru",
+    "state": "Hordaland",
+    "country": "Norway",
+    "postcode": "8426",
     "coordinates": {
-      "latitude": "-36.4228",
-      "longitude": "-74.5574"
+      "latitude": "47.0842",
+      "longitude": "-146.6561"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "cristian.santos@example.com",
+  "email": "ayman.slyngstad@example.com",
   "login": {
-    "uuid": "3e8c5686-3443-4ff5-a854-af763977589f",
-    "username": "greenelephant673",
-    "password": "lkjhgfds",
-    "salt": "osrl98t3",
-    "md5": "3e842cce5388e4a0573baef13310610b",
-    "sha1": "df1d6af47cf07c5e4aebb5667ad24f7bd3f646e1",
-    "sha256": "4bbaadf476c5d8c4ede3f71764fbf4df1eb90d510eaa157e0231c6a2ddd527b5"
+    "uuid": "1c60ad5b-c89a-4923-b06f-9aa4013742e8",
+    "username": "happyzebra648",
+    "password": "789987",
+    "salt": "UFLPKjlp",
+    "md5": "4ba699bc8ede943636c988c2892fa571",
+    "sha1": "7db977eb922cbfaa47fba5a32a1a738a89ef3e08",
+    "sha256": "676f9bdff9bac819e8700600350c8e75c4b3187c5bf1f54c75c33d5bda37966a"
   },
   "dob": {
-    "date": "2000-04-23T18:45:02.487Z",
-    "age": 24
+    "date": "1981-07-19T15:00:25.931Z",
+    "age": 43
   },
   "registered": {
-    "date": "2012-01-25T09:51:59.409Z",
-    "age": 13
+    "date": "2014-11-19T01:24:53.836Z",
+    "age": 10
   },
-  "phone": "915-443-559",
-  "cell": "613-620-129",
+  "phone": "20142185",
+  "cell": "49822915",
   "id": {
-    "name": "DNI",
-    "value": "65602792-F"
+    "name": "FN",
+    "value": "19078118329"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+    "large": "https://randomuser.me/api/portraits/men/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
   },
-  "nat": "ES"
+  "nat": "NO"
 }

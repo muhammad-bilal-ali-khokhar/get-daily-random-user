@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Joy",
-    "last": "Williams"
+    "title": "Ms",
+    "first": "Latife",
+    "last": "Özbir"
   },
   "location": {
     "street": {
-      "number": 5019,
-      "name": "Westheimer Rd"
+      "number": 6470,
+      "name": "Anafartalar Cd"
     },
-    "city": "Mesa",
-    "state": "Colorado",
-    "country": "United States",
-    "postcode": 85626,
+    "city": "Samsun",
+    "state": "Muğla",
+    "country": "Turkey",
+    "postcode": 82811,
     "coordinates": {
-      "latitude": "89.9508",
-      "longitude": "84.9438"
+      "latitude": "69.8089",
+      "longitude": "80.4562"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "joy.williams@example.com",
+  "email": "latife.ozbir@example.com",
   "login": {
-    "uuid": "7fab8f81-d145-49a5-9d3f-5d78c1b5d421",
-    "username": "yellowgoose852",
-    "password": "chavez",
-    "salt": "gpwJOtKZ",
-    "md5": "75781145d6d8e29f694aad91cc6cffef",
-    "sha1": "ea29f95777070526ab053fbdb886f408b335620c",
-    "sha256": "25527fd7a5ee3b250e01e44ce2666ee36d3264554429dbcae792455bbebbb0b6"
+    "uuid": "9fada1a9-ce7d-4b5f-8b46-25e80d648a05",
+    "username": "greencat435",
+    "password": "dallas",
+    "salt": "4D1Rw7rT",
+    "md5": "8ac0e2a884097fadd9f5f40307b5096b",
+    "sha1": "75b008da3f1e7ed8fc01614c06973b09ecb70db1",
+    "sha256": "5950b3ab13b22e26155505d4f4250e2e50b191a1c25522fec47c5bfd1f4a472d"
   },
   "dob": {
-    "date": "1971-03-04T19:19:01.463Z",
-    "age": 54
+    "date": "1994-12-27T14:05:32.300Z",
+    "age": 30
   },
   "registered": {
-    "date": "2012-12-12T04:31:44.186Z",
+    "date": "2013-03-21T18:24:26.016Z",
     "age": 12
   },
-  "phone": "(273) 821-1419",
-  "cell": "(224) 717-7844",
+  "phone": "(842)-560-3937",
+  "cell": "(951)-869-5762",
   "id": {
-    "name": "SSN",
-    "value": "559-62-2630"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/74.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
   },
-  "nat": "US"
+  "nat": "TR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "فاطمه زهرا",
-    "last": "نجاتی"
+    "title": "Mr",
+    "first": "Abel",
+    "last": "Rendón"
   },
   "location": {
     "street": {
-      "number": 1714,
-      "name": "میدان 7 تیر"
+      "number": 7450,
+      "name": "Ampliación ex República Yugoslava de Macedonia"
     },
-    "city": "آبادان",
-    "state": "خراسان رضوی",
-    "country": "Iran",
-    "postcode": 42742,
+    "city": "Monte Verde (El Coyote)",
+    "state": "Jalisco",
+    "country": "Mexico",
+    "postcode": 97498,
     "coordinates": {
-      "latitude": "19.2140",
-      "longitude": "91.8626"
+      "latitude": "23.0710",
+      "longitude": "-130.9883"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "ftmhzhr.njty@example.com",
+  "email": "abel.rendon@example.com",
   "login": {
-    "uuid": "9b702a04-5d8c-46bf-94d4-7f8efb423dcd",
-    "username": "crazyladybug960",
-    "password": "starstar",
-    "salt": "ZFYyT8es",
-    "md5": "41578a03aacc6b0ab5c362a7f4a42799",
-    "sha1": "2928f68bf83bbe15064dc0f98ebea59c4b582cd2",
-    "sha256": "4965dd1e89bf2d435a5b0f098dcf7ed82cc1e48b7de4db27004837bccf5c3d35"
+    "uuid": "0bbb087f-89c9-4fb2-95f3-b18906ca4cff",
+    "username": "yellowduck721",
+    "password": "earnhard",
+    "salt": "GJWJ9RlZ",
+    "md5": "9fe59477d54b0d49d826ee5f9b4fee0c",
+    "sha1": "e26841cfd497915cf1b63b5dd8541e7464dbc351",
+    "sha256": "c5c0e52e3e7876eb863affa89bdfad00a2fc972b0089035951ee8dfcd050dbf3"
   },
   "dob": {
-    "date": "1974-09-14T01:20:27.606Z",
-    "age": 50
+    "date": "1948-04-11T15:43:32.237Z",
+    "age": 76
   },
   "registered": {
-    "date": "2020-07-24T15:46:53.923Z",
-    "age": 4
+    "date": "2012-05-15T15:03:48.734Z",
+    "age": 12
   },
-  "phone": "072-12878971",
-  "cell": "0969-253-3525",
+  "phone": "(603) 762 7998",
+  "cell": "(630) 967 1394",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NSS",
+    "value": "24 63 42 8964 3"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
   },
-  "nat": "IR"
+  "nat": "MX"
 }

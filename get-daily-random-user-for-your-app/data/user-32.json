@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Marc",
-    "last": "Lorenzo"
+    "title": "Ms",
+    "first": "Grishma",
+    "last": "Raval"
   },
   "location": {
     "street": {
-      "number": 6052,
-      "name": "Calle de Arganzuela"
+      "number": 2098,
+      "name": "S.A Rd"
     },
-    "city": "Lugo",
-    "state": "Galicia",
-    "country": "Spain",
-    "postcode": 75726,
+    "city": "Dhanbad",
+    "state": "Nagaland",
+    "country": "India",
+    "postcode": 99735,
     "coordinates": {
-      "latitude": "-31.1637",
-      "longitude": "-92.9304"
+      "latitude": "4.3487",
+      "longitude": "39.2375"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "marc.lorenzo@example.com",
+  "email": "grishma.raval@example.com",
   "login": {
-    "uuid": "b76947ab-981f-4745-bd23-af341d4b987c",
-    "username": "blackelephant670",
-    "password": "stories",
-    "salt": "LGf0Ervo",
-    "md5": "bc13a6c7551f24c9083608134ea596cb",
-    "sha1": "1fb826fd1a638c09b7c9bfcae045d274dd402335",
-    "sha256": "2491b0d4e4dfeffe42ef8b16350726b36d9ed4dcfd75a9342ccac537b7c45520"
+    "uuid": "3cef3c4b-f164-448e-b4cb-1fc006d1089d",
+    "username": "sadbutterfly950",
+    "password": "show",
+    "salt": "fyqtH5Dq",
+    "md5": "8ec0d9cd1ec9ff111684868cda6bfc3e",
+    "sha1": "fba65507e2234427d89739cee27c3bea21e931f1",
+    "sha256": "d73f1522ac8d9d8316f396704cb606e9bbed55a70df8a4fd94629ac32e829439"
   },
   "dob": {
-    "date": "1998-04-12T20:51:21.718Z",
-    "age": 26
+    "date": "1987-06-02T22:06:18.108Z",
+    "age": 37
   },
   "registered": {
-    "date": "2006-12-06T22:40:57.504Z",
-    "age": 18
+    "date": "2002-09-24T10:53:14.130Z",
+    "age": 22
   },
-  "phone": "908-275-547",
-  "cell": "632-780-573",
+  "phone": "8810558983",
+  "cell": "7301998734",
   "id": {
-    "name": "DNI",
-    "value": "29309880-L"
+    "name": "UIDAI",
+    "value": "370933402354"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    "large": "https://randomuser.me/api/portraits/women/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
   },
-  "nat": "ES"
+  "nat": "IN"
 }

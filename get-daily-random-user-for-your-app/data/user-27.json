@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Leonora",
-    "last": "Brubakken"
+    "first": "Ömür",
+    "last": "Akal"
   },
   "location": {
     "street": {
-      "number": 8161,
-      "name": "Eterveien"
+      "number": 5421,
+      "name": "Necatibey Cd"
     },
-    "city": "Rykene",
-    "state": "Sør-Trøndelag",
-    "country": "Norway",
-    "postcode": "3855",
+    "city": "Bartın",
+    "state": "Zonguldak",
+    "country": "Turkey",
+    "postcode": 84592,
     "coordinates": {
-      "latitude": "45.6623",
-      "longitude": "132.3126"
+      "latitude": "69.4615",
+      "longitude": "170.4579"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "leonora.brubakken@example.com",
+  "email": "omur.akal@example.com",
   "login": {
-    "uuid": "81aad3ac-c510-48b5-960d-9d5b0f0b9143",
-    "username": "ticklishmeercat853",
-    "password": "2005",
-    "salt": "veaFRuKy",
-    "md5": "b1d2173bfdf25dcf31a31ede6f474bf8",
-    "sha1": "123874f47be6beaba8af52cf772af0b9cf56fa1d",
-    "sha256": "627cc4b5b272a769961636c5678e3d2764578ccf21a93dabb4e06ebb35a007e4"
+    "uuid": "d07388ed-dafd-4ea9-a5f1-83e516a5d6b9",
+    "username": "bigleopard295",
+    "password": "wealth",
+    "salt": "N026OMNx",
+    "md5": "9c7115da2cad99e174be526e9b3bea51",
+    "sha1": "a65a7334c5a0173918876e2bf21e3f41ccd97f6a",
+    "sha256": "4f32d5cde46d8fa646462d71c08e4e4425040b0221cea686bcd2f57ff5e95677"
   },
   "dob": {
-    "date": "1965-10-02T19:31:51.153Z",
-    "age": 59
+    "date": "1996-12-13T22:50:05.766Z",
+    "age": 28
   },
   "registered": {
-    "date": "2016-12-30T03:06:40.788Z",
-    "age": 8
+    "date": "2009-07-16T18:23:13.602Z",
+    "age": 15
   },
-  "phone": "80760321",
-  "cell": "99424491",
+  "phone": "(463)-836-5145",
+  "cell": "(589)-883-1397",
   "id": {
-    "name": "FN",
-    "value": "02106531458"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/4.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+    "large": "https://randomuser.me/api/portraits/women/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
   },
-  "nat": "NO"
+  "nat": "TR"
 }

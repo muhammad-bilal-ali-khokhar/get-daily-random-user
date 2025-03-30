@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Sushmitha",
-    "last": "Prajapati"
+    "title": "Mr",
+    "first": "Bruno",
+    "last": "Ulloa"
   },
   "location": {
     "street": {
-      "number": 8177,
-      "name": "China Bazaar Rd"
+      "number": 9720,
+      "name": "Periférico Baja California"
     },
-    "city": "Hajipur",
-    "state": "Chandigarh",
-    "country": "India",
-    "postcode": 23067,
+    "city": "Bacerac",
+    "state": "Nayarit",
+    "country": "Mexico",
+    "postcode": 34715,
     "coordinates": {
-      "latitude": "6.6995",
-      "longitude": "90.1309"
+      "latitude": "28.8350",
+      "longitude": "-151.6940"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "sushmitha.prajapati@example.com",
+  "email": "bruno.ulloa@example.com",
   "login": {
-    "uuid": "ea19d252-230b-4fdb-b1ec-e275e5a17d4e",
-    "username": "silvertiger264",
-    "password": "tito",
-    "salt": "odR01Snh",
-    "md5": "f094ac285851b425d36fc1e7fc91a830",
-    "sha1": "85f2d228280791ae29adc23fe457d87c7fc6a40d",
-    "sha256": "0f3181e2a4535588cf722755c1c0c9bf2bf4717c6ebd08d28782a8038b7318ce"
+    "uuid": "2e8fc184-20fa-4006-9da0-f1e866d8ac8e",
+    "username": "purplebear955",
+    "password": "simpson",
+    "salt": "ib8OaaAZ",
+    "md5": "8d1cd7357192b7117bf045c635f61d9c",
+    "sha1": "0a8b357e4e7c53e2d7c45659fee66df7c2896ff5",
+    "sha256": "ae7b637ecd5a4f9f7500fb479f4db6cb7deeefde0b646e7f7c222f67c56d3ee6"
   },
   "dob": {
-    "date": "1972-01-06T05:51:04.223Z",
-    "age": 53
+    "date": "1948-10-12T10:59:20.330Z",
+    "age": 76
   },
   "registered": {
-    "date": "2009-06-02T04:58:45.926Z",
-    "age": 15
+    "date": "2021-01-19T01:29:26.955Z",
+    "age": 4
   },
-  "phone": "7614829854",
-  "cell": "7121581171",
+  "phone": "(644) 856 8586",
+  "cell": "(624) 504 3987",
   "id": {
-    "name": "UIDAI",
-    "value": "090444755986"
+    "name": "NSS",
+    "value": "86 13 57 1137 8"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+    "large": "https://randomuser.me/api/portraits/men/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
   },
-  "nat": "IN"
+  "nat": "MX"
 }

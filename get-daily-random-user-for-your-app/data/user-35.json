@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Billy",
-    "last": "Martin"
+    "title": "Miss",
+    "first": "Nellie",
+    "last": "Hagos"
   },
   "location": {
     "street": {
-      "number": 4011,
-      "name": "Elgin St"
+      "number": 3797,
+      "name": "Guldbergs vei"
     },
-    "city": "Stockton",
-    "state": "Maine",
-    "country": "United States",
-    "postcode": 66433,
+    "city": "Narvik",
+    "state": "Nord-Trøndelag",
+    "country": "Norway",
+    "postcode": "2355",
     "coordinates": {
-      "latitude": "84.1337",
-      "longitude": "-133.2800"
+      "latitude": "45.4962",
+      "longitude": "42.9637"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "billy.martin@example.com",
+  "email": "nellie.hagos@example.com",
   "login": {
-    "uuid": "18b64d5a-9b92-4dff-939d-2d97e6e28acf",
-    "username": "organicsnake228",
-    "password": "charlie",
-    "salt": "KSKiY97L",
-    "md5": "b4a63ec671fc9d0aa6c13875a6c4049e",
-    "sha1": "900177d9629f9213a3b01348418cf89af1e22ea0",
-    "sha256": "afccd4f475ddf68d53de55f7b88294f3d6cc4fbac21c03ea15c9c0968b02b802"
+    "uuid": "b4176487-6f59-4491-bdde-0b3af84ec397",
+    "username": "whitebear765",
+    "password": "studio",
+    "salt": "0wKsLgnZ",
+    "md5": "742c92e2220e89d039a937d42b1b4fd5",
+    "sha1": "91de4ee7601222d2edebb41510b583c6616c6872",
+    "sha256": "259ff4837deb2dcaef70cc5268438ab837678b335b07ca72cc99b4607919da79"
   },
   "dob": {
-    "date": "1992-05-16T10:17:32.966Z",
-    "age": 32
+    "date": "1957-01-26T00:32:13.862Z",
+    "age": 68
   },
   "registered": {
-    "date": "2014-09-22T14:15:01.301Z",
+    "date": "2015-03-29T19:05:21.325Z",
     "age": 10
   },
-  "phone": "(948) 356-7951",
-  "cell": "(207) 866-9584",
+  "phone": "63972544",
+  "cell": "98859131",
   "id": {
-    "name": "SSN",
-    "value": "759-17-3589"
+    "name": "FN",
+    "value": "26015702035"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+    "large": "https://randomuser.me/api/portraits/women/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
   },
-  "nat": "US"
+  "nat": "NO"
 }

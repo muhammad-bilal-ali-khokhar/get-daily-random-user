@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Andréa",
-    "last": "Martins"
+    "title": "Monsieur",
+    "first": "Andrea",
+    "last": "Leroy"
   },
   "location": {
     "street": {
-      "number": 4796,
-      "name": "Rua da Saudade"
+      "number": 3362,
+      "name": "Rue du Moulin"
     },
-    "city": "Rio das Ostras",
-    "state": "Pernambuco",
-    "country": "Brazil",
-    "postcode": 52738,
+    "city": "Kappelen",
+    "state": "Fribourg",
+    "country": "Switzerland",
+    "postcode": 2904,
     "coordinates": {
-      "latitude": "-78.8016",
-      "longitude": "115.7926"
+      "latitude": "-57.5842",
+      "longitude": "-163.3603"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "andrea.martins@example.com",
+  "email": "andrea.leroy@example.com",
   "login": {
-    "uuid": "18a973b9-797e-47fe-b842-1f13e1a61216",
-    "username": "blackbutterfly950",
-    "password": "door",
-    "salt": "JE6D858I",
-    "md5": "887781f232b6691e44de215780313641",
-    "sha1": "aedb20d77177f6a182c04a1824583d78fd3c579e",
-    "sha256": "4f700599fdbcf8bfda683dbae163b3b12b6231499aadb7cbe660d1f0746a2b83"
+    "uuid": "0975d64a-f9f2-4d6e-ae02-904f3f4764eb",
+    "username": "angrydog658",
+    "password": "tropical",
+    "salt": "0M8jYz3P",
+    "md5": "d997c10249dcf0138e3ed12d79f9bd32",
+    "sha1": "c3b738cf1a7226bd30fab96cc8e32aea3474da9b",
+    "sha256": "49263fc0a0d0b893f358dda760c2be1e69297cd10bf6e7743f0ec9366696bb66"
   },
   "dob": {
-    "date": "1948-07-05T11:04:56.800Z",
-    "age": 76
+    "date": "1946-10-21T20:55:52.226Z",
+    "age": 78
   },
   "registered": {
-    "date": "2006-08-30T19:49:02.016Z",
-    "age": 18
+    "date": "2007-04-19T15:36:59.924Z",
+    "age": 17
   },
-  "phone": "(06) 4111-3541",
-  "cell": "(82) 0625-6877",
+  "phone": "079 243 29 79",
+  "cell": "076 086 45 87",
   "id": {
-    "name": "CPF",
-    "value": "823.078.804-44"
+    "name": "AVS",
+    "value": "756.1433.4176.22"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/87.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "BR"
+  "nat": "CH"
 }

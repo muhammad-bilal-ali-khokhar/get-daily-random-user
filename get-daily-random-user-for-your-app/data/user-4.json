@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jai",
-    "last": "Schoofs"
+    "first": "Slavko",
+    "last": "Zelenović"
   },
   "location": {
     "street": {
-      "number": 9336,
-      "name": "Hogewaldseweg"
+      "number": 1130,
+      "name": "Lipovačka"
     },
-    "city": "Deurne",
-    "state": "Groningen",
-    "country": "Netherlands",
-    "postcode": "8714 LG",
+    "city": "Čoka",
+    "state": "Rasina",
+    "country": "Serbia",
+    "postcode": 23899,
     "coordinates": {
-      "latitude": "32.8661",
-      "longitude": "-110.7162"
+      "latitude": "61.1527",
+      "longitude": "-163.9900"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "jai.schoofs@example.com",
+  "email": "slavko.zelenovic@example.com",
   "login": {
-    "uuid": "69cec25a-7c2d-4f8a-9688-bae2ace089cb",
-    "username": "orangeleopard756",
-    "password": "greenbay",
-    "salt": "CWiZ7HNY",
-    "md5": "81ba714cc4d4a2cd6b2cf95946b79351",
-    "sha1": "f39165e5fc59ec21c51e2f5f9de60b6742fd5b2d",
-    "sha256": "07bd526d3816b2aba440ae0369d84e62344f8e96345c9c15074ceaba5935b958"
+    "uuid": "bf4163b2-4267-4566-af2a-1089a9c5f658",
+    "username": "blackmouse207",
+    "password": "visitor",
+    "salt": "qlxCvzz3",
+    "md5": "21292aef882749e73f11e87f95421157",
+    "sha1": "e679f150e8a6bf11eda71e931562b715211b6d62",
+    "sha256": "851ed773080684a4d490b0d5502b397b8536a12867aae5db9044afe878007cab"
   },
   "dob": {
-    "date": "1983-05-02T22:48:11.102Z",
-    "age": 41
+    "date": "1946-04-05T14:08:11.442Z",
+    "age": 78
   },
   "registered": {
-    "date": "2020-12-21T02:43:33.643Z",
-    "age": 4
+    "date": "2012-09-28T19:31:18.651Z",
+    "age": 12
   },
-  "phone": "(0456) 783563",
-  "cell": "(06) 91994276",
+  "phone": "035-7393-352",
+  "cell": "061-1866-013",
   "id": {
-    "name": "BSN",
-    "value": "16818318"
+    "name": "SID",
+    "value": "004318179"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "NL"
+  "nat": "RS"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Almut",
-    "last": "Gräf"
+    "title": "Mr",
+    "first": "Armandino",
+    "last": "da Paz"
   },
   "location": {
     "street": {
-      "number": 3749,
-      "name": "Feldstraße"
+      "number": 3132,
+      "name": "Rua Mato Grosso "
     },
-    "city": "Bad Windsheim",
-    "state": "Thüringen",
-    "country": "Germany",
-    "postcode": 34372,
+    "city": "Maricá",
+    "state": "Distrito Federal",
+    "country": "Brazil",
+    "postcode": 93145,
     "coordinates": {
-      "latitude": "-47.6338",
-      "longitude": "73.7883"
+      "latitude": "-74.8545",
+      "longitude": "-139.1743"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "almut.graf@example.com",
+  "email": "armandino.dapaz@example.com",
   "login": {
-    "uuid": "045a541f-4c8c-4703-a0d0-854e1fe0ef41",
-    "username": "beautifulleopard383",
-    "password": "squeak",
-    "salt": "WGWCbpOd",
-    "md5": "40b5f3c5e6e1ea33c25b6b35175cb1aa",
-    "sha1": "835acfdd54c8a6759495435447b500b17974c003",
-    "sha256": "4344940bd7001839423ab4943b728e5ed3253e48e75e1077d7ea3351fcee61c3"
+    "uuid": "24b5683e-f43c-445d-a206-3b9a47d91097",
+    "username": "angrygorilla301",
+    "password": "bigbear",
+    "salt": "7qoWpwY5",
+    "md5": "849bcf940589304e7f651663296eb237",
+    "sha1": "102b4978c49c7d84cb6fb261e8ad439a4e12ae6a",
+    "sha256": "ed437d0649c92ca71b8f37418ced8d378aa35a45f33c9f5eaede50ae5af94791"
   },
   "dob": {
-    "date": "1961-01-13T18:55:42.805Z",
-    "age": 64
+    "date": "1986-12-16T07:51:23.235Z",
+    "age": 38
   },
   "registered": {
-    "date": "2020-10-19T05:38:07.261Z",
-    "age": 4
+    "date": "2013-11-07T04:19:38.583Z",
+    "age": 11
   },
-  "phone": "0980-8920882",
-  "cell": "0170-8235569",
+  "phone": "(34) 8610-5478",
+  "cell": "(02) 0783-3181",
   "id": {
-    "name": "SVNR",
-    "value": "61 130161 G 939"
+    "name": "CPF",
+    "value": "663.398.031-45"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    "large": "https://randomuser.me/api/portraits/men/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
   },
-  "nat": "DE"
+  "nat": "BR"
 }

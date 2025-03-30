@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Marisol",
-    "last": "Benavídez"
+    "title": "Mr",
+    "first": "Kevin",
+    "last": "Jones"
   },
   "location": {
     "street": {
-      "number": 9480,
-      "name": "Pasaje Sur Velasco"
+      "number": 5687,
+      "name": "South Street"
     },
-    "city": "Estanzuela",
-    "state": "Morelos",
-    "country": "Mexico",
-    "postcode": 93679,
+    "city": "Longford",
+    "state": "Waterford",
+    "country": "Ireland",
+    "postcode": 65634,
     "coordinates": {
-      "latitude": "28.0108",
-      "longitude": "50.1660"
+      "latitude": "-1.1529",
+      "longitude": "-71.8537"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "marisol.benavidez@example.com",
+  "email": "kevin.jones@example.com",
   "login": {
-    "uuid": "b12cfa48-e317-4b3b-bb9e-3c2ee518139a",
-    "username": "tinyduck816",
-    "password": "mmmmmmm",
-    "salt": "mhERmQ8S",
-    "md5": "d8ce52e514bde66599ab17c6bfff5b51",
-    "sha1": "816e3194f7bc499d4aaa0fe69e93456349b71c0e",
-    "sha256": "5f41cf9a0e74bdd34e1ce0fd3817033c084f25c728ae2497c25847b2f21dfc42"
+    "uuid": "9789c9e9-8dcb-4d57-8c54-cb89278e0c5b",
+    "username": "goldenfish806",
+    "password": "seattle",
+    "salt": "HZWR1vEc",
+    "md5": "82e5196a7e286a65bcb7b61fa98c3fa6",
+    "sha1": "f4cc2111c8a8d9a439f3efcde335764c3db3e228",
+    "sha256": "285e151e3a0e9cca92256ac67722766254f1cc084b3f1e53a1fb481760d63384"
   },
   "dob": {
-    "date": "1952-01-25T23:37:35.759Z",
-    "age": 73
+    "date": "1987-01-07T00:28:11.770Z",
+    "age": 38
   },
   "registered": {
-    "date": "2019-11-15T03:57:42.599Z",
-    "age": 5
+    "date": "2012-11-14T01:46:45.878Z",
+    "age": 12
   },
-  "phone": "(630) 512 5644",
-  "cell": "(688) 785 1177",
+  "phone": "011-459-0737",
+  "cell": "081-626-8432",
   "id": {
-    "name": "NSS",
-    "value": "74 62 94 7996 6"
+    "name": "PPS",
+    "value": "8353994T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
   },
-  "nat": "MX"
+  "nat": "IE"
 }

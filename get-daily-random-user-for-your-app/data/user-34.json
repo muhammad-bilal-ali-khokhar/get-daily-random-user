@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Neil",
-    "last": "Reid"
+    "title": "Ms",
+    "first": "Zoe",
+    "last": "White"
   },
   "location": {
     "street": {
-      "number": 9905,
-      "name": "Wheeler Ridge Dr"
+      "number": 4165,
+      "name": "West Ave"
     },
-    "city": "Saginaw",
-    "state": "Tennessee",
-    "country": "United States",
-    "postcode": 73992,
+    "city": "Flatrock",
+    "state": "Manitoba",
+    "country": "Canada",
+    "postcode": "W5L 5N3",
     "coordinates": {
-      "latitude": "83.4759",
-      "longitude": "-172.0157"
+      "latitude": "-67.4952",
+      "longitude": "63.2754"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "neil.reid@example.com",
+  "email": "zoe.white@example.com",
   "login": {
-    "uuid": "bbbffcdb-1e66-4db6-a346-56d6c78386bd",
-    "username": "crazykoala407",
-    "password": "cheng",
-    "salt": "g6AA1Ryy",
-    "md5": "59927b07ce2d5093646cbfefa1b3b8e5",
-    "sha1": "89e65d3895df643f0ca22d575ee7cb774705e663",
-    "sha256": "3e67d655173966adc0403ba4c7f3a7df3809875d7926c78fafd085b688c5a9b1"
+    "uuid": "fff56f53-af42-4489-a081-1712402ffb33",
+    "username": "beautifulbutterfly515",
+    "password": "leroy",
+    "salt": "8qktFMPa",
+    "md5": "31c9883acb8c8522d7ac737407df1617",
+    "sha1": "b82e964427fa7bd07061116a5cb46cba78e82938",
+    "sha256": "47f151036fff07b4f36c7f3260cbf023ead9c086fe7255c7676f98003790e5c9"
   },
   "dob": {
-    "date": "1966-12-18T09:44:04.338Z",
-    "age": 58
+    "date": "1951-02-25T18:57:02.717Z",
+    "age": 74
   },
   "registered": {
-    "date": "2019-06-18T21:36:44.048Z",
-    "age": 5
+    "date": "2005-02-28T03:23:57.296Z",
+    "age": 20
   },
-  "phone": "(845) 354-7845",
-  "cell": "(277) 892-6484",
+  "phone": "A19 Y71-1095",
+  "cell": "T62 U06-9380",
   "id": {
-    "name": "SSN",
-    "value": "019-84-4419"
+    "name": "SIN",
+    "value": "254690357"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+    "large": "https://randomuser.me/api/portraits/women/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
   },
-  "nat": "US"
+  "nat": "CA"
 }

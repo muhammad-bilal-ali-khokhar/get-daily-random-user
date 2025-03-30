@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Esperanza",
-    "last": "de la Fuente"
+    "title": "Mr",
+    "first": "Đuraš",
+    "last": "Kapetanović"
   },
   "location": {
     "street": {
-      "number": 7182,
-      "name": "Diagonal Albania"
+      "number": 8900,
+      "name": "Veštih Pletilja"
     },
-    "city": "Miahuatlán",
-    "state": "Sonora",
-    "country": "Mexico",
-    "postcode": 60670,
+    "city": "Majdanpek",
+    "state": "Kosovo-Pomoravlje",
+    "country": "Serbia",
+    "postcode": 93101,
     "coordinates": {
-      "latitude": "26.5255",
-      "longitude": "93.1976"
+      "latitude": "59.9259",
+      "longitude": "-35.1003"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "esperanza.delafuente@example.com",
+  "email": "duras.kapetanovic@example.com",
   "login": {
-    "uuid": "5446b88c-90ec-4a2d-a6a1-88e7377379d9",
-    "username": "biglion603",
-    "password": "nopass",
-    "salt": "d5VOkZhz",
-    "md5": "699f4975ba390f691cf05906610874ab",
-    "sha1": "d8e807795a7ffdf3d5c284adcd3b2d1bb308856f",
-    "sha256": "f79875a14774246de19ca67ba12b38ba3c8f9ca5a247b363b9468f4fadc87975"
+    "uuid": "348ee73e-3a5e-4540-9234-d612ea49d7b6",
+    "username": "bluefish849",
+    "password": "benton",
+    "salt": "mOv3updu",
+    "md5": "11006d5237daf2c5d28ca14a3caf5dc7",
+    "sha1": "05c0c2edea8ad3716f3f7104f59751af9e6a46ce",
+    "sha256": "6197a9d0e67fd308f3c9bf184f6a4079df2b5434fcb5a774f21daf646ebe5f61"
   },
   "dob": {
-    "date": "1995-03-28T14:50:45.750Z",
-    "age": 30
+    "date": "1966-07-11T07:14:28.842Z",
+    "age": 58
   },
   "registered": {
-    "date": "2011-01-25T16:55:23.105Z",
-    "age": 14
+    "date": "2004-06-16T09:28:05.567Z",
+    "age": 20
   },
-  "phone": "(644) 145 8500",
-  "cell": "(643) 204 4371",
+  "phone": "036-2584-742",
+  "cell": "066-8720-729",
   "id": {
-    "name": "NSS",
-    "value": "37 64 78 2877 8"
+    "name": "SID",
+    "value": "717450307"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+    "large": "https://randomuser.me/api/portraits/men/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
   },
-  "nat": "MX"
+  "nat": "RS"
 }
