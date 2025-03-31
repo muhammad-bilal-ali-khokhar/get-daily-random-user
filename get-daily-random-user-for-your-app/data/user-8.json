@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Evi",
-    "last": "Böckmann"
+    "title": "Mr",
+    "first": "Herbert",
+    "last": "Kelly"
   },
   "location": {
     "street": {
-      "number": 9173,
-      "name": "Marktplatz"
+      "number": 2314,
+      "name": "New Road"
     },
-    "city": "Waldheim",
-    "state": "Baden-Württemberg",
-    "country": "Germany",
-    "postcode": 67083,
+    "city": "Cambridge",
+    "state": "Warwickshire",
+    "country": "United Kingdom",
+    "postcode": "Q9 6JG",
     "coordinates": {
-      "latitude": "-51.2118",
-      "longitude": "63.7185"
+      "latitude": "-10.4327",
+      "longitude": "-131.9380"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "evi.bockmann@example.com",
+  "email": "herbert.kelly@example.com",
   "login": {
-    "uuid": "4147e9e0-a734-49c7-87d6-22df1e581d37",
-    "username": "happydog229",
-    "password": "surgery",
-    "salt": "CnsMVBGE",
-    "md5": "9823ae1dce1e7a8ace314e83eb7ffefa",
-    "sha1": "702b2a97b79bfbc3b92096e71e09162f4e882e95",
-    "sha256": "6b7cd0b95dde2f25debcf36b9426f203adc958c9b34caa1926939f74ca940215"
+    "uuid": "67b372e1-9c9a-40ee-af26-d34e0048db23",
+    "username": "bluegorilla874",
+    "password": "welcome",
+    "salt": "KXJNb44y",
+    "md5": "cd0d817058841a2efeb5bebe2a5a13ed",
+    "sha1": "ec461fabf9f8848c696256910ad6113f696e3f25",
+    "sha256": "ab8770b7704242b26366d8d85f4c5300df0e1900c0d7c62939a5195d3b3f1cb4"
   },
   "dob": {
-    "date": "1990-11-10T21:44:12.832Z",
-    "age": 34
+    "date": "1957-07-06T21:36:09.708Z",
+    "age": 67
   },
   "registered": {
-    "date": "2021-11-11T08:21:18.798Z",
-    "age": 3
+    "date": "2007-11-21T12:44:29.294Z",
+    "age": 17
   },
-  "phone": "0835-0814250",
-  "cell": "0175-7228939",
+  "phone": "016973 23360",
+  "cell": "07436 555167",
   "id": {
-    "name": "SVNR",
-    "value": "38 101190 B 544"
+    "name": "NINO",
+    "value": "TE 53 71 78 F"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
   },
-  "nat": "DE"
+  "nat": "GB"
 }

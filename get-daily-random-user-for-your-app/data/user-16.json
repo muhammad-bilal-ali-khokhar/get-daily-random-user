@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Liam",
-    "last": "Wallace"
+    "first": "Giray",
+    "last": "Yetkiner"
   },
   "location": {
     "street": {
-      "number": 8542,
-      "name": "W 6th St"
+      "number": 851,
+      "name": "Vatan Cd"
     },
-    "city": "Shepparton",
-    "state": "South Australia",
-    "country": "Australia",
-    "postcode": 3386,
+    "city": "Erzurum",
+    "state": "Çorum",
+    "country": "Turkey",
+    "postcode": 46093,
     "coordinates": {
-      "latitude": "-88.1379",
-      "longitude": "-26.8297"
+      "latitude": "69.4599",
+      "longitude": "-54.7417"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "liam.wallace@example.com",
+  "email": "giray.yetkiner@example.com",
   "login": {
-    "uuid": "ae4ddc8d-a57b-4f14-a1a1-c18be13483cb",
-    "username": "purplebutterfly797",
-    "password": "anthony",
-    "salt": "PvBT8hs6",
-    "md5": "a88627706fc1f0751be6f346afbf4124",
-    "sha1": "4a4dd1570db1a580671b1eae1a2f0c65857c07d6",
-    "sha256": "141b35aa283af9b036a0aa677ce404e0cec4eb0a253c227bed3e2f42ae3679ea"
+    "uuid": "7db1f436-5aa7-4b61-8c6f-860f9cfde71d",
+    "username": "happywolf594",
+    "password": "sanchez",
+    "salt": "uQPDQxhW",
+    "md5": "1dd567c9fcfb1e57ff80f61e7c844903",
+    "sha1": "a2955a19c436c9f2fd6a93e72ac01f3661b087a4",
+    "sha256": "897e53bcb7cc45e6518ec38d582d4e8125214d81a08aeb5afabdb922d6a24893"
   },
   "dob": {
-    "date": "1950-03-18T04:04:21.039Z",
-    "age": 75
+    "date": "1969-03-26T14:25:23.576Z",
+    "age": 56
   },
   "registered": {
-    "date": "2013-05-01T00:21:55.123Z",
-    "age": 11
+    "date": "2002-03-30T20:10:23.484Z",
+    "age": 23
   },
-  "phone": "09-1225-2877",
-  "cell": "0459-228-849",
+  "phone": "(579)-884-1837",
+  "cell": "(568)-443-1331",
   "id": {
-    "name": "TFN",
-    "value": "553029004"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/69.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
+    "large": "https://randomuser.me/api/portraits/men/98.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
   },
-  "nat": "AU"
+  "nat": "TR"
 }

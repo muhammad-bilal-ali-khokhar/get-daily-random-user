@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Niklas",
-    "last": "Nymark"
+    "title": "Miss",
+    "first": "Nova",
+    "last": "Dyngeland"
   },
   "location": {
     "street": {
-      "number": 9311,
-      "name": "Bogerudslyngen"
+      "number": 9786,
+      "name": "Trondheimsveien"
     },
-    "city": "Østhusvik",
-    "state": "Finnmark - Finnmárku",
+    "city": "Myra",
+    "state": "Hedmark",
     "country": "Norway",
-    "postcode": "1961",
+    "postcode": "0114",
     "coordinates": {
-      "latitude": "40.7679",
-      "longitude": "-51.9112"
+      "latitude": "45.6648",
+      "longitude": "119.8268"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "niklas.nymark@example.com",
+  "email": "nova.dyngeland@example.com",
   "login": {
-    "uuid": "b90e1f42-81fa-46fc-98b5-73d62ca362ec",
-    "username": "sadfrog535",
-    "password": "lian",
-    "salt": "Ig8Qz8Ww",
-    "md5": "7baaf70e7f8cd1cb921890d19f218f8d",
-    "sha1": "cedf873836911c8cb3574475a56c7c85d2fb1655",
-    "sha256": "09220ab4f83520463d5c789bde7ad9270e02b0c6ba04b6b5f0678a781c3675c0"
+    "uuid": "c216fe84-93bd-4117-873f-b2e564f0eeac",
+    "username": "yellowpanda258",
+    "password": "capricor",
+    "salt": "oTZhgBGD",
+    "md5": "a185d581724e1504318b20b1cd1e1f80",
+    "sha1": "013f213f13163c88ee29a214796e9c091991d293",
+    "sha256": "1d661c425e47e25a14027e03ba3b953d2c624e2e92809e256f85384c42dc68db"
   },
   "dob": {
-    "date": "1958-02-07T08:58:51.479Z",
-    "age": 67
+    "date": "1995-04-19T15:35:05.751Z",
+    "age": 29
   },
   "registered": {
-    "date": "2019-09-22T19:32:56.290Z",
-    "age": 5
+    "date": "2008-08-05T08:07:26.930Z",
+    "age": 16
   },
-  "phone": "37624198",
-  "cell": "47589816",
+  "phone": "39098674",
+  "cell": "92903915",
   "id": {
     "name": "FN",
-    "value": "07025811393"
+    "value": "19049518431"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    "large": "https://randomuser.me/api/portraits/women/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
   },
   "nat": "NO"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Slavko",
-    "last": "Zelenović"
+    "first": "Ayan",
+    "last": "Heim"
   },
   "location": {
     "street": {
-      "number": 1130,
-      "name": "Lipovačka"
+      "number": 3747,
+      "name": "Holbergs plass"
     },
-    "city": "Čoka",
-    "state": "Rasina",
-    "country": "Serbia",
-    "postcode": 23899,
+    "city": "Sande",
+    "state": "Møre og Romsdal",
+    "country": "Norway",
+    "postcode": "3517",
     "coordinates": {
-      "latitude": "61.1527",
-      "longitude": "-163.9900"
+      "latitude": "45.7129",
+      "longitude": "-164.4700"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "slavko.zelenovic@example.com",
+  "email": "ayan.heim@example.com",
   "login": {
-    "uuid": "bf4163b2-4267-4566-af2a-1089a9c5f658",
-    "username": "blackmouse207",
-    "password": "visitor",
-    "salt": "qlxCvzz3",
-    "md5": "21292aef882749e73f11e87f95421157",
-    "sha1": "e679f150e8a6bf11eda71e931562b715211b6d62",
-    "sha256": "851ed773080684a4d490b0d5502b397b8536a12867aae5db9044afe878007cab"
+    "uuid": "15255a6c-b4e5-459b-ae5b-0a841238619d",
+    "username": "greenpanda115",
+    "password": "twinkle",
+    "salt": "Qt4vvLSl",
+    "md5": "bd9e8cfdba79b6c9bd167511f8caa7d6",
+    "sha1": "cde3868fa801cda52369aedcd9a907a37fd89f31",
+    "sha256": "d74988fc5fe7cdf7b0373879faee7864fa0c8ef7164560fb543da1507da15a1f"
   },
   "dob": {
-    "date": "1946-04-05T14:08:11.442Z",
-    "age": 78
+    "date": "1981-06-22T06:26:37.883Z",
+    "age": 43
   },
   "registered": {
-    "date": "2012-09-28T19:31:18.651Z",
+    "date": "2012-10-27T21:38:08.640Z",
     "age": 12
   },
-  "phone": "035-7393-352",
-  "cell": "061-1866-013",
+  "phone": "21254058",
+  "cell": "44572243",
   "id": {
-    "name": "SID",
-    "value": "004318179"
+    "name": "FN",
+    "value": "22068147127"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
   },
-  "nat": "RS"
+  "nat": "NO"
 }

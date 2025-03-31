@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Ömür",
-    "last": "Akal"
+    "title": "Ms",
+    "first": "Prisha",
+    "last": "Shetty"
   },
   "location": {
     "street": {
-      "number": 5421,
-      "name": "Necatibey Cd"
+      "number": 7898,
+      "name": "Fontainhas"
     },
-    "city": "Bartın",
-    "state": "Zonguldak",
-    "country": "Turkey",
-    "postcode": 84592,
+    "city": "Anantapuram",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postcode": 89140,
     "coordinates": {
-      "latitude": "69.4615",
-      "longitude": "170.4579"
+      "latitude": "5.0960",
+      "longitude": "23.7540"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "omur.akal@example.com",
+  "email": "prisha.shetty@example.com",
   "login": {
-    "uuid": "d07388ed-dafd-4ea9-a5f1-83e516a5d6b9",
-    "username": "bigleopard295",
-    "password": "wealth",
-    "salt": "N026OMNx",
-    "md5": "9c7115da2cad99e174be526e9b3bea51",
-    "sha1": "a65a7334c5a0173918876e2bf21e3f41ccd97f6a",
-    "sha256": "4f32d5cde46d8fa646462d71c08e4e4425040b0221cea686bcd2f57ff5e95677"
+    "uuid": "9db8c41f-ecd3-4b00-9bb7-14cdef0a41b0",
+    "username": "lazybutterfly371",
+    "password": "piano",
+    "salt": "X2lRacMU",
+    "md5": "ff6574c8984aa611d16cc08bfb270314",
+    "sha1": "e5198b2b92ab39f2e0248637f66d7572e7eeb54b",
+    "sha256": "8a76afce8f1795cbee9c6e9ef9cd0fa17326210f89b76638b9e0348d7787701c"
   },
   "dob": {
-    "date": "1996-12-13T22:50:05.766Z",
-    "age": 28
+    "date": "1990-09-08T03:50:53.496Z",
+    "age": 34
   },
   "registered": {
-    "date": "2009-07-16T18:23:13.602Z",
-    "age": 15
+    "date": "2019-07-09T19:37:08.759Z",
+    "age": 5
   },
-  "phone": "(463)-836-5145",
-  "cell": "(589)-883-1397",
+  "phone": "9062060907",
+  "cell": "7381692499",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "032289019138"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/10.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/10.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/10.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
-  "nat": "TR"
+  "nat": "IN"
 }

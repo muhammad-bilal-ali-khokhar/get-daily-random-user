@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Alianne",
-    "last": "Gulikers"
+    "title": "Mr",
+    "first": "Janko",
+    "last": "Vlahović"
   },
   "location": {
     "street": {
-      "number": 7755,
-      "name": "Fabrieksplein"
+      "number": 3560,
+      "name": "Četvrtog Jula"
     },
-    "city": "Beemster",
-    "state": "Gelderland",
-    "country": "Netherlands",
-    "postcode": "0441 EW",
+    "city": "Irig",
+    "state": "West Bačka",
+    "country": "Serbia",
+    "postcode": 23031,
     "coordinates": {
-      "latitude": "35.3494",
-      "longitude": "116.4423"
+      "latitude": "61.2405",
+      "longitude": "-129.7867"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "alianne.gulikers@example.com",
+  "email": "janko.vlahovic@example.com",
   "login": {
-    "uuid": "0498c814-dcc5-4cb9-95fd-edac79d935a6",
-    "username": "ticklishtiger841",
-    "password": "woodstoc",
-    "salt": "VWvWTLuu",
-    "md5": "5ad395cdd0953f37cb4c17b33ffb2ce3",
-    "sha1": "95a6c66ce960efc85dfba787b8c8a4032fc14a6c",
-    "sha256": "6aabe87b54e61f20b21cfc96de2611d5d50cd25b0d719751772e9db358253f86"
+    "uuid": "5e9524f2-38cf-4a43-946f-4fbb47076a2f",
+    "username": "happyzebra358",
+    "password": "deacon",
+    "salt": "nHX8Oqoe",
+    "md5": "46a00808ffa6f5ce3daebb51f560598e",
+    "sha1": "121f395d949ef2af98ee55e5203e2a68e738cc2b",
+    "sha256": "30e78780b31689fdb0332998e92872bd7532163b1cb5e2b9599984486f5427eb"
   },
   "dob": {
-    "date": "1980-07-14T13:58:44.529Z",
-    "age": 44
+    "date": "2000-11-18T15:54:55.544Z",
+    "age": 24
   },
   "registered": {
-    "date": "2018-03-19T03:09:04.832Z",
-    "age": 7
+    "date": "2016-11-18T12:40:29.522Z",
+    "age": 8
   },
-  "phone": "(058) 5236495",
-  "cell": "(06) 53615831",
+  "phone": "014-0446-192",
+  "cell": "066-2738-191",
   "id": {
-    "name": "BSN",
-    "value": "68463820"
+    "name": "SID",
+    "value": "433746185"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
   },
-  "nat": "NL"
+  "nat": "RS"
 }

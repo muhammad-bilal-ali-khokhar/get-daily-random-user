@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Maddison",
-    "last": "Morris"
+    "title": "Mr",
+    "first": "Malthe",
+    "last": "Thomsen"
   },
   "location": {
     "street": {
-      "number": 8337,
-      "name": "Hanover Street"
+      "number": 6198,
+      "name": "Nørregårdsvej"
     },
-    "city": "Hamilton",
-    "state": "Southland",
-    "country": "New Zealand",
-    "postcode": 52774,
+    "city": "Frederiksberg",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "postcode": 89958,
     "coordinates": {
-      "latitude": "53.6751",
-      "longitude": "115.2627"
+      "latitude": "-44.8720",
+      "longitude": "-59.9810"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "maddison.morris@example.com",
+  "email": "malthe.thomsen@example.com",
   "login": {
-    "uuid": "98c8d54a-770c-4c0f-8c91-599e183ae358",
-    "username": "bigfrog612",
-    "password": "matthews",
-    "salt": "EdXWb0WX",
-    "md5": "0bc6f6025568015993f990de0046be50",
-    "sha1": "2d9698a9b68d4e6ec759c5bf5f0d37a53066490c",
-    "sha256": "fb68e2d48aa3fd0acd4d480a71230f2dcba5df6fc1c96b6284be04bdf8bd7a3d"
+    "uuid": "8f99935e-1695-4478-91e6-e9cb04567e8f",
+    "username": "tinygoose927",
+    "password": "astrid",
+    "salt": "hzKtqCI1",
+    "md5": "c83cfdd7ae67986920e9d958a96d6c6a",
+    "sha1": "b11d5bc793f8c26d5f301c0ea3934cb5f4ddef96",
+    "sha256": "40cb35271058d4a32fb54f9dec88442f6bfcb834e73e2553d6b609ce083dca85"
   },
   "dob": {
-    "date": "1980-01-23T22:49:38.901Z",
-    "age": 45
+    "date": "1978-01-13T09:27:15.307Z",
+    "age": 47
   },
   "registered": {
-    "date": "2020-06-01T06:35:16.524Z",
-    "age": 4
+    "date": "2017-08-30T09:42:45.034Z",
+    "age": 7
   },
-  "phone": "(526)-823-5987",
-  "cell": "(514)-265-3409",
+  "phone": "02344959",
+  "cell": "61395713",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "130178-1228"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/6.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    "large": "https://randomuser.me/api/portraits/men/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
   },
-  "nat": "NZ"
+  "nat": "DK"
 }

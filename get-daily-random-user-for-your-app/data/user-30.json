@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Beau",
-    "last": "Thompson"
+    "first": "Tristan",
+    "last": "Barnaby"
   },
   "location": {
     "street": {
-      "number": 1718,
-      "name": "Elles Road"
+      "number": 6550,
+      "name": "Queen St"
     },
-    "city": "Hastings",
-    "state": "Marlborough",
-    "country": "New Zealand",
-    "postcode": 37636,
+    "city": "Aylmer",
+    "state": "Nunavut",
+    "country": "Canada",
+    "postcode": "P2B 0P1",
     "coordinates": {
-      "latitude": "52.0690",
-      "longitude": "-65.1775"
+      "latitude": "-67.8819",
+      "longitude": "-31.2800"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "beau.thompson@example.com",
+  "email": "tristan.barnaby@example.com",
   "login": {
-    "uuid": "2bb23564-ed2d-4c26-8816-386cb77cbc4b",
-    "username": "biggorilla322",
-    "password": "keegan",
-    "salt": "31kZYjyX",
-    "md5": "dcebc557bbfe26606405efd4d35f4ea6",
-    "sha1": "8c54f53bf881fd1a23facac019b583d327ee4d8c",
-    "sha256": "03db78b533d9e363a6d7a9bceaa291fafea4056c019cbbb49a02c00053619fd1"
+    "uuid": "e14ac09a-31f5-42bf-a303-1b71f521bc50",
+    "username": "angryduck159",
+    "password": "button",
+    "salt": "mh7wkQ96",
+    "md5": "50b83a283f75d965c69b09ef5ff8b54f",
+    "sha1": "e3f69fe18cebe27c0a76647bd9f82536f041b64b",
+    "sha256": "90c79fc19c5977d138e43000cd5e130a7cee2ed6df021142cf25ce9a75da567e"
   },
   "dob": {
-    "date": "1974-11-10T04:51:57.771Z",
-    "age": 50
+    "date": "1986-02-06T17:13:50.488Z",
+    "age": 39
   },
   "registered": {
-    "date": "2009-11-16T02:56:49.499Z",
-    "age": 15
+    "date": "2011-09-28T12:54:28.309Z",
+    "age": 13
   },
-  "phone": "(744)-777-2797",
-  "cell": "(952)-854-0104",
+  "phone": "Z31 D78-3061",
+  "cell": "N23 A85-2515",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "370098394"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
   },
-  "nat": "NZ"
+  "nat": "CA"
 }

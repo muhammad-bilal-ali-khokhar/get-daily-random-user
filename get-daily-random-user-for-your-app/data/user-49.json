@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Pacal",
-    "last": "Moraes"
+    "title": "Miss",
+    "first": "Sarah",
+    "last": "Rodriguez"
   },
   "location": {
     "street": {
-      "number": 1065,
-      "name": "Rua Dezessete "
+      "number": 733,
+      "name": "Rue Chazière"
     },
-    "city": "Olinda",
-    "state": "Espírito Santo",
-    "country": "Brazil",
-    "postcode": 96860,
+    "city": "Dijon",
+    "state": "Aube",
+    "country": "France",
+    "postcode": 90152,
     "coordinates": {
-      "latitude": "-77.7750",
-      "longitude": "-111.6589"
+      "latitude": "-19.8283",
+      "longitude": "159.1900"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "pacal.moraes@example.com",
+  "email": "sarah.rodriguez@example.com",
   "login": {
-    "uuid": "c9b1494f-3845-4461-b9f6-b7b67d05bb16",
-    "username": "yellowgoose722",
-    "password": "maxime",
-    "salt": "nHquszgC",
-    "md5": "415b88cc63e2856fc365977b996da57d",
-    "sha1": "56c296258a28ad2aa9b2ed39841ffad8814e8d9a",
-    "sha256": "281c98b748b78dd0010d1a4a8884d0c5c3788ad68f60d150108b69cc8846b66a"
+    "uuid": "ee271751-e429-42ee-b8d1-9bbb09360d01",
+    "username": "bigmeercat725",
+    "password": "spidey",
+    "salt": "rkLi66pF",
+    "md5": "b5eecd09f5f08ed88c22b0f530f48940",
+    "sha1": "92d30b8aee51d498f998cc0c677bc505df387881",
+    "sha256": "3227e4cdf821f6b485b1da25df867637915fe2ea3a33d499b1bde95ac69176bd"
   },
   "dob": {
-    "date": "1969-07-27T01:13:16.760Z",
-    "age": 55
+    "date": "1984-08-25T13:00:34.371Z",
+    "age": 40
   },
   "registered": {
-    "date": "2016-07-22T04:04:41.116Z",
-    "age": 8
+    "date": "2016-02-11T01:01:26.541Z",
+    "age": 9
   },
-  "phone": "(48) 0377-1430",
-  "cell": "(98) 5299-1853",
+  "phone": "04-23-08-00-26",
+  "cell": "06-92-95-96-17",
   "id": {
-    "name": "CPF",
-    "value": "017.474.604-89"
+    "name": "INSEE",
+    "value": "2840724106294 19"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/women/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
   },
-  "nat": "BR"
+  "nat": "FR"
 }

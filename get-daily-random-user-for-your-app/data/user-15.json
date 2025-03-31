@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Carmen",
-    "last": "Olivier"
+    "title": "Mr",
+    "first": "Ricardo",
+    "last": "Rubio"
   },
   "location": {
     "street": {
-      "number": 9053,
-      "name": "Avenue du Fort-Caire"
+      "number": 4650,
+      "name": "Avenida de América"
     },
-    "city": "Montpreveyres",
-    "state": "Zug",
-    "country": "Switzerland",
-    "postcode": 8829,
+    "city": "Burgos",
+    "state": "La Rioja",
+    "country": "Spain",
+    "postcode": 24525,
     "coordinates": {
-      "latitude": "-63.1691",
-      "longitude": "14.2439"
+      "latitude": "-37.4753",
+      "longitude": "-14.0306"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "carmen.olivier@example.com",
+  "email": "ricardo.rubio@example.com",
   "login": {
-    "uuid": "2c3de19f-77ce-494b-82b7-dfb7d0d3844f",
-    "username": "lazyswan982",
-    "password": "rambo",
-    "salt": "CX5KsSGi",
-    "md5": "626575c1165c82190ef80e35de4f5202",
-    "sha1": "caab91ac590ff85a0ccb0985f48d870037c264a9",
-    "sha256": "caba47f8e15cf340841f1ea34d7c402b836fe5a693597c82e0c3f641da86f2e9"
+    "uuid": "ddc702c2-0ca1-42b7-b80a-59a0fd66ca50",
+    "username": "angrymouse383",
+    "password": "juventus",
+    "salt": "aUPelQEp",
+    "md5": "6b502c8633b2be69ba727a7a53e76852",
+    "sha1": "1be193b58b422b5ace9eb7ff6471b2b50e5e81a2",
+    "sha256": "48a2f3514fc159b5ffde9d3c84b331b61cbf032a3f7d90ee3f4efa6f9d8db0f7"
   },
   "dob": {
-    "date": "1985-12-30T19:05:15.580Z",
-    "age": 39
+    "date": "1976-10-14T08:55:15.932Z",
+    "age": 48
   },
   "registered": {
-    "date": "2011-08-30T21:02:46.549Z",
-    "age": 13
+    "date": "2016-01-29T19:33:11.970Z",
+    "age": 9
   },
-  "phone": "076 532 90 20",
-  "cell": "075 773 16 52",
+  "phone": "998-447-630",
+  "cell": "607-452-118",
   "id": {
-    "name": "AVS",
-    "value": "756.0354.0764.19"
+    "name": "DNI",
+    "value": "07211351-Z"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "CH"
+  "nat": "ES"
 }

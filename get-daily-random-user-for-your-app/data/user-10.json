@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Emily",
-    "last": "Larsen"
+    "title": "Mr",
+    "first": "Victor",
+    "last": "Lam"
   },
   "location": {
     "street": {
-      "number": 961,
-      "name": "Niels Juels Vej"
+      "number": 5631,
+      "name": "Wellington St"
     },
-    "city": "København Ø",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 43672,
+    "city": "Elgin",
+    "state": "Nunavut",
+    "country": "Canada",
+    "postcode": "K5B 4R7",
     "coordinates": {
-      "latitude": "-43.7816",
-      "longitude": "21.5454"
+      "latitude": "-70.9702",
+      "longitude": "-51.1703"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "emily.larsen@example.com",
+  "email": "victor.lam@example.com",
   "login": {
-    "uuid": "46c21971-51ab-447c-af69-6a271bcdee7f",
-    "username": "organicgorilla673",
-    "password": "gloria",
-    "salt": "eOTtCXk0",
-    "md5": "6d86e248f95ccbc156fc0de2c007b0f3",
-    "sha1": "4935c44444ff9f04eabaeca3621b47364aab6210",
-    "sha256": "97377f184799d256431f3aa0b3ce37cf9bcfc0a7eb2f9402519873d32c25f0bc"
+    "uuid": "e7b9f493-2a3f-482a-88c7-b3d35818b366",
+    "username": "silverkoala748",
+    "password": "letmein",
+    "salt": "lOn7HiQd",
+    "md5": "0f9c7384313b1b53fa2383bcb54c71d6",
+    "sha1": "3d9c4621d89cd24b7259e0ddfffa1e4721c15f26",
+    "sha256": "4b738f2301f4516e27332f9201dd3d93007a1a64937df2683dccd32acbb3c170"
   },
   "dob": {
-    "date": "1952-09-12T15:10:54.441Z",
-    "age": 72
+    "date": "1957-02-04T01:59:24.211Z",
+    "age": 68
   },
   "registered": {
-    "date": "2011-12-24T09:40:48.490Z",
-    "age": 13
+    "date": "2019-04-29T20:13:18.140Z",
+    "age": 5
   },
-  "phone": "77899498",
-  "cell": "92895322",
+  "phone": "J50 O72-4443",
+  "cell": "V81 W42-9756",
   "id": {
-    "name": "CPR",
-    "value": "120952-1214"
+    "name": "SIN",
+    "value": "335602785"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+    "large": "https://randomuser.me/api/portraits/men/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
   },
-  "nat": "DK"
+  "nat": "CA"
 }

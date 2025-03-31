@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Stanislava",
-    "last": "Dolinskiy"
+    "title": "Miss",
+    "first": "Yanina",
+    "last": "Goryanskiy"
   },
   "location": {
     "street": {
-      "number": 9533,
-      "name": "Smerekova"
+      "number": 8022,
+      "name": "Bortnickiy provulok"
     },
-    "city": "Avdiyivka",
-    "state": "Luganska",
+    "city": "Druzhkivka",
+    "state": "Hersonska",
     "country": "Ukraine",
-    "postcode": 17669,
+    "postcode": 11727,
     "coordinates": {
-      "latitude": "77.8487",
-      "longitude": "13.8581"
+      "latitude": "78.7940",
+      "longitude": "164.7598"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "stanislava.dolinskiy@example.com",
+  "email": "yanina.goryanskiy@example.com",
   "login": {
-    "uuid": "d4a6fd07-1f32-4503-ac85-72517cb1bb17",
-    "username": "greenkoala246",
-    "password": "kristi",
-    "salt": "0piwcm5X",
-    "md5": "7c5a15db92efa198ef55b9fd563ce7d3",
-    "sha1": "b5765436182578e53099e72fecbe6d89b32ee62b",
-    "sha256": "cf512bebd72ab8cf15b97cf1797cf570ba6c8eb9f67b45bc41013ca4683ab649"
+    "uuid": "f332c14d-0e49-4c09-8c92-9f94e71286f9",
+    "username": "blackmouse959",
+    "password": "monk",
+    "salt": "4rMXbLFV",
+    "md5": "0a7c2d65bede01cf951fb52053072c39",
+    "sha1": "fb68a98bec10408072b891f7bfd03b7779691692",
+    "sha256": "1a9411b485d1364d6242e4c7714153b4e4c099b427a6cc5ccf6f3d9f0f3b30cb"
   },
   "dob": {
-    "date": "1964-09-10T13:16:34.386Z",
-    "age": 60
+    "date": "1979-12-25T01:14:26.271Z",
+    "age": 45
   },
   "registered": {
-    "date": "2003-10-07T22:43:01.185Z",
-    "age": 21
+    "date": "2007-11-04T00:53:14.692Z",
+    "age": 17
   },
-  "phone": "(098) S16-6046",
-  "cell": "(068) M08-6218",
+  "phone": "(096) C15-4950",
+  "cell": "(098) P56-9143",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
   "nat": "UA"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Latife",
-    "last": "Özbir"
+    "title": "Mr",
+    "first": "Lewis",
+    "last": "Mills"
   },
   "location": {
     "street": {
-      "number": 6470,
-      "name": "Anafartalar Cd"
+      "number": 6957,
+      "name": "Dane St"
     },
-    "city": "Samsun",
-    "state": "Muğla",
-    "country": "Turkey",
-    "postcode": 82811,
+    "city": "Houston",
+    "state": "Washington",
+    "country": "United States",
+    "postcode": 12284,
     "coordinates": {
-      "latitude": "69.8089",
-      "longitude": "80.4562"
+      "latitude": "82.1050",
+      "longitude": "-78.1673"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "latife.ozbir@example.com",
+  "email": "lewis.mills@example.com",
   "login": {
-    "uuid": "9fada1a9-ce7d-4b5f-8b46-25e80d648a05",
-    "username": "greencat435",
-    "password": "dallas",
-    "salt": "4D1Rw7rT",
-    "md5": "8ac0e2a884097fadd9f5f40307b5096b",
-    "sha1": "75b008da3f1e7ed8fc01614c06973b09ecb70db1",
-    "sha256": "5950b3ab13b22e26155505d4f4250e2e50b191a1c25522fec47c5bfd1f4a472d"
+    "uuid": "a99b26e0-052f-4f69-9d8b-8e5eeac05d7e",
+    "username": "lazypanda584",
+    "password": "skip",
+    "salt": "awj79yKw",
+    "md5": "38d81299eece35a52f2b0b35047a1900",
+    "sha1": "d40f73c691e86673eb7118b49639be630e22ed36",
+    "sha256": "ecf6fa8ea0447273e74f84ba7737c36350a03dee0fa7648e9febe71318006cb2"
   },
   "dob": {
-    "date": "1994-12-27T14:05:32.300Z",
-    "age": 30
+    "date": "1996-07-09T23:13:12.971Z",
+    "age": 28
   },
   "registered": {
-    "date": "2013-03-21T18:24:26.016Z",
-    "age": 12
+    "date": "2008-09-14T13:21:08.608Z",
+    "age": 16
   },
-  "phone": "(842)-560-3937",
-  "cell": "(951)-869-5762",
+  "phone": "(967) 238-4962",
+  "cell": "(226) 697-3002",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SSN",
+    "value": "503-26-6823"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+    "large": "https://randomuser.me/api/portraits/men/88.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
   },
-  "nat": "TR"
+  "nat": "US"
 }

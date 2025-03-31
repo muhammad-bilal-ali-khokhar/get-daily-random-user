@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Kevin",
-    "last": "Jones"
+    "first": "Kuzey",
+    "last": "Erez"
   },
   "location": {
     "street": {
-      "number": 5687,
-      "name": "South Street"
+      "number": 1363,
+      "name": "Talak Göktepe Cd"
     },
-    "city": "Longford",
-    "state": "Waterford",
-    "country": "Ireland",
-    "postcode": 65634,
+    "city": "Siirt",
+    "state": "Aksaray",
+    "country": "Turkey",
+    "postcode": 47527,
     "coordinates": {
-      "latitude": "-1.1529",
-      "longitude": "-71.8537"
+      "latitude": "72.5945",
+      "longitude": "-29.5102"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "kevin.jones@example.com",
+  "email": "kuzey.erez@example.com",
   "login": {
-    "uuid": "9789c9e9-8dcb-4d57-8c54-cb89278e0c5b",
-    "username": "goldenfish806",
-    "password": "seattle",
-    "salt": "HZWR1vEc",
-    "md5": "82e5196a7e286a65bcb7b61fa98c3fa6",
-    "sha1": "f4cc2111c8a8d9a439f3efcde335764c3db3e228",
-    "sha256": "285e151e3a0e9cca92256ac67722766254f1cc084b3f1e53a1fb481760d63384"
+    "uuid": "85b24bd6-71d2-465f-a799-b87fe7108ac9",
+    "username": "purplemeercat752",
+    "password": "italy",
+    "salt": "Cg2iyv8N",
+    "md5": "fd1d6be986de1d2f64d0ae6a1404be22",
+    "sha1": "06a5ac62ff8f15252df6b8bf0bb5bc6bd5c603b7",
+    "sha256": "3aad930e36d953d8506cc98528616c8d07ea6e6b8125b080bc171485a0743e54"
   },
   "dob": {
-    "date": "1987-01-07T00:28:11.770Z",
-    "age": 38
+    "date": "1976-01-05T04:05:17.735Z",
+    "age": 49
   },
   "registered": {
-    "date": "2012-11-14T01:46:45.878Z",
-    "age": 12
+    "date": "2011-06-14T17:46:32.227Z",
+    "age": 13
   },
-  "phone": "011-459-0737",
-  "cell": "081-626-8432",
+  "phone": "(941)-056-8637",
+  "cell": "(822)-897-6667",
   "id": {
-    "name": "PPS",
-    "value": "8353994T"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/59.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    "large": "https://randomuser.me/api/portraits/men/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
   },
-  "nat": "IE"
+  "nat": "TR"
 }

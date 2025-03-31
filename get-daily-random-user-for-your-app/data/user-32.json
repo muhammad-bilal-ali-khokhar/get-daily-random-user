@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Grishma",
-    "last": "Raval"
+    "title": "Mrs",
+    "first": "Emily",
+    "last": "Robinson"
   },
   "location": {
     "street": {
-      "number": 2098,
-      "name": "S.A Rd"
+      "number": 4197,
+      "name": "Mailer Street"
     },
-    "city": "Dhanbad",
-    "state": "Nagaland",
-    "country": "India",
-    "postcode": 99735,
+    "city": "Upper Hutt",
+    "state": "Waikato",
+    "country": "New Zealand",
+    "postcode": 20158,
     "coordinates": {
-      "latitude": "4.3487",
-      "longitude": "39.2375"
+      "latitude": "55.2387",
+      "longitude": "52.3470"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "grishma.raval@example.com",
+  "email": "emily.robinson@example.com",
   "login": {
-    "uuid": "3cef3c4b-f164-448e-b4cb-1fc006d1089d",
-    "username": "sadbutterfly950",
-    "password": "show",
-    "salt": "fyqtH5Dq",
-    "md5": "8ec0d9cd1ec9ff111684868cda6bfc3e",
-    "sha1": "fba65507e2234427d89739cee27c3bea21e931f1",
-    "sha256": "d73f1522ac8d9d8316f396704cb606e9bbed55a70df8a4fd94629ac32e829439"
+    "uuid": "4a7067dd-1121-4cb9-bfa1-4522f96c888a",
+    "username": "bigfish390",
+    "password": "office",
+    "salt": "fjeXSKU0",
+    "md5": "552323c6ee1eff6cf7be397bad942695",
+    "sha1": "3c6c9c2e206e89f5d65fb86c010136692420f53c",
+    "sha256": "74aed22b5ba00a9a4de559d4065c8613f94024aaa365d7429896d97211e0fa07"
   },
   "dob": {
-    "date": "1987-06-02T22:06:18.108Z",
-    "age": 37
+    "date": "1951-12-21T03:50:50.815Z",
+    "age": 73
   },
   "registered": {
-    "date": "2002-09-24T10:53:14.130Z",
-    "age": 22
+    "date": "2005-02-17T18:11:44.722Z",
+    "age": 20
   },
-  "phone": "8810558983",
-  "cell": "7301998734",
+  "phone": "(637)-555-6819",
+  "cell": "(022)-005-8291",
   "id": {
-    "name": "UIDAI",
-    "value": "370933402354"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+    "large": "https://randomuser.me/api/portraits/women/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
   },
-  "nat": "IN"
+  "nat": "NZ"
 }

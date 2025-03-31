@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Joona",
-    "last": "Pakkala"
+    "title": "Miss",
+    "first": "Tejaswi",
+    "last": "Moolya"
   },
   "location": {
     "street": {
-      "number": 8009,
-      "name": "Rotuaari"
+      "number": 535,
+      "name": "Vellala St"
     },
-    "city": "Heinävesi",
-    "state": "Kymenlaakso",
-    "country": "Finland",
-    "postcode": 76176,
+    "city": "Hubli–Dharwad",
+    "state": "Lakshadweep",
+    "country": "India",
+    "postcode": 65694,
     "coordinates": {
-      "latitude": "-27.1188",
-      "longitude": "-26.2852"
+      "latitude": "8.1956",
+      "longitude": "53.4087"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "joona.pakkala@example.com",
+  "email": "tejaswi.moolya@example.com",
   "login": {
-    "uuid": "6a2cb13b-4cd7-4243-bf07-33255b3c3355",
-    "username": "beautifulladybug300",
-    "password": "vanilla",
-    "salt": "rW2Eisp0",
-    "md5": "1604f7cd3203e60758a3521be015d467",
-    "sha1": "168deeec533142fbc2b3b69e85dab745d2be8af8",
-    "sha256": "2d574857d75f033b6895b193ca06f1f81854f6421fa72705b0d3e374587a4e80"
+    "uuid": "e8030f68-96ef-4713-af63-b99f1cc8eb9a",
+    "username": "bluepanda638",
+    "password": "girl",
+    "salt": "z40EfmQ7",
+    "md5": "05b91dbf2cb86d2d2b8f9b1283afa6a5",
+    "sha1": "de850fa72172a50b7a8a131011ce3dec92212630",
+    "sha256": "02d6638fa31aa9d7a00725bc21d6efdc0588f0053f3b8ebef8fe429af1bb315a"
   },
   "dob": {
-    "date": "1957-06-21T03:33:32.557Z",
-    "age": 67
+    "date": "1977-10-04T01:15:34.565Z",
+    "age": 47
   },
   "registered": {
-    "date": "2005-06-21T15:17:05.936Z",
-    "age": 19
+    "date": "2021-03-20T13:12:30.270Z",
+    "age": 4
   },
-  "phone": "04-727-223",
-  "cell": "043-019-21-66",
+  "phone": "9758766967",
+  "cell": "7479869518",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA349undefined"
+    "name": "UIDAI",
+    "value": "957484997944"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/32.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
   },
-  "nat": "FI"
+  "nat": "IN"
 }

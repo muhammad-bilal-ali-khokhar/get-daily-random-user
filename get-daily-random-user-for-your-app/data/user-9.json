@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Bertha",
-    "last": "Richards"
+    "title": "Mr",
+    "first": "Julio",
+    "last": "Ibarra"
   },
   "location": {
     "street": {
-      "number": 9503,
-      "name": "Photinia Ave"
+      "number": 6768,
+      "name": "Prolongación Sur Jimínez"
     },
-    "city": "Colorado Springs",
-    "state": "Georgia",
-    "country": "United States",
-    "postcode": 34994,
+    "city": "San Miguel Jaltepec",
+    "state": "Oaxaca",
+    "country": "Mexico",
+    "postcode": 46949,
     "coordinates": {
-      "latitude": "82.6181",
-      "longitude": "143.8860"
+      "latitude": "23.8473",
+      "longitude": "-127.9364"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "bertha.richards@example.com",
+  "email": "julio.ibarra@example.com",
   "login": {
-    "uuid": "1c8df933-4424-464a-864e-0941932a75a6",
-    "username": "whitebird609",
-    "password": "davis",
-    "salt": "sirzpPVz",
-    "md5": "1bf207c5df0bd9ef7c51307dd607997a",
-    "sha1": "c01660a83412671e8064731491875281608e4d73",
-    "sha256": "96a92fc18b6d975816737c841556f393e61f83175edfe80966fc763859d64627"
+    "uuid": "969aeb96-6240-43ea-861f-6e057215df3f",
+    "username": "beautifulzebra450",
+    "password": "happy2",
+    "salt": "xjrbm4Oa",
+    "md5": "d6772fc6d64aeee59cd46b3d7b71812b",
+    "sha1": "980a2e51882f3b65d08fa58eb798a4b92495fb68",
+    "sha256": "e9a154cdbfe59ed75f85a111f10e63d6b0a90ca673594f542928d645dd4b48a0"
   },
   "dob": {
-    "date": "1960-12-06T20:35:09.371Z",
-    "age": 64
+    "date": "1996-07-25T06:55:08.132Z",
+    "age": 28
   },
   "registered": {
-    "date": "2003-10-21T11:26:38.064Z",
-    "age": 21
+    "date": "2002-04-02T07:20:29.063Z",
+    "age": 22
   },
-  "phone": "(316) 536-4973",
-  "cell": "(424) 290-3709",
+  "phone": "(641) 138 9292",
+  "cell": "(610) 953 6458",
   "id": {
-    "name": "SSN",
-    "value": "570-52-5003"
+    "name": "NSS",
+    "value": "89 44 94 2781 6"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/55.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
   },
-  "nat": "US"
+  "nat": "MX"
 }

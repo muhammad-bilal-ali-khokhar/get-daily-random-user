@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Özsu",
-    "last": "Demirbaş"
+    "title": "Mr",
+    "first": "Mindert",
+    "last": "Prinse"
   },
   "location": {
     "street": {
-      "number": 3724,
-      "name": "Talak Göktepe Cd"
+      "number": 2212,
+      "name": "A H Blaauwstraat"
     },
-    "city": "Adana",
-    "state": "Manisa",
-    "country": "Turkey",
-    "postcode": 47916,
+    "city": "Sinderen",
+    "state": "Noord-Brabant",
+    "country": "Netherlands",
+    "postcode": "4498 BD",
     "coordinates": {
-      "latitude": "67.2412",
-      "longitude": "107.6277"
+      "latitude": "30.7604",
+      "longitude": "-90.0297"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "ozsu.demirbas@example.com",
+  "email": "mindert.prinse@example.com",
   "login": {
-    "uuid": "d4fa5408-6297-47bd-8e1a-250469729df7",
-    "username": "purplecat421",
-    "password": "avalanch",
-    "salt": "lKCDTYc3",
-    "md5": "68ae20189fb10303adf62735a0285391",
-    "sha1": "70161d227700b2189ea9b3fc41327ba9d56c932b",
-    "sha256": "bce60e85f10186134f36c8ff5bccf29237b13ff679f13a4d1f995fb4c0f2930b"
+    "uuid": "a8530c86-2204-4167-978e-459e438e6110",
+    "username": "lazytiger378",
+    "password": "jared",
+    "salt": "iiaseyCw",
+    "md5": "39782e97e287e67a67863d9c1db807e0",
+    "sha1": "87a9ad26af80a365d7e9af5e002820da954da1fe",
+    "sha256": "afca6aa9df500fc380749b10c8fdc5338fdb86476ef11a9c8b3de4f85bca5a38"
   },
   "dob": {
-    "date": "1944-09-20T20:08:36.715Z",
-    "age": 80
+    "date": "1965-11-05T12:18:16.675Z",
+    "age": 59
   },
   "registered": {
-    "date": "2007-08-26T22:09:04.957Z",
-    "age": 17
+    "date": "2013-10-06T04:41:35.172Z",
+    "age": 11
   },
-  "phone": "(541)-689-4274",
-  "cell": "(610)-730-4018",
+  "phone": "(022) 5940001",
+  "cell": "(06) 80279613",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "38422936"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
   },
-  "nat": "TR"
+  "nat": "NL"
 }

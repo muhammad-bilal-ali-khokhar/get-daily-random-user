@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Armandino",
-    "last": "da Paz"
+    "first": "Caleb",
+    "last": "Moore"
   },
   "location": {
     "street": {
-      "number": 3132,
-      "name": "Rua Mato Grosso "
+      "number": 3675,
+      "name": "Spey Street"
     },
-    "city": "Maricá",
-    "state": "Distrito Federal",
-    "country": "Brazil",
-    "postcode": 93145,
+    "city": "Taupo",
+    "state": "Waikato",
+    "country": "New Zealand",
+    "postcode": 24633,
     "coordinates": {
-      "latitude": "-74.8545",
-      "longitude": "-139.1743"
+      "latitude": "53.4340",
+      "longitude": "-171.7731"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "armandino.dapaz@example.com",
+  "email": "caleb.moore@example.com",
   "login": {
-    "uuid": "24b5683e-f43c-445d-a206-3b9a47d91097",
-    "username": "angrygorilla301",
-    "password": "bigbear",
-    "salt": "7qoWpwY5",
-    "md5": "849bcf940589304e7f651663296eb237",
-    "sha1": "102b4978c49c7d84cb6fb261e8ad439a4e12ae6a",
-    "sha256": "ed437d0649c92ca71b8f37418ced8d378aa35a45f33c9f5eaede50ae5af94791"
+    "uuid": "28c5cbd2-ba01-4e08-8cc3-8ff12a5572a5",
+    "username": "smallduck565",
+    "password": "rightnow",
+    "salt": "RNce3bII",
+    "md5": "081038091a5e1dd4b65a2d3b6d054fdf",
+    "sha1": "346889a0460439bae2c31fcfd0847eb62ab2eeec",
+    "sha256": "727e8a636cca07e2f8be4b1c308b1dc8063fadc972386b81d5e07a5f3c3caa62"
   },
   "dob": {
-    "date": "1986-12-16T07:51:23.235Z",
-    "age": 38
+    "date": "1999-05-22T23:07:28.149Z",
+    "age": 25
   },
   "registered": {
-    "date": "2013-11-07T04:19:38.583Z",
-    "age": 11
+    "date": "2021-07-01T08:59:18.638Z",
+    "age": 3
   },
-  "phone": "(34) 8610-5478",
-  "cell": "(02) 0783-3181",
+  "phone": "(163)-341-6331",
+  "cell": "(378)-414-9194",
   "id": {
-    "name": "CPF",
-    "value": "663.398.031-45"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
   },
-  "nat": "BR"
+  "nat": "NZ"
 }

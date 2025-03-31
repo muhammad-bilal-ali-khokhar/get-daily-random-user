@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Zoe",
-    "last": "White"
+    "first": "Esma",
+    "last": "Arslanoğlu"
   },
   "location": {
     "street": {
-      "number": 4165,
-      "name": "West Ave"
+      "number": 8716,
+      "name": "Filistin Cd"
     },
-    "city": "Flatrock",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "W5L 5N3",
+    "city": "Burdur",
+    "state": "İstanbul",
+    "country": "Turkey",
+    "postcode": 61163,
     "coordinates": {
-      "latitude": "-67.4952",
-      "longitude": "63.2754"
+      "latitude": "65.5559",
+      "longitude": "76.4724"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "zoe.white@example.com",
+  "email": "esma.arslanoglu@example.com",
   "login": {
-    "uuid": "fff56f53-af42-4489-a081-1712402ffb33",
-    "username": "beautifulbutterfly515",
-    "password": "leroy",
-    "salt": "8qktFMPa",
-    "md5": "31c9883acb8c8522d7ac737407df1617",
-    "sha1": "b82e964427fa7bd07061116a5cb46cba78e82938",
-    "sha256": "47f151036fff07b4f36c7f3260cbf023ead9c086fe7255c7676f98003790e5c9"
+    "uuid": "51e7d926-9d32-4762-991b-a74b3ebd502d",
+    "username": "sadmouse541",
+    "password": "babydoll",
+    "salt": "1ojExivJ",
+    "md5": "9db21d1f5c82030a3f8744c29685f1c1",
+    "sha1": "246627f381e88492d0d91b8ead6365dbfe04177d",
+    "sha256": "2214c825a971a4be9a4151fd4aa626c19c1bf5fb8e312edb4fd48b944e2d84a4"
   },
   "dob": {
-    "date": "1951-02-25T18:57:02.717Z",
-    "age": 74
+    "date": "1959-11-25T00:42:20.182Z",
+    "age": 65
   },
   "registered": {
-    "date": "2005-02-28T03:23:57.296Z",
-    "age": 20
+    "date": "2017-03-06T22:05:41.164Z",
+    "age": 8
   },
-  "phone": "A19 Y71-1095",
-  "cell": "T62 U06-9380",
+  "phone": "(878)-301-8358",
+  "cell": "(968)-555-4827",
   "id": {
-    "name": "SIN",
-    "value": "254690357"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/28.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+    "large": "https://randomuser.me/api/portraits/women/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
   },
-  "nat": "CA"
+  "nat": "TR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Maëly",
-    "last": "Picard"
+    "title": "Mr",
+    "first": "Zhivosil",
+    "last": "Kirilyuk"
   },
   "location": {
     "street": {
-      "number": 6771,
-      "name": "Rue Baraban"
+      "number": 4061,
+      "name": "Vitryaniy provulok"
     },
-    "city": "Nice",
-    "state": "Tarn",
-    "country": "France",
-    "postcode": 24449,
+    "city": "Pidgorodne",
+    "state": "Harkivska",
+    "country": "Ukraine",
+    "postcode": 72827,
     "coordinates": {
-      "latitude": "-21.0354",
-      "longitude": "57.0091"
+      "latitude": "80.2315",
+      "longitude": "-127.9997"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "maely.picard@example.com",
+  "email": "zhivosil.kirilyuk@example.com",
   "login": {
-    "uuid": "cd6aa69e-22d1-4ef3-a294-6f63a95a8c53",
-    "username": "crazykoala984",
-    "password": "marijuan",
-    "salt": "jZg38myj",
-    "md5": "840bbd0bc78374266db4ec59c517a1c2",
-    "sha1": "470790966e96c7e764d0fdb18385f0bcfed3d955",
-    "sha256": "06b26317d0ac5620d5f1dd6344407e6155c857333498cb60285be617cbb50b01"
+    "uuid": "66762acb-955d-4074-80fe-d1c649b43732",
+    "username": "yellowwolf848",
+    "password": "223344",
+    "salt": "Kuv2dEtb",
+    "md5": "eceefa3e9fa4f9c504021236e6d8ac69",
+    "sha1": "b29c83c31721237d276bccb6772af4b425324090",
+    "sha256": "c91ab544944b6d8e0073d782e5514c6ac50bd69e93347ea35db1d6017b847849"
   },
   "dob": {
-    "date": "1965-12-11T11:28:19.044Z",
-    "age": 59
+    "date": "1950-12-20T16:52:45.324Z",
+    "age": 74
   },
   "registered": {
-    "date": "2006-01-10T09:44:00.612Z",
-    "age": 19
+    "date": "2017-12-23T21:40:26.925Z",
+    "age": 7
   },
-  "phone": "03-36-57-32-56",
-  "cell": "06-96-21-60-92",
+  "phone": "(067) P72-1421",
+  "cell": "(097) P14-7132",
   "id": {
-    "name": "INSEE",
-    "value": "2651151415688 30"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "FR"
+  "nat": "UA"
 }

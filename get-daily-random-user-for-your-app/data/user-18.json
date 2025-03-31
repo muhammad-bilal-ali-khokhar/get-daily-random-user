@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Monsieur",
-    "first": "Nenad",
-    "last": "Morin"
+    "title": "Ms",
+    "first": "Juliette",
+    "last": "Denys"
   },
   "location": {
     "street": {
-      "number": 468,
-      "name": "Rue du Bât-D'Argent"
+      "number": 9448,
+      "name": "St. Lawrence Ave"
     },
-    "city": "Engelberg",
-    "state": "Thurgau",
-    "country": "Switzerland",
-    "postcode": 6242,
+    "city": "Cochrane",
+    "state": "Nova Scotia",
+    "country": "Canada",
+    "postcode": "F6L 8C2",
     "coordinates": {
-      "latitude": "-59.4443",
-      "longitude": "-104.6211"
+      "latitude": "-67.3241",
+      "longitude": "6.6625"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "nenad.morin@example.com",
+  "email": "juliette.denys@example.com",
   "login": {
-    "uuid": "bb30c4c8-0cb3-4745-98d2-ba2f96cd7e40",
-    "username": "ticklishcat739",
-    "password": "kurt",
-    "salt": "dXTlDrwL",
-    "md5": "b5ef354795560bc5f42d9dcb2231ef7e",
-    "sha1": "49273ff93c78c2e43dc46f43a824d663843bb2a0",
-    "sha256": "694bee4f7b4b58859adeffab7c9ef5a613777fd099ee4ce3eebc8acbfe11cb99"
+    "uuid": "94d8fd37-2995-4c45-9a6d-da8d46e2bff3",
+    "username": "smallswan683",
+    "password": "grandam",
+    "salt": "KKwXqveO",
+    "md5": "829fbca006579043be0a6e6f3d4ddd84",
+    "sha1": "d1f1b270bf64475056b70b93201634f61d656fc7",
+    "sha256": "18c7975e63ca33a953bd53874ad257f5bc303b5aad6b117ec52ff72488409d08"
   },
   "dob": {
-    "date": "1981-06-19T07:17:26.552Z",
-    "age": 43
+    "date": "1974-01-08T18:53:15.290Z",
+    "age": 51
   },
   "registered": {
-    "date": "2005-03-11T07:47:45.404Z",
-    "age": 20
+    "date": "2019-06-02T00:13:06.195Z",
+    "age": 5
   },
-  "phone": "077 784 92 02",
-  "cell": "078 042 23 90",
+  "phone": "K91 S99-2004",
+  "cell": "C83 I45-1255",
   "id": {
-    "name": "AVS",
-    "value": "756.9210.5439.40"
+    "name": "SIN",
+    "value": "642471494"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/99.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+    "large": "https://randomuser.me/api/portraits/women/24.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
   },
-  "nat": "CH"
+  "nat": "CA"
 }

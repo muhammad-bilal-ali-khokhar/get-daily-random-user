@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Hermine",
-    "last": "Mittelstädt"
+    "title": "Mr",
+    "first": "Adam",
+    "last": "Huus"
   },
   "location": {
     "street": {
-      "number": 301,
-      "name": "Finkenweg"
+      "number": 6444,
+      "name": "Sognsvannsveien"
     },
-    "city": "Oberspreewald-Lausitz",
-    "state": "Hamburg",
-    "country": "Germany",
-    "postcode": 23538,
+    "city": "Helgeroa",
+    "state": "Telemark",
+    "country": "Norway",
+    "postcode": "6887",
     "coordinates": {
-      "latitude": "-47.4286",
-      "longitude": "141.7364"
+      "latitude": "43.4444",
+      "longitude": "-86.2981"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "hermine.mittelstadt@example.com",
+  "email": "adam.huus@example.com",
   "login": {
-    "uuid": "69ad04a5-268b-49e0-b7de-db16e19cd26c",
-    "username": "tinysnake734",
-    "password": "song",
-    "salt": "yFTL3b9D",
-    "md5": "31572159fc6646c48ae77db7745a00dc",
-    "sha1": "502feb3cabee9c8664386833e17be9a71a513275",
-    "sha256": "bd5fcfa73a9a526c826f7036e16b81acf5b2f4326438d7fb82370d7bc6b8a17c"
+    "uuid": "056ac4c2-fe64-4913-9749-869e0c3019df",
+    "username": "brownmeercat598",
+    "password": "jasmine",
+    "salt": "85ysKemL",
+    "md5": "8d9efda9660bd7ba1c377411acff298a",
+    "sha1": "499f7dd0e90c069769ea58827e60a0944edf70d1",
+    "sha256": "1122bc18e787685592bc2a6e8eb562075919d8ffd486f4e5fdb2de528057ee68"
   },
   "dob": {
-    "date": "1951-08-11T09:43:36.450Z",
-    "age": 73
+    "date": "1967-04-06T16:36:59.155Z",
+    "age": 57
   },
   "registered": {
-    "date": "2010-04-11T06:48:32.990Z",
-    "age": 14
+    "date": "2014-02-28T17:52:01.593Z",
+    "age": 11
   },
-  "phone": "0067-8147370",
-  "cell": "0175-1835743",
+  "phone": "27201589",
+  "cell": "41965216",
   "id": {
-    "name": "SVNR",
-    "value": "23 110851 M 853"
+    "name": "FN",
+    "value": "06046742395"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/84.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
   },
-  "nat": "DE"
+  "nat": "NO"
 }

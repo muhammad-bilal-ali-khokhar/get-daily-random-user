@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mathys",
-    "last": "Simon"
+    "first": "Ethan",
+    "last": "Lévesque"
   },
   "location": {
     "street": {
-      "number": 1747,
-      "name": "Rue Cyrus-Hugues"
+      "number": 2839,
+      "name": "Pierre Ave"
     },
-    "city": "Asnières-sur-Seine",
-    "state": "Gers",
-    "country": "France",
-    "postcode": 11365,
+    "city": "Aylmer",
+    "state": "British Columbia",
+    "country": "Canada",
+    "postcode": "Z1L 3M1",
     "coordinates": {
-      "latitude": "-14.2555",
-      "longitude": "-14.9674"
+      "latitude": "-69.1884",
+      "longitude": "-1.2864"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "mathys.simon@example.com",
+  "email": "ethan.levesque@example.com",
   "login": {
-    "uuid": "af127150-04cf-4aba-9da0-f7e7af93c4b6",
-    "username": "redbear962",
-    "password": "southpar",
-    "salt": "csX9OROt",
-    "md5": "776b6bb9748468640010f5e0d4bbc437",
-    "sha1": "cbf8bb904dc6e402a59405de91dfc3e0cb1b39bf",
-    "sha256": "64335eb831969cc1eb7f2e3a11129d5ac07dedd886acd1b95953cc19f819a48b"
+    "uuid": "59a4b011-f228-49df-8239-ae893e5bc48a",
+    "username": "brownlion716",
+    "password": "bond",
+    "salt": "7lkFI19q",
+    "md5": "b3c63a36c541a02655a07ea77ab0eaea",
+    "sha1": "c274202e6091dcc7b1f4c837bdeaf1a7c0f2e205",
+    "sha256": "b553a36be2a9172753165ef1e1beee7ad7944e4b35c4c599b205cc9d47864e1f"
   },
   "dob": {
-    "date": "1971-12-30T16:00:01.200Z",
-    "age": 53
+    "date": "1997-03-02T02:20:04.516Z",
+    "age": 28
   },
   "registered": {
-    "date": "2020-02-18T00:23:43.643Z",
-    "age": 5
+    "date": "2012-06-22T16:04:08.472Z",
+    "age": 12
   },
-  "phone": "04-96-17-26-48",
-  "cell": "06-55-71-87-83",
+  "phone": "G93 S73-5679",
+  "cell": "P42 G61-2206",
   "id": {
-    "name": "INSEE",
-    "value": "1711107022368 86"
+    "name": "SIN",
+    "value": "083071142"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/45.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
   },
-  "nat": "FR"
+  "nat": "CA"
 }

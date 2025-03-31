@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Isidora",
-    "last": "Veselovskiy"
+    "title": "Mr",
+    "first": "Erin",
+    "last": "Veldhoen"
   },
   "location": {
     "street": {
-      "number": 206,
-      "name": "Nizhnoklyuchova"
+      "number": 6449,
+      "name": "De Noordwalhof"
     },
-    "city": "Svatove",
-    "state": "Cherkaska",
-    "country": "Ukraine",
-    "postcode": 60977,
+    "city": "Gersloot",
+    "state": "Drenthe",
+    "country": "Netherlands",
+    "postcode": "3620 AG",
     "coordinates": {
-      "latitude": "76.0151",
-      "longitude": "139.1770"
+      "latitude": "33.6980",
+      "longitude": "-24.8395"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "isidora.veselovskiy@example.com",
+  "email": "erin.veldhoen@example.com",
   "login": {
-    "uuid": "52a509cf-99d5-4a06-926c-7c0a3ce37c1e",
-    "username": "silverladybug793",
-    "password": "hannah",
-    "salt": "K3uQbxMi",
-    "md5": "286b19e9e8b61f0ee815a6f088366776",
-    "sha1": "8c6436eb5c42d77f7ce9e3820daeb8dddf03a5fc",
-    "sha256": "155bd27a1a28ad68698b0a7805df928148a0f43ec7bdf3faa167e56f8ca8f587"
+    "uuid": "4e6a5400-6107-4ef2-8592-9e5036ab6d27",
+    "username": "purpledog609",
+    "password": "fdsa",
+    "salt": "zfaB48lr",
+    "md5": "e62a7932cc39fd52a9dc059deaeff4e0",
+    "sha1": "7cf1554b6e7be14329eff6e166e1a89130cdb561",
+    "sha256": "30ddc5fbf44dc087b507836855c5b1c2d796631d455ff40fd7171cdef69215d6"
   },
   "dob": {
-    "date": "1947-02-16T10:55:52.267Z",
-    "age": 78
+    "date": "1996-09-12T06:08:00.809Z",
+    "age": 28
   },
   "registered": {
-    "date": "2015-12-09T18:06:19.472Z",
-    "age": 9
+    "date": "2009-08-17T10:51:54.421Z",
+    "age": 15
   },
-  "phone": "(098) Y24-7086",
-  "cell": "(068) C81-0267",
+  "phone": "(0404) 610921",
+  "cell": "(06) 56039858",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "88454594"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "UA"
+  "nat": "NL"
 }

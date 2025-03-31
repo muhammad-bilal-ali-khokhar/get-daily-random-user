@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Fatma",
-    "last": "Düşenkalkar"
+    "first": "Malak",
+    "last": "Vist"
   },
   "location": {
     "street": {
-      "number": 9642,
-      "name": "Bağdat Cd"
+      "number": 8966,
+      "name": "Sars' gate"
     },
-    "city": "Manisa",
-    "state": "Muğla",
-    "country": "Turkey",
-    "postcode": 56259,
+    "city": "Moldekleiv",
+    "state": "Rogaland",
+    "country": "Norway",
+    "postcode": "5179",
     "coordinates": {
-      "latitude": "67.1476",
-      "longitude": "57.9469"
+      "latitude": "45.3532",
+      "longitude": "49.5601"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "fatma.dusenkalkar@example.com",
+  "email": "malak.vist@example.com",
   "login": {
-    "uuid": "65f7fd89-849d-4fa7-9b3e-7617d1ae3c41",
-    "username": "tinyladybug474",
-    "password": "cancel",
-    "salt": "sLZ8QDZR",
-    "md5": "1a61298f7e8c96840f196e5e374a7c2d",
-    "sha1": "6f274e5f13d2c85cf44cbe8df2afc8eb8001c2e7",
-    "sha256": "2019bb74423e2467819a999e7f7888ddac1d8a1a98d0447a3110f2e8f0b9e109"
+    "uuid": "9eb9eb8a-d2f7-4574-b9c3-0fb853d53b9d",
+    "username": "bluebear969",
+    "password": "scoobydo",
+    "salt": "i9BuBrnK",
+    "md5": "9a00fc2645ee08cf69f8e3ee2e88e687",
+    "sha1": "2fdb20b20c5794baa4d7f855f2b6aedd509a6067",
+    "sha256": "b793a3b7115b8c2ae5e67b69cea44c99391d47fcf416948749c787b6272bf9bb"
   },
   "dob": {
-    "date": "1950-06-02T04:57:31.980Z",
-    "age": 74
+    "date": "1986-12-26T08:55:29.828Z",
+    "age": 38
   },
   "registered": {
-    "date": "2011-10-09T13:53:22.271Z",
-    "age": 13
+    "date": "2012-06-01T14:15:30.445Z",
+    "age": 12
   },
-  "phone": "(069)-272-0166",
-  "cell": "(607)-667-8799",
+  "phone": "38327687",
+  "cell": "99521509",
   "id": {
-    "name": "",
-    "value": null
+    "name": "FN",
+    "value": "26128602894"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+    "large": "https://randomuser.me/api/portraits/women/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
   },
-  "nat": "TR"
+  "nat": "NO"
 }

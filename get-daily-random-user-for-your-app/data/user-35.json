@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Nellie",
-    "last": "Hagos"
+    "title": "Ms",
+    "first": "Molly",
+    "last": "Williams"
   },
   "location": {
     "street": {
-      "number": 3797,
-      "name": "Guldbergs vei"
+      "number": 3570,
+      "name": "Maunganui Road"
     },
-    "city": "Narvik",
-    "state": "Nord-Trøndelag",
-    "country": "Norway",
-    "postcode": "2355",
+    "city": "Hastings",
+    "state": "Gisborne",
+    "country": "New Zealand",
+    "postcode": 31781,
     "coordinates": {
-      "latitude": "45.4962",
-      "longitude": "42.9637"
+      "latitude": "49.8811",
+      "longitude": "148.9554"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "nellie.hagos@example.com",
+  "email": "molly.williams@example.com",
   "login": {
-    "uuid": "b4176487-6f59-4491-bdde-0b3af84ec397",
-    "username": "whitebear765",
-    "password": "studio",
-    "salt": "0wKsLgnZ",
-    "md5": "742c92e2220e89d039a937d42b1b4fd5",
-    "sha1": "91de4ee7601222d2edebb41510b583c6616c6872",
-    "sha256": "259ff4837deb2dcaef70cc5268438ab837678b335b07ca72cc99b4607919da79"
+    "uuid": "befa5853-3a2f-49c1-86cc-bcc24405264a",
+    "username": "smallpanda794",
+    "password": "scorpion",
+    "salt": "Nj0JWesA",
+    "md5": "1d5fe776e2cc2b5672f874239663c0be",
+    "sha1": "c98ac52c2ed1411698bee467be9000d3688a88b6",
+    "sha256": "2b7244f74ac4bb78abb77db05b63e50b24c686bf8992389cce48b464c2d16d23"
   },
   "dob": {
-    "date": "1957-01-26T00:32:13.862Z",
-    "age": 68
+    "date": "1989-04-21T01:18:22.499Z",
+    "age": 35
   },
   "registered": {
-    "date": "2015-03-29T19:05:21.325Z",
-    "age": 10
+    "date": "2005-12-23T09:53:42.658Z",
+    "age": 19
   },
-  "phone": "63972544",
-  "cell": "98859131",
+  "phone": "(203)-143-6986",
+  "cell": "(308)-192-4490",
   "id": {
-    "name": "FN",
-    "value": "26015702035"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+    "large": "https://randomuser.me/api/portraits/women/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
   },
-  "nat": "NO"
+  "nat": "NZ"
 }

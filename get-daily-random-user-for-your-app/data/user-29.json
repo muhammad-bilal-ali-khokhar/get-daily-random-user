@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Guillermina",
-    "last": "Murillo"
+    "title": "Mr",
+    "first": "Otto",
+    "last": "Puro"
   },
   "location": {
     "street": {
-      "number": 1242,
-      "name": "Continuación Mares"
+      "number": 6148,
+      "name": "Aleksanterinkatu"
     },
-    "city": "El Cocuite",
-    "state": "Ciudad de Mexico",
-    "country": "Mexico",
-    "postcode": 70373,
+    "city": "Enonkoski",
+    "state": "Kymenlaakso",
+    "country": "Finland",
+    "postcode": 92137,
     "coordinates": {
-      "latitude": "23.8577",
-      "longitude": "24.3787"
+      "latitude": "-29.5026",
+      "longitude": "-27.5555"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "guillermina.murillo@example.com",
+  "email": "otto.puro@example.com",
   "login": {
-    "uuid": "69481743-a43c-4206-ad87-aa2ed858e55b",
-    "username": "heavyostrich666",
-    "password": "lamont",
-    "salt": "soWicBOZ",
-    "md5": "741dc766667446e2427dc51878b965d6",
-    "sha1": "97bb15de2745c7dcc41b697c2c87e2be02ef9973",
-    "sha256": "f3ce2b1dbadd12a193095d5fcaea298c7e6789372637b4ec2b57398948ac6ae9"
+    "uuid": "bb59004e-933e-4813-bf68-3a55d1511c16",
+    "username": "greenleopard323",
+    "password": "written",
+    "salt": "Lom5FflR",
+    "md5": "7ac0cd5b1ed7cf2ef236c9c443d358a3",
+    "sha1": "f27cd9e458d8bb604dd2f49ded3b56caba2fbd2e",
+    "sha256": "f221045e651079cfc35f30669fa4252636847ae35854445397d23e8fbc5acab9"
   },
   "dob": {
-    "date": "1954-02-10T21:23:49.064Z",
-    "age": 71
+    "date": "1983-04-07T16:41:01.597Z",
+    "age": 41
   },
   "registered": {
-    "date": "2020-10-19T11:58:57.224Z",
-    "age": 4
+    "date": "2008-12-26T07:25:52.287Z",
+    "age": 16
   },
-  "phone": "(653) 593 3713",
-  "cell": "(622) 791 4489",
+  "phone": "08-130-081",
+  "cell": "044-722-51-02",
   "id": {
-    "name": "NSS",
-    "value": "67 23 20 2004 5"
+    "name": "HETU",
+    "value": "NaNNA271undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
   },
-  "nat": "MX"
+  "nat": "FI"
 }

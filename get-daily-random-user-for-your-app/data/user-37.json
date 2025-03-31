@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Bruno",
-    "last": "Ulloa"
+    "first": "Héctor",
+    "last": "Rubio"
   },
   "location": {
     "street": {
-      "number": 9720,
-      "name": "Periférico Baja California"
+      "number": 9482,
+      "name": "Calle de La Luna"
     },
-    "city": "Bacerac",
-    "state": "Nayarit",
-    "country": "Mexico",
-    "postcode": 34715,
+    "city": "Burgos",
+    "state": "Comunidad Valenciana",
+    "country": "Spain",
+    "postcode": 82095,
     "coordinates": {
-      "latitude": "28.8350",
-      "longitude": "-151.6940"
+      "latitude": "-37.9823",
+      "longitude": "-75.1496"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "bruno.ulloa@example.com",
+  "email": "hector.rubio@example.com",
   "login": {
-    "uuid": "2e8fc184-20fa-4006-9da0-f1e866d8ac8e",
-    "username": "purplebear955",
-    "password": "simpson",
-    "salt": "ib8OaaAZ",
-    "md5": "8d1cd7357192b7117bf045c635f61d9c",
-    "sha1": "0a8b357e4e7c53e2d7c45659fee66df7c2896ff5",
-    "sha256": "ae7b637ecd5a4f9f7500fb479f4db6cb7deeefde0b646e7f7c222f67c56d3ee6"
+    "uuid": "7d4f828c-e35b-41bd-be1e-84290ae9a408",
+    "username": "beautifulwolf574",
+    "password": "uuuuu",
+    "salt": "3pvQgSZR",
+    "md5": "525bc4d4b5ca177fd588a7c898b82991",
+    "sha1": "fe79bc8ca5008402a276160101dbc430913a3a6f",
+    "sha256": "808e869dd22b9cb5f493515882b6552ddbe8fa648c29b3e913c9c98296189aaa"
   },
   "dob": {
-    "date": "1948-10-12T10:59:20.330Z",
-    "age": 76
+    "date": "1961-03-17T01:46:48.121Z",
+    "age": 64
   },
   "registered": {
-    "date": "2021-01-19T01:29:26.955Z",
-    "age": 4
+    "date": "2005-09-05T22:15:03.767Z",
+    "age": 19
   },
-  "phone": "(644) 856 8586",
-  "cell": "(624) 504 3987",
+  "phone": "906-956-205",
+  "cell": "644-485-722",
   "id": {
-    "name": "NSS",
-    "value": "86 13 57 1137 8"
+    "name": "DNI",
+    "value": "18548340-R"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
   },
-  "nat": "MX"
+  "nat": "ES"
 }

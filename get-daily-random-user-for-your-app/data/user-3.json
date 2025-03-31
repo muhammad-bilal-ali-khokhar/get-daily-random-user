@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Kabir",
-    "last": "Moolya"
+    "first": "Isaiah",
+    "last": "Riley"
   },
   "location": {
     "street": {
-      "number": 7476,
-      "name": "NAD X Rd"
+      "number": 245,
+      "name": "Grange Road"
     },
-    "city": "Morena",
-    "state": "Manipur",
-    "country": "India",
-    "postcode": 29208,
+    "city": "Bradford",
+    "state": "Somerset",
+    "country": "United Kingdom",
+    "postcode": "UX3 4SN",
     "coordinates": {
-      "latitude": "9.4939",
-      "longitude": "-87.5231"
+      "latitude": "-9.2942",
+      "longitude": "-83.5087"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "kabir.moolya@example.com",
+  "email": "isaiah.riley@example.com",
   "login": {
-    "uuid": "88eb9993-798f-4f02-8abe-fafe175ceb62",
-    "username": "silverwolf976",
-    "password": "mykids",
-    "salt": "BJF78biI",
-    "md5": "b16639c411df5e7a7b8938fd41dc5be9",
-    "sha1": "d413530dc4bcebe588114d6799f9a93cf51ee24d",
-    "sha256": "21e3e16aa002aa029b1f78a5ea04454918953acb291618694309d00a14e2d093"
+    "uuid": "6c1031cc-7775-4371-9beb-9ede4b7f94fc",
+    "username": "whitepeacock614",
+    "password": "pppppp",
+    "salt": "BBDtoCgK",
+    "md5": "568a7ead3a9e45a3f922e8682fb7430f",
+    "sha1": "5f2e7e6e9d7e6a59c73bcc544b00b992b783003a",
+    "sha256": "f6fe006c40f75e4cb7dfb89f025ac79dbcc054b710f69d7df48ff9f451ee9b61"
   },
   "dob": {
-    "date": "1983-06-07T07:38:59.346Z",
-    "age": 41
+    "date": "1995-01-23T23:16:47.670Z",
+    "age": 30
   },
   "registered": {
-    "date": "2021-10-27T12:48:37.402Z",
-    "age": 3
+    "date": "2019-04-10T02:39:08.599Z",
+    "age": 5
   },
-  "phone": "7437863120",
-  "cell": "9172660035",
+  "phone": "013873 10934",
+  "cell": "07487 949178",
   "id": {
-    "name": "UIDAI",
-    "value": "419350265749"
+    "name": "NINO",
+    "value": "GN 90 72 69 E"
   },
   "picture": {
     "large": "https://randomuser.me/api/portraits/men/89.jpg",
     "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
     "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
   },
-  "nat": "IN"
+  "nat": "GB"
 }
