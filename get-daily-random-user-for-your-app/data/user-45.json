@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Malak",
-    "last": "Vist"
+    "title": "Mr",
+    "first": "Julius",
+    "last": "Leinonen"
   },
   "location": {
     "street": {
-      "number": 8966,
-      "name": "Sars' gate"
+      "number": 7492,
+      "name": "Myllypuronkatu"
     },
-    "city": "Moldekleiv",
-    "state": "Rogaland",
-    "country": "Norway",
-    "postcode": "5179",
+    "city": "Lappeenranta",
+    "state": "Lapland",
+    "country": "Finland",
+    "postcode": 48842,
     "coordinates": {
-      "latitude": "45.3532",
-      "longitude": "49.5601"
+      "latitude": "-23.4373",
+      "longitude": "-140.1305"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "malak.vist@example.com",
+  "email": "julius.leinonen@example.com",
   "login": {
-    "uuid": "9eb9eb8a-d2f7-4574-b9c3-0fb853d53b9d",
-    "username": "bluebear969",
-    "password": "scoobydo",
-    "salt": "i9BuBrnK",
-    "md5": "9a00fc2645ee08cf69f8e3ee2e88e687",
-    "sha1": "2fdb20b20c5794baa4d7f855f2b6aedd509a6067",
-    "sha256": "b793a3b7115b8c2ae5e67b69cea44c99391d47fcf416948749c787b6272bf9bb"
+    "uuid": "682b6646-82c4-4926-9e63-a4a05b58cb26",
+    "username": "happyduck667",
+    "password": "trustno1",
+    "salt": "FlXrKiBe",
+    "md5": "1553a417eae64bde2d8b7d0bd2697685",
+    "sha1": "306de8406c5d682e8b5e03a7c03998fa49684538",
+    "sha256": "3b75b89a3506fb6ae6648a678c78d4190d0bf2e8bd42e0854408a93750c73138"
   },
   "dob": {
-    "date": "1986-12-26T08:55:29.828Z",
-    "age": 38
+    "date": "1959-08-21T10:11:04.631Z",
+    "age": 65
   },
   "registered": {
-    "date": "2012-06-01T14:15:30.445Z",
-    "age": 12
+    "date": "2015-03-15T14:58:58.100Z",
+    "age": 10
   },
-  "phone": "38327687",
-  "cell": "99521509",
+  "phone": "04-735-771",
+  "cell": "044-395-39-23",
   "id": {
-    "name": "FN",
-    "value": "26128602894"
+    "name": "HETU",
+    "value": "NaNNA943undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/31.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "NO"
+  "nat": "FI"
 }

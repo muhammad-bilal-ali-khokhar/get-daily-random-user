@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Victor",
-    "last": "Lam"
+    "first": "Tyrone",
+    "last": "Fletcher"
   },
   "location": {
     "street": {
-      "number": 5631,
-      "name": "Wellington St"
+      "number": 8531,
+      "name": "Albert Road"
     },
-    "city": "Elgin",
-    "state": "Nunavut",
-    "country": "Canada",
-    "postcode": "K5B 4R7",
+    "city": "Londonderry",
+    "state": "Gwynedd County",
+    "country": "United Kingdom",
+    "postcode": "H9 6ZR",
     "coordinates": {
-      "latitude": "-70.9702",
-      "longitude": "-51.1703"
+      "latitude": "-8.4039",
+      "longitude": "-52.6511"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "victor.lam@example.com",
+  "email": "tyrone.fletcher@example.com",
   "login": {
-    "uuid": "e7b9f493-2a3f-482a-88c7-b3d35818b366",
-    "username": "silverkoala748",
-    "password": "letmein",
-    "salt": "lOn7HiQd",
-    "md5": "0f9c7384313b1b53fa2383bcb54c71d6",
-    "sha1": "3d9c4621d89cd24b7259e0ddfffa1e4721c15f26",
-    "sha256": "4b738f2301f4516e27332f9201dd3d93007a1a64937df2683dccd32acbb3c170"
+    "uuid": "f48d087f-f078-4e82-89da-e136747f3074",
+    "username": "smallostrich928",
+    "password": "megadeth",
+    "salt": "8aEI6Hlq",
+    "md5": "9431be693f8e9405e0e9ac472f3420cf",
+    "sha1": "7b2ffa9679771c721fe270cadc3f88c2952f4d9f",
+    "sha256": "7a222537f1a19103fe7ce2f50c74e222b31ce4f8d14def2efca55b704cfdd69e"
   },
   "dob": {
-    "date": "1957-02-04T01:59:24.211Z",
-    "age": 68
+    "date": "1951-04-16T21:40:06.419Z",
+    "age": 73
   },
   "registered": {
-    "date": "2019-04-29T20:13:18.140Z",
-    "age": 5
+    "date": "2007-03-27T22:03:53.518Z",
+    "age": 18
   },
-  "phone": "J50 O72-4443",
-  "cell": "V81 W42-9756",
+  "phone": "013873 44316",
+  "cell": "07184 463444",
   "id": {
-    "name": "SIN",
-    "value": "335602785"
+    "name": "NINO",
+    "value": "BE 91 20 08 K"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/20.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    "large": "https://randomuser.me/api/portraits/men/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
   },
-  "nat": "CA"
+  "nat": "GB"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Yaëlle",
-    "last": "Harders"
+    "title": "Mr",
+    "first": "Theo",
+    "last": "Taylor"
   },
   "location": {
     "street": {
-      "number": 498,
-      "name": "Ben Goerionplein"
+      "number": 4603,
+      "name": "Main Street East"
     },
-    "city": "Eijsden",
-    "state": "Limburg",
-    "country": "Netherlands",
-    "postcode": "5231 OO",
+    "city": "New Plymouth",
+    "state": "Auckland",
+    "country": "New Zealand",
+    "postcode": 52775,
     "coordinates": {
-      "latitude": "34.8378",
-      "longitude": "94.0521"
+      "latitude": "48.4561",
+      "longitude": "-7.0608"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "yaelle.harders@example.com",
+  "email": "theo.taylor@example.com",
   "login": {
-    "uuid": "f45b0137-9c1b-4578-a49d-5af4ea8cc02f",
-    "username": "ticklishfrog673",
-    "password": "montreal",
-    "salt": "WfQvDGiq",
-    "md5": "12d47f9ea8952adfb99a1b141a5be34b",
-    "sha1": "8001e1773bba841176c58afa03c1ee466c8fa781",
-    "sha256": "477018781a82199c89d617b3685318e259d8b1404282caf32fb34af7d27b5874"
+    "uuid": "ebf77907-62e1-478d-8510-faf99e889408",
+    "username": "bigbear990",
+    "password": "french",
+    "salt": "zk6eBG2F",
+    "md5": "7c26b334c59abaec902099f09fae19c9",
+    "sha1": "37d777e037822493a4f6d01b71a64d9caa8b0639",
+    "sha256": "b6d6a7e67229732c3d9bbb8261c7671d587cd9811aff0c729e5ac93f57fbac8c"
   },
   "dob": {
-    "date": "1998-07-23T21:52:06.706Z",
-    "age": 26
+    "date": "1983-01-12T12:03:02.055Z",
+    "age": 42
   },
   "registered": {
-    "date": "2007-12-10T20:24:51.339Z",
-    "age": 17
+    "date": "2022-03-31T01:42:22.246Z",
+    "age": 3
   },
-  "phone": "(065) 7701923",
-  "cell": "(06) 57693826",
+  "phone": "(695)-563-0586",
+  "cell": "(569)-992-3707",
   "id": {
-    "name": "BSN",
-    "value": "84547246"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "NL"
+  "nat": "NZ"
 }

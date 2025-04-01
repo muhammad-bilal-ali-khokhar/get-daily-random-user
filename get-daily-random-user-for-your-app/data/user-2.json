@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Sharon",
-    "last": "Walker"
+    "title": "Mrs",
+    "first": "Selin",
+    "last": "Hauge"
   },
   "location": {
     "street": {
-      "number": 7655,
-      "name": "York Road"
+      "number": 1872,
+      "name": "Liljeveien"
     },
-    "city": "Stoke-on-Trent",
-    "state": "Nottinghamshire",
-    "country": "United Kingdom",
-    "postcode": "E20 1WS",
+    "city": "Oppeid",
+    "state": "Nord-Trøndelag",
+    "country": "Norway",
+    "postcode": "7247",
     "coordinates": {
-      "latitude": "-7.3363",
-      "longitude": "125.4518"
+      "latitude": "41.0413",
+      "longitude": "111.2275"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "sharon.walker@example.com",
+  "email": "selin.hauge@example.com",
   "login": {
-    "uuid": "def0cfdb-2cf9-4bf9-a1d2-7faa45ae395a",
-    "username": "blackkoala988",
-    "password": "sublime",
-    "salt": "V8JT7L5f",
-    "md5": "033cd0d2b3f71bc941533397b30f4288",
-    "sha1": "adda40d7eba1cc14e5d33c33d767b7f22f255d8b",
-    "sha256": "b6b273c18a30596477d4d63b5dd90cf66602f3bbd43d00e823dca09cfbba62e8"
+    "uuid": "d4682896-920f-4bdb-aa34-6a9bf567bdb1",
+    "username": "crazygoose691",
+    "password": "chef",
+    "salt": "ic0Q3TAQ",
+    "md5": "1adb2d5339c1874832bfb1b0c0121671",
+    "sha1": "dd5188bdcb338d8efee1e7ef76d385080bade11f",
+    "sha256": "7cc7d3f031327d0a346c9d2614b370f592b815e41b46bc943c269cadd509f577"
   },
   "dob": {
-    "date": "1981-03-01T02:59:58.893Z",
-    "age": 44
+    "date": "1978-12-14T08:59:42.593Z",
+    "age": 46
   },
   "registered": {
-    "date": "2015-09-07T01:12:41.673Z",
-    "age": 9
+    "date": "2016-04-23T18:39:25.490Z",
+    "age": 8
   },
-  "phone": "016973 66157",
-  "cell": "07208 435477",
+  "phone": "53468703",
+  "cell": "90905932",
   "id": {
-    "name": "NINO",
-    "value": "GJ 70 83 67 N"
+    "name": "FN",
+    "value": "14127808024"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+    "large": "https://randomuser.me/api/portraits/women/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
   },
-  "nat": "GB"
+  "nat": "NO"
 }

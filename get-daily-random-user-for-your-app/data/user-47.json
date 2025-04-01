@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Yanina",
-    "last": "Goryanskiy"
+    "title": "Mrs",
+    "first": "Elisandra",
+    "last": "Viana"
   },
   "location": {
     "street": {
-      "number": 8022,
-      "name": "Bortnickiy provulok"
+      "number": 5188,
+      "name": "Rua João Xxiii"
     },
-    "city": "Druzhkivka",
-    "state": "Hersonska",
-    "country": "Ukraine",
-    "postcode": 11727,
+    "city": "Varginha",
+    "state": "Amapá",
+    "country": "Brazil",
+    "postcode": 35544,
     "coordinates": {
-      "latitude": "78.7940",
-      "longitude": "164.7598"
+      "latitude": "-76.8688",
+      "longitude": "137.7389"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "yanina.goryanskiy@example.com",
+  "email": "elisandra.viana@example.com",
   "login": {
-    "uuid": "f332c14d-0e49-4c09-8c92-9f94e71286f9",
-    "username": "blackmouse959",
-    "password": "monk",
-    "salt": "4rMXbLFV",
-    "md5": "0a7c2d65bede01cf951fb52053072c39",
-    "sha1": "fb68a98bec10408072b891f7bfd03b7779691692",
-    "sha256": "1a9411b485d1364d6242e4c7714153b4e4c099b427a6cc5ccf6f3d9f0f3b30cb"
+    "uuid": "4f9986f1-485b-4c59-89f1-d1ad4f7f4b7f",
+    "username": "bigswan198",
+    "password": "vintage",
+    "salt": "ItSWuMaL",
+    "md5": "b1f4649b83ae3a45f1ebe2b1a829e7e8",
+    "sha1": "5cde14b0514c9d733854fab729adeb0449d71fc6",
+    "sha256": "7d4c49bffe05d798c72c3deb874e6bebe8eae0d07a6f4ae2d297720c5b46389a"
   },
   "dob": {
-    "date": "1979-12-25T01:14:26.271Z",
-    "age": 45
+    "date": "1982-01-02T11:55:28.825Z",
+    "age": 43
   },
   "registered": {
-    "date": "2007-11-04T00:53:14.692Z",
-    "age": 17
+    "date": "2018-09-08T20:39:31.934Z",
+    "age": 6
   },
-  "phone": "(096) C15-4950",
-  "cell": "(098) P56-9143",
+  "phone": "(94) 9274-9585",
+  "cell": "(91) 5512-2625",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "240.459.315-00"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+    "large": "https://randomuser.me/api/portraits/women/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
   },
-  "nat": "UA"
+  "nat": "BR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Tristan",
-    "last": "Barnaby"
+    "title": "Miss",
+    "first": "Bharathy",
+    "last": "Adiga"
   },
   "location": {
     "street": {
-      "number": 6550,
-      "name": "Queen St"
+      "number": 2270,
+      "name": "Mirza Ghalib St"
     },
-    "city": "Aylmer",
-    "state": "Nunavut",
-    "country": "Canada",
-    "postcode": "P2B 0P1",
+    "city": "Alappuzha",
+    "state": "Manipur",
+    "country": "India",
+    "postcode": 16532,
     "coordinates": {
-      "latitude": "-67.8819",
-      "longitude": "-31.2800"
+      "latitude": "5.7395",
+      "longitude": "174.3482"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "tristan.barnaby@example.com",
+  "email": "bharathy.adiga@example.com",
   "login": {
-    "uuid": "e14ac09a-31f5-42bf-a303-1b71f521bc50",
-    "username": "angryduck159",
-    "password": "button",
-    "salt": "mh7wkQ96",
-    "md5": "50b83a283f75d965c69b09ef5ff8b54f",
-    "sha1": "e3f69fe18cebe27c0a76647bd9f82536f041b64b",
-    "sha256": "90c79fc19c5977d138e43000cd5e130a7cee2ed6df021142cf25ce9a75da567e"
+    "uuid": "2051380a-1b24-4921-9fae-cdbc2c8fed5c",
+    "username": "tinyrabbit847",
+    "password": "penny1",
+    "salt": "SlpJlex0",
+    "md5": "c517b2cd18fcbe5c7fe17e7e83a9b845",
+    "sha1": "88bd8d78e54994d1e8633385c3c3f85268dc8df7",
+    "sha256": "b6e529b8a9101285fcb1e006147e1fff13b97546cc2e245b441eb7166e3e2b25"
   },
   "dob": {
-    "date": "1986-02-06T17:13:50.488Z",
-    "age": 39
+    "date": "1985-03-25T14:03:32.368Z",
+    "age": 40
   },
   "registered": {
-    "date": "2011-09-28T12:54:28.309Z",
-    "age": 13
+    "date": "2018-05-23T02:49:41.486Z",
+    "age": 6
   },
-  "phone": "Z31 D78-3061",
-  "cell": "N23 A85-2515",
+  "phone": "9599837144",
+  "cell": "9688690317",
   "id": {
-    "name": "SIN",
-    "value": "370098394"
+    "name": "UIDAI",
+    "value": "555482332731"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/9.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
   },
-  "nat": "CA"
+  "nat": "IN"
 }

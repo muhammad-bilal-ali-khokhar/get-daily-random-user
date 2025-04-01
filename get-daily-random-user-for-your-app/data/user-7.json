@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Lewis",
-    "last": "Mills"
+    "first": "Tony",
+    "last": "Malm"
   },
   "location": {
     "street": {
-      "number": 6957,
-      "name": "Dane St"
+      "number": 8158,
+      "name": "Marta Steinsviks vei"
     },
-    "city": "Houston",
-    "state": "Washington",
-    "country": "United States",
-    "postcode": 12284,
+    "city": "Narvik",
+    "state": "Hordaland",
+    "country": "Norway",
+    "postcode": "6350",
     "coordinates": {
-      "latitude": "82.1050",
-      "longitude": "-78.1673"
+      "latitude": "44.2185",
+      "longitude": "-148.6549"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "lewis.mills@example.com",
+  "email": "tony.malm@example.com",
   "login": {
-    "uuid": "a99b26e0-052f-4f69-9d8b-8e5eeac05d7e",
-    "username": "lazypanda584",
-    "password": "skip",
-    "salt": "awj79yKw",
-    "md5": "38d81299eece35a52f2b0b35047a1900",
-    "sha1": "d40f73c691e86673eb7118b49639be630e22ed36",
-    "sha256": "ecf6fa8ea0447273e74f84ba7737c36350a03dee0fa7648e9febe71318006cb2"
+    "uuid": "e82d8851-7461-4dae-a3a6-b83a849fb09f",
+    "username": "purplekoala737",
+    "password": "checker",
+    "salt": "Bqyf3N6P",
+    "md5": "81b7638bb35a235be0055701cae8f052",
+    "sha1": "f2763b3140fef7f621f280d05af7b419ed5ca0e6",
+    "sha256": "96c8810f440f7aee2b5b72cb4357c2aa3663c44c5e94c712d55a8deabfd1b529"
   },
   "dob": {
-    "date": "1996-07-09T23:13:12.971Z",
-    "age": 28
+    "date": "1973-04-24T17:59:12.923Z",
+    "age": 51
   },
   "registered": {
-    "date": "2008-09-14T13:21:08.608Z",
-    "age": 16
+    "date": "2006-12-28T17:21:13.224Z",
+    "age": 18
   },
-  "phone": "(967) 238-4962",
-  "cell": "(226) 697-3002",
+  "phone": "62597059",
+  "cell": "91551890",
   "id": {
-    "name": "SSN",
-    "value": "503-26-6823"
+    "name": "FN",
+    "value": "24047349725"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+    "large": "https://randomuser.me/api/portraits/men/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
   },
-  "nat": "US"
+  "nat": "NO"
 }

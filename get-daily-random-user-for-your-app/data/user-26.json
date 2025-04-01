@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Carol",
-    "last": "Knight"
+    "title": "Mr",
+    "first": "Bobby",
+    "last": "Alvarez"
   },
   "location": {
     "street": {
-      "number": 2755,
-      "name": "Highfield Road"
+      "number": 492,
+      "name": "Lovers Ln"
     },
-    "city": "Armagh",
-    "state": "West Midlands",
-    "country": "United Kingdom",
-    "postcode": "Q3B 2PZ",
+    "city": "Chesapeake",
+    "state": "South Dakota",
+    "country": "United States",
+    "postcode": 22928,
     "coordinates": {
-      "latitude": "-8.0856",
-      "longitude": "176.2990"
+      "latitude": "89.3663",
+      "longitude": "-170.8404"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "carol.knight@example.com",
+  "email": "bobby.alvarez@example.com",
   "login": {
-    "uuid": "3802440e-a32d-4689-9a09-94d15784e65a",
-    "username": "organicmouse329",
-    "password": "1020",
-    "salt": "mi1yHL3O",
-    "md5": "e763f5eee9a9f12e772d71c290822b1c",
-    "sha1": "3fb906ad31d43c2c80cbeb456f7cae1c07c27a53",
-    "sha256": "057d1a38cfa066d188d16d74d477dce024211501046e98fea83f5a8ec9463f7f"
+    "uuid": "105072c2-fb27-43a8-b511-981ccf3ad4dc",
+    "username": "beautifulbird651",
+    "password": "eastwood",
+    "salt": "9TkEnPI8",
+    "md5": "001950db61151406f059c2ea42ad3649",
+    "sha1": "92efde4ac8f7854d8a68105b319b33ac9d56b8ab",
+    "sha256": "547372f7fb782a235927efab5ef6bea3f269344cb5760e27e4131dfdbda8241b"
   },
   "dob": {
-    "date": "1993-05-22T06:51:16.904Z",
-    "age": 31
+    "date": "1973-01-19T09:58:32.657Z",
+    "age": 52
   },
   "registered": {
-    "date": "2003-12-28T07:42:34.962Z",
+    "date": "2004-02-23T00:46:13.910Z",
     "age": 21
   },
-  "phone": "017684 95828",
-  "cell": "07204 510711",
+  "phone": "(892) 782-8811",
+  "cell": "(867) 962-2678",
   "id": {
-    "name": "NINO",
-    "value": "NX 44 77 92 R"
+    "name": "SSN",
+    "value": "647-67-3977"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/80.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
   },
-  "nat": "GB"
+  "nat": "US"
 }

@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Julie",
-    "last": "Woods"
+    "first": "Johanne",
+    "last": "Østli"
   },
   "location": {
     "street": {
-      "number": 7339,
-      "name": "Boghall Road"
+      "number": 6747,
+      "name": "Haslekroken"
     },
-    "city": "Newcastle West",
-    "state": "Longford",
-    "country": "Ireland",
-    "postcode": 65928,
+    "city": "Kårvåg",
+    "state": "Bergen",
+    "country": "Norway",
+    "postcode": "3723",
     "coordinates": {
-      "latitude": "-1.8492",
-      "longitude": "46.6388"
+      "latitude": "39.3438",
+      "longitude": "155.1131"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "julie.woods@example.com",
+  "email": "johanne.ostli@example.com",
   "login": {
-    "uuid": "8fb0b0b8-9bf4-4562-bb4a-6fac45e03d2d",
-    "username": "redgoose984",
-    "password": "downer",
-    "salt": "U0suylQR",
-    "md5": "a68a6e42a39563cffc788cf663484fd1",
-    "sha1": "79d9df44d99b94f3b469660b9767a1f6a394d347",
-    "sha256": "24627fb4b282b3cf3d5324ca731feb3e887b45cdc003c1e77351e58d41109151"
+    "uuid": "7fd3a562-4e8b-4e4f-bf3b-6ddbf8b054ab",
+    "username": "sadgorilla861",
+    "password": "cindy",
+    "salt": "6FQ3r908",
+    "md5": "df6877627e8a6ea4b25029c4f074925d",
+    "sha1": "3b4d21c0c789765ad8e8531a158007b1260e264b",
+    "sha256": "77f23aaa282135e63932a6106a5150798787dc9574780f0f65a9e7f7e32eafb8"
   },
   "dob": {
-    "date": "1980-12-22T15:41:04.204Z",
-    "age": 44
+    "date": "1993-01-10T04:18:47.672Z",
+    "age": 32
   },
   "registered": {
-    "date": "2018-01-26T13:00:58.497Z",
-    "age": 7
+    "date": "2016-03-12T15:54:10.037Z",
+    "age": 9
   },
-  "phone": "031-802-8189",
-  "cell": "081-463-3961",
+  "phone": "67032677",
+  "cell": "43735303",
   "id": {
-    "name": "PPS",
-    "value": "8404936T"
+    "name": "FN",
+    "value": "10019326611"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+    "large": "https://randomuser.me/api/portraits/women/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
   },
-  "nat": "IE"
+  "nat": "NO"
 }

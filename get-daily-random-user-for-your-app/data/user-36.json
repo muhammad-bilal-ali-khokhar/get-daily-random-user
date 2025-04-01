@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Danee",
-    "last": "Dragt"
+    "title": "Mr",
+    "first": "Lody",
+    "last": "Hoveling"
   },
   "location": {
     "street": {
-      "number": 468,
-      "name": "Kooltuinenweg"
+      "number": 9883,
+      "name": "Burg. van Houtstraat"
     },
-    "city": "Haps",
-    "state": "Zuid-Holland",
+    "city": "Rietmolen",
+    "state": "Flevoland",
     "country": "Netherlands",
-    "postcode": "4432 LA",
+    "postcode": "6385 CQ",
     "coordinates": {
-      "latitude": "33.3425",
-      "longitude": "134.1436"
+      "latitude": "35.9442",
+      "longitude": "-89.2654"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "danee.dragt@example.com",
+  "email": "lody.hoveling@example.com",
   "login": {
-    "uuid": "22990f5f-197d-4270-a9a6-9d0cac5bb00c",
-    "username": "happylion880",
-    "password": "ooooo",
-    "salt": "LDYjBcAJ",
-    "md5": "e5e28e223cb0e7de0c6004d44ba15cf2",
-    "sha1": "39815f10a9e7e05509e2c539a17c764dd0774ca2",
-    "sha256": "e1395502377f4a64ac63390ee5e06225929e1fdf512675798f619ecab412b6d5"
+    "uuid": "85af3b27-727f-4aca-98a7-9d96e6d25a22",
+    "username": "purpleladybug626",
+    "password": "louise",
+    "salt": "DhD7OUOM",
+    "md5": "e9321e5ecb9bef4335544816866fb90b",
+    "sha1": "ba9e6f606f430f59afbf51a743bc964fae6c56db",
+    "sha256": "00ce4b166ccee43e57f4a4fca7692a8741c56513a2f526fc9eddfd296abdef89"
   },
   "dob": {
-    "date": "1945-12-21T01:05:37.071Z",
-    "age": 79
+    "date": "1991-09-26T12:10:18.996Z",
+    "age": 33
   },
   "registered": {
-    "date": "2018-06-02T19:17:34.201Z",
-    "age": 6
+    "date": "2014-08-27T10:09:19.687Z",
+    "age": 10
   },
-  "phone": "(073) 7700785",
-  "cell": "(06) 55227197",
+  "phone": "(084) 8136119",
+  "cell": "(06) 43051758",
   "id": {
     "name": "BSN",
-    "value": "39933137"
+    "value": "79630274"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
   "nat": "NL"
 }

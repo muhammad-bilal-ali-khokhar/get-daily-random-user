@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Isaiah",
-    "last": "Riley"
+    "first": "Riley",
+    "last": "Walker"
   },
   "location": {
     "street": {
-      "number": 245,
-      "name": "Grange Road"
+      "number": 6847,
+      "name": "Manners Street"
     },
-    "city": "Bradford",
-    "state": "Somerset",
-    "country": "United Kingdom",
-    "postcode": "UX3 4SN",
+    "city": "Lower Hutt",
+    "state": "Bay of Plenty",
+    "country": "New Zealand",
+    "postcode": 48199,
     "coordinates": {
-      "latitude": "-9.2942",
-      "longitude": "-83.5087"
+      "latitude": "53.5970",
+      "longitude": "-16.0619"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "isaiah.riley@example.com",
+  "email": "riley.walker@example.com",
   "login": {
-    "uuid": "6c1031cc-7775-4371-9beb-9ede4b7f94fc",
-    "username": "whitepeacock614",
-    "password": "pppppp",
-    "salt": "BBDtoCgK",
-    "md5": "568a7ead3a9e45a3f922e8682fb7430f",
-    "sha1": "5f2e7e6e9d7e6a59c73bcc544b00b992b783003a",
-    "sha256": "f6fe006c40f75e4cb7dfb89f025ac79dbcc054b710f69d7df48ff9f451ee9b61"
+    "uuid": "dc6a8616-afa4-4b37-9b83-b59465960536",
+    "username": "orangeduck724",
+    "password": "qazwsxed",
+    "salt": "Q7MtQpBg",
+    "md5": "177b81a5092dc9f5278b7c658aaaa238",
+    "sha1": "1000fee31fbf5b500a29af69d35bf30953f2c431",
+    "sha256": "799cd4e02eedfa3c05e6da9d711d91a79affc7677c38e406f251601e90102c8a"
   },
   "dob": {
-    "date": "1995-01-23T23:16:47.670Z",
-    "age": 30
+    "date": "1963-12-24T15:13:47.148Z",
+    "age": 61
   },
   "registered": {
-    "date": "2019-04-10T02:39:08.599Z",
-    "age": 5
+    "date": "2014-06-29T13:54:35.752Z",
+    "age": 10
   },
-  "phone": "013873 10934",
-  "cell": "07487 949178",
+  "phone": "(335)-303-1430",
+  "cell": "(594)-111-9149",
   "id": {
-    "name": "NINO",
-    "value": "GN 90 72 69 E"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/89.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    "large": "https://randomuser.me/api/portraits/men/25.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
   },
-  "nat": "GB"
+  "nat": "NZ"
 }

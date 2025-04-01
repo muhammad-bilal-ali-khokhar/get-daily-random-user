@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Andrea",
-    "last": "Muñoz"
+    "first": "Eleah",
+    "last": "Bu"
   },
   "location": {
     "street": {
-      "number": 5180,
-      "name": "Calle de Toledo"
+      "number": 301,
+      "name": "Kaare Røddes plass"
     },
-    "city": "Las Palmas de Gran Canaria",
-    "state": "Castilla y León",
-    "country": "Spain",
-    "postcode": 20710,
+    "city": "Midtbygda",
+    "state": "Nord-Trøndelag",
+    "country": "Norway",
+    "postcode": "9151",
     "coordinates": {
-      "latitude": "-31.7310",
-      "longitude": "34.4173"
+      "latitude": "39.6263",
+      "longitude": "152.8153"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "andrea.munoz@example.com",
+  "email": "eleah.bu@example.com",
   "login": {
-    "uuid": "19f38a75-1a87-4822-bebb-7cfaa8d8ea9d",
-    "username": "sadkoala799",
-    "password": "piano",
-    "salt": "QIBFkiB5",
-    "md5": "812ada62b5eea6e4271f556afc4b385b",
-    "sha1": "077802f5531a6a03c7f60d11fd9b3c741af70817",
-    "sha256": "070129186f0d774adeb8c11546ea2ba142c91eee4b7f7ca2183338a31705eac7"
+    "uuid": "31b00787-250a-486e-a74c-7b0fe003946f",
+    "username": "smallladybug721",
+    "password": "december",
+    "salt": "vbNIA3zC",
+    "md5": "0d4efd42778abbda3625443ba80555bc",
+    "sha1": "f7f44250f84b013ab7fce6830c25e9aa7f7fee45",
+    "sha256": "d60cea0d6ed6f0004610c3a1eb077cafcf272c530a967a1cd3a06c4eaea9a27b"
   },
   "dob": {
-    "date": "1998-04-22T20:47:44.866Z",
-    "age": 26
+    "date": "1946-02-05T04:54:29.038Z",
+    "age": 79
   },
   "registered": {
-    "date": "2015-02-24T17:27:58.901Z",
-    "age": 10
+    "date": "2021-10-16T20:25:45.007Z",
+    "age": 3
   },
-  "phone": "958-586-586",
-  "cell": "609-279-582",
+  "phone": "20252498",
+  "cell": "90907364",
   "id": {
-    "name": "DNI",
-    "value": "55604079-Q"
+    "name": "FN",
+    "value": "05024630082"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+    "large": "https://randomuser.me/api/portraits/women/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
   },
-  "nat": "ES"
+  "nat": "NO"
 }

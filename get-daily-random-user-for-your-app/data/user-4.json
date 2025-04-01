@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Ayan",
-    "last": "Heim"
+    "title": "Monsieur",
+    "first": "Nuno",
+    "last": "Nguyen"
   },
   "location": {
     "street": {
-      "number": 3747,
-      "name": "Holbergs plass"
+      "number": 607,
+      "name": "Rue Dubois"
     },
-    "city": "Sande",
-    "state": "Møre og Romsdal",
-    "country": "Norway",
-    "postcode": "3517",
+    "city": "Höri",
+    "state": "Solothurn",
+    "country": "Switzerland",
+    "postcode": 6453,
     "coordinates": {
-      "latitude": "45.7129",
-      "longitude": "-164.4700"
+      "latitude": "-63.5702",
+      "longitude": "-13.9848"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "ayan.heim@example.com",
+  "email": "nuno.nguyen@example.com",
   "login": {
-    "uuid": "15255a6c-b4e5-459b-ae5b-0a841238619d",
-    "username": "greenpanda115",
-    "password": "twinkle",
-    "salt": "Qt4vvLSl",
-    "md5": "bd9e8cfdba79b6c9bd167511f8caa7d6",
-    "sha1": "cde3868fa801cda52369aedcd9a907a37fd89f31",
-    "sha256": "d74988fc5fe7cdf7b0373879faee7864fa0c8ef7164560fb543da1507da15a1f"
+    "uuid": "bb30d6b1-dd57-40c2-a25f-c662914f6dfc",
+    "username": "goldenzebra817",
+    "password": "bendover",
+    "salt": "32vBbUkN",
+    "md5": "a6bc0993d2eecbdae3a51fedf5afe3c7",
+    "sha1": "4f8925597a265b37ccabb12f6e169d78dff5e6ce",
+    "sha256": "2346386f783463d58d86c335867888b61a74975df27262a34de14d44afee10c9"
   },
   "dob": {
-    "date": "1981-06-22T06:26:37.883Z",
-    "age": 43
+    "date": "1969-01-20T11:23:10.986Z",
+    "age": 56
   },
   "registered": {
-    "date": "2012-10-27T21:38:08.640Z",
-    "age": 12
+    "date": "2010-05-18T01:25:54.441Z",
+    "age": 14
   },
-  "phone": "21254058",
-  "cell": "44572243",
+  "phone": "075 293 89 73",
+  "cell": "075 896 55 09",
   "id": {
-    "name": "FN",
-    "value": "22068147127"
+    "name": "AVS",
+    "value": "756.8373.8882.18"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/28.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+    "large": "https://randomuser.me/api/portraits/men/15.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/15.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/15.jpg"
   },
-  "nat": "NO"
+  "nat": "CH"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Melita",
-    "last": "Quade"
+    "title": "Monsieur",
+    "first": "Augusto",
+    "last": "Andre"
   },
   "location": {
     "street": {
-      "number": 9616,
-      "name": "Mühlenstraße"
+      "number": 5938,
+      "name": "Rue Denfert-Rochereau"
     },
-    "city": "Lebus",
-    "state": "Baden-Württemberg",
-    "country": "Germany",
-    "postcode": 98266,
+    "city": "Grüningen",
+    "state": "Schwyz",
+    "country": "Switzerland",
+    "postcode": 1760,
     "coordinates": {
-      "latitude": "-50.9692",
-      "longitude": "40.1315"
+      "latitude": "-55.9312",
+      "longitude": "-134.3047"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "melita.quade@example.com",
+  "email": "augusto.andre@example.com",
   "login": {
-    "uuid": "ba9cfb70-fc78-4e4e-849d-db2ebb0f298e",
-    "username": "tinyswan740",
-    "password": "mememe",
-    "salt": "UBI6q4Ht",
-    "md5": "d6e5ea5eb7e18d3724b18b648f8bdbe8",
-    "sha1": "80879d87821d20ccd8e4f60edde02d8192a18ff9",
-    "sha256": "c91f2db63879ea58fa0f45d6c97b0e1429d8e56bc9cdee7414f3530cea22cc39"
+    "uuid": "1009a5ac-a5d8-4c3c-8eb1-bd561e4bfa65",
+    "username": "sadbird768",
+    "password": "termite",
+    "salt": "PwYGVmUs",
+    "md5": "329640a0512176cead3414b353d7eaeb",
+    "sha1": "51c59cc9635816b73e3f72704101b8118b21597a",
+    "sha256": "a8153bf69f564dea5fb64cb1c9cbd988543f32dc22f7c6e57933a6d033132ac6"
   },
   "dob": {
-    "date": "1954-10-07T00:02:22.668Z",
-    "age": 70
+    "date": "1993-03-04T13:37:22.909Z",
+    "age": 32
   },
   "registered": {
-    "date": "2020-12-31T11:44:50.137Z",
-    "age": 4
+    "date": "2009-04-09T14:23:42.312Z",
+    "age": 15
   },
-  "phone": "0709-1558966",
-  "cell": "0172-4516508",
+  "phone": "079 279 64 31",
+  "cell": "076 128 73 98",
   "id": {
-    "name": "SVNR",
-    "value": "54 061054 Q 975"
+    "name": "AVS",
+    "value": "756.9679.6963.81"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+    "large": "https://randomuser.me/api/portraits/men/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
   },
-  "nat": "DE"
+  "nat": "CH"
 }

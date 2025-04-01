@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Kuzey",
-    "last": "Erez"
+    "first": "Dileep",
+    "last": "Ramesh"
   },
   "location": {
     "street": {
-      "number": 1363,
-      "name": "Talak Göktepe Cd"
+      "number": 7985,
+      "name": "Bandstand Promenade"
     },
-    "city": "Siirt",
-    "state": "Aksaray",
-    "country": "Turkey",
-    "postcode": 47527,
+    "city": "Kurnool",
+    "state": "Dadra and Nagar Haveli",
+    "country": "India",
+    "postcode": 66001,
     "coordinates": {
-      "latitude": "72.5945",
-      "longitude": "-29.5102"
+      "latitude": "9.6805",
+      "longitude": "-19.0838"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "kuzey.erez@example.com",
+  "email": "dileep.ramesh@example.com",
   "login": {
-    "uuid": "85b24bd6-71d2-465f-a799-b87fe7108ac9",
-    "username": "purplemeercat752",
-    "password": "italy",
-    "salt": "Cg2iyv8N",
-    "md5": "fd1d6be986de1d2f64d0ae6a1404be22",
-    "sha1": "06a5ac62ff8f15252df6b8bf0bb5bc6bd5c603b7",
-    "sha256": "3aad930e36d953d8506cc98528616c8d07ea6e6b8125b080bc171485a0743e54"
+    "uuid": "5bac0839-7166-4e71-81f0-6e8f3d4f29e6",
+    "username": "yellowbird465",
+    "password": "alaska",
+    "salt": "Bezx6Dgq",
+    "md5": "800f80321097b63008b9166f8a58812e",
+    "sha1": "34283c6abb29227c94ffa969917ff04cde02d517",
+    "sha256": "f740a5aa072c1f946aa0d508ee58bec42404e0d425fd3960602049218d8a6d54"
   },
   "dob": {
-    "date": "1976-01-05T04:05:17.735Z",
-    "age": 49
+    "date": "1996-06-28T09:52:27.324Z",
+    "age": 28
   },
   "registered": {
-    "date": "2011-06-14T17:46:32.227Z",
-    "age": 13
+    "date": "2012-12-19T10:11:06.182Z",
+    "age": 12
   },
-  "phone": "(941)-056-8637",
-  "cell": "(822)-897-6667",
+  "phone": "7829168422",
+  "cell": "9217142267",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "588549330536"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
   },
-  "nat": "TR"
+  "nat": "IN"
 }

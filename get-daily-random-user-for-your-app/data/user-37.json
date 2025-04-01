@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Héctor",
-    "last": "Rubio"
+    "first": "Benjamin",
+    "last": "Adams"
   },
   "location": {
     "street": {
-      "number": 9482,
-      "name": "Calle de La Luna"
+      "number": 5788,
+      "name": "Heideweg"
     },
-    "city": "Burgos",
-    "state": "Comunidad Valenciana",
-    "country": "Spain",
-    "postcode": 82095,
+    "city": "Mainburg",
+    "state": "Berlin",
+    "country": "Germany",
+    "postcode": 97950,
     "coordinates": {
-      "latitude": "-37.9823",
-      "longitude": "-75.1496"
+      "latitude": "-53.4123",
+      "longitude": "-51.0689"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "hector.rubio@example.com",
+  "email": "benjamin.adams@example.com",
   "login": {
-    "uuid": "7d4f828c-e35b-41bd-be1e-84290ae9a408",
-    "username": "beautifulwolf574",
-    "password": "uuuuu",
-    "salt": "3pvQgSZR",
-    "md5": "525bc4d4b5ca177fd588a7c898b82991",
-    "sha1": "fe79bc8ca5008402a276160101dbc430913a3a6f",
-    "sha256": "808e869dd22b9cb5f493515882b6552ddbe8fa648c29b3e913c9c98296189aaa"
+    "uuid": "1089682f-22ed-4556-962e-f6415a3cf6cc",
+    "username": "blacktiger949",
+    "password": "hhhhhh",
+    "salt": "ik73wwxJ",
+    "md5": "d412127093e4421664099c7068a619fa",
+    "sha1": "594e0af7bccf8ac0e632c4dd93e58ec7844e98b9",
+    "sha256": "8f5e73abf12a9c27eb9762b0d958efc8e3cc31ce32cedd899a430cf45a933f0a"
   },
   "dob": {
-    "date": "1961-03-17T01:46:48.121Z",
-    "age": 64
+    "date": "1969-02-04T14:42:51.140Z",
+    "age": 56
   },
   "registered": {
-    "date": "2005-09-05T22:15:03.767Z",
-    "age": 19
+    "date": "2007-09-02T05:20:36.386Z",
+    "age": 17
   },
-  "phone": "906-956-205",
-  "cell": "644-485-722",
+  "phone": "0362-7947708",
+  "cell": "0171-0022771",
   "id": {
-    "name": "DNI",
-    "value": "18548340-R"
+    "name": "SVNR",
+    "value": "71 040269 A 493"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/59.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "ES"
+  "nat": "DE"
 }

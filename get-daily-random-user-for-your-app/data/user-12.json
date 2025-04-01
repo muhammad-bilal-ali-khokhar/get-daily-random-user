@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Virgil",
-    "last": "Freeman"
+    "first": "Pranit",
+    "last": "Jain"
   },
   "location": {
     "street": {
-      "number": 6849,
-      "name": "Galway Road"
+      "number": 5912,
+      "name": "Shanmugham Rd"
     },
-    "city": "Tipperary",
-    "state": "Dún Laoghaire–Rathdown",
-    "country": "Ireland",
-    "postcode": 71838,
+    "city": "Kulti",
+    "state": "Sikkim",
+    "country": "India",
+    "postcode": 52552,
     "coordinates": {
-      "latitude": "-0.8902",
-      "longitude": "-44.5313"
+      "latitude": "4.4996",
+      "longitude": "-21.2644"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "virgil.freeman@example.com",
+  "email": "pranit.jain@example.com",
   "login": {
-    "uuid": "f43a2e3a-241e-4402-a4aa-0e96f583ef1d",
-    "username": "redostrich109",
-    "password": "contact",
-    "salt": "isg3rbi4",
-    "md5": "8b59fa72ff81e230ce33e4783fc49654",
-    "sha1": "950a6c38811c4636c102772333667f9fd4c55c90",
-    "sha256": "784c1d8a80768e19afde4f2ff1f06b47b265cdcd603793029d95b8ded711b2ce"
+    "uuid": "b5d9d8d7-f700-40f1-abe9-dcf27361ac58",
+    "username": "whitemeercat832",
+    "password": "puppet",
+    "salt": "8Caba7f5",
+    "md5": "c64acfe9a68c62bced5374acd3d1ddf6",
+    "sha1": "9c35340ae60c5bf8afa025a0c1c43f0647b48030",
+    "sha256": "6d5dbb442f3e6076ac20b218e771c48850484a0679a3afe13839d44c720f21d5"
   },
   "dob": {
-    "date": "1994-05-10T17:35:40.199Z",
-    "age": 30
+    "date": "1987-05-16T19:42:10.530Z",
+    "age": 37
   },
   "registered": {
-    "date": "2014-01-17T08:35:45.605Z",
-    "age": 11
+    "date": "2022-03-08T16:44:47.464Z",
+    "age": 3
   },
-  "phone": "071-352-9908",
-  "cell": "081-991-0805",
+  "phone": "8140673523",
+  "cell": "9050141133",
   "id": {
-    "name": "PPS",
-    "value": "5723227T"
+    "name": "UIDAI",
+    "value": "553811386825"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    "large": "https://randomuser.me/api/portraits/men/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
   },
-  "nat": "IE"
+  "nat": "IN"
 }

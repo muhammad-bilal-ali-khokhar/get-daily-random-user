@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Esma",
-    "last": "Arslanoğlu"
+    "first": "Alice",
+    "last": "Torres"
   },
   "location": {
     "street": {
-      "number": 8716,
-      "name": "Filistin Cd"
+      "number": 7769,
+      "name": "The Avenue"
     },
-    "city": "Burdur",
-    "state": "İstanbul",
-    "country": "Turkey",
-    "postcode": 61163,
+    "city": "Chichester",
+    "state": "Hampshire",
+    "country": "United Kingdom",
+    "postcode": "RU8J 1ES",
     "coordinates": {
-      "latitude": "65.5559",
-      "longitude": "76.4724"
+      "latitude": "-5.9512",
+      "longitude": "90.6507"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "esma.arslanoglu@example.com",
+  "email": "alice.torres@example.com",
   "login": {
-    "uuid": "51e7d926-9d32-4762-991b-a74b3ebd502d",
-    "username": "sadmouse541",
-    "password": "babydoll",
-    "salt": "1ojExivJ",
-    "md5": "9db21d1f5c82030a3f8744c29685f1c1",
-    "sha1": "246627f381e88492d0d91b8ead6365dbfe04177d",
-    "sha256": "2214c825a971a4be9a4151fd4aa626c19c1bf5fb8e312edb4fd48b944e2d84a4"
+    "uuid": "0ec9cd37-aae8-452c-b400-8c22ac1cc3c2",
+    "username": "angryleopard821",
+    "password": "1211",
+    "salt": "M3HukWSr",
+    "md5": "6f0bab4c28817e4f8445594c6e833dac",
+    "sha1": "200d13394141109ba3a7eef277a2e97aff3fd8de",
+    "sha256": "bff96afbc51a7f816b0544be492c1dc46fa77f37b79a4a1c4697a569fc25edca"
   },
   "dob": {
-    "date": "1959-11-25T00:42:20.182Z",
-    "age": 65
+    "date": "1954-09-12T10:31:07.155Z",
+    "age": 70
   },
   "registered": {
-    "date": "2017-03-06T22:05:41.164Z",
-    "age": 8
+    "date": "2005-11-26T16:56:49.235Z",
+    "age": 19
   },
-  "phone": "(878)-301-8358",
-  "cell": "(968)-555-4827",
+  "phone": "016977 0339",
+  "cell": "07407 707498",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NINO",
+    "value": "MG 19 92 93 R"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/23.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+    "large": "https://randomuser.me/api/portraits/women/63.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
   },
-  "nat": "TR"
+  "nat": "GB"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Lillie",
-    "last": "Jensen"
+    "title": "Mr",
+    "first": "Harrison",
+    "last": "Bunk"
   },
   "location": {
     "street": {
-      "number": 8573,
-      "name": "Shady Ln Dr"
+      "number": 6898,
+      "name": "Frankeneng"
     },
-    "city": "Busselton",
-    "state": "New South Wales",
-    "country": "Australia",
-    "postcode": 754,
+    "city": "Est",
+    "state": "Overijssel",
+    "country": "Netherlands",
+    "postcode": "2405 PF",
     "coordinates": {
-      "latitude": "-83.6665",
-      "longitude": "15.0429"
+      "latitude": "34.3679",
+      "longitude": "-21.1178"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "lillie.jensen@example.com",
+  "email": "harrison.bunk@example.com",
   "login": {
-    "uuid": "9774dc33-9119-42d9-89f4-6cfff60e97f6",
-    "username": "browngorilla813",
-    "password": "vladimir",
-    "salt": "fgKj2LXL",
-    "md5": "3b1a3e998818192144b6f9019f4c4e5c",
-    "sha1": "01153c9abb0737f2ef20814906daeb039df70890",
-    "sha256": "9109997354e6e8b1200453c2cb929e749607dc40c623d54e9c42165788a7a2f0"
+    "uuid": "519b83b9-7144-487e-860f-aed55102c7bd",
+    "username": "beautifulzebra699",
+    "password": "girfriend",
+    "salt": "CfqrGE5F",
+    "md5": "d997dd77e648562e3fdc0de214834a4a",
+    "sha1": "75a9a3b33c10dcc3487d82be6fecc0c15ed625f9",
+    "sha256": "ed63bf36cf07fd3fef07aa578d1b2607b8c77cf5d93809cef666d9922ed8e15e"
   },
   "dob": {
-    "date": "2000-11-16T16:50:01.013Z",
-    "age": 24
+    "date": "1995-12-20T21:56:43.034Z",
+    "age": 29
   },
   "registered": {
-    "date": "2021-11-25T21:13:28.517Z",
-    "age": 3
+    "date": "2018-11-10T00:41:39.926Z",
+    "age": 6
   },
-  "phone": "03-0954-9451",
-  "cell": "0450-351-254",
+  "phone": "(0568) 004590",
+  "cell": "(06) 26924855",
   "id": {
-    "name": "TFN",
-    "value": "499134404"
+    "name": "BSN",
+    "value": "49211003"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
   },
-  "nat": "AU"
+  "nat": "NL"
 }
