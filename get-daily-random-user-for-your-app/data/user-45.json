@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Julius",
-    "last": "Leinonen"
+    "first": "Akshay",
+    "last": "Shukla"
   },
   "location": {
     "street": {
-      "number": 7492,
-      "name": "Myllypuronkatu"
+      "number": 5977,
+      "name": "Kasba Peth"
     },
-    "city": "Lappeenranta",
-    "state": "Lapland",
-    "country": "Finland",
-    "postcode": 48842,
+    "city": "Bharatpur",
+    "state": "Nagaland",
+    "country": "India",
+    "postcode": 91125,
     "coordinates": {
-      "latitude": "-23.4373",
-      "longitude": "-140.1305"
+      "latitude": "11.2852",
+      "longitude": "-89.1975"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "julius.leinonen@example.com",
+  "email": "akshay.shukla@example.com",
   "login": {
-    "uuid": "682b6646-82c4-4926-9e63-a4a05b58cb26",
-    "username": "happyduck667",
-    "password": "trustno1",
-    "salt": "FlXrKiBe",
-    "md5": "1553a417eae64bde2d8b7d0bd2697685",
-    "sha1": "306de8406c5d682e8b5e03a7c03998fa49684538",
-    "sha256": "3b75b89a3506fb6ae6648a678c78d4190d0bf2e8bd42e0854408a93750c73138"
+    "uuid": "1ec962be-eee8-44f5-b282-560815b2e6a4",
+    "username": "lazycat417",
+    "password": "buddie",
+    "salt": "635Fs7tD",
+    "md5": "a03247cb4521e10b363ba9e54917044d",
+    "sha1": "cc5d8233e5aca78f1078c161ed066d39279d467f",
+    "sha256": "dc0bdd689285ddceaa2129ec6df1506902c43d84fb4d7379b6b815df5e9311b7"
   },
   "dob": {
-    "date": "1959-08-21T10:11:04.631Z",
-    "age": 65
+    "date": "1969-03-30T19:59:25.233Z",
+    "age": 56
   },
   "registered": {
-    "date": "2015-03-15T14:58:58.100Z",
-    "age": 10
+    "date": "2003-02-27T00:31:49.207Z",
+    "age": 22
   },
-  "phone": "04-735-771",
-  "cell": "044-395-39-23",
+  "phone": "7371936270",
+  "cell": "9938928679",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA943undefined"
+    "name": "UIDAI",
+    "value": "946793975412"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/4.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
+    "large": "https://randomuser.me/api/portraits/men/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
   },
-  "nat": "FI"
+  "nat": "IN"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Bharathy",
-    "last": "Adiga"
+    "title": "Mr",
+    "first": "Horiv",
+    "last": "Riznichenko"
   },
   "location": {
     "street": {
-      "number": 2270,
-      "name": "Mirza Ghalib St"
+      "number": 7349,
+      "name": "Prospekt Georgiya Gongadze"
     },
-    "city": "Alappuzha",
-    "state": "Manipur",
-    "country": "India",
-    "postcode": 16532,
+    "city": "Seredina-Buda",
+    "state": "Dnipropetrovska",
+    "country": "Ukraine",
+    "postcode": 27290,
     "coordinates": {
-      "latitude": "5.7395",
-      "longitude": "174.3482"
+      "latitude": "76.0860",
+      "longitude": "-47.2308"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "bharathy.adiga@example.com",
+  "email": "horiv.riznichenko@example.com",
   "login": {
-    "uuid": "2051380a-1b24-4921-9fae-cdbc2c8fed5c",
-    "username": "tinyrabbit847",
-    "password": "penny1",
-    "salt": "SlpJlex0",
-    "md5": "c517b2cd18fcbe5c7fe17e7e83a9b845",
-    "sha1": "88bd8d78e54994d1e8633385c3c3f85268dc8df7",
-    "sha256": "b6e529b8a9101285fcb1e006147e1fff13b97546cc2e245b441eb7166e3e2b25"
+    "uuid": "eb0b4c23-1b6b-47d2-b499-4d123a36958f",
+    "username": "organicmeercat346",
+    "password": "danzig",
+    "salt": "gTAUDZkS",
+    "md5": "428ab4fdf0e4c9b0f8aebee3bc200457",
+    "sha1": "ca32b124fceb9c9c2ffde59cc74a6fb0b0b3bb8b",
+    "sha256": "864f9fc1cba8583d8ff79e2531cf7be40b2f82575fba5b8dc793dac5b390fb6d"
   },
   "dob": {
-    "date": "1985-03-25T14:03:32.368Z",
-    "age": 40
+    "date": "1992-07-06T16:16:21.958Z",
+    "age": 32
   },
   "registered": {
-    "date": "2018-05-23T02:49:41.486Z",
-    "age": 6
+    "date": "2004-06-28T21:40:39.797Z",
+    "age": 20
   },
-  "phone": "9599837144",
-  "cell": "9688690317",
+  "phone": "(067) R23-6359",
+  "cell": "(067) P63-9100",
   "id": {
-    "name": "UIDAI",
-    "value": "555482332731"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
   },
-  "nat": "IN"
+  "nat": "UA"
 }

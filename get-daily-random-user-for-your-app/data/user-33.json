@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Ernest",
-    "last": "Brewer"
+    "title": "Ms",
+    "first": "Afşar",
+    "last": "Akaydın"
   },
   "location": {
     "street": {
-      "number": 3280,
-      "name": "School Lane"
+      "number": 3464,
+      "name": "Fatih Sultan Mehmet Cd"
     },
-    "city": "Ratoath",
-    "state": "Clare",
-    "country": "Ireland",
-    "postcode": 73504,
+    "city": "Edirne",
+    "state": "Bursa",
+    "country": "Turkey",
+    "postcode": 61973,
     "coordinates": {
-      "latitude": "-0.4406",
-      "longitude": "-84.9233"
+      "latitude": "72.2808",
+      "longitude": "56.1607"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "ernest.brewer@example.com",
+  "email": "afsar.akaydin@example.com",
   "login": {
-    "uuid": "51d5bc1b-14e2-47f0-a8c2-4f601fa96b76",
-    "username": "silvercat356",
-    "password": "kayla",
-    "salt": "fq4iB9cx",
-    "md5": "5ad703693d7649e0383859db996d3dc8",
-    "sha1": "61031a85158bcc20bde65e5a4470afdab129f09f",
-    "sha256": "f790a6d68b7a325c436a9374758a5bfa2745b4253bcf7c0000ecf7b65b1a8358"
+    "uuid": "10c35c43-9948-4bdc-8f76-88257972e5ef",
+    "username": "heavyleopard576",
+    "password": "hotstuff",
+    "salt": "JqIU1Xt9",
+    "md5": "b35d49a800cbc9d4c315a4c635282633",
+    "sha1": "257b13ac329f80667ed6b7a0153b196d903ed494",
+    "sha256": "aaa743e54e7f9650ca58dae3f2b2baa1c8663a653039f5d72f102af2e25b6320"
   },
   "dob": {
-    "date": "2001-02-07T06:24:39.771Z",
-    "age": 24
+    "date": "1951-10-09T13:29:01.739Z",
+    "age": 73
   },
   "registered": {
-    "date": "2010-08-11T21:49:18.474Z",
-    "age": 14
+    "date": "2009-01-05T04:55:05.467Z",
+    "age": 16
   },
-  "phone": "011-966-3743",
-  "cell": "081-225-6512",
+  "phone": "(541)-939-9161",
+  "cell": "(092)-070-6871",
   "id": {
-    "name": "PPS",
-    "value": "2982613T"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
   },
-  "nat": "IE"
+  "nat": "TR"
 }

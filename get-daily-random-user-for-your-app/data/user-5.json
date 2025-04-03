@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Megan",
-    "last": "Hart"
+    "title": "Mr",
+    "first": "Naksh",
+    "last": "Rai"
   },
   "location": {
     "street": {
-      "number": 1085,
-      "name": "George Street"
+      "number": 957,
+      "name": "Tilak Marg"
     },
-    "city": "Drogheda",
-    "state": "Meath",
-    "country": "Ireland",
-    "postcode": 73842,
+    "city": "Junagadh",
+    "state": "Assam",
+    "country": "India",
+    "postcode": 33124,
     "coordinates": {
-      "latitude": "1.8618",
-      "longitude": "2.8593"
+      "latitude": "12.8312",
+      "longitude": "-27.7410"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "megan.hart@example.com",
+  "email": "naksh.rai@example.com",
   "login": {
-    "uuid": "b659135a-be9a-46fc-b4c5-bb4db308333f",
-    "username": "goldenpeacock763",
-    "password": "sidney",
-    "salt": "6LOy8Uot",
-    "md5": "3e03a159a0de7bab2738876f7bc2a6a5",
-    "sha1": "786e24e14b845f5d6d9fdb6401f019aadfda86fc",
-    "sha256": "d280d624872b98b90cc11cc6f59fa71f453eaac5640b7e578722e6b26ea3f58d"
+    "uuid": "aba1f714-c055-4d5b-a142-acf83b7c3ef3",
+    "username": "crazycat712",
+    "password": "band",
+    "salt": "UcwtZvQP",
+    "md5": "22cb75774ef07a1588d7c51bc2cf2df6",
+    "sha1": "db6223ea5d1c97476c218b6eae8f7cdfa40c9e98",
+    "sha256": "cbab93eb2a0a5e83d2de95e01935d4db763ae1f37108c4590cedc369555027b4"
   },
   "dob": {
-    "date": "1961-01-17T00:47:24.611Z",
-    "age": 64
+    "date": "1988-07-09T23:41:14.695Z",
+    "age": 36
   },
   "registered": {
-    "date": "2019-06-22T21:10:53.052Z",
-    "age": 5
+    "date": "2021-02-19T00:45:03.271Z",
+    "age": 4
   },
-  "phone": "021-052-2291",
-  "cell": "081-051-6249",
+  "phone": "7647299238",
+  "cell": "8364085869",
   "id": {
-    "name": "PPS",
-    "value": "6242044T"
+    "name": "UIDAI",
+    "value": "058685258277"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/69.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
+    "large": "https://randomuser.me/api/portraits/men/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
   },
-  "nat": "IE"
+  "nat": "IN"
 }

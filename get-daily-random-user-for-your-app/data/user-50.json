@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Douglas",
-    "last": "Robertson"
+    "first": "Karan",
+    "last": "Salian"
   },
   "location": {
     "street": {
-      "number": 1587,
-      "name": "Homestead Rd"
+      "number": 7021,
+      "name": "Lindsay St"
     },
-    "city": "Ennis",
-    "state": "Virginia",
-    "country": "United States",
-    "postcode": 64411,
+    "city": "Nanded",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "postcode": 74233,
     "coordinates": {
-      "latitude": "88.1037",
-      "longitude": "-82.3198"
+      "latitude": "7.0727",
+      "longitude": "-139.6241"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "douglas.robertson@example.com",
+  "email": "karan.salian@example.com",
   "login": {
-    "uuid": "4c4264e9-7b81-467f-8d75-630ab6010656",
-    "username": "lazyfrog446",
-    "password": "softball",
-    "salt": "DTFeAD7V",
-    "md5": "48634fa8033f5c9d98da708e7c371b54",
-    "sha1": "2a4bcfe9c286e5635a07a05bd320779561dceddd",
-    "sha256": "90ddcd0cb1649503430a523e29e43869457961d6d4fa4c5b5b3fc03bc7efc0a0"
+    "uuid": "8c0b7a0b-c259-4270-82b2-637bf4c1819f",
+    "username": "sadcat444",
+    "password": "buffett",
+    "salt": "UluKiDad",
+    "md5": "27569995906f81e8cd61b0d696407805",
+    "sha1": "8d4fc7e1f94718619a79fd45822f459070865b2e",
+    "sha256": "ecfc60d70c73a7ba39e89cf5bc17b400a7db7f3d6e58eef971a4b7c717c0d5f4"
   },
   "dob": {
-    "date": "1957-06-20T21:19:18.938Z",
-    "age": 67
+    "date": "1958-04-27T08:37:58.819Z",
+    "age": 66
   },
   "registered": {
-    "date": "2002-05-05T11:39:23.996Z",
-    "age": 22
+    "date": "2012-03-18T22:33:37.499Z",
+    "age": 13
   },
-  "phone": "(740) 203-3458",
-  "cell": "(878) 931-0007",
+  "phone": "9270505927",
+  "cell": "9667823006",
   "id": {
-    "name": "SSN",
-    "value": "848-41-3594"
+    "name": "UIDAI",
+    "value": "197461849899"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
+    "large": "https://randomuser.me/api/portraits/men/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
   },
-  "nat": "US"
+  "nat": "IN"
 }

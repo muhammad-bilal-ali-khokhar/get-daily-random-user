@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Laurie",
-    "last": "Young"
+    "title": "Mr",
+    "first": "Dorogobug",
+    "last": "Fovickiy"
   },
   "location": {
     "street": {
-      "number": 5845,
-      "name": "36th Ave"
+      "number": 3819,
+      "name": "Petra Chaadaieva"
     },
-    "city": "Richmond",
-    "state": "Québec",
-    "country": "Canada",
-    "postcode": "T2O 0R9",
+    "city": "Kahovka",
+    "state": "Zakarpatska",
+    "country": "Ukraine",
+    "postcode": 50852,
     "coordinates": {
-      "latitude": "-72.1621",
-      "longitude": "113.5021"
+      "latitude": "74.9797",
+      "longitude": "-22.4419"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "laurie.young@example.com",
+  "email": "dorogobug.fovickiy@example.com",
   "login": {
-    "uuid": "af5690bc-573c-4f93-9696-1cc1dd970f1f",
-    "username": "happycat785",
-    "password": "models",
-    "salt": "BlV9LoZA",
-    "md5": "6bf48cd42efae62e70beebbbcb34a22e",
-    "sha1": "47a06ec63db2108dccab88aedbec861bad342ddd",
-    "sha256": "5253a1d7890c5ade89914b5c8b4c132f64982f190d9bde3b6de411af5196fb27"
+    "uuid": "5ed6f647-5d1c-4e15-8605-f028b02cb905",
+    "username": "angryfrog976",
+    "password": "getmoney",
+    "salt": "v1fX4fvF",
+    "md5": "8e8074d1d539f00f4bcac050499fd81d",
+    "sha1": "cec67cd6bb25db78254e49640a3d40c4c09a0728",
+    "sha256": "8c03fc908f52ed795181d91251daaf37c77366968491ce6293b3b378ba668a9f"
   },
   "dob": {
-    "date": "1989-09-13T06:04:48.709Z",
-    "age": 35
+    "date": "1945-07-26T06:55:59.338Z",
+    "age": 79
   },
   "registered": {
-    "date": "2004-02-27T10:51:52.889Z",
-    "age": 21
+    "date": "2005-08-20T09:21:54.995Z",
+    "age": 19
   },
-  "phone": "V64 A91-9402",
-  "cell": "I34 T81-1805",
+  "phone": "(097) A17-7503",
+  "cell": "(068) O75-8380",
   "id": {
-    "name": "SIN",
-    "value": "451598056"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+    "large": "https://randomuser.me/api/portraits/men/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
   },
-  "nat": "CA"
+  "nat": "UA"
 }

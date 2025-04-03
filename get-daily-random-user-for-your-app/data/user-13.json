@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Sonia",
-    "last": "Ramos"
+    "title": "Mrs",
+    "first": "Barbara",
+    "last": "Regalado"
   },
   "location": {
     "street": {
-      "number": 7728,
-      "name": "Calle del Pez"
+      "number": 962,
+      "name": "Cerrada Lugo"
     },
-    "city": "Guadalajara",
-    "state": "Castilla y León",
-    "country": "Spain",
-    "postcode": 54496,
+    "city": "Tizayuca",
+    "state": "Jalisco",
+    "country": "Mexico",
+    "postcode": 19917,
     "coordinates": {
-      "latitude": "-35.9957",
-      "longitude": "22.4891"
+      "latitude": "26.2660",
+      "longitude": "60.1164"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "sonia.ramos@example.com",
+  "email": "barbara.regalado@example.com",
   "login": {
-    "uuid": "ecd1cd55-709c-4ac4-8ded-6d42d0aa863a",
-    "username": "ticklishgorilla859",
-    "password": "tiger1",
-    "salt": "aLUQWqqY",
-    "md5": "d7e8f26a0f6c7c1efbed4481e9b65b5d",
-    "sha1": "1e792f2dca67de028fbd52965f1e165a2a4942d6",
-    "sha256": "d9b020d99c5fa3d2c3a2329e84ddf8f878cfaacf6823904f13f509c32b879716"
+    "uuid": "2b6e14e7-177f-487d-8c4c-05afde53c6e8",
+    "username": "silverbird413",
+    "password": "doodle",
+    "salt": "DE9FEZFW",
+    "md5": "f61c166b0f5305e0c4511682f8b82fcd",
+    "sha1": "43df970c023a0c48366be4066601cdcb2ba09373",
+    "sha256": "353d45097c331820c02008603c90f8da8aa88628765d173606179b03c3cd9232"
   },
   "dob": {
-    "date": "1961-11-20T15:56:57.737Z",
-    "age": 63
+    "date": "1983-01-06T04:29:27.400Z",
+    "age": 42
   },
   "registered": {
-    "date": "2005-08-01T08:16:24.283Z",
-    "age": 19
+    "date": "2021-07-07T20:20:28.118Z",
+    "age": 3
   },
-  "phone": "906-654-167",
-  "cell": "675-837-915",
+  "phone": "(683) 183 8554",
+  "cell": "(604) 405 9150",
   "id": {
-    "name": "DNI",
-    "value": "55828816-S"
+    "name": "NSS",
+    "value": "83 75 62 2363 1"
   },
   "picture": {
     "large": "https://randomuser.me/api/portraits/women/81.jpg",
     "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
     "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
   },
-  "nat": "ES"
+  "nat": "MX"
 }

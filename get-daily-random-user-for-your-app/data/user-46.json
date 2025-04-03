@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Clara",
-    "last": "Larsen"
+    "title": "Mr",
+    "first": "Camilo",
+    "last": "Mireles"
   },
   "location": {
     "street": {
-      "number": 2988,
-      "name": "Egehegnet"
+      "number": 7756,
+      "name": "Eje vial Morales"
     },
-    "city": "Nørrebro",
-    "state": "Sjælland",
-    "country": "Denmark",
-    "postcode": 80668,
+    "city": "Pilotos",
+    "state": "Campeche",
+    "country": "Mexico",
+    "postcode": 80597,
     "coordinates": {
-      "latitude": "-41.5925",
-      "longitude": "159.9877"
+      "latitude": "21.7295",
+      "longitude": "-1.3893"
     },
     "timezone": {
       "offset": "+10:00",
       "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "clara.larsen@example.com",
+  "email": "camilo.mireles@example.com",
   "login": {
-    "uuid": "37af429c-c4c0-4ae5-8158-2884ea0e1e7a",
-    "username": "orangedog578",
-    "password": "francesc",
-    "salt": "pUdQ4uGf",
-    "md5": "b1643e258ec1e14cabf5f6d5107f8c33",
-    "sha1": "2894e7da33f19fa0472ca5553186806f34b4f189",
-    "sha256": "12b08e59c76838c08dc010012b52d7a2634e25e86830191758c0d3049d7ff25b"
+    "uuid": "29fc991c-cc17-4ffa-9ca1-088efd0a70dd",
+    "username": "purplecat156",
+    "password": "shiner",
+    "salt": "UXfD80OZ",
+    "md5": "12290e92c37b01e1080b141b73f87717",
+    "sha1": "13d1b233e6b2deddad9a162ebbaec03e18ed4f53",
+    "sha256": "9e35a7462ebd92d977df33f4190c4dac33e43cfcc88f7ac930ae67b737fc4daa"
   },
   "dob": {
-    "date": "1975-11-20T15:55:25.199Z",
+    "date": "1975-05-30T07:13:27.347Z",
     "age": 49
   },
   "registered": {
-    "date": "2008-02-28T16:26:14.002Z",
-    "age": 17
+    "date": "2012-08-07T12:15:06.947Z",
+    "age": 12
   },
-  "phone": "60818464",
-  "cell": "77271909",
+  "phone": "(698) 064 0883",
+  "cell": "(690) 326 6771",
   "id": {
-    "name": "CPR",
-    "value": "201175-5242"
+    "name": "NSS",
+    "value": "34 85 80 0033 5"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/90.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
   },
-  "nat": "DK"
+  "nat": "MX"
 }

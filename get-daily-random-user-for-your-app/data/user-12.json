@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Pranit",
-    "last": "Jain"
+    "first": "Albert",
+    "last": "Christiansen"
   },
   "location": {
     "street": {
-      "number": 5912,
-      "name": "Shanmugham Rd"
+      "number": 7505,
+      "name": "Orionvej"
     },
-    "city": "Kulti",
-    "state": "Sikkim",
-    "country": "India",
-    "postcode": 52552,
+    "city": "Sønder Stenderup",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "postcode": 74184,
     "coordinates": {
-      "latitude": "4.4996",
-      "longitude": "-21.2644"
+      "latitude": "-40.2021",
+      "longitude": "-167.9348"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "pranit.jain@example.com",
+  "email": "albert.christiansen@example.com",
   "login": {
-    "uuid": "b5d9d8d7-f700-40f1-abe9-dcf27361ac58",
-    "username": "whitemeercat832",
-    "password": "puppet",
-    "salt": "8Caba7f5",
-    "md5": "c64acfe9a68c62bced5374acd3d1ddf6",
-    "sha1": "9c35340ae60c5bf8afa025a0c1c43f0647b48030",
-    "sha256": "6d5dbb442f3e6076ac20b218e771c48850484a0679a3afe13839d44c720f21d5"
+    "uuid": "026c9d2b-0f94-479d-ba50-8a9a59e1c5f8",
+    "username": "goldenbear576",
+    "password": "peanut",
+    "salt": "b8KsDJ1B",
+    "md5": "393bc8004e723fba45143418030125fc",
+    "sha1": "155d55f072105a7f67972cfc6499c5a30cdbcd93",
+    "sha256": "df098ffca777c1906b527208538f2870ea025992d877a2cf01ab2030b2e44984"
   },
   "dob": {
-    "date": "1987-05-16T19:42:10.530Z",
-    "age": 37
+    "date": "1982-02-04T22:37:47.074Z",
+    "age": 43
   },
   "registered": {
-    "date": "2022-03-08T16:44:47.464Z",
-    "age": 3
+    "date": "2014-06-21T02:06:01.719Z",
+    "age": 10
   },
-  "phone": "8140673523",
-  "cell": "9050141133",
+  "phone": "35917395",
+  "cell": "19072915",
   "id": {
-    "name": "UIDAI",
-    "value": "553811386825"
+    "name": "CPR",
+    "value": "040282-4725"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    "large": "https://randomuser.me/api/portraits/men/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
   },
-  "nat": "IN"
+  "nat": "DK"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Lody",
-    "last": "Hoveling"
+    "title": "Monsieur",
+    "first": "Sacha",
+    "last": "Pierre"
   },
   "location": {
     "street": {
-      "number": 9883,
-      "name": "Burg. van Houtstraat"
+      "number": 8667,
+      "name": "Rue de L'Abbé-Patureau"
     },
-    "city": "Rietmolen",
-    "state": "Flevoland",
-    "country": "Netherlands",
-    "postcode": "6385 CQ",
+    "city": "Balgach",
+    "state": "Genève",
+    "country": "Switzerland",
+    "postcode": 6693,
     "coordinates": {
-      "latitude": "35.9442",
-      "longitude": "-89.2654"
+      "latitude": "-60.9811",
+      "longitude": "-15.5944"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "lody.hoveling@example.com",
+  "email": "sacha.pierre@example.com",
   "login": {
-    "uuid": "85af3b27-727f-4aca-98a7-9d96e6d25a22",
-    "username": "purpleladybug626",
-    "password": "louise",
-    "salt": "DhD7OUOM",
-    "md5": "e9321e5ecb9bef4335544816866fb90b",
-    "sha1": "ba9e6f606f430f59afbf51a743bc964fae6c56db",
-    "sha256": "00ce4b166ccee43e57f4a4fca7692a8741c56513a2f526fc9eddfd296abdef89"
+    "uuid": "dd9d904d-f606-4fd7-8236-27b0ac12b383",
+    "username": "brownkoala216",
+    "password": "buckley",
+    "salt": "7Aax93BG",
+    "md5": "c1aeff178b5f99292dc712ea52b42bf2",
+    "sha1": "e470fbe7ae1bbd7c39ced3561bac5abb4e007ce9",
+    "sha256": "0aff0f6bf6b0a327c04aefa8734c5d4688d2091b08f8415af6bb1e4c0a11dedb"
   },
   "dob": {
-    "date": "1991-09-26T12:10:18.996Z",
-    "age": 33
+    "date": "1971-05-07T07:54:24.626Z",
+    "age": 53
   },
   "registered": {
-    "date": "2014-08-27T10:09:19.687Z",
-    "age": 10
+    "date": "2016-10-20T23:36:28.926Z",
+    "age": 8
   },
-  "phone": "(084) 8136119",
-  "cell": "(06) 43051758",
+  "phone": "078 017 25 20",
+  "cell": "076 270 75 47",
   "id": {
-    "name": "BSN",
-    "value": "79630274"
+    "name": "AVS",
+    "value": "756.5343.8524.71"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    "large": "https://randomuser.me/api/portraits/men/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
   },
-  "nat": "NL"
+  "nat": "CH"
 }

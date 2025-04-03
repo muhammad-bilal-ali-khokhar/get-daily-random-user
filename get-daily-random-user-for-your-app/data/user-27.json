@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Leonarda",
-    "last": "da Conceição"
+    "title": "Mr",
+    "first": "Noah",
+    "last": "Walker"
   },
   "location": {
     "street": {
-      "number": 4654,
-      "name": "Rua São Pedro "
+      "number": 1027,
+      "name": "Target Road"
     },
-    "city": "São José",
-    "state": "Rio Grande do Sul",
-    "country": "Brazil",
-    "postcode": 14805,
+    "city": "Hamilton",
+    "state": "Nelson",
+    "country": "New Zealand",
+    "postcode": 13870,
     "coordinates": {
-      "latitude": "-78.0087",
-      "longitude": "69.1049"
+      "latitude": "48.2455",
+      "longitude": "-69.9748"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "leonarda.daconceicao@example.com",
+  "email": "noah.walker@example.com",
   "login": {
-    "uuid": "838a7ddb-0bf5-46bc-b1a6-8d98b1b30706",
-    "username": "happyleopard885",
-    "password": "nice",
-    "salt": "S0xASVTf",
-    "md5": "d8e7461e4a85cef03e7a65eb1bb83c4d",
-    "sha1": "1adea874eb1129b6c1ad6e19e998ceeb86350ef8",
-    "sha256": "56b8a335e09a03861b5431123cc9dcbe2dbfb95ebe63881eb9d475432f55963a"
+    "uuid": "cc11d470-a2f9-4282-92ad-07793b4cbc54",
+    "username": "redswan150",
+    "password": "brooks",
+    "salt": "Ni8LlGig",
+    "md5": "bec23ce96a750465427dcb55dea4850e",
+    "sha1": "97360be3811819b8a892c23f1b2c7d6a2c0865d1",
+    "sha256": "c2be15007933329f54983150640bda60fcc1f9715d0286ab62357eb9c79afe7c"
   },
   "dob": {
-    "date": "1979-01-28T01:40:44.422Z",
-    "age": 46
+    "date": "1972-02-02T22:53:46.908Z",
+    "age": 53
   },
   "registered": {
-    "date": "2012-06-24T22:58:10.742Z",
-    "age": 12
+    "date": "2011-10-06T16:23:16.888Z",
+    "age": 13
   },
-  "phone": "(17) 2040-3101",
-  "cell": "(46) 8981-8865",
+  "phone": "(272)-768-3294",
+  "cell": "(421)-419-0051",
   "id": {
-    "name": "CPF",
-    "value": "955.519.225-94"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/67.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+    "large": "https://randomuser.me/api/portraits/men/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
   },
-  "nat": "BR"
+  "nat": "NZ"
 }

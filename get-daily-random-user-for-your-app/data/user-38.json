@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Luis",
-    "last": "Muller"
+    "title": "Ms",
+    "first": "Aria",
+    "last": "Kumar"
   },
   "location": {
     "street": {
-      "number": 3164,
-      "name": "Rue Gasparin"
+      "number": 6037,
+      "name": "Kilmore Street"
     },
-    "city": "Angers",
-    "state": "Lozère",
-    "country": "France",
-    "postcode": 50460,
+    "city": "Hastings",
+    "state": "West Coast",
+    "country": "New Zealand",
+    "postcode": 90608,
     "coordinates": {
-      "latitude": "-13.9631",
-      "longitude": "-78.4835"
+      "latitude": "47.3582",
+      "longitude": "74.0861"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "luis.muller@example.com",
+  "email": "aria.kumar@example.com",
   "login": {
-    "uuid": "8b05e097-1d6a-4e21-8846-15303504d061",
-    "username": "crazykoala195",
-    "password": "lespaul",
-    "salt": "fYyN3jfV",
-    "md5": "3aa629f7e85a890bf9bedf808f6d8994",
-    "sha1": "60f5984282a385cf65750ce4473452ff82789b7b",
-    "sha256": "e586fdd5cb2c8f44ff5699d5bc4b38ed08588ee855197e157d4c28419b4ce847"
+    "uuid": "16ba964f-ec04-45b6-8c45-2c0af6b86b89",
+    "username": "goldencat824",
+    "password": "donnie",
+    "salt": "VdqvTxrW",
+    "md5": "e224c486a8a8aebe6456a5d536dc8c60",
+    "sha1": "d390871014846841d361d40c96a1f6779244eeba",
+    "sha256": "ba2f6359a59807805763da153f133aebcc5cf1f3e83b3633e5655ad4686014d6"
   },
   "dob": {
-    "date": "1962-07-08T05:15:29.230Z",
-    "age": 62
+    "date": "1946-02-09T16:15:32.097Z",
+    "age": 79
   },
   "registered": {
-    "date": "2006-03-19T18:45:14.300Z",
-    "age": 19
+    "date": "2015-01-07T08:58:28.348Z",
+    "age": 10
   },
-  "phone": "01-30-28-04-00",
-  "cell": "06-37-87-28-95",
+  "phone": "(375)-375-6729",
+  "cell": "(794)-924-7355",
   "id": {
-    "name": "INSEE",
-    "value": "1620605960372 02"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    "large": "https://randomuser.me/api/portraits/women/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
   },
-  "nat": "FR"
+  "nat": "NZ"
 }

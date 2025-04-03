@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Anton",
-    "last": "Christensen"
+    "first": "Fernando",
+    "last": "Gil"
   },
   "location": {
     "street": {
-      "number": 6455,
-      "name": "Landlystvej"
+      "number": 4983,
+      "name": "Avenida de América"
     },
-    "city": "Stoevring",
-    "state": "Midtjylland",
-    "country": "Denmark",
-    "postcode": 34408,
+    "city": "Pozuelo de Alarcón",
+    "state": "Aragón",
+    "country": "Spain",
+    "postcode": 62407,
     "coordinates": {
-      "latitude": "-42.7367",
-      "longitude": "-86.8364"
+      "latitude": "-32.0084",
+      "longitude": "-20.9016"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "anton.christensen@example.com",
+  "email": "fernando.gil@example.com",
   "login": {
-    "uuid": "11fa7d54-76ea-40c1-9977-262401419cbf",
-    "username": "heavyladybug230",
-    "password": "magic",
-    "salt": "Cz6NcXhJ",
-    "md5": "6d6ba0de2d380364de129b52a0c6e577",
-    "sha1": "209f520b8e9f99d12868285a76cfb8f9420a30a9",
-    "sha256": "086985bb175a4974e1298a0af498e0207f12d773e37ecd9b05c716132d71aabe"
+    "uuid": "55170b19-67c7-4ee8-9f81-a2c172c5abf9",
+    "username": "orangebird713",
+    "password": "virus",
+    "salt": "xBXD64Gh",
+    "md5": "e7e7ac334008e2cb500b32e41606bb67",
+    "sha1": "238b1da3e64e5ed97c15d148170794ebf7fd5008",
+    "sha256": "93b521af0d96c6d8ae84fe34e2ea0262540828b328102c8f1c1626e94d857357"
   },
   "dob": {
-    "date": "1967-07-27T22:55:46.986Z",
-    "age": 57
+    "date": "1954-09-02T18:04:41.896Z",
+    "age": 70
   },
   "registered": {
-    "date": "2005-10-19T23:52:59.336Z",
-    "age": 19
+    "date": "2018-01-23T19:12:12.119Z",
+    "age": 7
   },
-  "phone": "01215779",
-  "cell": "96867685",
+  "phone": "941-736-696",
+  "cell": "670-430-565",
   "id": {
-    "name": "CPR",
-    "value": "270767-9165"
+    "name": "DNI",
+    "value": "16437690-G"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/28.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
+    "large": "https://randomuser.me/api/portraits/men/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
   },
-  "nat": "DK"
+  "nat": "ES"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Sofia",
-    "last": "Stewart"
+    "title": "Mr",
+    "first": "Coşkun",
+    "last": "Balaban"
   },
   "location": {
     "street": {
-      "number": 5608,
-      "name": "Broadway"
+      "number": 1827,
+      "name": "Necatibey Cd"
     },
-    "city": "Aberdeen",
-    "state": "Devon",
-    "country": "United Kingdom",
-    "postcode": "S06 5BX",
+    "city": "Batman",
+    "state": "Artvin",
+    "country": "Turkey",
+    "postcode": 73914,
     "coordinates": {
-      "latitude": "-7.9220",
-      "longitude": "139.2915"
+      "latitude": "72.3271",
+      "longitude": "-54.7326"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "sofia.stewart@example.com",
+  "email": "coskun.balaban@example.com",
   "login": {
-    "uuid": "dd1f8004-566b-4d07-b0bf-22cb822564bb",
-    "username": "whitecat232",
-    "password": "prelude",
-    "salt": "yzRYdD7d",
-    "md5": "672b299cdb7329438f7fe979326a4cc9",
-    "sha1": "de83afc60827aa917fe74acdaa6bfb45e2bc1bd6",
-    "sha256": "a55bc5de7413cbe86d147d9a1f3152c2b423207d501f73cc8c09c434560d5696"
+    "uuid": "23d28e1b-ab79-48db-bd45-321cbef960f7",
+    "username": "crazyfrog270",
+    "password": "sting",
+    "salt": "QSBJHYTn",
+    "md5": "c6510b151685d72beb5373651b33cb57",
+    "sha1": "6d5992d217af867e478c38d69c5551338b77dd09",
+    "sha256": "1cf17fb35b4fb392b9fa1ec1a7e51552fc7d8bb5ad32e4d4d65900084b8f6a43"
   },
   "dob": {
-    "date": "1988-09-02T04:22:36.581Z",
-    "age": 36
+    "date": "1952-10-16T10:25:08.732Z",
+    "age": 72
   },
   "registered": {
-    "date": "2016-04-30T01:07:20.014Z",
-    "age": 8
+    "date": "2003-12-27T14:29:19.934Z",
+    "age": 21
   },
-  "phone": "01369 852992",
-  "cell": "07268 082954",
+  "phone": "(789)-530-9440",
+  "cell": "(926)-108-6633",
   "id": {
-    "name": "NINO",
-    "value": "JN 18 45 91 Q"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/53.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
   },
-  "nat": "GB"
+  "nat": "TR"
 }

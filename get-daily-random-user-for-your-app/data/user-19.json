@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Monsieur",
-    "first": "Augusto",
-    "last": "Andre"
+    "title": "Ms",
+    "first": "Sueli",
+    "last": "Vieira"
   },
   "location": {
     "street": {
-      "number": 5938,
-      "name": "Rue Denfert-Rochereau"
+      "number": 6679,
+      "name": "Rua Pará "
     },
-    "city": "Grüningen",
-    "state": "Schwyz",
-    "country": "Switzerland",
-    "postcode": 1760,
+    "city": "Franca",
+    "state": "Distrito Federal",
+    "country": "Brazil",
+    "postcode": 81984,
     "coordinates": {
-      "latitude": "-55.9312",
-      "longitude": "-134.3047"
+      "latitude": "-77.9751",
+      "longitude": "125.0004"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "augusto.andre@example.com",
+  "email": "sueli.vieira@example.com",
   "login": {
-    "uuid": "1009a5ac-a5d8-4c3c-8eb1-bd561e4bfa65",
-    "username": "sadbird768",
-    "password": "termite",
-    "salt": "PwYGVmUs",
-    "md5": "329640a0512176cead3414b353d7eaeb",
-    "sha1": "51c59cc9635816b73e3f72704101b8118b21597a",
-    "sha256": "a8153bf69f564dea5fb64cb1c9cbd988543f32dc22f7c6e57933a6d033132ac6"
+    "uuid": "dfa4a753-c0d5-43c5-8563-052e087fec20",
+    "username": "brownbird396",
+    "password": "ggggg",
+    "salt": "dZwpUwbv",
+    "md5": "431ee37248272b00d6b5018a3c3f3b5b",
+    "sha1": "f0cac63b50b4f2fe1294cfb57ccfe00e4cc058bc",
+    "sha256": "4344d7816d6087a63f54110643ce684382d90db6c1ea21b8fad66371d6c73be5"
   },
   "dob": {
-    "date": "1993-03-04T13:37:22.909Z",
-    "age": 32
+    "date": "1955-02-11T03:35:18.309Z",
+    "age": 70
   },
   "registered": {
-    "date": "2009-04-09T14:23:42.312Z",
-    "age": 15
+    "date": "2020-10-31T23:29:56.100Z",
+    "age": 4
   },
-  "phone": "079 279 64 31",
-  "cell": "076 128 73 98",
+  "phone": "(54) 9871-0107",
+  "cell": "(63) 3612-8888",
   "id": {
-    "name": "AVS",
-    "value": "756.9679.6963.81"
+    "name": "CPF",
+    "value": "052.494.897-22"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
   },
-  "nat": "CH"
+  "nat": "BR"
 }

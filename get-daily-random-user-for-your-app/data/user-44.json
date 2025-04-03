@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Dileep",
-    "last": "Ramesh"
+    "first": "Ayaan",
+    "last": "Keshri"
   },
   "location": {
     "street": {
-      "number": 7985,
-      "name": "Bandstand Promenade"
+      "number": 9120,
+      "name": "Jagadamba Centre"
     },
-    "city": "Kurnool",
-    "state": "Dadra and Nagar Haveli",
+    "city": "Pimpri-Chinchwad",
+    "state": "Assam",
     "country": "India",
-    "postcode": 66001,
+    "postcode": 69363,
     "coordinates": {
-      "latitude": "9.6805",
-      "longitude": "-19.0838"
+      "latitude": "9.6058",
+      "longitude": "-101.4897"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "dileep.ramesh@example.com",
+  "email": "ayaan.keshri@example.com",
   "login": {
-    "uuid": "5bac0839-7166-4e71-81f0-6e8f3d4f29e6",
-    "username": "yellowbird465",
-    "password": "alaska",
-    "salt": "Bezx6Dgq",
-    "md5": "800f80321097b63008b9166f8a58812e",
-    "sha1": "34283c6abb29227c94ffa969917ff04cde02d517",
-    "sha256": "f740a5aa072c1f946aa0d508ee58bec42404e0d425fd3960602049218d8a6d54"
+    "uuid": "268e5b1a-1bdf-418c-93db-095924da458a",
+    "username": "ticklishpanda153",
+    "password": "cancun",
+    "salt": "hS19gGY2",
+    "md5": "e48f19a5385d69174a31e398f0549558",
+    "sha1": "8ffb3e8be792ddf04421b6a30a6a6b922e48f596",
+    "sha256": "fa51a763244985f56fa82f2a3bf346669c906fbf09a18d6c2b9273f87a87b194"
   },
   "dob": {
-    "date": "1996-06-28T09:52:27.324Z",
-    "age": 28
+    "date": "1979-11-28T23:16:04.088Z",
+    "age": 45
   },
   "registered": {
-    "date": "2012-12-19T10:11:06.182Z",
-    "age": 12
+    "date": "2008-09-09T19:54:49.908Z",
+    "age": 16
   },
-  "phone": "7829168422",
-  "cell": "9217142267",
+  "phone": "7386335658",
+  "cell": "9742582369",
   "id": {
     "name": "UIDAI",
-    "value": "588549330536"
+    "value": "501128779369"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/99.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
   "nat": "IN"
 }

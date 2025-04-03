@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Selin",
-    "last": "Hauge"
+    "title": "Mr",
+    "first": "Anselmo",
+    "last": "Sales"
   },
   "location": {
     "street": {
-      "number": 1872,
-      "name": "Liljeveien"
+      "number": 7700,
+      "name": "Rua Dezenove de Outubro"
     },
-    "city": "Oppeid",
-    "state": "Nord-Trøndelag",
-    "country": "Norway",
-    "postcode": "7247",
+    "city": "Ji-Paraná",
+    "state": "Alagoas",
+    "country": "Brazil",
+    "postcode": 86747,
     "coordinates": {
-      "latitude": "41.0413",
-      "longitude": "111.2275"
+      "latitude": "-76.6799",
+      "longitude": "-142.4819"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "selin.hauge@example.com",
+  "email": "anselmo.sales@example.com",
   "login": {
-    "uuid": "d4682896-920f-4bdb-aa34-6a9bf567bdb1",
-    "username": "crazygoose691",
-    "password": "chef",
-    "salt": "ic0Q3TAQ",
-    "md5": "1adb2d5339c1874832bfb1b0c0121671",
-    "sha1": "dd5188bdcb338d8efee1e7ef76d385080bade11f",
-    "sha256": "7cc7d3f031327d0a346c9d2614b370f592b815e41b46bc943c269cadd509f577"
+    "uuid": "1e3c370d-810f-4af9-bf3b-76f6de915776",
+    "username": "bluepeacock507",
+    "password": "vermont",
+    "salt": "Gfa7N0Ml",
+    "md5": "cf6e53b8ce13972af1d28d6bd6719f60",
+    "sha1": "24d710d0b4aab6f4b1621f7ad59ede6b48cba618",
+    "sha256": "596fec05d60dbb13ce021620265fab781b9933ca6b1f5e907cc552bf363f4bcb"
   },
   "dob": {
-    "date": "1978-12-14T08:59:42.593Z",
-    "age": 46
+    "date": "1966-12-26T13:35:40.868Z",
+    "age": 58
   },
   "registered": {
-    "date": "2016-04-23T18:39:25.490Z",
-    "age": 8
+    "date": "2022-04-26T10:21:55.039Z",
+    "age": 2
   },
-  "phone": "53468703",
-  "cell": "90905932",
+  "phone": "(88) 5134-4370",
+  "cell": "(03) 6905-3851",
   "id": {
-    "name": "FN",
-    "value": "14127808024"
+    "name": "CPF",
+    "value": "122.436.996-44"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "NO"
+  "nat": "BR"
 }

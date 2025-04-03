@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Theo",
-    "last": "Taylor"
+    "title": "Ms",
+    "first": "Kiara",
+    "last": "Fabre"
   },
   "location": {
     "street": {
-      "number": 4603,
-      "name": "Main Street East"
+      "number": 915,
+      "name": "Rue du Bon-Pasteur"
     },
-    "city": "New Plymouth",
-    "state": "Auckland",
-    "country": "New Zealand",
-    "postcode": 52775,
+    "city": "Caen",
+    "state": "Yonne",
+    "country": "France",
+    "postcode": 28258,
     "coordinates": {
-      "latitude": "48.4561",
-      "longitude": "-7.0608"
+      "latitude": "-20.2346",
+      "longitude": "59.2745"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "theo.taylor@example.com",
+  "email": "kiara.fabre@example.com",
   "login": {
-    "uuid": "ebf77907-62e1-478d-8510-faf99e889408",
-    "username": "bigbear990",
-    "password": "french",
-    "salt": "zk6eBG2F",
-    "md5": "7c26b334c59abaec902099f09fae19c9",
-    "sha1": "37d777e037822493a4f6d01b71a64d9caa8b0639",
-    "sha256": "b6d6a7e67229732c3d9bbb8261c7671d587cd9811aff0c729e5ac93f57fbac8c"
+    "uuid": "74d51c3f-3481-41dc-87c5-b4fb0fc024c7",
+    "username": "goldenpanda346",
+    "password": "roberto",
+    "salt": "rFheZXFC",
+    "md5": "26feae0673cadf32ef3f7099a5cae0c1",
+    "sha1": "a5880ee1cb7b4b60d5041dc5ba2141a7c64f406f",
+    "sha256": "7d42c965c27d8f16626eb7f050ad827b8992d0e6493d9074c9da347fd0cc1523"
   },
   "dob": {
-    "date": "1983-01-12T12:03:02.055Z",
-    "age": 42
+    "date": "2000-08-31T14:46:49.511Z",
+    "age": 24
   },
   "registered": {
-    "date": "2022-03-31T01:42:22.246Z",
-    "age": 3
+    "date": "2016-02-25T01:31:22.483Z",
+    "age": 9
   },
-  "phone": "(695)-563-0586",
-  "cell": "(569)-992-3707",
+  "phone": "05-80-12-74-01",
+  "cell": "06-17-00-67-21",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "21000773827590 15"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
   },
-  "nat": "NZ"
+  "nat": "FR"
 }

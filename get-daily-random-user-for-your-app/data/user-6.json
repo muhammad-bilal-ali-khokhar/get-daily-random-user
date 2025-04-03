@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Eleah",
-    "last": "Bu"
+    "title": "Madame",
+    "first": "Kim",
+    "last": "Philippe"
   },
   "location": {
     "street": {
-      "number": 301,
-      "name": "Kaare Røddes plass"
+      "number": 3360,
+      "name": "Avenue Jean-Jaurès"
     },
-    "city": "Midtbygda",
-    "state": "Nord-Trøndelag",
-    "country": "Norway",
-    "postcode": "9151",
+    "city": "St. Niklaus",
+    "state": "St. Gallen",
+    "country": "Switzerland",
+    "postcode": 2970,
     "coordinates": {
-      "latitude": "39.6263",
-      "longitude": "152.8153"
+      "latitude": "-59.1864",
+      "longitude": "108.0840"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "eleah.bu@example.com",
+  "email": "kim.philippe@example.com",
   "login": {
-    "uuid": "31b00787-250a-486e-a74c-7b0fe003946f",
-    "username": "smallladybug721",
-    "password": "december",
-    "salt": "vbNIA3zC",
-    "md5": "0d4efd42778abbda3625443ba80555bc",
-    "sha1": "f7f44250f84b013ab7fce6830c25e9aa7f7fee45",
-    "sha256": "d60cea0d6ed6f0004610c3a1eb077cafcf272c530a967a1cd3a06c4eaea9a27b"
+    "uuid": "8c6551db-1329-4820-97c5-9a5d8937c4e4",
+    "username": "greenmouse668",
+    "password": "roadking",
+    "salt": "miMHicuD",
+    "md5": "4284f1e66e9116218f7df0e518d25173",
+    "sha1": "4d62d20a78b146b1d427e84b70aca6feb92c5b91",
+    "sha256": "ed3992e50de415da67b8406a2a824e136b78dd28f68f7c201688e31e6e8826ab"
   },
   "dob": {
-    "date": "1946-02-05T04:54:29.038Z",
-    "age": 79
+    "date": "1963-11-09T13:37:08.490Z",
+    "age": 61
   },
   "registered": {
-    "date": "2021-10-16T20:25:45.007Z",
-    "age": 3
+    "date": "2019-09-19T14:59:28.669Z",
+    "age": 5
   },
-  "phone": "20252498",
-  "cell": "90907364",
+  "phone": "077 728 27 51",
+  "cell": "078 650 67 00",
   "id": {
-    "name": "FN",
-    "value": "05024630082"
+    "name": "AVS",
+    "value": "756.7068.3774.21"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/89.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
+    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
   },
-  "nat": "NO"
+  "nat": "CH"
 }

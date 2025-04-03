@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Elisandra",
-    "last": "Viana"
+    "title": "Mr",
+    "first": "Joseph",
+    "last": "Königs"
   },
   "location": {
     "street": {
-      "number": 5188,
-      "name": "Rua João Xxiii"
+      "number": 3509,
+      "name": "Raiffeisenstraße"
     },
-    "city": "Varginha",
-    "state": "Amapá",
-    "country": "Brazil",
-    "postcode": 35544,
+    "city": "Bad Krozingen",
+    "state": "Saarland",
+    "country": "Germany",
+    "postcode": 18776,
     "coordinates": {
-      "latitude": "-76.8688",
-      "longitude": "137.7389"
+      "latitude": "-53.5164",
+      "longitude": "-159.4106"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "elisandra.viana@example.com",
+  "email": "joseph.konigs@example.com",
   "login": {
-    "uuid": "4f9986f1-485b-4c59-89f1-d1ad4f7f4b7f",
-    "username": "bigswan198",
-    "password": "vintage",
-    "salt": "ItSWuMaL",
-    "md5": "b1f4649b83ae3a45f1ebe2b1a829e7e8",
-    "sha1": "5cde14b0514c9d733854fab729adeb0449d71fc6",
-    "sha256": "7d4c49bffe05d798c72c3deb874e6bebe8eae0d07a6f4ae2d297720c5b46389a"
+    "uuid": "8835c0b1-2ea0-4c87-aaf2-1d48f20fa29a",
+    "username": "whitedog175",
+    "password": "ocean",
+    "salt": "i3NaVFE3",
+    "md5": "5871337e844dcb45b7f3efae0d6d61b7",
+    "sha1": "e44143acbd9a57bd529f57c13dc0a3fde82ae123",
+    "sha256": "cd2a175bc7ab21afea8c0538913f971913b61629f6dc7365c18aa6d2742818f7"
   },
   "dob": {
-    "date": "1982-01-02T11:55:28.825Z",
-    "age": 43
+    "date": "1990-11-26T20:06:16.514Z",
+    "age": 34
   },
   "registered": {
-    "date": "2018-09-08T20:39:31.934Z",
-    "age": 6
+    "date": "2007-08-06T18:54:44.387Z",
+    "age": 17
   },
-  "phone": "(94) 9274-9585",
-  "cell": "(91) 5512-2625",
+  "phone": "0910-9616663",
+  "cell": "0179-1766625",
   "id": {
-    "name": "CPF",
-    "value": "240.459.315-00"
+    "name": "SVNR",
+    "value": "59 261190 K 008"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/30.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    "large": "https://randomuser.me/api/portraits/men/54.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/54.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/54.jpg"
   },
-  "nat": "BR"
+  "nat": "DE"
 }
