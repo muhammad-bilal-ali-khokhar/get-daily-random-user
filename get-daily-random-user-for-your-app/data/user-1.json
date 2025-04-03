@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jeremiah",
-    "last": "Rose"
+    "first": "Velemir",
+    "last": "Onkovich"
   },
   "location": {
     "street": {
-      "number": 9048,
-      "name": "W Pecan St"
+      "number": 3023,
+      "name": "Sagaydachnogo"
     },
-    "city": "Albany",
-    "state": "Tasmania",
-    "country": "Australia",
-    "postcode": 9454,
+    "city": "Berdyansk",
+    "state": "Ivano-Frankivska",
+    "country": "Ukraine",
+    "postcode": 76856,
     "coordinates": {
-      "latitude": "-81.7777",
-      "longitude": "-54.3594"
+      "latitude": "81.3483",
+      "longitude": "-175.1423"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "jeremiah.rose@example.com",
+  "email": "velemir.onkovich@example.com",
   "login": {
-    "uuid": "7ccee0b6-8a2b-4db0-9828-b06e73aa6e14",
-    "username": "blueleopard771",
-    "password": "lemmein",
-    "salt": "FQjTYTa1",
-    "md5": "6e95e2347369ce33c7296eef55a83699",
-    "sha1": "cbd62795fc37fc463092fa8dfdd6a9b66f7c97d8",
-    "sha256": "f874a3b019edb9207bc84820e0ea1e92d2f19086dedc297a35468057ceaa5b90"
+    "uuid": "2a14c05b-b6d4-425f-ab86-ab916c6b4be6",
+    "username": "lazygorilla698",
+    "password": "pringles",
+    "salt": "SyZrkt87",
+    "md5": "34eba7a7757dec9cde97b0a929f32109",
+    "sha1": "bb0871f208a08e8960760f3bc5dab0114d52743a",
+    "sha256": "f861bc94fdc3deec7c2d3c2daac1f7fa2422ebd96453bf61d8294396aae82c8f"
   },
   "dob": {
-    "date": "1946-07-24T17:03:43.267Z",
-    "age": 78
+    "date": "1985-10-20T16:35:48.491Z",
+    "age": 39
   },
   "registered": {
-    "date": "2010-01-19T18:46:44.067Z",
-    "age": 15
+    "date": "2014-09-07T19:30:11.475Z",
+    "age": 10
   },
-  "phone": "04-2664-8026",
-  "cell": "0460-741-842",
+  "phone": "(068) U47-2693",
+  "cell": "(097) L83-0740",
   "id": {
-    "name": "TFN",
-    "value": "970345950"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "AU"
+  "nat": "UA"
 }

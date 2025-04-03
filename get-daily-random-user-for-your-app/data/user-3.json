@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Betül",
-    "last": "Rijke"
+    "title": "Monsieur",
+    "first": "Ismet",
+    "last": "Roy"
   },
   "location": {
     "street": {
-      "number": 1848,
-      "name": "Binnenstraat"
+      "number": 623,
+      "name": "Rue des Chartreux"
     },
-    "city": "Stiens",
-    "state": "Zuid-Holland",
-    "country": "Netherlands",
-    "postcode": "8110 FA",
+    "city": "Eischoll",
+    "state": "Basel-Stadt",
+    "country": "Switzerland",
+    "postcode": 4883,
     "coordinates": {
-      "latitude": "34.0292",
-      "longitude": "167.3407"
+      "latitude": "-59.5985",
+      "longitude": "-30.2640"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "betul.rijke@example.com",
+  "email": "ismet.roy@example.com",
   "login": {
-    "uuid": "195322cf-3435-4aa0-942d-59117d4db94a",
-    "username": "smallfrog615",
-    "password": "bruiser",
-    "salt": "rpvNNdfs",
-    "md5": "1cf287443314ee059fb253ab1a2527be",
-    "sha1": "1e43a4abefba116efa09d3d9f0e70450cb1de598",
-    "sha256": "b8c8d349bf44df14ef323d13cebb8237c8f7f4eb9b34b6de5e6ad51ab3c985c5"
+    "uuid": "6fb0b431-c167-4e40-b028-4ba76e9e9045",
+    "username": "biglion354",
+    "password": "454545",
+    "salt": "WhxC5rcn",
+    "md5": "27a6c5b5aaba67efd4ccc3f462ec68b1",
+    "sha1": "b6f9f967def098b2ed0c7ab1cf919f96a3587811",
+    "sha256": "e4b67c1e7de4e2831aa07758ec6c80e65e2d2edd53a08e1de6959994350d899b"
   },
   "dob": {
-    "date": "1951-03-14T20:27:26.729Z",
-    "age": 74
+    "date": "1983-10-02T09:08:22.455Z",
+    "age": 41
   },
   "registered": {
-    "date": "2003-12-23T11:44:39.649Z",
-    "age": 21
+    "date": "2015-12-26T21:41:20.297Z",
+    "age": 9
   },
-  "phone": "(0408) 796857",
-  "cell": "(06) 36561673",
+  "phone": "079 586 02 37",
+  "cell": "077 771 91 82",
   "id": {
-    "name": "BSN",
-    "value": "84107798"
+    "name": "AVS",
+    "value": "756.2675.2279.93"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
   },
-  "nat": "NL"
+  "nat": "CH"
 }

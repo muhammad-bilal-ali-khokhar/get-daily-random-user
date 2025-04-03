@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Madame",
-    "first": "Kim",
-    "last": "Philippe"
+    "title": "Mrs",
+    "first": "Dores",
+    "last": "Novaes"
   },
   "location": {
     "street": {
-      "number": 3360,
-      "name": "Avenue Jean-Jaurès"
+      "number": 3066,
+      "name": "Rua Um"
     },
-    "city": "St. Niklaus",
-    "state": "St. Gallen",
-    "country": "Switzerland",
-    "postcode": 2970,
+    "city": "Ribeirão das Neves",
+    "state": "Amazonas",
+    "country": "Brazil",
+    "postcode": 31006,
     "coordinates": {
-      "latitude": "-59.1864",
-      "longitude": "108.0840"
+      "latitude": "-76.1407",
+      "longitude": "149.5907"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "kim.philippe@example.com",
+  "email": "dores.novaes@example.com",
   "login": {
-    "uuid": "8c6551db-1329-4820-97c5-9a5d8937c4e4",
-    "username": "greenmouse668",
-    "password": "roadking",
-    "salt": "miMHicuD",
-    "md5": "4284f1e66e9116218f7df0e518d25173",
-    "sha1": "4d62d20a78b146b1d427e84b70aca6feb92c5b91",
-    "sha256": "ed3992e50de415da67b8406a2a824e136b78dd28f68f7c201688e31e6e8826ab"
+    "uuid": "3b8c4eb2-3ebf-4815-ab1a-29b880d5333d",
+    "username": "reddog660",
+    "password": "banshee",
+    "salt": "3S9Fgw5T",
+    "md5": "934728a068bd0783c38dcefe5d382beb",
+    "sha1": "7a0692a5353ea7177d757c750f39b1649d251cbe",
+    "sha256": "2cc9d50ab9a708d43e194904a83fed7a11bacce69dc255dc533e3d976e12f599"
   },
   "dob": {
-    "date": "1963-11-09T13:37:08.490Z",
-    "age": 61
+    "date": "1983-09-07T11:19:27.878Z",
+    "age": 41
   },
   "registered": {
-    "date": "2019-09-19T14:59:28.669Z",
-    "age": 5
+    "date": "2012-10-19T06:26:01.101Z",
+    "age": 12
   },
-  "phone": "077 728 27 51",
-  "cell": "078 650 67 00",
+  "phone": "(08) 3222-8540",
+  "cell": "(64) 2789-8710",
   "id": {
-    "name": "AVS",
-    "value": "756.7068.3774.21"
+    "name": "CPF",
+    "value": "416.248.316-35"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/women/53.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
   },
-  "nat": "CH"
+  "nat": "BR"
 }

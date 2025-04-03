@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Sueli",
-    "last": "Vieira"
+    "title": "Mr",
+    "first": "Benjamin",
+    "last": "Rasmussen"
   },
   "location": {
     "street": {
-      "number": 6679,
-      "name": "Rua Pará "
+      "number": 3253,
+      "name": "Gartnervej"
     },
-    "city": "Franca",
-    "state": "Distrito Federal",
-    "country": "Brazil",
-    "postcode": 81984,
+    "city": "Klitmøller",
+    "state": "Syddanmark",
+    "country": "Denmark",
+    "postcode": 83313,
     "coordinates": {
-      "latitude": "-77.9751",
-      "longitude": "125.0004"
+      "latitude": "-41.0690",
+      "longitude": "-154.4410"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "sueli.vieira@example.com",
+  "email": "benjamin.rasmussen@example.com",
   "login": {
-    "uuid": "dfa4a753-c0d5-43c5-8563-052e087fec20",
-    "username": "brownbird396",
-    "password": "ggggg",
-    "salt": "dZwpUwbv",
-    "md5": "431ee37248272b00d6b5018a3c3f3b5b",
-    "sha1": "f0cac63b50b4f2fe1294cfb57ccfe00e4cc058bc",
-    "sha256": "4344d7816d6087a63f54110643ce684382d90db6c1ea21b8fad66371d6c73be5"
+    "uuid": "2d9536fd-7b12-4be3-a9a1-c8ac28823649",
+    "username": "redbird810",
+    "password": "mary",
+    "salt": "DSeiT5mj",
+    "md5": "6a49180db7f6455a5bb9e22227d4fe82",
+    "sha1": "0478fa38c7a907072c675eb6c8c6c8296fe67b16",
+    "sha256": "535b5add5fa4ce82334d4d26341eff4af277054cfe7bd0770a300c5a4dbced4a"
   },
   "dob": {
-    "date": "1955-02-11T03:35:18.309Z",
-    "age": 70
+    "date": "1976-06-30T02:00:30.771Z",
+    "age": 48
   },
   "registered": {
-    "date": "2020-10-31T23:29:56.100Z",
-    "age": 4
+    "date": "2015-11-16T22:43:39.231Z",
+    "age": 9
   },
-  "phone": "(54) 9871-0107",
-  "cell": "(63) 3612-8888",
+  "phone": "15512425",
+  "cell": "78598405",
   "id": {
-    "name": "CPF",
-    "value": "052.494.897-22"
+    "name": "CPR",
+    "value": "290676-9382"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
   },
-  "nat": "BR"
+  "nat": "DK"
 }

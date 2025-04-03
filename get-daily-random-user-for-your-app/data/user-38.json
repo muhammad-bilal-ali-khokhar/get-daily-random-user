@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Aria",
-    "last": "Kumar"
+    "title": "Mr",
+    "first": "Alexis",
+    "last": "Andersen"
   },
   "location": {
     "street": {
-      "number": 6037,
-      "name": "Kilmore Street"
+      "number": 1364,
+      "name": "Lake of Bays Road"
     },
-    "city": "Hastings",
-    "state": "West Coast",
-    "country": "New Zealand",
-    "postcode": 90608,
+    "city": "Havelock",
+    "state": "Yukon",
+    "country": "Canada",
+    "postcode": "P4B 2Z5",
     "coordinates": {
-      "latitude": "47.3582",
-      "longitude": "74.0861"
+      "latitude": "-71.5095",
+      "longitude": "-1.5296"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "aria.kumar@example.com",
+  "email": "alexis.andersen@example.com",
   "login": {
-    "uuid": "16ba964f-ec04-45b6-8c45-2c0af6b86b89",
-    "username": "goldencat824",
-    "password": "donnie",
-    "salt": "VdqvTxrW",
-    "md5": "e224c486a8a8aebe6456a5d536dc8c60",
-    "sha1": "d390871014846841d361d40c96a1f6779244eeba",
-    "sha256": "ba2f6359a59807805763da153f133aebcc5cf1f3e83b3633e5655ad4686014d6"
+    "uuid": "103296fc-f08f-4034-a1ea-25c5325da070",
+    "username": "tinyostrich245",
+    "password": "beacon",
+    "salt": "9dG9dlq6",
+    "md5": "c1ae6e66b5cd4c11233d73981e16071a",
+    "sha1": "cb9f41e76acdc225fb2279445b111b3c4267c2f9",
+    "sha256": "48b7a0c7c451c427603b96584e9bab30a6310b9d133f8e22402fc48f0f5a40cc"
   },
   "dob": {
-    "date": "1946-02-09T16:15:32.097Z",
-    "age": 79
+    "date": "1964-08-16T00:46:15.808Z",
+    "age": 60
   },
   "registered": {
-    "date": "2015-01-07T08:58:28.348Z",
-    "age": 10
+    "date": "2018-03-29T03:16:36.040Z",
+    "age": 7
   },
-  "phone": "(375)-375-6729",
-  "cell": "(794)-924-7355",
+  "phone": "G13 V60-4050",
+  "cell": "H01 C78-0098",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "193292620"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
   },
-  "nat": "NZ"
+  "nat": "CA"
 }

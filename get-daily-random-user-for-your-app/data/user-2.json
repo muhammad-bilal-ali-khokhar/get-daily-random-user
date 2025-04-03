@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Anselmo",
-    "last": "Sales"
+    "title": "Miss",
+    "first": "Helene",
+    "last": "Silveira"
   },
   "location": {
     "street": {
-      "number": 7700,
-      "name": "Rua Dezenove de Outubro"
+      "number": 5443,
+      "name": "Rua Pernambuco "
     },
-    "city": "Ji-Paraná",
-    "state": "Alagoas",
+    "city": "Porto Velho",
+    "state": "Minas Gerais",
     "country": "Brazil",
-    "postcode": 86747,
+    "postcode": 97468,
     "coordinates": {
-      "latitude": "-76.6799",
-      "longitude": "-142.4819"
+      "latitude": "-75.0491",
+      "longitude": "30.8369"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "anselmo.sales@example.com",
+  "email": "helene.silveira@example.com",
   "login": {
-    "uuid": "1e3c370d-810f-4af9-bf3b-76f6de915776",
-    "username": "bluepeacock507",
-    "password": "vermont",
-    "salt": "Gfa7N0Ml",
-    "md5": "cf6e53b8ce13972af1d28d6bd6719f60",
-    "sha1": "24d710d0b4aab6f4b1621f7ad59ede6b48cba618",
-    "sha256": "596fec05d60dbb13ce021620265fab781b9933ca6b1f5e907cc552bf363f4bcb"
+    "uuid": "6e4b87b7-ff12-4566-ba39-cdb79ea815c7",
+    "username": "organicrabbit852",
+    "password": "clinton",
+    "salt": "7glwyxSQ",
+    "md5": "871fd58922108758a7aee3f0952780e0",
+    "sha1": "f308d8f09b02f4f97ac16208a93fb90006fa82fc",
+    "sha256": "e90d604c3217e12e0346e4d5033acaa2fa461f2c5551880ca69c4a4d9c5caf60"
   },
   "dob": {
-    "date": "1966-12-26T13:35:40.868Z",
-    "age": 58
+    "date": "1984-03-27T12:35:48.223Z",
+    "age": 41
   },
   "registered": {
-    "date": "2022-04-26T10:21:55.039Z",
-    "age": 2
+    "date": "2011-02-09T08:31:19.336Z",
+    "age": 14
   },
-  "phone": "(88) 5134-4370",
-  "cell": "(03) 6905-3851",
+  "phone": "(86) 5037-4431",
+  "cell": "(53) 3289-8751",
   "id": {
     "name": "CPF",
-    "value": "122.436.996-44"
+    "value": "879.846.704-88"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    "large": "https://randomuser.me/api/portraits/women/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
   },
   "nat": "BR"
 }

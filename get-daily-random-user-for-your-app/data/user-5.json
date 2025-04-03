@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Naksh",
-    "last": "Rai"
+    "first": "Noham",
+    "last": "Blanchard"
   },
   "location": {
     "street": {
-      "number": 957,
-      "name": "Tilak Marg"
+      "number": 309,
+      "name": "Rue du Village"
     },
-    "city": "Junagadh",
-    "state": "Assam",
-    "country": "India",
-    "postcode": 33124,
+    "city": "Nantes",
+    "state": "Vosges",
+    "country": "France",
+    "postcode": 34936,
     "coordinates": {
-      "latitude": "12.8312",
-      "longitude": "-27.7410"
+      "latitude": "-18.0001",
+      "longitude": "-61.7437"
     },
     "timezone": {
       "offset": "+5:00",
       "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "naksh.rai@example.com",
+  "email": "noham.blanchard@example.com",
   "login": {
-    "uuid": "aba1f714-c055-4d5b-a142-acf83b7c3ef3",
-    "username": "crazycat712",
-    "password": "band",
-    "salt": "UcwtZvQP",
-    "md5": "22cb75774ef07a1588d7c51bc2cf2df6",
-    "sha1": "db6223ea5d1c97476c218b6eae8f7cdfa40c9e98",
-    "sha256": "cbab93eb2a0a5e83d2de95e01935d4db763ae1f37108c4590cedc369555027b4"
+    "uuid": "c1a0d9f4-ae2b-40fb-a50b-30852f68eafd",
+    "username": "angrypanda289",
+    "password": "earth",
+    "salt": "P5lRb9Rz",
+    "md5": "875b2cfbafd61f98dcab3749b5007f90",
+    "sha1": "710f31bd073122273f06766edbc895c6ebab5385",
+    "sha256": "e151f2abfd8ef1dea78165b647977fa2b324ca49a4f78b5e8faf9c9836cf83ac"
   },
   "dob": {
-    "date": "1988-07-09T23:41:14.695Z",
-    "age": 36
+    "date": "1947-09-12T15:41:10.240Z",
+    "age": 77
   },
   "registered": {
-    "date": "2021-02-19T00:45:03.271Z",
-    "age": 4
+    "date": "2012-08-16T15:52:38.892Z",
+    "age": 12
   },
-  "phone": "7647299238",
-  "cell": "8364085869",
+  "phone": "01-94-59-69-87",
+  "cell": "06-36-49-85-45",
   "id": {
-    "name": "UIDAI",
-    "value": "058685258277"
+    "name": "INSEE",
+    "value": "1470887348895 96"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/55.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
   },
-  "nat": "IN"
+  "nat": "FR"
 }

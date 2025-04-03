@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Onni",
-    "last": "Heikkinen"
+    "first": "Darpan",
+    "last": "Moolya"
   },
   "location": {
     "street": {
-      "number": 1822,
-      "name": "Aleksanterinkatu"
+      "number": 7320,
+      "name": "Linking Rd"
     },
-    "city": "Siikajoki",
-    "state": "Finland Proper",
-    "country": "Finland",
-    "postcode": 59491,
+    "city": "Hospet",
+    "state": "Dadra and Nagar Haveli",
+    "country": "India",
+    "postcode": 65298,
     "coordinates": {
-      "latitude": "-23.5098",
-      "longitude": "-25.3393"
+      "latitude": "9.9233",
+      "longitude": "-138.6820"
     },
     "timezone": {
       "offset": "-5:00",
       "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "onni.heikkinen@example.com",
+  "email": "darpan.moolya@example.com",
   "login": {
-    "uuid": "b2320c28-0e25-4a30-aeaa-22c53659861d",
-    "username": "redostrich256",
-    "password": "treetop",
-    "salt": "b3kwPocA",
-    "md5": "daa0cb1f42166c653e53bf68d4124af7",
-    "sha1": "a46f188836cd731db8fe549140262a158b8eb600",
-    "sha256": "1803f1c9c6ca9114bfb84380f23a0a4b28ea31e3130859f35d9165814c16419c"
+    "uuid": "483b7639-b13f-489f-8edb-e0b45f7c5221",
+    "username": "ticklishpeacock914",
+    "password": "tech",
+    "salt": "Rho7GJ0r",
+    "md5": "f1675cfa69e58f12ae309acf52ec7b4b",
+    "sha1": "75db241948160450337a63bba84122f9bcf993f8",
+    "sha256": "8e08129f3eb960fc8627a78844b0c71bc5dce2748a9815a23044299f2d6df28e"
   },
   "dob": {
-    "date": "1954-02-07T12:37:23.786Z",
-    "age": 71
+    "date": "1945-05-06T15:42:58.743Z",
+    "age": 79
   },
   "registered": {
-    "date": "2017-12-12T04:15:52.457Z",
-    "age": 7
+    "date": "2016-10-27T04:32:37.040Z",
+    "age": 8
   },
-  "phone": "03-335-531",
-  "cell": "048-531-19-25",
+  "phone": "8947311007",
+  "cell": "8491479184",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA685undefined"
+    "name": "UIDAI",
+    "value": "612998384486"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "FI"
+  "nat": "IN"
 }

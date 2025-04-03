@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Camilo",
-    "last": "Mireles"
+    "first": "Piotr",
+    "last": "Sørhus"
   },
   "location": {
     "street": {
-      "number": 7756,
-      "name": "Eje vial Morales"
+      "number": 9226,
+      "name": "Seljeveien"
     },
-    "city": "Pilotos",
-    "state": "Campeche",
-    "country": "Mexico",
-    "postcode": 80597,
+    "city": "Løkken",
+    "state": "Aust-Agder",
+    "country": "Norway",
+    "postcode": "2030",
     "coordinates": {
-      "latitude": "21.7295",
-      "longitude": "-1.3893"
+      "latitude": "43.5441",
+      "longitude": "-97.2020"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "camilo.mireles@example.com",
+  "email": "piotr.sorhus@example.com",
   "login": {
-    "uuid": "29fc991c-cc17-4ffa-9ca1-088efd0a70dd",
-    "username": "purplecat156",
-    "password": "shiner",
-    "salt": "UXfD80OZ",
-    "md5": "12290e92c37b01e1080b141b73f87717",
-    "sha1": "13d1b233e6b2deddad9a162ebbaec03e18ed4f53",
-    "sha256": "9e35a7462ebd92d977df33f4190c4dac33e43cfcc88f7ac930ae67b737fc4daa"
+    "uuid": "cd7eb712-1567-4d27-a708-22f27b3dc7a3",
+    "username": "angrylion223",
+    "password": "jeeper",
+    "salt": "htAB1jEB",
+    "md5": "121f7d9ba95a0f80072e91b577b46efc",
+    "sha1": "9c08e90efd64f0273fbd79c9876daf29f00660cf",
+    "sha256": "15e206ea45aa3f9958ad3bc6ea4669c5eb8a20a1d4f5ce89ed697c8d1214ed28"
   },
   "dob": {
-    "date": "1975-05-30T07:13:27.347Z",
-    "age": 49
+    "date": "1953-12-20T11:36:33.534Z",
+    "age": 71
   },
   "registered": {
-    "date": "2012-08-07T12:15:06.947Z",
-    "age": 12
+    "date": "2021-05-21T00:06:04.135Z",
+    "age": 3
   },
-  "phone": "(698) 064 0883",
-  "cell": "(690) 326 6771",
+  "phone": "57287462",
+  "cell": "95770809",
   "id": {
-    "name": "NSS",
-    "value": "34 85 80 0033 5"
+    "name": "FN",
+    "value": "20125319107"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/89.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    "large": "https://randomuser.me/api/portraits/men/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
   },
-  "nat": "MX"
+  "nat": "NO"
 }

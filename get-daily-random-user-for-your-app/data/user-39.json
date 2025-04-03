@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Clyde",
-    "last": "Martin"
+    "title": "Miss",
+    "first": "Thaís",
+    "last": "Silveira"
   },
   "location": {
     "street": {
-      "number": 3440,
-      "name": "Patrick Street"
+      "number": 994,
+      "name": "Rua Boa Vista "
     },
-    "city": "Tipperary",
-    "state": "Kildare",
-    "country": "Ireland",
-    "postcode": 68779,
+    "city": "Bragança Paulista",
+    "state": "Amazonas",
+    "country": "Brazil",
+    "postcode": 63050,
     "coordinates": {
-      "latitude": "-3.7786",
-      "longitude": "-138.2777"
+      "latitude": "-74.2707",
+      "longitude": "70.5896"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "clyde.martin@example.com",
+  "email": "thais.silveira@example.com",
   "login": {
-    "uuid": "29d5ae6a-527d-4955-9083-ec42aeeb22f9",
-    "username": "lazyduck904",
-    "password": "1717",
-    "salt": "ujE2Jwv1",
-    "md5": "3b41be4f3893d6821d03413f51342f6f",
-    "sha1": "887cdba3b69255dd7cb320b4fac317c313f65131",
-    "sha256": "7d7752435b0f9c667b3ea41d3d4def465fd6854087c2b0c544a4aadf02cf07cf"
+    "uuid": "ee201221-9f40-4d34-90d8-e0f6c6478563",
+    "username": "orangetiger123",
+    "password": "sunshine",
+    "salt": "9qbYmqwd",
+    "md5": "563a932bea615f5dba8fd98a3f595123",
+    "sha1": "9f1d089a57d9e65a7037d8132f01493e09fa8871",
+    "sha256": "c365a72d06358c9076e8ba9264e8cee7048fc2948adbee0324bc10967ed92843"
   },
   "dob": {
-    "date": "1988-09-05T10:21:06.650Z",
-    "age": 36
+    "date": "2001-01-16T05:29:04.614Z",
+    "age": 24
   },
   "registered": {
-    "date": "2007-06-26T23:58:45.739Z",
-    "age": 17
+    "date": "2010-10-20T18:20:00.823Z",
+    "age": 14
   },
-  "phone": "051-887-1196",
-  "cell": "081-657-2208",
+  "phone": "(42) 4533-2768",
+  "cell": "(20) 8380-6351",
   "id": {
-    "name": "PPS",
-    "value": "9503713T"
+    "name": "CPF",
+    "value": "179.592.229-37"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/17.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    "large": "https://randomuser.me/api/portraits/women/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
   },
-  "nat": "IE"
+  "nat": "BR"
 }

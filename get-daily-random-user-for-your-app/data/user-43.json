@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Neil",
-    "last": "Montgomery"
+    "first": "Jagdish",
+    "last": "Tipparti"
   },
   "location": {
     "street": {
-      "number": 8896,
-      "name": "Springfield Road"
+      "number": 4875,
+      "name": "Rani No Hajiro"
     },
-    "city": "Monaghan",
-    "state": "South Dublin",
-    "country": "Ireland",
-    "postcode": 73690,
+    "city": "Satna",
+    "state": "Tripura",
+    "country": "India",
+    "postcode": 86925,
     "coordinates": {
-      "latitude": "-0.8773",
-      "longitude": "-60.1058"
+      "latitude": "10.0878",
+      "longitude": "-176.5417"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "neil.montgomery@example.com",
+  "email": "jagdish.tipparti@example.com",
   "login": {
-    "uuid": "b98ecadb-54fd-4d14-a33d-0499d1efdddc",
-    "username": "bluesnake150",
-    "password": "capricor",
-    "salt": "wp0Z2fsy",
-    "md5": "e0e208352bfefc680784a45e06e092d6",
-    "sha1": "e8c0cbe9dc7b7a0316d1b24d0f3dbc1521c43b34",
-    "sha256": "0ced57f7da9ed019d828b2d64c130061d0cd192ae10bb8362574b039772783ee"
+    "uuid": "7f27bdfd-0f1c-4d1d-a35f-c6b1e667a180",
+    "username": "goldenwolf805",
+    "password": "cccccc",
+    "salt": "c8fX1g2O",
+    "md5": "cc8f8bd599066665bb44dc9b78621193",
+    "sha1": "966c4378355859016928e17fae9c132aa9394141",
+    "sha256": "61544792ed626ac1dd9e743fd2b6c75b5245ea4f053ca9b4429db3da5a9fee9c"
   },
   "dob": {
-    "date": "1961-07-14T22:40:13.191Z",
-    "age": 63
+    "date": "1966-04-05T17:18:01.394Z",
+    "age": 58
   },
   "registered": {
-    "date": "2014-01-01T02:30:23.721Z",
-    "age": 11
+    "date": "2016-02-15T19:55:26.029Z",
+    "age": 9
   },
-  "phone": "061-199-8887",
-  "cell": "081-501-9307",
+  "phone": "9344605043",
+  "cell": "7380801145",
   "id": {
-    "name": "PPS",
-    "value": "0545584T"
+    "name": "UIDAI",
+    "value": "972178090672"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/58.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+    "large": "https://randomuser.me/api/portraits/men/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
   },
-  "nat": "IE"
+  "nat": "IN"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Gayina",
-    "last": "Vivsyaniy"
+    "title": "Mr",
+    "first": "Tommy",
+    "last": "Bailey"
   },
   "location": {
     "street": {
-      "number": 3313,
-      "name": "Desantnikiv"
+      "number": 6714,
+      "name": "Paddock Way"
     },
-    "city": "Kreminna",
-    "state": "Chernivecka",
-    "country": "Ukraine",
-    "postcode": 10985,
+    "city": "Geelong",
+    "state": "Victoria",
+    "country": "Australia",
+    "postcode": 9804,
     "coordinates": {
-      "latitude": "73.6090",
-      "longitude": "161.6387"
+      "latitude": "-81.9424",
+      "longitude": "-136.8187"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "gayina.vivsyaniy@example.com",
+  "email": "tommy.bailey@example.com",
   "login": {
-    "uuid": "329b547f-0ede-478b-8d85-436f1e4b3fc6",
-    "username": "goldenfish276",
-    "password": "kordell1",
-    "salt": "414BHUr1",
-    "md5": "bab64b7c3382af26e84e4ac8a3723962",
-    "sha1": "615fa7b4f05dd5225fbde7cabd46355f43dcad6a",
-    "sha256": "899091dc45a0b1cbd71667cfadcb8996f699ef5e35c6f54ffb8224d9d0dd1fc4"
+    "uuid": "e0ba96cb-8036-4bb3-b6af-4549b7b9cabb",
+    "username": "redzebra339",
+    "password": "hassan",
+    "salt": "IdmzTTm8",
+    "md5": "738adc44015fbcf17e9cb60aecd270d9",
+    "sha1": "a9fee94811b9f13556edf31613c67b6f5382abf5",
+    "sha256": "5deb3e352c0b0cf1e3942417c9f3f1eabf11f7939faa7252cc7256b69bbb06f0"
   },
   "dob": {
-    "date": "1966-04-11T18:21:39.964Z",
-    "age": 58
+    "date": "1962-08-31T10:37:39.025Z",
+    "age": 62
   },
   "registered": {
-    "date": "2022-02-04T05:21:22.950Z",
-    "age": 3
+    "date": "2008-04-28T23:40:12.078Z",
+    "age": 16
   },
-  "phone": "(099) H62-9833",
-  "cell": "(096) C80-0630",
+  "phone": "07-4767-6776",
+  "cell": "0438-859-448",
   "id": {
-    "name": "",
-    "value": null
+    "name": "TFN",
+    "value": "008567321"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+    "large": "https://randomuser.me/api/portraits/men/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
   },
-  "nat": "UA"
+  "nat": "AU"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Ayaan",
-    "last": "Keshri"
+    "title": "Mademoiselle",
+    "first": "Simona",
+    "last": "Clement"
   },
   "location": {
     "street": {
-      "number": 9120,
-      "name": "Jagadamba Centre"
+      "number": 4741,
+      "name": "Rue Bataille"
     },
-    "city": "Pimpri-Chinchwad",
-    "state": "Assam",
-    "country": "India",
-    "postcode": 69363,
+    "city": "Illgau",
+    "state": "Uri",
+    "country": "Switzerland",
+    "postcode": 1266,
     "coordinates": {
-      "latitude": "9.6058",
-      "longitude": "-101.4897"
+      "latitude": "-59.5067",
+      "longitude": "178.2610"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "ayaan.keshri@example.com",
+  "email": "simona.clement@example.com",
   "login": {
-    "uuid": "268e5b1a-1bdf-418c-93db-095924da458a",
-    "username": "ticklishpanda153",
-    "password": "cancun",
-    "salt": "hS19gGY2",
-    "md5": "e48f19a5385d69174a31e398f0549558",
-    "sha1": "8ffb3e8be792ddf04421b6a30a6a6b922e48f596",
-    "sha256": "fa51a763244985f56fa82f2a3bf346669c906fbf09a18d6c2b9273f87a87b194"
+    "uuid": "e2a1766d-71b7-4ec6-a73a-b84952045190",
+    "username": "purplepanda594",
+    "password": "chanel",
+    "salt": "gUC6XzyD",
+    "md5": "8043439372184a95447b1056fc2e9df6",
+    "sha1": "c884c1a273ce22dc9c1f63ac6d505881dc49e0f4",
+    "sha256": "cd9ab4961c7703bac5cb81fd2b498c113dffd49710a3ba0392600c51b9030956"
   },
   "dob": {
-    "date": "1979-11-28T23:16:04.088Z",
-    "age": 45
+    "date": "1960-11-23T21:13:05.303Z",
+    "age": 64
   },
   "registered": {
-    "date": "2008-09-09T19:54:49.908Z",
-    "age": 16
+    "date": "2014-03-16T10:20:00.602Z",
+    "age": 11
   },
-  "phone": "7386335658",
-  "cell": "9742582369",
+  "phone": "076 305 00 63",
+  "cell": "078 004 18 30",
   "id": {
-    "name": "UIDAI",
-    "value": "501128779369"
+    "name": "AVS",
+    "value": "756.1107.9475.01"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/women/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
   },
-  "nat": "IN"
+  "nat": "CH"
 }

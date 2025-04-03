@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Gonca",
-    "last": "Ağaoğlu"
+    "title": "Mr",
+    "first": "Micheal",
+    "last": "Graves"
   },
   "location": {
     "street": {
-      "number": 3583,
-      "name": "Atatürk Sk"
+      "number": 3573,
+      "name": "Dane St"
     },
-    "city": "Bayburt",
-    "state": "Zonguldak",
-    "country": "Turkey",
-    "postcode": 90786,
+    "city": "Australian Capital Territory",
+    "state": "Northern Territory",
+    "country": "Australia",
+    "postcode": 4606,
     "coordinates": {
-      "latitude": "68.3879",
-      "longitude": "109.5469"
+      "latitude": "-86.0007",
+      "longitude": "-127.2324"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "gonca.agaoglu@example.com",
+  "email": "micheal.graves@example.com",
   "login": {
-    "uuid": "72aa50dd-eb17-424f-b4ab-e47c673252f4",
-    "username": "sadwolf358",
-    "password": "offshore",
-    "salt": "TfCjp8Dr",
-    "md5": "e222ef530a065abe464570025e54e082",
-    "sha1": "fd472c563fb3908a8f82556d9ede4bfec8fbcff8",
-    "sha256": "071e2d9140b834978817759a7d2d6c1d903e876063824c48b3da05ad8e8ed1c3"
+    "uuid": "b5e52147-82f1-4df6-a3ca-2910396b0358",
+    "username": "silverostrich249",
+    "password": "carmex2",
+    "salt": "Fj0f17yz",
+    "md5": "c649fea082575e9b9c0470cbeba48213",
+    "sha1": "bc0379f7237bc4e2c0f5fbaf1dce360c5c87536f",
+    "sha256": "769863efcaaaf71a3f0de16b7fe183d5fce46ead1e85311791bbe670c1378da2"
   },
   "dob": {
-    "date": "1971-11-25T14:10:57.325Z",
-    "age": 53
+    "date": "1979-03-11T04:36:07.335Z",
+    "age": 46
   },
   "registered": {
-    "date": "2017-06-09T22:46:39.850Z",
-    "age": 7
+    "date": "2003-06-29T09:02:23.815Z",
+    "age": 21
   },
-  "phone": "(421)-319-2663",
-  "cell": "(870)-927-1504",
+  "phone": "02-5370-2351",
+  "cell": "0463-518-241",
   "id": {
-    "name": "",
-    "value": null
+    "name": "TFN",
+    "value": "306376630"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "TR"
+  "nat": "AU"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Akshay",
-    "last": "Shukla"
+    "first": "Arnas",
+    "last": "Mathisen"
   },
   "location": {
     "street": {
-      "number": 5977,
-      "name": "Kasba Peth"
+      "number": 4076,
+      "name": "Lallakroken"
     },
-    "city": "Bharatpur",
-    "state": "Nagaland",
-    "country": "India",
-    "postcode": 91125,
+    "city": "Lauve",
+    "state": "Nordland",
+    "country": "Norway",
+    "postcode": "6503",
     "coordinates": {
-      "latitude": "11.2852",
-      "longitude": "-89.1975"
+      "latitude": "44.7314",
+      "longitude": "-42.0916"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "akshay.shukla@example.com",
+  "email": "arnas.mathisen@example.com",
   "login": {
-    "uuid": "1ec962be-eee8-44f5-b282-560815b2e6a4",
-    "username": "lazycat417",
-    "password": "buddie",
-    "salt": "635Fs7tD",
-    "md5": "a03247cb4521e10b363ba9e54917044d",
-    "sha1": "cc5d8233e5aca78f1078c161ed066d39279d467f",
-    "sha256": "dc0bdd689285ddceaa2129ec6df1506902c43d84fb4d7379b6b815df5e9311b7"
+    "uuid": "18867784-e533-43c7-b567-5f98362b876e",
+    "username": "happyladybug420",
+    "password": "fred",
+    "salt": "4vopmXBS",
+    "md5": "982323def430146c10f0f46db02d8cf3",
+    "sha1": "20a1c1abf24bdd2640b6553cfd6fb4f19069d855",
+    "sha256": "d3e9f5c395911d23dbb448775f4adb0302fdf57497214df5d243173d3a0f5b49"
   },
   "dob": {
-    "date": "1969-03-30T19:59:25.233Z",
-    "age": 56
+    "date": "1997-11-25T12:52:43.897Z",
+    "age": 27
   },
   "registered": {
-    "date": "2003-02-27T00:31:49.207Z",
-    "age": 22
+    "date": "2013-08-19T04:03:50.297Z",
+    "age": 11
   },
-  "phone": "7371936270",
-  "cell": "9938928679",
+  "phone": "33175438",
+  "cell": "95261767",
   "id": {
-    "name": "UIDAI",
-    "value": "946793975412"
+    "name": "FN",
+    "value": "25119740935"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/51.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
   },
-  "nat": "IN"
+  "nat": "NO"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Zoe",
-    "last": "Kowalski"
+    "title": "Mr",
+    "first": "Aashish",
+    "last": "Ramesh"
   },
   "location": {
     "street": {
-      "number": 1201,
-      "name": "Dufferin St"
+      "number": 4326,
+      "name": "Sitabuldi Main Rd"
     },
-    "city": "Hampton",
-    "state": "Northwest Territories",
-    "country": "Canada",
-    "postcode": "V3D 9A9",
+    "city": "Nandyal",
+    "state": "Gujarat",
+    "country": "India",
+    "postcode": 12078,
     "coordinates": {
-      "latitude": "-68.7578",
-      "longitude": "147.4021"
+      "latitude": "8.1868",
+      "longitude": "-42.8114"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "zoe.kowalski@example.com",
+  "email": "aashish.ramesh@example.com",
   "login": {
-    "uuid": "f7361666-3270-49bd-b036-7d69caabf71d",
-    "username": "happyladybug881",
-    "password": "ccccc",
-    "salt": "hBbLQZTb",
-    "md5": "b43e57f9ece0d49494a51bc503ddf7ef",
-    "sha1": "24f4ed8162c0ee848b605120bb94df3292f94dc4",
-    "sha256": "a1570a9baf8573e3ffa6e9372765a5e1d1b1e298924f1c98536b0d5fa5aad5ec"
+    "uuid": "0bf6ea50-6f71-49c7-bb8f-ab23a74fa3fe",
+    "username": "orangezebra694",
+    "password": "pilgrim",
+    "salt": "y9DgKYEm",
+    "md5": "76d28dae23e1b6ec50e559e42716c2e1",
+    "sha1": "6338250dbb380dad97257b97d5a1c807e0f1cc6d",
+    "sha256": "9200c5ec44e0dd8028bc1a4eefd6d33d3361900c6697636f0b7337ade1c20d8a"
   },
   "dob": {
-    "date": "1967-03-29T05:04:31.683Z",
-    "age": 58
+    "date": "1984-12-07T03:25:20.591Z",
+    "age": 40
   },
   "registered": {
-    "date": "2013-11-09T20:55:59.363Z",
-    "age": 11
+    "date": "2004-10-21T20:04:36.862Z",
+    "age": 20
   },
-  "phone": "R67 Y41-8389",
-  "cell": "B39 O76-4564",
+  "phone": "8429629817",
+  "cell": "8993460948",
   "id": {
-    "name": "SIN",
-    "value": "815191184"
+    "name": "UIDAI",
+    "value": "456456710454"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/76.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+    "large": "https://randomuser.me/api/portraits/men/22.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
   },
-  "nat": "CA"
+  "nat": "IN"
 }

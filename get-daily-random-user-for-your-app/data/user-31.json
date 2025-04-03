@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Kiara",
-    "last": "Fabre"
+    "title": "Mrs",
+    "first": "Ahlam",
+    "last": "Rødland"
   },
   "location": {
     "street": {
-      "number": 915,
-      "name": "Rue du Bon-Pasteur"
+      "number": 2786,
+      "name": "Rasmus Winderens vei"
     },
-    "city": "Caen",
-    "state": "Yonne",
-    "country": "France",
-    "postcode": 28258,
+    "city": "Rubbestadneset",
+    "state": "Bergen",
+    "country": "Norway",
+    "postcode": "1188",
     "coordinates": {
-      "latitude": "-20.2346",
-      "longitude": "59.2745"
+      "latitude": "38.9678",
+      "longitude": "154.7812"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "kiara.fabre@example.com",
+  "email": "ahlam.rodland@example.com",
   "login": {
-    "uuid": "74d51c3f-3481-41dc-87c5-b4fb0fc024c7",
-    "username": "goldenpanda346",
-    "password": "roberto",
-    "salt": "rFheZXFC",
-    "md5": "26feae0673cadf32ef3f7099a5cae0c1",
-    "sha1": "a5880ee1cb7b4b60d5041dc5ba2141a7c64f406f",
-    "sha256": "7d42c965c27d8f16626eb7f050ad827b8992d0e6493d9074c9da347fd0cc1523"
+    "uuid": "0b754aa1-6a64-4a98-b13b-dd3569145593",
+    "username": "silversnake883",
+    "password": "colors",
+    "salt": "NAsNKIBh",
+    "md5": "0b26401cc544185f523ab76c1abdf650",
+    "sha1": "f599480174d3d683d44a707434fcc5d78eb29bef",
+    "sha256": "429eb4c8c2913dd1308c47b085226e405bb8f25f1cdf844b976a83e359d37534"
   },
   "dob": {
-    "date": "2000-08-31T14:46:49.511Z",
-    "age": 24
+    "date": "1956-01-30T00:20:08.898Z",
+    "age": 69
   },
   "registered": {
-    "date": "2016-02-25T01:31:22.483Z",
-    "age": 9
+    "date": "2009-01-12T23:06:44.253Z",
+    "age": 16
   },
-  "phone": "05-80-12-74-01",
-  "cell": "06-17-00-67-21",
+  "phone": "61233529",
+  "cell": "42340397",
   "id": {
-    "name": "INSEE",
-    "value": "21000773827590 15"
+    "name": "FN",
+    "value": "30015606416"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+    "large": "https://randomuser.me/api/portraits/women/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
   },
-  "nat": "FR"
+  "nat": "NO"
 }

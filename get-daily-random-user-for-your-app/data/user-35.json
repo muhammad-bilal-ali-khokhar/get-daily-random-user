@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Emily",
-    "last": "Jørgensen"
+    "title": "Mr",
+    "first": "Tristan",
+    "last": "Novak"
   },
   "location": {
     "street": {
-      "number": 1021,
-      "name": "Vestervej"
+      "number": 7520,
+      "name": "Grand Marais Ave"
     },
-    "city": "Kvistgaard",
-    "state": "Syddanmark",
-    "country": "Denmark",
-    "postcode": 25868,
+    "city": "Cartwright",
+    "state": "Québec",
+    "country": "Canada",
+    "postcode": "P7B 6E9",
     "coordinates": {
-      "latitude": "-41.8976",
-      "longitude": "174.9415"
+      "latitude": "-72.4596",
+      "longitude": "-110.8216"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "emily.jorgensen@example.com",
+  "email": "tristan.novak@example.com",
   "login": {
-    "uuid": "45241e6e-29c5-403b-979a-8223ecbfd875",
-    "username": "redleopard213",
-    "password": "monte",
-    "salt": "JVvanTLC",
-    "md5": "8600749c9ac144919e6f0ac1c012ab55",
-    "sha1": "019226b3fd20805584417a54a340ba1e42543268",
-    "sha256": "4c3eff3c0565cd8c4f312ec007baeeae6d988e8ab3ee0b0f8e2689c97aae644b"
+    "uuid": "eb7c82c7-506d-466a-84f2-f15ab1c24fe7",
+    "username": "whitecat948",
+    "password": "dimas",
+    "salt": "vdA1xAPb",
+    "md5": "a123c2d524e5f519f408b6f37eb0027f",
+    "sha1": "e7352097fd71491cdb9b2e99da5d3817589733cd",
+    "sha256": "a21e9fa9731a775b19a538f9ccddccf1574ccdb5ad2b446d7f026d3309538349"
   },
   "dob": {
-    "date": "1954-11-01T06:28:58.579Z",
-    "age": 70
+    "date": "1949-10-17T16:36:37.834Z",
+    "age": 75
   },
   "registered": {
-    "date": "2007-02-04T01:16:42.075Z",
-    "age": 18
+    "date": "2009-08-31T19:27:18.436Z",
+    "age": 15
   },
-  "phone": "77985435",
-  "cell": "38636230",
+  "phone": "S17 E29-9452",
+  "cell": "G81 K47-2957",
   "id": {
-    "name": "CPR",
-    "value": "011154-5743"
+    "name": "SIN",
+    "value": "137643094"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+    "large": "https://randomuser.me/api/portraits/men/62.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
   },
-  "nat": "DK"
+  "nat": "CA"
 }

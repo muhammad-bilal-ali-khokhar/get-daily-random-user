@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Juna",
-    "last": "Mangal"
+    "first": "Isa",
+    "last": "Sara"
   },
   "location": {
     "street": {
-      "number": 6507,
-      "name": "Bredebeek"
+      "number": 7228,
+      "name": "Svensenga"
     },
-    "city": "Tegelen",
-    "state": "Friesland",
-    "country": "Netherlands",
-    "postcode": "3811 FS",
+    "city": "Bjerka",
+    "state": "Vest-Agder",
+    "country": "Norway",
+    "postcode": "1871",
     "coordinates": {
-      "latitude": "37.4867",
-      "longitude": "87.7862"
+      "latitude": "38.6050",
+      "longitude": "54.2843"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "juna.mangal@example.com",
+  "email": "isa.sara@example.com",
   "login": {
-    "uuid": "77a5a3c2-1080-4037-9f82-6a6feb3f5c70",
-    "username": "blackgoose703",
-    "password": "kkkkkkkk",
-    "salt": "cIbbmCf7",
-    "md5": "7d162144841ce1a9fd4c213b94407bd0",
-    "sha1": "297ced27b2a28457e5c7f4ffc3e9cd53977315d9",
-    "sha256": "0dcf3a15f8054c558ac5372ff68c78c0cc19b7b3dcae6cf86590a1b51e5728d0"
+    "uuid": "6b68bd0f-bff2-41f4-945a-eae5ea14dd95",
+    "username": "purpletiger713",
+    "password": "elwood",
+    "salt": "89jh9qtq",
+    "md5": "0843087f5535222ece46e2d0433ab4fb",
+    "sha1": "fdb1bf39d7e867dc63e557e9c47849f588774726",
+    "sha256": "663581c2b5ae90d0e3bfeaf6aa8b899c405c5039c42d8b81918d7006b01e2fa4"
   },
   "dob": {
-    "date": "1967-08-09T17:16:50.742Z",
-    "age": 57
+    "date": "1995-07-26T16:20:29.876Z",
+    "age": 29
   },
   "registered": {
-    "date": "2021-09-26T10:39:47.733Z",
-    "age": 3
+    "date": "2009-03-24T02:35:05.681Z",
+    "age": 16
   },
-  "phone": "(072) 9374090",
-  "cell": "(06) 67990222",
+  "phone": "60288535",
+  "cell": "46350591",
   "id": {
-    "name": "BSN",
-    "value": "63953598"
+    "name": "FN",
+    "value": "26079503001"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/87.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
-  "nat": "NL"
+  "nat": "NO"
 }

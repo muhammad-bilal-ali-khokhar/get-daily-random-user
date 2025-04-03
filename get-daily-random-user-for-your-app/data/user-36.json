@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Sacha",
-    "last": "Pierre"
+    "title": "Mr",
+    "first": "Victor",
+    "last": "Bélanger"
   },
   "location": {
     "street": {
-      "number": 8667,
-      "name": "Rue de L'Abbé-Patureau"
+      "number": 8015,
+      "name": "Dieppe Ave"
     },
-    "city": "Balgach",
-    "state": "Genève",
-    "country": "Switzerland",
-    "postcode": 6693,
+    "city": "Beaumont",
+    "state": "Northwest Territories",
+    "country": "Canada",
+    "postcode": "U5W 9Q3",
     "coordinates": {
-      "latitude": "-60.9811",
-      "longitude": "-15.5944"
+      "latitude": "-64.6582",
+      "longitude": "-33.6753"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "sacha.pierre@example.com",
+  "email": "victor.belanger@example.com",
   "login": {
-    "uuid": "dd9d904d-f606-4fd7-8236-27b0ac12b383",
-    "username": "brownkoala216",
-    "password": "buckley",
-    "salt": "7Aax93BG",
-    "md5": "c1aeff178b5f99292dc712ea52b42bf2",
-    "sha1": "e470fbe7ae1bbd7c39ced3561bac5abb4e007ce9",
-    "sha256": "0aff0f6bf6b0a327c04aefa8734c5d4688d2091b08f8415af6bb1e4c0a11dedb"
+    "uuid": "e2cc507c-afc5-4ca7-bbdf-8ac5f12d3e14",
+    "username": "ticklishzebra575",
+    "password": "rang",
+    "salt": "P7WwWPED",
+    "md5": "e6c782fbe247f79d39f9691b1b4dc350",
+    "sha1": "fa7a5ed7ab3c14a1c0a9d4f2fdf55d395faebdb7",
+    "sha256": "1c1e2de9a38e899ff015009fb55c2fe93ad19e62f84a053e944cfa68a7a17e24"
   },
   "dob": {
-    "date": "1971-05-07T07:54:24.626Z",
-    "age": 53
+    "date": "1982-07-27T17:41:20.463Z",
+    "age": 42
   },
   "registered": {
-    "date": "2016-10-20T23:36:28.926Z",
-    "age": 8
+    "date": "2018-07-11T00:23:47.418Z",
+    "age": 6
   },
-  "phone": "078 017 25 20",
-  "cell": "076 270 75 47",
+  "phone": "Z11 W29-0253",
+  "cell": "L91 L11-9539",
   "id": {
-    "name": "AVS",
-    "value": "756.5343.8524.71"
+    "name": "SIN",
+    "value": "571792696"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    "large": "https://randomuser.me/api/portraits/men/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
   },
-  "nat": "CH"
+  "nat": "CA"
 }

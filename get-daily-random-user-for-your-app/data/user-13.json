@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Barbara",
-    "last": "Regalado"
+    "title": "Mr",
+    "first": "Ronnie",
+    "last": "Fields"
   },
   "location": {
     "street": {
-      "number": 962,
-      "name": "Cerrada Lugo"
+      "number": 9102,
+      "name": "Marsh Ln"
     },
-    "city": "Tizayuca",
-    "state": "Jalisco",
-    "country": "Mexico",
-    "postcode": 19917,
+    "city": "Ballarat",
+    "state": "Victoria",
+    "country": "Australia",
+    "postcode": 4064,
     "coordinates": {
-      "latitude": "26.2660",
-      "longitude": "60.1164"
+      "latitude": "-84.8438",
+      "longitude": "-50.3564"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "barbara.regalado@example.com",
+  "email": "ronnie.fields@example.com",
   "login": {
-    "uuid": "2b6e14e7-177f-487d-8c4c-05afde53c6e8",
-    "username": "silverbird413",
-    "password": "doodle",
-    "salt": "DE9FEZFW",
-    "md5": "f61c166b0f5305e0c4511682f8b82fcd",
-    "sha1": "43df970c023a0c48366be4066601cdcb2ba09373",
-    "sha256": "353d45097c331820c02008603c90f8da8aa88628765d173606179b03c3cd9232"
+    "uuid": "d33e71c0-493b-4c32-88b7-393f61899f65",
+    "username": "sadladybug295",
+    "password": "laser",
+    "salt": "pLmSWnlc",
+    "md5": "82c9467c9117041258c231a20447792e",
+    "sha1": "d8673ec99c7de68c018f165eeba3ae6ff59a7b12",
+    "sha256": "561a00acad0f382e558a4647f0bbc1d5ff21a027c79dbc828c860e55fa977a52"
   },
   "dob": {
-    "date": "1983-01-06T04:29:27.400Z",
-    "age": 42
+    "date": "1977-09-02T08:35:08.347Z",
+    "age": 47
   },
   "registered": {
-    "date": "2021-07-07T20:20:28.118Z",
-    "age": 3
+    "date": "2006-11-21T05:14:47.757Z",
+    "age": 18
   },
-  "phone": "(683) 183 8554",
-  "cell": "(604) 405 9150",
+  "phone": "03-1565-9435",
+  "cell": "0410-486-422",
   "id": {
-    "name": "NSS",
-    "value": "83 75 62 2363 1"
+    "name": "TFN",
+    "value": "224251796"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/81.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+    "large": "https://randomuser.me/api/portraits/men/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
   },
-  "nat": "MX"
+  "nat": "AU"
 }

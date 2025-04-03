@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Savannah",
-    "last": "Singh"
+    "title": "Mr",
+    "first": "Alexander",
+    "last": "Christiansen"
   },
   "location": {
     "street": {
-      "number": 9172,
-      "name": "Ahuriri Bypass"
+      "number": 8443,
+      "name": "Gormsvej"
     },
-    "city": "Hamilton",
-    "state": "Tasman",
-    "country": "New Zealand",
-    "postcode": 87473,
+    "city": "Ansager",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 20070,
     "coordinates": {
-      "latitude": "55.3785",
-      "longitude": "91.5547"
+      "latitude": "-45.2180",
+      "longitude": "-72.4335"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "savannah.singh@example.com",
+  "email": "alexander.christiansen@example.com",
   "login": {
-    "uuid": "eadde04c-d802-4ecb-860d-cbf2ecfdf25f",
-    "username": "ticklishrabbit725",
-    "password": "21122112",
-    "salt": "Fck5WSVy",
-    "md5": "eef2cd4e3b0872ab7559fdccd0318f76",
-    "sha1": "c902fe4ee3cc7193c6f98c3f5dcc559dfa3c30fc",
-    "sha256": "54f5c7563eda359324a180df7a44328f2c3ff95936c4ec867ab32afaa6ec7cbf"
+    "uuid": "02ed3111-cbd0-4c1d-a7b4-f85e4e5516c6",
+    "username": "sadfrog951",
+    "password": "indy",
+    "salt": "WR2dVe2N",
+    "md5": "cf911b6970bc2e8845b4ad8ff2441b62",
+    "sha1": "de8af9503f8e04a7481034044d384b4d3b2384b8",
+    "sha256": "4b40e06f0f5fc2284974e35cfa901f28b6cd6d5b2069b1d92acf1ef319cf3fbc"
   },
   "dob": {
-    "date": "1997-12-19T00:28:04.847Z",
-    "age": 27
+    "date": "1975-06-22T03:30:04.480Z",
+    "age": 49
   },
   "registered": {
-    "date": "2005-05-15T20:54:27.212Z",
-    "age": 19
+    "date": "2009-05-20T15:49:20.708Z",
+    "age": 15
   },
-  "phone": "(798)-913-9879",
-  "cell": "(829)-961-0816",
+  "phone": "29331483",
+  "cell": "61560123",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "210675-2557"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+    "large": "https://randomuser.me/api/portraits/men/88.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
   },
-  "nat": "NZ"
+  "nat": "DK"
 }

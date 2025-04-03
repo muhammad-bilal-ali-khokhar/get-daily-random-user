@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Kora",
-    "last": "Zatuliviter"
+    "title": "Mrs",
+    "first": "Lena",
+    "last": "Lemoine"
   },
   "location": {
     "street": {
-      "number": 1527,
-      "name": "Martovicha"
+      "number": 1122,
+      "name": "Rue des Cuirassiers"
     },
-    "city": "Nova Odesa",
-    "state": "Chernivecka",
-    "country": "Ukraine",
-    "postcode": 48808,
+    "city": "Marseille",
+    "state": "Haute-Saône",
+    "country": "France",
+    "postcode": 64244,
     "coordinates": {
-      "latitude": "73.8162",
-      "longitude": "100.5064"
+      "latitude": "-15.8868",
+      "longitude": "44.4168"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "kora.zatuliviter@example.com",
+  "email": "lena.lemoine@example.com",
   "login": {
-    "uuid": "65c3289f-6a18-47c6-aaba-4612fa593363",
-    "username": "redfish488",
-    "password": "qazwsx",
-    "salt": "PhHEXyxN",
-    "md5": "127e65fdf291920b5fc421255076af4e",
-    "sha1": "21245ba3879bc006f03c215fa7f23f995ea83073",
-    "sha256": "94675dd838d62d540c32a47a1bb508506a0060616889310eeb766f573f1b802f"
+    "uuid": "89871b76-9654-4412-909d-b01591fabcd4",
+    "username": "ticklishpeacock112",
+    "password": "mantis",
+    "salt": "Auqpelwa",
+    "md5": "354679a1f654f49bed169e69e6dcdc25",
+    "sha1": "c5506492bc0b1c053c5ab93789580113f30e0417",
+    "sha256": "9378815ffdac51afcc21d43534d43d3e70ffcffc936cd577d903cf1fa2fa5a06"
   },
   "dob": {
-    "date": "1951-05-08T11:49:20.781Z",
-    "age": 73
+    "date": "1949-01-20T00:02:16.054Z",
+    "age": 76
   },
   "registered": {
-    "date": "2005-05-18T15:18:42.660Z",
-    "age": 19
+    "date": "2009-08-23T18:50:37.543Z",
+    "age": 15
   },
-  "phone": "(097) I62-2424",
-  "cell": "(066) A49-2160",
+  "phone": "01-96-67-82-16",
+  "cell": "06-45-42-35-71",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "2490035828061 74"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+    "large": "https://randomuser.me/api/portraits/women/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
   },
-  "nat": "UA"
+  "nat": "FR"
 }

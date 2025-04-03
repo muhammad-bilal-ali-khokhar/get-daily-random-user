@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Martha",
-    "last": "Kuhn"
+    "title": "Mr",
+    "first": "Batur",
+    "last": "Bolatlı"
   },
   "location": {
     "street": {
-      "number": 2896,
-      "name": "Victoria Road"
+      "number": 7164,
+      "name": "Mevlana Cd"
     },
-    "city": "Stevenage",
-    "state": "County Londonderry",
-    "country": "United Kingdom",
-    "postcode": "J5 1LH",
+    "city": "Uşak",
+    "state": "İzmir",
+    "country": "Turkey",
+    "postcode": 75663,
     "coordinates": {
-      "latitude": "-10.4066",
-      "longitude": "133.4725"
+      "latitude": "71.6957",
+      "longitude": "-10.0331"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "martha.kuhn@example.com",
+  "email": "batur.bolatli@example.com",
   "login": {
-    "uuid": "a8d14ec3-d4e2-4906-aec9-bf5430f13da5",
-    "username": "organicpanda956",
-    "password": "safety",
-    "salt": "q7jLbA54",
-    "md5": "0bd02aec05d743b022cd81b0baeb5e8d",
-    "sha1": "26fbefe0c11ed1206c3ea41502123d7b7bf544b3",
-    "sha256": "1b9943e3c7855bc771e294eaa8a884272bdcfe45f531c323afb2c5a2f7950336"
+    "uuid": "133bec6b-38d0-4fef-93a7-938e7ed92f3a",
+    "username": "redkoala659",
+    "password": "cezer121",
+    "salt": "nHZd969L",
+    "md5": "66f1b8806b6392adfdb2118c0344ebc5",
+    "sha1": "e1662bd8df4522037cc77a992808247108550070",
+    "sha256": "70657efff45090dda6a434a789cf5b4416835c0fd2cc3d6929194851bd8ffc50"
   },
   "dob": {
-    "date": "1964-11-05T18:21:42.731Z",
-    "age": 60
+    "date": "1955-11-08T15:10:45.718Z",
+    "age": 69
   },
   "registered": {
-    "date": "2007-12-26T19:27:50.279Z",
-    "age": 17
+    "date": "2013-06-17T13:11:14.789Z",
+    "age": 11
   },
-  "phone": "017687 05417",
-  "cell": "07733 109382",
+  "phone": "(498)-519-2630",
+  "cell": "(739)-322-0550",
   "id": {
-    "name": "NINO",
-    "value": "WN 17 91 48 V"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
   },
-  "nat": "GB"
+  "nat": "TR"
 }

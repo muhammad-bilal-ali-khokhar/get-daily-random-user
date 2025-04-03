@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Idris",
-    "last": "Salih"
+    "title": "Ms",
+    "first": "Deekshitha",
+    "last": "Nagane"
   },
   "location": {
     "street": {
-      "number": 3460,
-      "name": "Kalheupinklaan"
+      "number": 2475,
+      "name": "Swargate"
     },
-    "city": "Erlecom",
-    "state": "Noord-Brabant",
-    "country": "Netherlands",
-    "postcode": "4075 VB",
+    "city": "Hospet",
+    "state": "Mizoram",
+    "country": "India",
+    "postcode": 47797,
     "coordinates": {
-      "latitude": "33.6234",
-      "longitude": "-71.6550"
+      "latitude": "8.6883",
+      "longitude": "28.8548"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "idris.salih@example.com",
+  "email": "deekshitha.nagane@example.com",
   "login": {
-    "uuid": "6905d384-99fa-4d4f-a154-4b709ee8d2f7",
-    "username": "greenfish337",
-    "password": "apple",
-    "salt": "KJ7QZt84",
-    "md5": "a129de263ae6517e8f0905641cbfb641",
-    "sha1": "0ba4f0e598c1f9b464acd57800d49b0cee62f1c7",
-    "sha256": "07808bf25b48b4094bf4850524f647a2eb2ed881cfdf785b93e8f1427032a3de"
+    "uuid": "28d73e6a-6679-4a43-92a0-688107ad85d9",
+    "username": "angrygorilla570",
+    "password": "ning",
+    "salt": "ACJQsn3i",
+    "md5": "75a781fdc35d772d967cb8bf6d08ff83",
+    "sha1": "5280de01feb90bf6cb873a1ae2f27a0ddc5d0768",
+    "sha256": "8296cad0a718c0ba818b553d97d44e5bbdc3df3474ebcea115d97bbbf52ebb65"
   },
   "dob": {
-    "date": "1983-09-03T02:09:18.560Z",
-    "age": 41
+    "date": "1974-02-20T12:28:30.461Z",
+    "age": 51
   },
   "registered": {
-    "date": "2011-02-14T10:52:51.966Z",
-    "age": 14
+    "date": "2004-08-14T18:41:05.109Z",
+    "age": 20
   },
-  "phone": "(0366) 820444",
-  "cell": "(06) 24136662",
+  "phone": "8685385106",
+  "cell": "7177896187",
   "id": {
-    "name": "BSN",
-    "value": "69011292"
+    "name": "UIDAI",
+    "value": "118914826788"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    "large": "https://randomuser.me/api/portraits/women/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
   },
-  "nat": "NL"
+  "nat": "IN"
 }

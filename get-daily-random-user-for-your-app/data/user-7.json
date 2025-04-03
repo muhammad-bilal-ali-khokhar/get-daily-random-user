@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Adelmo",
-    "last": "Melo"
+    "first": "Acúrsio",
+    "last": "Pires"
   },
   "location": {
     "street": {
-      "number": 2991,
-      "name": "Rua Santa Catarina "
+      "number": 8409,
+      "name": "Rua Onze "
     },
-    "city": "Nossa Senhora do Socorro",
-    "state": "Santa Catarina",
+    "city": "Rio Branco",
+    "state": "Acre",
     "country": "Brazil",
-    "postcode": 17172,
+    "postcode": 53255,
     "coordinates": {
-      "latitude": "-74.0556",
-      "longitude": "-96.4795"
+      "latitude": "-77.5568",
+      "longitude": "-67.6670"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "adelmo.melo@example.com",
+  "email": "acursio.pires@example.com",
   "login": {
-    "uuid": "097499d1-8540-419f-8101-ec4337348fa9",
-    "username": "angrybutterfly921",
-    "password": "alley",
-    "salt": "FwragJ8q",
-    "md5": "dd97dffc3dd1bd061d367d68b48689b8",
-    "sha1": "43e45869078ffb32ac23518927c1fded77221002",
-    "sha256": "100448f376f6efbfae9f01f1d66a6b8b8fc81caeb8a777505775a02a114cd8a2"
+    "uuid": "0cad7b07-3f28-4430-8e38-24910f15bc3b",
+    "username": "brownlion227",
+    "password": "tzpvaw",
+    "salt": "m7lHrpdW",
+    "md5": "1894704457fee60837320ff356af6af6",
+    "sha1": "55b3dd92507f846acbcad575175a81cd6b92991d",
+    "sha256": "607bbb89ff8b9562dc874c327d8e1850cf2eec0097673e217213483c2d26c69f"
   },
   "dob": {
-    "date": "1988-09-13T09:40:06.813Z",
-    "age": 36
+    "date": "1959-06-18T05:03:41.840Z",
+    "age": 65
   },
   "registered": {
-    "date": "2007-07-28T21:25:51.468Z",
-    "age": 17
+    "date": "2014-04-02T11:49:25.263Z",
+    "age": 11
   },
-  "phone": "(14) 2259-6514",
-  "cell": "(58) 8273-9714",
+  "phone": "(09) 1367-1611",
+  "cell": "(52) 2916-7765",
   "id": {
     "name": "CPF",
-    "value": "304.139.929-83"
+    "value": "751.534.627-41"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/20.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
   },
   "nat": "BR"
 }

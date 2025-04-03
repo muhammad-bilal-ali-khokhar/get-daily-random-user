@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Rosalyn",
-    "last": "Jordan"
+    "title": "Mr",
+    "first": "Silas",
+    "last": "Andersen"
   },
   "location": {
     "street": {
-      "number": 9096,
-      "name": "The Green"
+      "number": 3346,
+      "name": "Fuglebakken"
     },
-    "city": "Stevenage",
-    "state": "Rutland",
-    "country": "United Kingdom",
-    "postcode": "E0 4YR",
+    "city": "Aalborg S.Ø.",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "postcode": 23312,
     "coordinates": {
-      "latitude": "-5.1616",
-      "longitude": "152.8215"
+      "latitude": "-45.3769",
+      "longitude": "-92.9355"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "rosalyn.jordan@example.com",
+  "email": "silas.andersen@example.com",
   "login": {
-    "uuid": "c76beecc-dd95-4aec-a6b0-dcf2f3e500f5",
-    "username": "angrysnake800",
-    "password": "playoffs",
-    "salt": "3MuO4UNx",
-    "md5": "66d598a92299351e0dc1800dc01cd8d5",
-    "sha1": "fd2faa9ea529fb7040651f4c543c45d2e1e6c026",
-    "sha256": "33eb57cc214cab3dd43822a63b29a21f2b06865dd4e3fefc3a18307dad573aa3"
+    "uuid": "d0b53062-879b-4258-bbe1-acd0ffbf9fff",
+    "username": "tinybutterfly709",
+    "password": "quincy",
+    "salt": "GDMRjvFD",
+    "md5": "9ae2617604eb97b04857e2ce68eefe82",
+    "sha1": "473efd5eb4ad3427c626fcd3afab60fbcec54257",
+    "sha256": "561f7567976ae112ffaef5f1389540e029a6dacf909033754894b6a5d2a3988a"
   },
   "dob": {
-    "date": "1997-12-14T08:14:33.577Z",
-    "age": 27
+    "date": "1989-05-11T08:56:58.323Z",
+    "age": 35
   },
   "registered": {
-    "date": "2005-06-22T00:35:26.882Z",
-    "age": 19
+    "date": "2019-05-05T05:36:36.213Z",
+    "age": 5
   },
-  "phone": "019467 94224",
-  "cell": "07025 350341",
+  "phone": "99795999",
+  "cell": "30050141",
   "id": {
-    "name": "NINO",
-    "value": "MG 06 51 82 L"
+    "name": "CPR",
+    "value": "110589-6748"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "GB"
+  "nat": "DK"
 }

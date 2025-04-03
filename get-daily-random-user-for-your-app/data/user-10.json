@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Milton",
-    "last": "Bates"
+    "title": "Madame",
+    "first": "Zoé",
+    "last": "Leroux"
   },
   "location": {
     "street": {
-      "number": 8807,
-      "name": "Daisy Dr"
+      "number": 4974,
+      "name": "Rue du 8 Mai 1945"
     },
-    "city": "Busselton",
-    "state": "New South Wales",
-    "country": "Australia",
-    "postcode": 1568,
+    "city": "Bargen (Sh)",
+    "state": "Luzern",
+    "country": "Switzerland",
+    "postcode": 7842,
     "coordinates": {
-      "latitude": "-83.8278",
-      "longitude": "-12.4565"
+      "latitude": "-60.0459",
+      "longitude": "91.9224"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "milton.bates@example.com",
+  "email": "zoe.leroux@example.com",
   "login": {
-    "uuid": "b0ee2324-9474-4b60-a039-ef6065881798",
-    "username": "brownmeercat936",
-    "password": "1224",
-    "salt": "MsBrTBcB",
-    "md5": "b3866791be8b8d191c60b80ff5926cec",
-    "sha1": "d3335afb7d413b0ff91bd20babc3fd9d76d7b40f",
-    "sha256": "423e0c5daadb4c21224b7c06e615355811a2727a09d9d912a8682e89b6cb4a52"
+    "uuid": "f93d7c06-7e4e-4668-990b-558fefc67e3a",
+    "username": "sadgoose436",
+    "password": "3ip76k2",
+    "salt": "4r6zAFeL",
+    "md5": "dd05b67bfa385f3887e6d83b6d2bf343",
+    "sha1": "9aa912e5ffb367344bb8e8df9ff9da7c461e5616",
+    "sha256": "e658e959238815429674340a4099ac9d80777a98d3f15759650e5c969601c552"
   },
   "dob": {
-    "date": "1999-05-10T05:58:50.160Z",
-    "age": 25
+    "date": "1974-12-20T04:06:02.511Z",
+    "age": 50
   },
   "registered": {
-    "date": "2010-01-20T03:14:04.892Z",
-    "age": 15
+    "date": "2022-03-09T03:31:44.934Z",
+    "age": 3
   },
-  "phone": "04-3551-4652",
-  "cell": "0424-784-102",
+  "phone": "077 492 65 20",
+  "cell": "077 196 90 89",
   "id": {
-    "name": "TFN",
-    "value": "989979610"
+    "name": "AVS",
+    "value": "756.5238.3299.32"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/5.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    "large": "https://randomuser.me/api/portraits/women/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
   },
-  "nat": "AU"
+  "nat": "CH"
 }

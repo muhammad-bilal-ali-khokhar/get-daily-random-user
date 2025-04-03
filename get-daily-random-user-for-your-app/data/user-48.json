@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "ملینا",
-    "last": "کامروا"
+    "first": "Cacilda",
+    "last": "Sales"
   },
   "location": {
     "street": {
-      "number": 3914,
-      "name": "دکتر فاطمی"
+      "number": 4373,
+      "name": "Travessa dos Açorianos"
     },
-    "city": "نیشابور",
-    "state": "هرمزگان",
-    "country": "Iran",
-    "postcode": 47193,
+    "city": "Botucatu",
+    "state": "Rio Grande do Norte",
+    "country": "Brazil",
+    "postcode": 25233,
     "coordinates": {
-      "latitude": "18.2911",
-      "longitude": "116.4703"
+      "latitude": "-74.8227",
+      "longitude": "69.7253"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "mlyn.khmrw@example.com",
+  "email": "cacilda.sales@example.com",
   "login": {
-    "uuid": "bca764cb-6e7e-4a8f-b3f6-3f2168517306",
-    "username": "greenelephant972",
-    "password": "vides",
-    "salt": "3B4MG0Do",
-    "md5": "2e6266380a11dc07cc6fba2d6a5ba5b6",
-    "sha1": "d567b1275bd30c25e84053b267ce61227a4b9793",
-    "sha256": "e16dac5c00a2e16ee695e161bf1220fde107a7d439004813055200ae17cffd6c"
+    "uuid": "1ed26f2b-2b1f-420b-95d4-7a785fbd3cf0",
+    "username": "crazyladybug664",
+    "password": "sunshine",
+    "salt": "Sh9jcTtv",
+    "md5": "82c7b986d45e31749e23896e170ac596",
+    "sha1": "57202b0d4535d2b7eefe68a98cbec72e8dc744d1",
+    "sha256": "9d028f945c8eb9d30464133a5fd3587526c475c8f90c89108bfff61983eca2da"
   },
   "dob": {
-    "date": "1955-03-14T21:08:36.799Z",
-    "age": 70
+    "date": "1971-03-02T18:24:52.208Z",
+    "age": 54
   },
   "registered": {
-    "date": "2004-01-01T13:53:35.219Z",
-    "age": 21
+    "date": "2013-07-07T20:03:30.693Z",
+    "age": 11
   },
-  "phone": "053-14203075",
-  "cell": "0960-322-7907",
+  "phone": "(96) 8279-0594",
+  "cell": "(02) 1752-9419",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "971.964.030-91"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    "large": "https://randomuser.me/api/portraits/women/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
   },
-  "nat": "IR"
+  "nat": "BR"
 }
