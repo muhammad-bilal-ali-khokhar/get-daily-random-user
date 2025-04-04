@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Noah",
-    "last": "Bouchard"
+    "first": "Bryan",
+    "last": "Carroll"
   },
   "location": {
     "street": {
-      "number": 357,
-      "name": "Dieppe Ave"
+      "number": 864,
+      "name": "Valwood Pkwy"
     },
-    "city": "Campbellton",
-    "state": "Saskatchewan",
-    "country": "Canada",
-    "postcode": "K8C 2V8",
+    "city": "San Francisco",
+    "state": "Maryland",
+    "country": "United States",
+    "postcode": 68703,
     "coordinates": {
-      "latitude": "-70.6548",
-      "longitude": "-98.1911"
+      "latitude": "81.5398",
+      "longitude": "-33.4532"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "noah.bouchard@example.com",
+  "email": "bryan.carroll@example.com",
   "login": {
-    "uuid": "b18051e7-7f16-4a90-ba79-7bfd19755de7",
-    "username": "lazymouse537",
-    "password": "nike",
-    "salt": "E7fAQMb0",
-    "md5": "d9316c161c4be949298a14c5feb2dd87",
-    "sha1": "74b0d19f41e8e46ede677a49cf2f13c6f8350401",
-    "sha256": "784f12c34c84287cd9f9d9116ec9bc8772b2e9f915b16b59277e27875ee66ed1"
+    "uuid": "2211dc6a-4af7-4f0a-bc2a-92ef242d8acb",
+    "username": "blueostrich642",
+    "password": "riders",
+    "salt": "tM0C8bNl",
+    "md5": "9c576289e3d6597334aa518375aa34c3",
+    "sha1": "1f384068277358cfcb41dd54e5d324bbd7de22b3",
+    "sha256": "2ff5531a352c326b4a5ba811144eee78c1aad4c589f003b9175cf44c7d121c79"
   },
   "dob": {
-    "date": "1984-09-02T18:18:51.560Z",
-    "age": 40
+    "date": "1953-11-05T22:44:34.606Z",
+    "age": 71
   },
   "registered": {
-    "date": "2021-05-10T00:19:33.250Z",
-    "age": 3
+    "date": "2020-02-28T08:42:16.597Z",
+    "age": 5
   },
-  "phone": "C54 I38-9457",
-  "cell": "E45 P67-7451",
+  "phone": "(321) 856-7611",
+  "cell": "(971) 470-4250",
   "id": {
-    "name": "SIN",
-    "value": "628719239"
+    "name": "SSN",
+    "value": "239-08-0222"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/84.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
+    "large": "https://randomuser.me/api/portraits/men/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
   },
-  "nat": "CA"
+  "nat": "US"
 }

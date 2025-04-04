@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Katarina",
-    "last": "Novaković"
+    "title": "Mr",
+    "first": "Xavier",
+    "last": "Arce"
   },
   "location": {
     "street": {
-      "number": 9304,
-      "name": "Belog Orla"
+      "number": 2307,
+      "name": "Andador Sur Gómez"
     },
-    "city": "Sokobanja",
-    "state": "Pčinja",
-    "country": "Serbia",
-    "postcode": 84141,
+    "city": "Acapulco",
+    "state": "Tamaulipas",
+    "country": "Mexico",
+    "postcode": 64211,
     "coordinates": {
-      "latitude": "63.8118",
-      "longitude": "11.3153"
+      "latitude": "28.7991",
+      "longitude": "-108.1336"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "katarina.novakovic@example.com",
+  "email": "xavier.arce@example.com",
   "login": {
-    "uuid": "6700e0ca-d1ab-4188-a655-a0dc53613c40",
-    "username": "greenostrich111",
-    "password": "fowler",
-    "salt": "gPSeIFAy",
-    "md5": "ab9a355a7a9055562dde9e37424987f8",
-    "sha1": "721eea4dd995dfc74ca2d5fac5d200e1dcf441cd",
-    "sha256": "d38b5eb88e025c673721777ccfbafc1232f9fc640e4c860240f0466ca5b9173b"
+    "uuid": "f07310d9-06ac-445e-aa02-9642a46f90c1",
+    "username": "angrydog622",
+    "password": "noelle",
+    "salt": "ayPYpt6k",
+    "md5": "8efdaf7e7d7f35a21e77c048d05aba83",
+    "sha1": "3daf67f6c1071d20df2124e3e82c2f3ae996b335",
+    "sha256": "04959f9fa309285eff6089ce4058d9254790ef78a971a3761f06e1076721406c"
   },
   "dob": {
-    "date": "1991-09-29T21:31:49.808Z",
-    "age": 33
+    "date": "1969-02-23T21:09:17.544Z",
+    "age": 56
   },
   "registered": {
-    "date": "2018-07-30T23:45:05.025Z",
-    "age": 6
+    "date": "2008-02-09T00:10:15.292Z",
+    "age": 17
   },
-  "phone": "014-0183-088",
-  "cell": "068-8479-192",
+  "phone": "(662) 496 0719",
+  "cell": "(606) 334 4137",
   "id": {
-    "name": "SID",
-    "value": "039967022"
+    "name": "NSS",
+    "value": "76 73 86 7363 8"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
   },
-  "nat": "RS"
+  "nat": "MX"
 }

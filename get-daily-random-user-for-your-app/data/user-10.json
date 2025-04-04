@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Emilia",
-    "last": "Nieto"
+    "title": "Mr",
+    "first": "Cvitan",
+    "last": "Starcev"
   },
   "location": {
     "street": {
-      "number": 9731,
-      "name": "Calle del Prado"
+      "number": 1408,
+      "name": "Odeska ploshcha"
     },
-    "city": "Móstoles",
-    "state": "Asturias",
-    "country": "Spain",
-    "postcode": 40304,
+    "city": "Mospine",
+    "state": "Odeska",
+    "country": "Ukraine",
+    "postcode": 19084,
     "coordinates": {
-      "latitude": "-31.9306",
-      "longitude": "73.1906"
+      "latitude": "77.1731",
+      "longitude": "-153.5429"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "emilia.nieto@example.com",
+  "email": "cvitan.starcev@example.com",
   "login": {
-    "uuid": "4a5afd91-54f6-4bdc-9f3a-e2132ed0cfde",
-    "username": "redtiger221",
-    "password": "carolina",
-    "salt": "r8ySZVh7",
-    "md5": "12fea042b8b5b7236310720c5e6a3ee1",
-    "sha1": "2e3d7cb3e442d12b6d47a97414635c8fc3539e20",
-    "sha256": "fba4d7514742ef9b0c4df16b9b06cc4b3b94a23df086c8f34a0cbe6493b8b955"
+    "uuid": "fc42a991-a237-4dcb-bd00-5dd5067ca4f6",
+    "username": "beautifulbird397",
+    "password": "stephan",
+    "salt": "QioC2WTB",
+    "md5": "8b8e27a90de9b8704178af7cabf5ecfd",
+    "sha1": "deffe91dac07e4f97b58ad798f656287f0ff4cd2",
+    "sha256": "f602886b795b590f390ba854c74e40aca55a0e8d06412ff34b0b3fe60f2956ee"
   },
   "dob": {
-    "date": "1949-07-09T19:27:11.529Z",
-    "age": 75
+    "date": "1993-10-14T08:06:39.044Z",
+    "age": 31
   },
   "registered": {
-    "date": "2006-03-29T03:38:51.022Z",
-    "age": 19
+    "date": "2018-11-23T09:24:42.620Z",
+    "age": 6
   },
-  "phone": "988-089-896",
-  "cell": "661-076-970",
+  "phone": "(066) K48-6393",
+  "cell": "(067) T92-3286",
   "id": {
-    "name": "DNI",
-    "value": "95058666-E"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "ES"
+  "nat": "UA"
 }

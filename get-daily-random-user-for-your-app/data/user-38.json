@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Gerardo",
-    "last": "Morales"
+    "first": "Waldo",
+    "last": "Van de Wege"
   },
   "location": {
     "street": {
-      "number": 4555,
-      "name": "Avenida del Planetario"
+      "number": 1085,
+      "name": "Douwe Dabbertstraat"
     },
-    "city": "Córdoba",
-    "state": "Melilla",
-    "country": "Spain",
-    "postcode": 20658,
+    "city": "Pesse",
+    "state": "Drenthe",
+    "country": "Netherlands",
+    "postcode": "5949 CJ",
     "coordinates": {
-      "latitude": "-36.7722",
-      "longitude": "-3.2479"
+      "latitude": "37.9971",
+      "longitude": "-3.4337"
     },
     "timezone": {
       "offset": "+3:30",
       "description": "Tehran"
     }
   },
-  "email": "gerardo.morales@example.com",
+  "email": "waldo.vandewege@example.com",
   "login": {
-    "uuid": "699733c1-abbf-4327-86e4-4bd2fe35c26d",
-    "username": "tinyelephant379",
-    "password": "garion",
-    "salt": "NST9nlCU",
-    "md5": "4adfdcbe09c74c48ba26a72de877770b",
-    "sha1": "31f0c626abbc27eb9e5735aed7bd689a89475a9f",
-    "sha256": "b2b36e537ba6138262c1638f5e9f7be3f1752ea0eb2dcc55222944702b1c247b"
+    "uuid": "fc917a08-1032-4eb3-b5ba-53046347f5b5",
+    "username": "sadostrich383",
+    "password": "fellow",
+    "salt": "gdni4Snm",
+    "md5": "54d59af226196b9059c8fad1928a7fd3",
+    "sha1": "4718a290f8ea024e5229ca37e563883710a237f2",
+    "sha256": "b6d37a0754b7e3539a0b05d4d4e10cf32d959342fba5c65805cfa7a3dea0704a"
   },
   "dob": {
-    "date": "1987-02-20T00:01:22.981Z",
-    "age": 38
+    "date": "1955-09-09T03:07:41.031Z",
+    "age": 69
   },
   "registered": {
-    "date": "2019-07-21T18:32:40.662Z",
-    "age": 5
+    "date": "2003-05-08T19:27:49.890Z",
+    "age": 21
   },
-  "phone": "999-138-148",
-  "cell": "676-984-747",
+  "phone": "(042) 3493735",
+  "cell": "(06) 41321525",
   "id": {
-    "name": "DNI",
-    "value": "11739114-N"
+    "name": "BSN",
+    "value": "98580462"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "ES"
+  "nat": "NL"
 }

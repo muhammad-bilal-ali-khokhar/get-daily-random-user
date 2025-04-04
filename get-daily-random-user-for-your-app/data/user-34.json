@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "شایان",
-    "last": "قاسمی"
+    "first": "Atanásio",
+    "last": "Pereira"
   },
   "location": {
     "street": {
-      "number": 4626,
-      "name": "جمال الدین اسدآبادی"
+      "number": 2766,
+      "name": "Rua Vinte E Um"
     },
-    "city": "سبزوار",
-    "state": "خوزستان",
-    "country": "Iran",
-    "postcode": 82200,
+    "city": "Jandira",
+    "state": "Rio Grande do Norte",
+    "country": "Brazil",
+    "postcode": 50381,
     "coordinates": {
-      "latitude": "15.5676",
-      "longitude": "-65.1948"
+      "latitude": "-75.2462",
+      "longitude": "-17.5101"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "shyn.qsmy@example.com",
+  "email": "atanasio.pereira@example.com",
   "login": {
-    "uuid": "87a7386c-0b2e-4e0c-bd40-81c73bf1eb14",
-    "username": "crazybear556",
-    "password": "surf",
-    "salt": "cSk65aXR",
-    "md5": "05fe0b6861b9c72fcb4139cea1d915b9",
-    "sha1": "cc24559aa7488800c857f488427a4a3e7fd6afd6",
-    "sha256": "6382ce555c0e37cc4b8ae09792a33b4c0ab7b031ab29c0b57a219d2be66cd54d"
+    "uuid": "2c64f7b7-744b-41ad-99b1-ddb7ab33eb47",
+    "username": "silverbird841",
+    "password": "mamas",
+    "salt": "DptRgO1v",
+    "md5": "29e90edc0d7963495e2c8b66608998b9",
+    "sha1": "d3f307c4f0b8f6723d4bf893edcc698870dc68cf",
+    "sha256": "6c7e76adabaeca49732c58339bd1a35effc36a238be7aba52764347562d945a0"
   },
   "dob": {
-    "date": "1949-09-13T19:20:44.856Z",
-    "age": 75
+    "date": "1992-09-18T16:03:01.766Z",
+    "age": 32
   },
   "registered": {
-    "date": "2017-06-27T13:13:31.349Z",
-    "age": 7
+    "date": "2017-01-11T10:55:24.923Z",
+    "age": 8
   },
-  "phone": "026-90870283",
-  "cell": "0905-746-2657",
+  "phone": "(67) 2287-2468",
+  "cell": "(84) 2664-4102",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "069.566.202-72"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "IR"
+  "nat": "BR"
 }

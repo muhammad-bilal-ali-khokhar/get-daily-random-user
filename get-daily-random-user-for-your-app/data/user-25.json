@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Tvorilad",
-    "last": "Medvedyuk"
+    "first": "Malik",
+    "last": "Pelletier"
   },
   "location": {
     "street": {
-      "number": 912,
-      "name": "Pihotniy provulok"
+      "number": 4061,
+      "name": "Pierre Ave"
     },
-    "city": "Striy",
-    "state": "Dnipropetrovska",
-    "country": "Ukraine",
-    "postcode": 37233,
+    "city": "Georgetown",
+    "state": "Manitoba",
+    "country": "Canada",
+    "postcode": "L0J 0U8",
     "coordinates": {
-      "latitude": "73.4743",
-      "longitude": "-9.1426"
+      "latitude": "-66.8153",
+      "longitude": "-160.9982"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "tvorilad.medvedyuk@example.com",
+  "email": "malik.pelletier@example.com",
   "login": {
-    "uuid": "e9f1bd24-dd51-4413-aa59-5371eade76b5",
-    "username": "greenmouse403",
-    "password": "pavilion",
-    "salt": "YZufqgok",
-    "md5": "5c05daa904b9044e6fb94790315ef778",
-    "sha1": "88783816afd2ce1e3bb5f904a85115a4735221b0",
-    "sha256": "1ca53eed8a4ccc6df2c2e33e89da36c1b801b52408a969e1cb4f24e59e23d077"
+    "uuid": "9c16b52c-242e-42be-b96c-203690629bb2",
+    "username": "greenrabbit261",
+    "password": "mmmmmmm",
+    "salt": "lrk7kS5C",
+    "md5": "b335ffee67731ead2a6c5d909b7a2419",
+    "sha1": "92d21d51e9ea2c63938883e6004543e6cd8f8565",
+    "sha256": "258d1fa57ec2dc81a657847936d7ce6d5682eb1bbd2af1fb9f271803822c2352"
   },
   "dob": {
-    "date": "1958-07-10T22:14:17.495Z",
-    "age": 66
+    "date": "1947-01-17T02:53:42.329Z",
+    "age": 78
   },
   "registered": {
-    "date": "2011-08-10T22:30:51.377Z",
-    "age": 13
+    "date": "2006-10-27T11:09:04.472Z",
+    "age": 18
   },
-  "phone": "(099) Q89-4473",
-  "cell": "(068) V82-9973",
+  "phone": "P04 D57-7183",
+  "cell": "N82 D63-7181",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "053064838"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    "large": "https://randomuser.me/api/portraits/men/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
   },
-  "nat": "UA"
+  "nat": "CA"
 }

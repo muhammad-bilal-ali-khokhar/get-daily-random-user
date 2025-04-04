@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Rodrigo",
-    "last": "Archuleta"
+    "title": "Miss",
+    "first": "Malin",
+    "last": "Bakken"
   },
   "location": {
     "street": {
-      "number": 9180,
-      "name": "Boulevard Lesotho"
+      "number": 3347,
+      "name": "Martin Borrebekkens vei"
     },
-    "city": "Moctezuma",
-    "state": "Tamaulipas",
-    "country": "Mexico",
-    "postcode": 70525,
+    "city": "Kjøpmannsskjær",
+    "state": "Hordaland",
+    "country": "Norway",
+    "postcode": "5254",
     "coordinates": {
-      "latitude": "27.7594",
-      "longitude": "-75.9192"
+      "latitude": "43.8278",
+      "longitude": "60.3023"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "rodrigo.archuleta@example.com",
+  "email": "malin.bakken@example.com",
   "login": {
-    "uuid": "d0ce28da-998b-48d6-b9a7-bb5751bca7eb",
-    "username": "redladybug759",
-    "password": "mars",
-    "salt": "JJHTH1y0",
-    "md5": "9937f0dc7ece012b8e2fe190d5748a4d",
-    "sha1": "b4aeefc4ada45c307eb4ca512c7b9af71a0c261d",
-    "sha256": "2c34b311201765be7981971548cf3c7938e22c85055e9fedce27f16d709ef6ad"
+    "uuid": "904d5865-4220-497e-a908-7a3cbbb8d6a9",
+    "username": "orangekoala712",
+    "password": "1031",
+    "salt": "jhcJD3yK",
+    "md5": "82f55bf659bcd2e315bbe7635fe8c74d",
+    "sha1": "302299f147afc4f3b0ee77cd1ac23cc156730b1f",
+    "sha256": "167d7202da1facce4f6db1387a3c377290a37cf64fa8bcc26c4535c87b62f022"
   },
   "dob": {
-    "date": "1984-11-08T05:48:22.372Z",
-    "age": 40
+    "date": "1956-06-30T19:46:18.857Z",
+    "age": 68
   },
   "registered": {
-    "date": "2008-08-22T22:21:32.065Z",
-    "age": 16
+    "date": "2018-07-28T12:39:40.199Z",
+    "age": 6
   },
-  "phone": "(630) 776 4977",
-  "cell": "(672) 590 2297",
+  "phone": "77584666",
+  "cell": "91137363",
   "id": {
-    "name": "NSS",
-    "value": "20 15 36 8689 8"
+    "name": "FN",
+    "value": "30065629034"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    "large": "https://randomuser.me/api/portraits/women/67.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
   },
-  "nat": "MX"
+  "nat": "NO"
 }

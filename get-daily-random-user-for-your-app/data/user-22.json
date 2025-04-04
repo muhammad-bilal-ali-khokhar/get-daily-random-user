@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Ingelore",
-    "last": "Spies"
+    "title": "Mr",
+    "first": "Jovelino",
+    "last": "Ferreira"
   },
   "location": {
     "street": {
-      "number": 1598,
-      "name": "Hauptstraße"
+      "number": 406,
+      "name": "Rua Treze de Maio "
     },
-    "city": "Lüdinghausen",
-    "state": "Bayern",
-    "country": "Germany",
-    "postcode": 41243,
+    "city": "Tatuí",
+    "state": "Ceará",
+    "country": "Brazil",
+    "postcode": 38851,
     "coordinates": {
-      "latitude": "-52.9298",
-      "longitude": "105.5300"
+      "latitude": "-80.6184",
+      "longitude": "-1.5341"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "ingelore.spies@example.com",
+  "email": "jovelino.ferreira@example.com",
   "login": {
-    "uuid": "7d412681-582b-4055-8f33-db24f4264f56",
-    "username": "bluesnake744",
-    "password": "chen",
-    "salt": "FlRduwI9",
-    "md5": "20ff45f04c33ad3a3f1d342f0c94d6b2",
-    "sha1": "79e80cd0353df6a8a854e4fed730d7595f1237f9",
-    "sha256": "880c198269ae9a9053e5fa0f0b986b4bd9960ccbd1545ff4f9069108d699ad68"
+    "uuid": "97d0de35-ab66-40f7-be01-c82e9ca2a856",
+    "username": "angrycat803",
+    "password": "templar",
+    "salt": "PUAxa8D7",
+    "md5": "cffd17277e3a26d34986c9fe4efd17ab",
+    "sha1": "4bddf8ff40ec28afb80fcce9fa6d414fc1a12094",
+    "sha256": "0984d9aef6d66d5cb88809c24708612b8f7ef8aa349a0a90a6fcec6464224c82"
   },
   "dob": {
-    "date": "1953-06-28T08:41:07.560Z",
-    "age": 71
+    "date": "1975-10-31T03:41:54.141Z",
+    "age": 49
   },
   "registered": {
-    "date": "2007-07-29T18:36:35.834Z",
-    "age": 17
+    "date": "2005-04-03T01:45:50.148Z",
+    "age": 20
   },
-  "phone": "0214-2934046",
-  "cell": "0171-1181369",
+  "phone": "(67) 6165-3304",
+  "cell": "(28) 2284-0109",
   "id": {
-    "name": "SVNR",
-    "value": "65 280653 S 653"
+    "name": "CPF",
+    "value": "174.404.805-97"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/93.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
   },
-  "nat": "DE"
+  "nat": "BR"
 }

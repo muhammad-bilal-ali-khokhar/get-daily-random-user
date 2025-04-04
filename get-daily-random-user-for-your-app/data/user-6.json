@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Lilja",
-    "last": "Lampinen"
+    "title": "Mr",
+    "first": "Erik",
+    "last": "Fletcher"
   },
   "location": {
     "street": {
-      "number": 2997,
-      "name": "Siilitie"
+      "number": 3048,
+      "name": "Spring Hill Rd"
     },
-    "city": "Keitele",
-    "state": "Pirkanmaa",
-    "country": "Finland",
-    "postcode": 48165,
+    "city": "Norfolk",
+    "state": "Kentucky",
+    "country": "United States",
+    "postcode": 42822,
     "coordinates": {
-      "latitude": "-29.8956",
-      "longitude": "142.3976"
+      "latitude": "88.3084",
+      "longitude": "-120.4559"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "lilja.lampinen@example.com",
+  "email": "erik.fletcher@example.com",
   "login": {
-    "uuid": "77f14d49-6a66-4219-bcfa-4ab461a4cfea",
-    "username": "purplefish705",
-    "password": "xyzzy",
-    "salt": "QAyleM0W",
-    "md5": "c178cf33d009cb343e023fa5d5a79bff",
-    "sha1": "766e9e731e8a477fd204175903188771858356c6",
-    "sha256": "417624b7f5b92e3920708b69a531bcd3aadd3fb50a70c5189f4e9db7ec252378"
+    "uuid": "5494c955-cd29-44d1-85e5-3df02c12f001",
+    "username": "whitegoose300",
+    "password": "farscape",
+    "salt": "X1iKt2es",
+    "md5": "769c728fe1b0de99a6ccceff327bd5ca",
+    "sha1": "a96429d8a004e4e06c21fda6bb6965d351ca7a5f",
+    "sha256": "db097711a6102459cf422f73b1d2550bd9645fac6248a8ff2d7adb843e245f1b"
   },
   "dob": {
-    "date": "1984-10-17T03:38:29.686Z",
-    "age": 40
+    "date": "1991-08-19T07:22:40.454Z",
+    "age": 33
   },
   "registered": {
-    "date": "2007-06-13T21:17:29.983Z",
-    "age": 17
+    "date": "2021-09-04T12:22:16.703Z",
+    "age": 3
   },
-  "phone": "02-627-996",
-  "cell": "042-928-27-46",
+  "phone": "(370) 390-0005",
+  "cell": "(491) 962-7567",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA914undefined"
+    "name": "SSN",
+    "value": "302-74-8928"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "FI"
+  "nat": "US"
 }

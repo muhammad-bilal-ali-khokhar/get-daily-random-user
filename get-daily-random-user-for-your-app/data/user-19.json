@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Gligorije",
-    "last": "Polić"
+    "first": "Albert",
+    "last": "Nielsen"
   },
   "location": {
     "street": {
-      "number": 7446,
-      "name": "Jarinjska"
+      "number": 1486,
+      "name": "Snerlevej"
     },
-    "city": "Priština",
-    "state": "Raška",
-    "country": "Serbia",
-    "postcode": 24006,
+    "city": "Gjern",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 56110,
     "coordinates": {
-      "latitude": "61.5100",
-      "longitude": "-70.1585"
+      "latitude": "-43.3024",
+      "longitude": "-56.9159"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "gligorije.polic@example.com",
+  "email": "albert.nielsen@example.com",
   "login": {
-    "uuid": "481b5ab2-4d3c-47a5-8847-360e6ffcd296",
-    "username": "brownladybug269",
-    "password": "lambert",
-    "salt": "r2nVEOwc",
-    "md5": "3886601eb138025850e49f13025a7775",
-    "sha1": "2057faa264f006d137b884889a75da05cf22e630",
-    "sha256": "dcbe246a85167250e7c572da756f2855b49b4eb9814b79c47246603d59bb38e5"
+    "uuid": "09e2c308-0ef4-4665-b94d-1ad6c4e987f2",
+    "username": "crazysnake168",
+    "password": "miller1",
+    "salt": "a39sAxu9",
+    "md5": "880c9ea857bbb598f243183f80b71586",
+    "sha1": "8f550b3190fc23f5f95ad951d1e905abe9468338",
+    "sha256": "0a8da66e8df34febcd5367103c6add2fb4aa8bb646fbfb5988f420514fbf8852"
   },
   "dob": {
-    "date": "1967-09-25T17:06:12.943Z",
-    "age": 57
+    "date": "1981-06-07T21:16:25.648Z",
+    "age": 43
   },
   "registered": {
-    "date": "2002-08-19T12:42:57.620Z",
-    "age": 22
+    "date": "2019-04-19T15:46:45.448Z",
+    "age": 5
   },
-  "phone": "029-9781-634",
-  "cell": "064-9130-309",
+  "phone": "83855491",
+  "cell": "39383691",
   "id": {
-    "name": "SID",
-    "value": "415747208"
+    "name": "CPR",
+    "value": "070681-2310"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "RS"
+  "nat": "DK"
 }

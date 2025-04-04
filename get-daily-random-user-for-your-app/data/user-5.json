@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Diane",
-    "last": "Myers"
+    "title": "Mr",
+    "first": "Vladislav",
+    "last": "Teodosić"
   },
   "location": {
     "street": {
-      "number": 73,
-      "name": "Robinson Rd"
+      "number": 4980,
+      "name": "Nika Strugara"
     },
-    "city": "Bunbury",
-    "state": "New South Wales",
-    "country": "Australia",
-    "postcode": 5844,
+    "city": "Kuršumlija",
+    "state": "Kosovska Mitrovica",
+    "country": "Serbia",
+    "postcode": 31600,
     "coordinates": {
-      "latitude": "-84.8694",
-      "longitude": "59.7819"
+      "latitude": "59.2446",
+      "longitude": "-119.7112"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "diane.myers@example.com",
+  "email": "vladislav.teodosic@example.com",
   "login": {
-    "uuid": "4aa60b32-db2c-4b8a-9205-11bbe972a92e",
-    "username": "greencat185",
-    "password": "369369",
-    "salt": "UlWRHQLi",
-    "md5": "2de7b98a961245111ecd54b89e517975",
-    "sha1": "e3bf76e72136fb2e20d148ce03f7ff59b6907e14",
-    "sha256": "83458d0e99a12a405652b05bc708b208008705db7dddb11b9f790e8a6826b14c"
+    "uuid": "ed879643-fb7d-4215-93d3-7080812f2a6e",
+    "username": "ticklishduck545",
+    "password": "cable",
+    "salt": "8RBZihu1",
+    "md5": "b71f03ef933f86485e6e7e0e918fb11f",
+    "sha1": "f67c9352b503674a4b46bf5f6e3098c96ec6b2c7",
+    "sha256": "ff8e86ab3667764863090bc487176df63b1f8c49b200af708641ba32469d1bba"
   },
   "dob": {
-    "date": "1984-05-04T08:05:25.045Z",
-    "age": 40
+    "date": "1945-08-14T16:46:36.545Z",
+    "age": 79
   },
   "registered": {
-    "date": "2017-01-04T05:38:01.755Z",
-    "age": 8
+    "date": "2012-11-17T07:32:09.154Z",
+    "age": 12
   },
-  "phone": "05-4165-1818",
-  "cell": "0432-983-575",
+  "phone": "020-1916-482",
+  "cell": "065-4921-319",
   "id": {
-    "name": "TFN",
-    "value": "965338227"
+    "name": "SID",
+    "value": "761572368"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/90.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/90.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/90.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "AU"
+  "nat": "RS"
 }

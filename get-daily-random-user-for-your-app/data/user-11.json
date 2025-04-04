@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Mary",
-    "last": "Russell"
+    "title": "Mr",
+    "first": "Rodrigo",
+    "last": "Calderón"
   },
   "location": {
     "street": {
-      "number": 5835,
-      "name": "New Road"
+      "number": 7258,
+      "name": "Calle Tonga"
     },
-    "city": "York",
-    "state": "Mid Glamorgan",
-    "country": "United Kingdom",
-    "postcode": "W00 0GH",
+    "city": "Mixquiahuala",
+    "state": "Oaxaca",
+    "country": "Mexico",
+    "postcode": 80036,
     "coordinates": {
-      "latitude": "-4.4316",
-      "longitude": "24.0137"
+      "latitude": "27.3890",
+      "longitude": "-170.5469"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "mary.russell@example.com",
+  "email": "rodrigo.calderon@example.com",
   "login": {
-    "uuid": "ac8697fa-7169-4c6c-a00d-1da731a19b5d",
-    "username": "ticklishbutterfly856",
-    "password": "575757",
-    "salt": "fyMXxVAa",
-    "md5": "114afc3171e9dc7a37a7367248a12499",
-    "sha1": "d591e7e1c0544f8c40b4eb5783b48615fc4b6ab3",
-    "sha256": "239a393058ff10a7f821f049c2efc7cedcc331300d89a9677b7899b860c247c5"
+    "uuid": "d2ab389c-3fd5-404e-bf38-e5257c48f4c7",
+    "username": "brownleopard910",
+    "password": "vickie",
+    "salt": "o72var49",
+    "md5": "10e629334cf976e7212b54bf6d086c3b",
+    "sha1": "0e00b3cc3cd9e82abea776b1fc1d16a632608d30",
+    "sha256": "f28c4f0733fd3b28014053696b85b3553d3577b7830897ba688a59aa61380b4e"
   },
   "dob": {
-    "date": "1983-02-11T22:44:38.854Z",
-    "age": 42
+    "date": "1963-04-04T09:30:40.494Z",
+    "age": 61
   },
   "registered": {
-    "date": "2011-10-04T03:04:49.421Z",
-    "age": 13
+    "date": "2005-06-27T21:47:01.863Z",
+    "age": 19
   },
-  "phone": "0121 012 8843",
-  "cell": "07107 430911",
+  "phone": "(648) 259 2747",
+  "cell": "(686) 294 9312",
   "id": {
-    "name": "NINO",
-    "value": "OY 87 26 62 T"
+    "name": "NSS",
+    "value": "05 74 68 9022 6"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
   },
-  "nat": "GB"
+  "nat": "MX"
 }

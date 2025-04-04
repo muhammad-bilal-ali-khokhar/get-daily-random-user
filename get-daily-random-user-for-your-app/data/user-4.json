@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Sophia",
-    "last": "Campbell"
+    "first": "Buse",
+    "last": "Korol"
   },
   "location": {
     "street": {
-      "number": 7310,
-      "name": "Coastal Highway"
+      "number": 3658,
+      "name": "Talak Göktepe Cd"
     },
-    "city": "Aylmer",
-    "state": "Northwest Territories",
-    "country": "Canada",
-    "postcode": "P6V 1U1",
+    "city": "Gümüşhane",
+    "state": "Niğde",
+    "country": "Turkey",
+    "postcode": 11051,
     "coordinates": {
-      "latitude": "-69.8286",
-      "longitude": "44.5069"
+      "latitude": "71.2707",
+      "longitude": "31.2543"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "sophia.campbell@example.com",
+  "email": "buse.korol@example.com",
   "login": {
-    "uuid": "f2c6b407-9475-4968-a09b-150c96a48fcc",
-    "username": "silverbutterfly416",
-    "password": "mallory",
-    "salt": "qEwLzIAa",
-    "md5": "4127cc78be58d20d7b5417f8d649717a",
-    "sha1": "8a20c8a4f59744d6854070dbd4efc8e3073d8769",
-    "sha256": "2c618d051f704546fcfa164aa30ba9269e07450ce3b4a922fd455b814bd29a8a"
+    "uuid": "28ec545a-0e37-4941-858f-337adbb2ffe9",
+    "username": "yellowelephant276",
+    "password": "leedsutd",
+    "salt": "5pBLrgtw",
+    "md5": "96a8fde63c008a76d96090eff0472201",
+    "sha1": "697fbcec75793e56eeda33ebeff2bfafb3ee488c",
+    "sha256": "4bba2f8089dfec0fc7147c36d5308c21a6391ba1036a1578f87d4634cc25bb23"
   },
   "dob": {
-    "date": "1945-07-29T05:57:34.866Z",
-    "age": 79
+    "date": "1969-11-18T22:14:59.752Z",
+    "age": 55
   },
   "registered": {
-    "date": "2017-08-27T10:48:55.888Z",
-    "age": 7
+    "date": "2015-10-25T00:12:40.822Z",
+    "age": 9
   },
-  "phone": "K63 N97-7882",
-  "cell": "V27 Y03-0226",
+  "phone": "(761)-999-5498",
+  "cell": "(197)-506-1116",
   "id": {
-    "name": "SIN",
-    "value": "576776090"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/54.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
   },
-  "nat": "CA"
+  "nat": "TR"
 }

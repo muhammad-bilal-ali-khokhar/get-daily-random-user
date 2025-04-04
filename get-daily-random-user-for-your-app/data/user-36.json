@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Viivi",
-    "last": "Salminen"
+    "title": "Mr",
+    "first": "Luca",
+    "last": "Francois"
   },
   "location": {
     "street": {
-      "number": 9132,
-      "name": "Tehtaankatu"
+      "number": 1541,
+      "name": "Rue de la Mairie"
     },
-    "city": "Lieto",
-    "state": "Kainuu",
-    "country": "Finland",
-    "postcode": 37691,
+    "city": "Poitiers",
+    "state": "Seine-Saint-Denis",
+    "country": "France",
+    "postcode": 70361,
     "coordinates": {
-      "latitude": "-28.3320",
-      "longitude": "96.6354"
+      "latitude": "-13.0979",
+      "longitude": "-134.0830"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "viivi.salminen@example.com",
+  "email": "luca.francois@example.com",
   "login": {
-    "uuid": "fda9ee73-476a-49bd-a392-7a53bb3d6192",
-    "username": "blackladybug713",
-    "password": "masterbaiting",
-    "salt": "BxNMRYym",
-    "md5": "483f6588bae3bdfc134927eaab4ccf62",
-    "sha1": "6409bb3ac3e8e45737b112658ddc7b5fdd29693c",
-    "sha256": "6d324189cbfa2a30c92537c439d4598baee3a3078c7b5f197d5334dd3d005017"
+    "uuid": "8502abda-fcee-420f-8e1f-4c8b4fa8d2a7",
+    "username": "bigzebra380",
+    "password": "toonarmy",
+    "salt": "0U56id9c",
+    "md5": "2821e163de60192e95d49ca662e55a1d",
+    "sha1": "d724016aeed33a64b97a0ee97874f089342c53af",
+    "sha256": "70edbb20b0ddfda788ad26238b69737009679beae3ec7c2002b387603eed77f8"
   },
   "dob": {
-    "date": "1964-09-23T03:19:19.170Z",
-    "age": 60
+    "date": "1989-11-16T22:01:09.511Z",
+    "age": 35
   },
   "registered": {
-    "date": "2006-04-14T11:23:48.473Z",
-    "age": 18
+    "date": "2013-05-17T01:11:19.791Z",
+    "age": 11
   },
-  "phone": "07-283-051",
-  "cell": "048-958-70-19",
+  "phone": "02-96-58-16-45",
+  "cell": "06-29-02-42-33",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA426undefined"
+    "name": "INSEE",
+    "value": "1891000575175 52"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/69.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
+    "large": "https://randomuser.me/api/portraits/men/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
   },
-  "nat": "FI"
+  "nat": "FR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Jeremiah",
-    "last": "Gregory"
+    "title": "Mrs",
+    "first": "Solène",
+    "last": "Dufour"
   },
   "location": {
     "street": {
-      "number": 343,
-      "name": "Brick Kiln Road"
+      "number": 3855,
+      "name": "Rue du 8 Mai 1945"
     },
-    "city": "Lichfield",
-    "state": "Norfolk",
-    "country": "United Kingdom",
-    "postcode": "R7R 0EH",
+    "city": "Toulouse",
+    "state": "Aisne",
+    "country": "France",
+    "postcode": 32591,
     "coordinates": {
-      "latitude": "-5.6142",
-      "longitude": "-115.0652"
+      "latitude": "-17.9818",
+      "longitude": "178.1085"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "jeremiah.gregory@example.com",
+  "email": "solene.dufour@example.com",
   "login": {
-    "uuid": "75e017a8-8032-4252-8d38-0146b6e267fb",
-    "username": "bluelion151",
-    "password": "smiley",
-    "salt": "GamikulV",
-    "md5": "90572be01aefaeea687f3a67575cda86",
-    "sha1": "c12747207d9e1a5bcdd1948026d9c584de30155a",
-    "sha256": "b33018741e2722329e5c832d18ec22868f268b4ce0c6b12b566aec565b33f7dc"
+    "uuid": "e3ad6ce0-45ec-488a-b835-d04e4dc53fe8",
+    "username": "greenswan132",
+    "password": "chevrolet",
+    "salt": "u5VFGPnG",
+    "md5": "192f20e184221fab1ca3b14683996033",
+    "sha1": "20fdfa5b77acae03f17473f14022ec64870fe605",
+    "sha256": "4a21354385d46788ff5749cc52965d794ea51811eb75b383423f9927dfb8fed9"
   },
   "dob": {
-    "date": "1949-02-24T08:56:30.723Z",
-    "age": 76
+    "date": "1960-04-27T22:29:59.671Z",
+    "age": 64
   },
   "registered": {
-    "date": "2007-11-24T12:18:08.400Z",
-    "age": 17
+    "date": "2020-06-14T08:34:16.014Z",
+    "age": 4
   },
-  "phone": "0117995 184 7380",
-  "cell": "07382 467325",
+  "phone": "05-83-29-95-32",
+  "cell": "06-03-51-53-75",
   "id": {
-    "name": "NINO",
-    "value": "PJ 01 99 00 F"
+    "name": "INSEE",
+    "value": "2600360890885 07"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    "large": "https://randomuser.me/api/portraits/women/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
   },
-  "nat": "GB"
+  "nat": "FR"
 }

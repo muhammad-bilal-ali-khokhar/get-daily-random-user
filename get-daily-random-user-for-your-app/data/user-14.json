@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Por",
-    "last": "Gomenyuk"
+    "first": "Oscar",
+    "last": "Rasmussen"
   },
   "location": {
     "street": {
-      "number": 6874,
-      "name": "Verhnya Beregova"
+      "number": 946,
+      "name": "Hadsundvej"
     },
-    "city": "Simferopol",
-    "state": "Chernivecka",
-    "country": "Ukraine",
-    "postcode": 63698,
+    "city": "Tisvilde",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 26554,
     "coordinates": {
-      "latitude": "76.3901",
-      "longitude": "-173.0612"
+      "latitude": "-41.3272",
+      "longitude": "-52.9599"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "por.gomenyuk@example.com",
+  "email": "oscar.rasmussen@example.com",
   "login": {
-    "uuid": "a35a2cf9-7f26-4008-8137-8bb5c8a28e00",
-    "username": "brownladybug604",
-    "password": "arianna",
-    "salt": "E7lyddHp",
-    "md5": "6fe367c9be9495afca8e423574e88651",
-    "sha1": "ce9b00eb86b8c48492343530e4348539210ac503",
-    "sha256": "31ed32f0750905d7169a4d3cc51eea190216cb7ba686761fdb6719f88340c09d"
+    "uuid": "bd014e02-3673-44dd-944d-10156b841cd6",
+    "username": "crazysnake167",
+    "password": "donuts",
+    "salt": "mzCmr313",
+    "md5": "e010bfec44770a4e2d5fbe365978add5",
+    "sha1": "7a855f08c135803d072e93b4e4440478f49e37cc",
+    "sha256": "aaefc3cc1b7d2c9799c8b5953fa328193c885e24bdbf7e0a9e33123e15be38e5"
   },
   "dob": {
-    "date": "1987-01-21T11:57:06.895Z",
-    "age": 38
+    "date": "1945-02-22T19:02:27.905Z",
+    "age": 80
   },
   "registered": {
-    "date": "2017-03-19T08:51:13.443Z",
-    "age": 8
+    "date": "2004-01-02T17:09:53.616Z",
+    "age": 21
   },
-  "phone": "(098) O61-5800",
-  "cell": "(098) P12-0684",
+  "phone": "47520784",
+  "cell": "53150852",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "220245-6361"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+    "large": "https://randomuser.me/api/portraits/men/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
   },
-  "nat": "UA"
+  "nat": "DK"
 }

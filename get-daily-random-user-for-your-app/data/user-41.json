@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Emma",
-    "last": "Kristensen"
+    "title": "Mr",
+    "first": "Jimmy",
+    "last": "Wilson"
   },
   "location": {
     "street": {
-      "number": 2718,
-      "name": "Skolegade"
+      "number": 4137,
+      "name": "Rectory Lane"
     },
-    "city": "Noerre Alslev",
-    "state": "Hovedstaden",
-    "country": "Denmark",
-    "postcode": 56567,
+    "city": "Wolverhampton",
+    "state": "Essex",
+    "country": "United Kingdom",
+    "postcode": "UN5T 9EW",
     "coordinates": {
-      "latitude": "-43.4214",
-      "longitude": "132.4184"
+      "latitude": "-5.4027",
+      "longitude": "-102.3119"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "emma.kristensen@example.com",
+  "email": "jimmy.wilson@example.com",
   "login": {
-    "uuid": "454e4b83-8952-4d8c-8aee-2925338ab6cf",
-    "username": "whitedog622",
-    "password": "threesom",
-    "salt": "Lwk1IUbN",
-    "md5": "5689d07538748a7e5774489a7cf21c48",
-    "sha1": "7107e162ae10198d55fa390918ab3be4fc110293",
-    "sha256": "7201be8bc0b4f0339b7f2e8f45ef0b5bd848895898988f0a0e81be52f7f58762"
+    "uuid": "7f26bf50-86f1-400d-939c-7c55bf946c80",
+    "username": "purplerabbit526",
+    "password": "comedy",
+    "salt": "GA7ecaYt",
+    "md5": "bfc0146375c4b44fa876584d9a6e8ab7",
+    "sha1": "9698bcca63f2e62f85cf868a75408e1f81414fca",
+    "sha256": "b067eef9f59b56f5affb4af3ef7c0e760a9e6b864adf3e7efaa40f728e7bc8de"
   },
   "dob": {
-    "date": "1952-06-27T17:31:09.256Z",
-    "age": 72
+    "date": "1988-06-12T20:50:08.247Z",
+    "age": 36
   },
   "registered": {
-    "date": "2008-09-20T11:02:08.153Z",
-    "age": 16
+    "date": "2009-08-12T06:01:21.564Z",
+    "age": 15
   },
-  "phone": "15663790",
-  "cell": "79994139",
+  "phone": "016973 15759",
+  "cell": "07360 715285",
   "id": {
-    "name": "CPR",
-    "value": "270652-7354"
+    "name": "NINO",
+    "value": "YB 55 64 27 L"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/23.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/23.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/23.jpg"
+    "large": "https://randomuser.me/api/portraits/men/33.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
   },
-  "nat": "DK"
+  "nat": "GB"
 }

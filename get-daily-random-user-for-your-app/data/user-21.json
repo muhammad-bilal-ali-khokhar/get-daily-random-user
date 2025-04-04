@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Siiri",
-    "last": "Kauppi"
+    "first": "Özsu",
+    "last": "Ozansoy"
   },
   "location": {
     "street": {
-      "number": 8892,
-      "name": "Hermiankatu"
+      "number": 2104,
+      "name": "Necatibey Cd"
     },
-    "city": "Raahe",
-    "state": "Åland",
-    "country": "Finland",
-    "postcode": 85058,
+    "city": "Aydın",
+    "state": "Bayburt",
+    "country": "Turkey",
+    "postcode": 78625,
     "coordinates": {
-      "latitude": "-22.9279",
-      "longitude": "44.7857"
+      "latitude": "64.8290",
+      "longitude": "159.4547"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "siiri.kauppi@example.com",
+  "email": "ozsu.ozansoy@example.com",
   "login": {
-    "uuid": "e475e3bf-d869-4030-bd35-5389065754c1",
-    "username": "greengoose272",
-    "password": "cliff",
-    "salt": "HALdpaR1",
-    "md5": "f02b6f841db8486eb430fa2ec26312d2",
-    "sha1": "03aad8f54b463666ec09d91789b0031696c4e3d2",
-    "sha256": "05726c18807ad529dc68600d2e3cc5ec4030a5744ca74a6b22fa92ec1824e164"
+    "uuid": "ca98381d-cc62-4bbb-80aa-114a40bd49c4",
+    "username": "purplebutterfly180",
+    "password": "penguins",
+    "salt": "UAjTTRsd",
+    "md5": "cc49e6dd3ac2e6e173c832023f8e6b97",
+    "sha1": "621abce6dad409dd64f55b156ce07d4d535c99d9",
+    "sha256": "66fb40b107ab75db252547d674407949753fee114579d32dd7a34a0d060a03a6"
   },
   "dob": {
-    "date": "1974-03-29T08:54:08.549Z",
-    "age": 51
+    "date": "1960-10-10T14:50:17.839Z",
+    "age": 64
   },
   "registered": {
-    "date": "2014-05-30T03:59:44.705Z",
-    "age": 10
+    "date": "2016-01-26T02:57:03.391Z",
+    "age": 9
   },
-  "phone": "05-343-271",
-  "cell": "045-779-37-33",
+  "phone": "(078)-257-2605",
+  "cell": "(743)-828-7508",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA358undefined"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+    "large": "https://randomuser.me/api/portraits/women/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
   },
-  "nat": "FI"
+  "nat": "TR"
 }

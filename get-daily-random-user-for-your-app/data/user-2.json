@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Luukas",
-    "last": "Pietila"
+    "first": "Mladen",
+    "last": "Ćirković"
   },
   "location": {
     "street": {
-      "number": 371,
-      "name": "Esplanadi"
+      "number": 284,
+      "name": "Lukovska"
     },
-    "city": "Jalasjärvi",
-    "state": "Uusimaa",
-    "country": "Finland",
-    "postcode": 55731,
+    "city": "Ćićevac",
+    "state": "North Banat",
+    "country": "Serbia",
+    "postcode": 48444,
     "coordinates": {
-      "latitude": "-29.3919",
-      "longitude": "-107.4143"
+      "latitude": "59.7558",
+      "longitude": "-23.4717"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "luukas.pietila@example.com",
+  "email": "mladen.cirkovic@example.com",
   "login": {
-    "uuid": "8be012e8-7004-480f-bcc4-052ba624edcf",
-    "username": "silverfish128",
-    "password": "river",
-    "salt": "EbaqIb9R",
-    "md5": "9c1d8a94f459f6b474c3a44d0124621c",
-    "sha1": "c9e890f47e703dd1928553753dea88860d369a97",
-    "sha256": "26a80056f74d80306c86b493b2e046fc4063eb226789c1ec0c98cdeccddaa3c3"
+    "uuid": "81007366-5189-4952-a4ab-1180bc38e35c",
+    "username": "redpanda198",
+    "password": "compaq",
+    "salt": "vhHLLvlj",
+    "md5": "86eb6ab3cfa48c91d991f97fd549ac85",
+    "sha1": "13adbffd2751c1b551dd43f5944d982891607b2e",
+    "sha256": "47ed00cd634723213fa67ff3939cb5e668839ca7e6f6f4c72de39c5f0c4a4257"
   },
   "dob": {
-    "date": "1964-01-17T03:32:20.295Z",
-    "age": 61
+    "date": "1949-01-17T01:33:39.703Z",
+    "age": 76
   },
   "registered": {
-    "date": "2004-12-31T02:19:19.853Z",
-    "age": 20
+    "date": "2012-10-26T11:40:05.488Z",
+    "age": 12
   },
-  "phone": "07-313-987",
-  "cell": "049-148-36-19",
+  "phone": "037-1581-382",
+  "cell": "062-7851-393",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA497undefined"
+    "name": "SID",
+    "value": "116191972"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/73.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    "large": "https://randomuser.me/api/portraits/men/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
   },
-  "nat": "FI"
+  "nat": "RS"
 }

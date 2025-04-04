@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Nicole",
-    "last": "Staudt"
+    "title": "Mr",
+    "first": "David",
+    "last": "Lavigne"
   },
   "location": {
     "street": {
-      "number": 9097,
-      "name": "Gartenstraße"
+      "number": 1995,
+      "name": "Wellington St"
     },
-    "city": "Eppstein",
-    "state": "Baden-Württemberg",
-    "country": "Germany",
-    "postcode": 76138,
+    "city": "Borden",
+    "state": "Nunavut",
+    "country": "Canada",
+    "postcode": "X3S 2Z9",
     "coordinates": {
-      "latitude": "-55.5397",
-      "longitude": "133.7336"
+      "latitude": "-69.6615",
+      "longitude": "-4.4310"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "nicole.staudt@example.com",
+  "email": "david.lavigne@example.com",
   "login": {
-    "uuid": "cdd9e530-b3ab-46d8-8331-b5850f7e432d",
-    "username": "beautifulpanda404",
-    "password": "butterfly",
-    "salt": "oNRyYFap",
-    "md5": "8fbcbcd1c81d17a0e8617c68dc51b00f",
-    "sha1": "49eff66f53201a27457e787ae80b63ca9f4233c4",
-    "sha256": "a5b35bda31e623d7e8a892e7337d769aca33ff621ee709844788d69980621569"
+    "uuid": "4823f199-f2c6-4aaa-a058-96a1f9b5ba1f",
+    "username": "goldenleopard621",
+    "password": "323232",
+    "salt": "9lYyPPQj",
+    "md5": "2a4f930cac0a21917b960464e6f0a466",
+    "sha1": "76df11a02a5d68675e208c1920fcd6ccf134a899",
+    "sha256": "d29f943270a7967b6fb253a583188a115de08392ae515b039681bc975290d37a"
   },
   "dob": {
-    "date": "1976-04-26T09:50:24.686Z",
-    "age": 48
+    "date": "1967-01-04T23:42:08.883Z",
+    "age": 58
   },
   "registered": {
-    "date": "2009-02-09T07:13:36.619Z",
-    "age": 16
+    "date": "2015-09-01T12:38:28.602Z",
+    "age": 9
   },
-  "phone": "0948-2218814",
-  "cell": "0176-3715874",
+  "phone": "Y57 J76-1909",
+  "cell": "S40 E99-9436",
   "id": {
-    "name": "SVNR",
-    "value": "70 260476 S 967"
+    "name": "SIN",
+    "value": "433540580"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/0.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+    "large": "https://randomuser.me/api/portraits/men/6.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
   },
-  "nat": "DE"
+  "nat": "CA"
 }

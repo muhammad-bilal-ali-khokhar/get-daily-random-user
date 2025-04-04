@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Sonia",
-    "last": "Howard"
+    "title": "Mr",
+    "first": "Sigmund",
+    "last": "Vestnes"
   },
   "location": {
     "street": {
-      "number": 5014,
-      "name": "Oak Lawn Ave"
+      "number": 5869,
+      "name": "Folkvangveien"
     },
-    "city": "Hayward",
-    "state": "Washington",
-    "country": "United States",
-    "postcode": 70710,
+    "city": "Harstad",
+    "state": "Buskerud",
+    "country": "Norway",
+    "postcode": "0515",
     "coordinates": {
-      "latitude": "85.5502",
-      "longitude": "28.4229"
+      "latitude": "42.1228",
+      "longitude": "-131.0847"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "sonia.howard@example.com",
+  "email": "sigmund.vestnes@example.com",
   "login": {
-    "uuid": "d6a2896e-af0f-4d12-abd6-878475daef40",
-    "username": "happyleopard525",
-    "password": "skipper",
-    "salt": "8c8ZelQS",
-    "md5": "85cb089dd751ddecc5faf8a37e1f7f47",
-    "sha1": "5d8f150450ad28b2ff68b1e7f1ef20944e4cfb32",
-    "sha256": "249109e1a22fa18425f9469fdea7f17596a3db1a77fd5f7a82a83df3324e90d3"
+    "uuid": "de393428-d62e-4ab5-9d51-242aa211d505",
+    "username": "greenbutterfly232",
+    "password": "squirrel",
+    "salt": "Zyj4PTwL",
+    "md5": "939410aa19d43daa8a147eed01cd6e22",
+    "sha1": "7bd76a2b30ac2c79c99e6830d90eedd13250713c",
+    "sha256": "91c04a80cb7f255c76a79c00de9fb5cd816c73edc880219b492f6903a0ee466f"
   },
   "dob": {
-    "date": "1973-03-21T08:40:45.689Z",
-    "age": 52
+    "date": "1961-11-14T13:20:25.276Z",
+    "age": 63
   },
   "registered": {
-    "date": "2007-09-20T05:25:40.180Z",
-    "age": 17
+    "date": "2004-11-25T01:10:40.775Z",
+    "age": 20
   },
-  "phone": "(486) 993-0494",
-  "cell": "(483) 297-2357",
+  "phone": "71018303",
+  "cell": "99361420",
   "id": {
-    "name": "SSN",
-    "value": "758-39-7257"
+    "name": "FN",
+    "value": "14116130549"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/67.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
   },
-  "nat": "US"
+  "nat": "NO"
 }

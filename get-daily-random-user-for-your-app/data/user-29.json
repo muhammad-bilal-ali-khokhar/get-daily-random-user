@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Golubko",
-    "last": "Gorbachuk"
+    "title": "Mrs",
+    "first": "Gabriela",
+    "last": "Oterhals"
   },
   "location": {
     "street": {
-      "number": 7613,
-      "name": "Poshtova"
+      "number": 4165,
+      "name": "Vækerøåsen"
     },
-    "city": "Dzhankoy",
-    "state": "Zaporizka",
-    "country": "Ukraine",
-    "postcode": 18092,
+    "city": "Bodø",
+    "state": "Oslo",
+    "country": "Norway",
+    "postcode": "6019",
     "coordinates": {
-      "latitude": "75.8214",
-      "longitude": "-72.8379"
+      "latitude": "43.4087",
+      "longitude": "81.5794"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "golubko.gorbachuk@example.com",
+  "email": "gabriela.oterhals@example.com",
   "login": {
-    "uuid": "333cb451-747b-4c88-9c2a-2b49ad890b5c",
-    "username": "blackostrich243",
-    "password": "scooby1",
-    "salt": "BsDSUFHJ",
-    "md5": "722c89bf977591eed053269bcd3bb2af",
-    "sha1": "011e3fac3681b5aa39e73e218342146baa4aa41e",
-    "sha256": "91a8cbe7094e4fea9e477a62fe80023e562211464da116d43db29165b2556342"
+    "uuid": "5aaa6f19-680b-45dc-a5ec-46cc1329d217",
+    "username": "silverfish468",
+    "password": "travis",
+    "salt": "FdUv2Xlw",
+    "md5": "516909a2bd5381f606e22cf3d4768111",
+    "sha1": "33eacc3cdb413260f67f8c36188fa9873cfc81d3",
+    "sha256": "8752d2f5d901236e7e7bce4fe2a591fa6c3201490eb49c202140d5ae9b0ff27f"
   },
   "dob": {
-    "date": "1984-10-02T21:18:05.255Z",
-    "age": 40
+    "date": "1987-12-21T08:55:28.509Z",
+    "age": 37
   },
   "registered": {
-    "date": "2008-01-23T17:41:32.162Z",
-    "age": 17
+    "date": "2018-02-16T10:04:09.391Z",
+    "age": 7
   },
-  "phone": "(097) V55-0737",
-  "cell": "(099) S48-7272",
+  "phone": "31581145",
+  "cell": "40652971",
   "id": {
-    "name": "",
-    "value": null
+    "name": "FN",
+    "value": "21128747696"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/women/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
   },
-  "nat": "UA"
+  "nat": "NO"
 }

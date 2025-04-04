@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Noah",
-    "last": "Leroy"
+    "first": "Pierre",
+    "last": "Chevalier"
   },
   "location": {
     "street": {
-      "number": 9100,
-      "name": "Avenue du Château"
+      "number": 5128,
+      "name": "Avenue de la République"
     },
-    "city": "Asnières-sur-Seine",
-    "state": "Calvados",
+    "city": "Limoges",
+    "state": "Isère",
     "country": "France",
-    "postcode": 33369,
+    "postcode": 96804,
     "coordinates": {
-      "latitude": "-20.2568",
-      "longitude": "-30.8525"
+      "latitude": "-17.7338",
+      "longitude": "-68.0673"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "noah.leroy@example.com",
+  "email": "pierre.chevalier@example.com",
   "login": {
-    "uuid": "b98e0124-661a-4d32-a66d-1521949a462b",
-    "username": "happyswan176",
-    "password": "greatone",
-    "salt": "zxfQ2nj4",
-    "md5": "abe49a59f3d8b04c8311b2d1aadca2a0",
-    "sha1": "87d2faadba015887c32822d6899df31e3a974374",
-    "sha256": "81a8feaa3e3aa7eac12e82492cbbe5da38049ca679c05c33ff1608362d3a23e9"
+    "uuid": "c278078f-aaf3-4ce2-897f-5e58c88026a8",
+    "username": "heavyzebra431",
+    "password": "matthew1",
+    "salt": "PO8mV5ja",
+    "md5": "7d1f113598d3ca18c11e68d25e5baf20",
+    "sha1": "6353052a7cbac252d97ff5bc81f097c79588d2d7",
+    "sha256": "aec3f695ecfa5b2db413eba85aab31aa3649eadbbd2f3847b802fcf940d98141"
   },
   "dob": {
-    "date": "1964-09-20T08:02:54.679Z",
-    "age": 60
+    "date": "1997-07-31T19:19:42.104Z",
+    "age": 27
   },
   "registered": {
-    "date": "2005-09-16T18:54:34.158Z",
-    "age": 19
+    "date": "2009-02-27T08:56:36.220Z",
+    "age": 16
   },
-  "phone": "03-26-62-31-65",
-  "cell": "06-07-32-99-49",
+  "phone": "04-55-01-46-58",
+  "cell": "06-25-99-43-59",
   "id": {
     "name": "INSEE",
-    "value": "1640861413335 30"
+    "value": "1970622299152 30"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/11.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    "large": "https://randomuser.me/api/portraits/men/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
   },
   "nat": "FR"
 }

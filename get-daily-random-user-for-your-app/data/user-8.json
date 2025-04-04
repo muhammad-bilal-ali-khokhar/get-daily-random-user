@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Helenice",
-    "last": "Rezende"
+    "title": "Mr",
+    "first": "James",
+    "last": "Caldeira"
   },
   "location": {
     "street": {
-      "number": 9116,
-      "name": "Rua Vinte de Setembro"
+      "number": 9522,
+      "name": "Rua Vinte E Dois "
     },
-    "city": "Piracicaba",
-    "state": "Roraima",
+    "city": "Campina Grande",
+    "state": "Acre",
     "country": "Brazil",
-    "postcode": 43172,
+    "postcode": 37439,
     "coordinates": {
-      "latitude": "-78.1564",
-      "longitude": "55.9207"
+      "latitude": "-80.5596",
+      "longitude": "-26.6531"
     },
     "timezone": {
       "offset": "+7:00",
       "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "helenice.rezende@example.com",
+  "email": "james.caldeira@example.com",
   "login": {
-    "uuid": "6daceead-5465-4bb0-8173-32db219ff385",
-    "username": "brownduck221",
-    "password": "iloveyou1",
-    "salt": "qzwSRcGh",
-    "md5": "b3d54647cb11c43eb72ae28a5d281f4e",
-    "sha1": "00c2f2ba21ef0d39990ea65afb1c0daced14574c",
-    "sha256": "60753ee8dec70bc99784a57b1524913beca5b3376a507b5ade49246997da31c5"
+    "uuid": "81dfe204-61b2-4431-bc82-1714369f4d66",
+    "username": "orangecat157",
+    "password": "sheba1",
+    "salt": "AgTjrod8",
+    "md5": "c84824165e0e2d94fbad43b8b02a0d32",
+    "sha1": "b8354c82ccf0e3b98ef23f6554c50fa0a2680493",
+    "sha256": "2eaa93b61385a20259b630440c965b3d7b7098847ee25cf2cceaafa67d956e44"
   },
   "dob": {
-    "date": "1991-09-08T20:42:32.805Z",
-    "age": 33
+    "date": "1972-08-28T15:04:06.477Z",
+    "age": 52
   },
   "registered": {
-    "date": "2017-04-21T00:55:30.711Z",
-    "age": 7
+    "date": "2004-04-12T03:37:23.616Z",
+    "age": 20
   },
-  "phone": "(05) 9925-3938",
-  "cell": "(76) 3496-2711",
+  "phone": "(23) 5928-3352",
+  "cell": "(52) 3685-0207",
   "id": {
     "name": "CPF",
-    "value": "307.424.265-19"
+    "value": "977.135.937-59"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+    "large": "https://randomuser.me/api/portraits/men/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
   },
   "nat": "BR"
 }

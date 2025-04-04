@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Miss",
-    "first": "Özsu",
-    "last": "Tütüncü"
+    "first": "Esma",
+    "last": "Kıraç"
   },
   "location": {
     "street": {
-      "number": 6768,
-      "name": "Talak Göktepe Cd"
+      "number": 1229,
+      "name": "Doktorlar Cd"
     },
-    "city": "Denizli",
-    "state": "Tokat",
+    "city": "Giresun",
+    "state": "Bursa",
     "country": "Turkey",
-    "postcode": 93654,
+    "postcode": 71774,
     "coordinates": {
-      "latitude": "70.9602",
-      "longitude": "87.1430"
+      "latitude": "70.1365",
+      "longitude": "36.0638"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "ozsu.tutuncu@example.com",
+  "email": "esma.kirac@example.com",
   "login": {
-    "uuid": "cd34a43b-e921-4025-8291-e77d3ddcd91b",
-    "username": "beautifultiger531",
-    "password": "maggie",
-    "salt": "Mjfajwrl",
-    "md5": "8b4d93cf801da24f86011d354eb0ddca",
-    "sha1": "2abc96997bfd9d540678bf6bac28bd4544cae3d5",
-    "sha256": "798bb8575aeb79ef456c2c2124fc5a711756952294e949f403c687e7fff32430"
+    "uuid": "68521253-a7ce-4e7a-b7e5-8078750fa578",
+    "username": "goldenleopard139",
+    "password": "theresa",
+    "salt": "DV46BQQE",
+    "md5": "13008247eb03a2044717a22a0dafca55",
+    "sha1": "8aab490001d5f40c8a19a945ca71518d6ecb9b31",
+    "sha256": "556062e8124283c71764d78dc96ce8de84a49d055f8db687e03a91549fa6894c"
   },
   "dob": {
-    "date": "1971-08-16T14:54:06.706Z",
-    "age": 53
+    "date": "1970-08-03T20:29:52.023Z",
+    "age": 54
   },
   "registered": {
-    "date": "2019-03-23T16:18:20.361Z",
-    "age": 6
+    "date": "2013-07-04T06:00:28.259Z",
+    "age": 11
   },
-  "phone": "(887)-851-7550",
-  "cell": "(588)-986-6302",
+  "phone": "(309)-634-5480",
+  "cell": "(638)-920-8212",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
   },
   "nat": "TR"
 }

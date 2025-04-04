@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Paula",
-    "last": "Parra"
+    "title": "Mr",
+    "first": "Uglješa",
+    "last": "Tomić"
   },
   "location": {
     "street": {
-      "number": 2726,
-      "name": "Calle de Ángel García"
+      "number": 1437,
+      "name": "Nikole Tanurdžića "
     },
-    "city": "Murcia",
-    "state": "Región de Murcia",
-    "country": "Spain",
-    "postcode": 25720,
+    "city": "Nova Varoš",
+    "state": "Kosovo-Pomoravlje",
+    "country": "Serbia",
+    "postcode": 83387,
     "coordinates": {
-      "latitude": "-31.6496",
-      "longitude": "24.2369"
+      "latitude": "57.6461",
+      "longitude": "-35.5106"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "paula.parra@example.com",
+  "email": "ugljesa.tomic@example.com",
   "login": {
-    "uuid": "ca424b8f-27b2-4e0f-b2fc-9e0a1ddeb03e",
-    "username": "smallmouse935",
-    "password": "virgil",
-    "salt": "CQj6b09l",
-    "md5": "6589bf6cd987c4215cec215c041d2722",
-    "sha1": "1d31bca88cbafe46a178442232d1cd70d10fdbaf",
-    "sha256": "a0cf741184786affcba2983f5fab23681460e7192cdcda05cd9d9c209223a8f0"
+    "uuid": "dd72983d-2ec0-4e92-9180-6c9b712dff6d",
+    "username": "lazybear492",
+    "password": "airbus",
+    "salt": "i6Vc4JlL",
+    "md5": "e693b9974f2e7bc5120300c0658cb4fd",
+    "sha1": "d2f531fb87cfe8b7c5f3111f70ffeb97f6c89c3f",
+    "sha256": "1535014a4c2f94d44f5ed82eaa87b4e6ed1da1d5b8c1f295f54391618359fada"
   },
   "dob": {
-    "date": "1946-07-05T12:06:36.824Z",
-    "age": 78
+    "date": "1988-09-23T05:32:18.372Z",
+    "age": 36
   },
   "registered": {
-    "date": "2015-05-15T21:29:31.826Z",
-    "age": 9
+    "date": "2014-05-06T15:30:44.341Z",
+    "age": 10
   },
-  "phone": "988-960-280",
-  "cell": "622-895-222",
+  "phone": "020-1899-482",
+  "cell": "067-1460-829",
   "id": {
-    "name": "DNI",
-    "value": "13800150-N"
+    "name": "SID",
+    "value": "523703485"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/6.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
   },
-  "nat": "ES"
+  "nat": "RS"
 }

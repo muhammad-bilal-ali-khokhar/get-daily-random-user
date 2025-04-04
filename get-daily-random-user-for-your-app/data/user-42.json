@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Ira",
-    "last": "Patil"
+    "title": "Mrs",
+    "first": "Yashika",
+    "last": "Kamath"
   },
   "location": {
     "street": {
-      "number": 8541,
-      "name": "NAD X Rd"
+      "number": 4144,
+      "name": "Fontainhas"
     },
-    "city": "Raichur",
-    "state": "Kerala",
+    "city": "Kavali",
+    "state": "Tamil Nadu",
     "country": "India",
-    "postcode": 22815,
+    "postcode": 13030,
     "coordinates": {
-      "latitude": "5.3819",
-      "longitude": "127.1715"
+      "latitude": "7.3631",
+      "longitude": "129.8096"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "ira.patil@example.com",
+  "email": "yashika.kamath@example.com",
   "login": {
-    "uuid": "4a05d9c8-289d-4e93-8801-4d193caeefe1",
-    "username": "beautifulfrog870",
-    "password": "2005",
-    "salt": "FLY7MoUI",
-    "md5": "77f50aa13a660016e24f7d84cbcdad90",
-    "sha1": "a92171b7791ec19fdc4ba951cc7c2294ca12004a",
-    "sha256": "6972c64497b21320397e832cd94f9ce9195ae27c2403f942fa291af66ad0b510"
+    "uuid": "f6a5647e-0f06-4409-ac4d-ff29140c89bf",
+    "username": "ticklishzebra969",
+    "password": "cumcum",
+    "salt": "0aApaKzX",
+    "md5": "efb1442e729d503c8e058c0667fd67e2",
+    "sha1": "bf1e9391341b0398958a1ec0850cfe6160ae5249",
+    "sha256": "3c74070b747282f88ac850e010d0d23c4aa955e77c842c880ca999a94cc11770"
   },
   "dob": {
-    "date": "1951-01-14T22:27:39.438Z",
-    "age": 74
+    "date": "1951-11-12T05:42:33.087Z",
+    "age": 73
   },
   "registered": {
-    "date": "2013-10-09T08:35:56.710Z",
+    "date": "2013-10-26T05:20:05.800Z",
     "age": 11
   },
-  "phone": "9688990547",
-  "cell": "8019670437",
+  "phone": "7075679145",
+  "cell": "7165735756",
   "id": {
     "name": "UIDAI",
-    "value": "920407732880"
+    "value": "680202593304"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
   },
   "nat": "IN"
 }

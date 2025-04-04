@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Hotyan",
-    "last": "Gordasevich"
+    "first": "Soham",
+    "last": "Austin"
   },
   "location": {
     "street": {
-      "number": 2540,
-      "name": "Magistralna"
+      "number": 9664,
+      "name": "Main Street"
     },
-    "city": "Dnipro",
-    "state": "Dnipropetrovska",
-    "country": "Ukraine",
-    "postcode": 33923,
+    "city": "Brighton and Hove",
+    "state": "Lancashire",
+    "country": "United Kingdom",
+    "postcode": "SB35 8DL",
     "coordinates": {
-      "latitude": "79.0175",
-      "longitude": "-159.3792"
+      "latitude": "-11.9101",
+      "longitude": "-2.7713"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "hotyan.gordasevich@example.com",
+  "email": "soham.austin@example.com",
   "login": {
-    "uuid": "e3148424-4203-4085-a58d-c0badec0285d",
-    "username": "orangeswan823",
-    "password": "freefree",
-    "salt": "sjdodGwN",
-    "md5": "1f453abad4252f5fbc50473c2d216d0f",
-    "sha1": "6375b21f754e6a9cea968680d606acacfba9d928",
-    "sha256": "9580535b059bf5d452ff9dab950104bb4a44c5edd45455f29703990ef2008cda"
+    "uuid": "e03f6199-db4d-42b5-8d54-f931dca4613f",
+    "username": "goldenfrog994",
+    "password": "sprout",
+    "salt": "YRs1lTuH",
+    "md5": "efbf5936dbd5063586ef77be7c90cbf3",
+    "sha1": "d45bcecf305d6656e39d27ceac2c93752e213aad",
+    "sha256": "7c885e44fdfbbb3c53a9ee82f1c5636ef241ea1280eab9978e4596f9689dd341"
   },
   "dob": {
-    "date": "1947-09-07T21:22:35.525Z",
-    "age": 77
+    "date": "1977-05-19T22:35:47.046Z",
+    "age": 47
   },
   "registered": {
-    "date": "2016-11-15T00:08:16.873Z",
-    "age": 8
+    "date": "2006-08-15T00:08:46.332Z",
+    "age": 18
   },
-  "phone": "(099) X70-1538",
-  "cell": "(068) V78-5210",
+  "phone": "019467 57547",
+  "cell": "07185 189917",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NINO",
+    "value": "SE 91 41 86 R"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/63.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "UA"
+  "nat": "GB"
 }

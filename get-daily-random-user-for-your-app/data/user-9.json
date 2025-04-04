@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Isabella",
-    "last": "Brown"
+    "title": "Mr",
+    "first": "Leo",
+    "last": "Freeman"
   },
   "location": {
     "street": {
-      "number": 9996,
-      "name": "Te Mata Road"
+      "number": 7061,
+      "name": "E Center St"
     },
-    "city": "Blenheim",
-    "state": "West Coast",
-    "country": "New Zealand",
-    "postcode": 54209,
+    "city": "Odessa",
+    "state": "Nevada",
+    "country": "United States",
+    "postcode": 76663,
     "coordinates": {
-      "latitude": "54.4865",
-      "longitude": "163.1908"
+      "latitude": "84.3962",
+      "longitude": "-58.7339"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "isabella.brown@example.com",
+  "email": "leo.freeman@example.com",
   "login": {
-    "uuid": "6048fd1f-78ab-4b66-91b4-f34bc5a6d760",
-    "username": "goldenzebra300",
-    "password": "queenie",
-    "salt": "GPRTzz1f",
-    "md5": "553b9ff726ea2bbbf8206fc2a79260de",
-    "sha1": "3482f95390e4a201595d791d6f2efe132f812bab",
-    "sha256": "af63dc288037c55e6fd23d92225bb34f1e6f713cec70669eb7faf853aa7de2dd"
+    "uuid": "943b2a8b-efb1-478a-9f2c-eeb0588bdad5",
+    "username": "blackrabbit917",
+    "password": "vince",
+    "salt": "57ThDIQ2",
+    "md5": "22b60e3c3465ba52df58da79e542f049",
+    "sha1": "2e1543c36d71e737fb368bb6e4f6a8eb8893c9cf",
+    "sha256": "dd319e90d8b4de194bb8566f37bdb7a0129382b533e81fb740d00a99b718ce37"
   },
   "dob": {
-    "date": "1961-09-18T05:28:32.283Z",
-    "age": 63
+    "date": "1997-10-31T11:48:28.967Z",
+    "age": 27
   },
   "registered": {
-    "date": "2016-08-16T18:33:32.762Z",
-    "age": 8
+    "date": "2016-03-08T16:16:54.705Z",
+    "age": 9
   },
-  "phone": "(363)-843-0352",
-  "cell": "(625)-439-1171",
+  "phone": "(455) 786-8390",
+  "cell": "(807) 705-3744",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SSN",
+    "value": "615-40-1521"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/74.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
+    "large": "https://randomuser.me/api/portraits/men/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
   },
-  "nat": "NZ"
+  "nat": "US"
 }
