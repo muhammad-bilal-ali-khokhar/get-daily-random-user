@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Ahlam",
-    "last": "Rødland"
+    "title": "Miss",
+    "first": "Rebecca",
+    "last": "Shetty"
   },
   "location": {
     "street": {
-      "number": 2786,
-      "name": "Rasmus Winderens vei"
+      "number": 1626,
+      "name": "Colaba Causeway"
     },
-    "city": "Rubbestadneset",
-    "state": "Bergen",
-    "country": "Norway",
-    "postcode": "1188",
+    "city": "Dehradun",
+    "state": "Delhi",
+    "country": "India",
+    "postcode": 61606,
     "coordinates": {
-      "latitude": "38.9678",
-      "longitude": "154.7812"
+      "latitude": "9.7701",
+      "longitude": "94.8053"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "ahlam.rodland@example.com",
+  "email": "rebecca.shetty@example.com",
   "login": {
-    "uuid": "0b754aa1-6a64-4a98-b13b-dd3569145593",
-    "username": "silversnake883",
-    "password": "colors",
-    "salt": "NAsNKIBh",
-    "md5": "0b26401cc544185f523ab76c1abdf650",
-    "sha1": "f599480174d3d683d44a707434fcc5d78eb29bef",
-    "sha256": "429eb4c8c2913dd1308c47b085226e405bb8f25f1cdf844b976a83e359d37534"
+    "uuid": "9e032334-9aa6-4119-8048-6cd2e138afbc",
+    "username": "orangegoose778",
+    "password": "coolguy",
+    "salt": "NPyffLcc",
+    "md5": "d36fd6f3e58c22a48ea75de397d3b0df",
+    "sha1": "3bb191bb8806473a84702ef0604bf373f2f7a8d7",
+    "sha256": "41e40ccd207bd22088a4ab3ae272a9b01916295485da3ebd827a074b68dfb4ec"
   },
   "dob": {
-    "date": "1956-01-30T00:20:08.898Z",
-    "age": 69
+    "date": "1993-08-26T09:36:04.351Z",
+    "age": 31
   },
   "registered": {
-    "date": "2009-01-12T23:06:44.253Z",
-    "age": 16
+    "date": "2005-04-02T11:17:39.454Z",
+    "age": 20
   },
-  "phone": "61233529",
-  "cell": "42340397",
+  "phone": "7256977533",
+  "cell": "9793064753",
   "id": {
-    "name": "FN",
-    "value": "30015606416"
+    "name": "UIDAI",
+    "value": "403212395091"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/39.jpg"
+    "large": "https://randomuser.me/api/portraits/women/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
   },
-  "nat": "NO"
+  "nat": "IN"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Kadir",
-    "last": "Keseroğlu"
+    "first": "Tvorilad",
+    "last": "Medvedyuk"
   },
   "location": {
     "street": {
-      "number": 4759,
-      "name": "Doktorlar Cd"
+      "number": 912,
+      "name": "Pihotniy provulok"
     },
-    "city": "Bitlis",
-    "state": "Kars",
-    "country": "Turkey",
-    "postcode": 88988,
+    "city": "Striy",
+    "state": "Dnipropetrovska",
+    "country": "Ukraine",
+    "postcode": 37233,
     "coordinates": {
-      "latitude": "69.0273",
-      "longitude": "-3.4354"
+      "latitude": "73.4743",
+      "longitude": "-9.1426"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "kadir.keseroglu@example.com",
+  "email": "tvorilad.medvedyuk@example.com",
   "login": {
-    "uuid": "7717227e-dfce-463a-9938-c24f50cf0a3c",
-    "username": "brownleopard818",
-    "password": "manga",
-    "salt": "17U6xmPL",
-    "md5": "a6f52e34982758c2b81140dcdaf2ca48",
-    "sha1": "baf6bf416470dc1c9dba2df28657e7246bb6aaf3",
-    "sha256": "a4e83a02a5813e557f4178ec089ab2cb07ef19087f89f3ae57b8fff2f90cbd21"
+    "uuid": "e9f1bd24-dd51-4413-aa59-5371eade76b5",
+    "username": "greenmouse403",
+    "password": "pavilion",
+    "salt": "YZufqgok",
+    "md5": "5c05daa904b9044e6fb94790315ef778",
+    "sha1": "88783816afd2ce1e3bb5f904a85115a4735221b0",
+    "sha256": "1ca53eed8a4ccc6df2c2e33e89da36c1b801b52408a969e1cb4f24e59e23d077"
   },
   "dob": {
-    "date": "1953-01-15T00:29:15.820Z",
-    "age": 72
+    "date": "1958-07-10T22:14:17.495Z",
+    "age": 66
   },
   "registered": {
-    "date": "2007-05-11T09:59:01.239Z",
-    "age": 17
+    "date": "2011-08-10T22:30:51.377Z",
+    "age": 13
   },
-  "phone": "(307)-906-2825",
-  "cell": "(165)-547-8895",
+  "phone": "(099) Q89-4473",
+  "cell": "(068) V82-9973",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/99.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "TR"
+  "nat": "UA"
 }

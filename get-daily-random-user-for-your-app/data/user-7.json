@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Acúrsio",
-    "last": "Pires"
+    "first": "Jeremiah",
+    "last": "Gregory"
   },
   "location": {
     "street": {
-      "number": 8409,
-      "name": "Rua Onze "
+      "number": 343,
+      "name": "Brick Kiln Road"
     },
-    "city": "Rio Branco",
-    "state": "Acre",
-    "country": "Brazil",
-    "postcode": 53255,
+    "city": "Lichfield",
+    "state": "Norfolk",
+    "country": "United Kingdom",
+    "postcode": "R7R 0EH",
     "coordinates": {
-      "latitude": "-77.5568",
-      "longitude": "-67.6670"
+      "latitude": "-5.6142",
+      "longitude": "-115.0652"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "acursio.pires@example.com",
+  "email": "jeremiah.gregory@example.com",
   "login": {
-    "uuid": "0cad7b07-3f28-4430-8e38-24910f15bc3b",
-    "username": "brownlion227",
-    "password": "tzpvaw",
-    "salt": "m7lHrpdW",
-    "md5": "1894704457fee60837320ff356af6af6",
-    "sha1": "55b3dd92507f846acbcad575175a81cd6b92991d",
-    "sha256": "607bbb89ff8b9562dc874c327d8e1850cf2eec0097673e217213483c2d26c69f"
+    "uuid": "75e017a8-8032-4252-8d38-0146b6e267fb",
+    "username": "bluelion151",
+    "password": "smiley",
+    "salt": "GamikulV",
+    "md5": "90572be01aefaeea687f3a67575cda86",
+    "sha1": "c12747207d9e1a5bcdd1948026d9c584de30155a",
+    "sha256": "b33018741e2722329e5c832d18ec22868f268b4ce0c6b12b566aec565b33f7dc"
   },
   "dob": {
-    "date": "1959-06-18T05:03:41.840Z",
-    "age": 65
+    "date": "1949-02-24T08:56:30.723Z",
+    "age": 76
   },
   "registered": {
-    "date": "2014-04-02T11:49:25.263Z",
-    "age": 11
+    "date": "2007-11-24T12:18:08.400Z",
+    "age": 17
   },
-  "phone": "(09) 1367-1611",
-  "cell": "(52) 2916-7765",
+  "phone": "0117995 184 7380",
+  "cell": "07382 467325",
   "id": {
-    "name": "CPF",
-    "value": "751.534.627-41"
+    "name": "NINO",
+    "value": "PJ 01 99 00 F"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/10.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "BR"
+  "nat": "GB"
 }

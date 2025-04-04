@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Cacilda",
-    "last": "Sales"
+    "title": "Mr",
+    "first": "Rodrigo",
+    "last": "Archuleta"
   },
   "location": {
     "street": {
-      "number": 4373,
-      "name": "Travessa dos Açorianos"
+      "number": 9180,
+      "name": "Boulevard Lesotho"
     },
-    "city": "Botucatu",
-    "state": "Rio Grande do Norte",
-    "country": "Brazil",
-    "postcode": 25233,
+    "city": "Moctezuma",
+    "state": "Tamaulipas",
+    "country": "Mexico",
+    "postcode": 70525,
     "coordinates": {
-      "latitude": "-74.8227",
-      "longitude": "69.7253"
+      "latitude": "27.7594",
+      "longitude": "-75.9192"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "cacilda.sales@example.com",
+  "email": "rodrigo.archuleta@example.com",
   "login": {
-    "uuid": "1ed26f2b-2b1f-420b-95d4-7a785fbd3cf0",
-    "username": "crazyladybug664",
-    "password": "sunshine",
-    "salt": "Sh9jcTtv",
-    "md5": "82c7b986d45e31749e23896e170ac596",
-    "sha1": "57202b0d4535d2b7eefe68a98cbec72e8dc744d1",
-    "sha256": "9d028f945c8eb9d30464133a5fd3587526c475c8f90c89108bfff61983eca2da"
+    "uuid": "d0ce28da-998b-48d6-b9a7-bb5751bca7eb",
+    "username": "redladybug759",
+    "password": "mars",
+    "salt": "JJHTH1y0",
+    "md5": "9937f0dc7ece012b8e2fe190d5748a4d",
+    "sha1": "b4aeefc4ada45c307eb4ca512c7b9af71a0c261d",
+    "sha256": "2c34b311201765be7981971548cf3c7938e22c85055e9fedce27f16d709ef6ad"
   },
   "dob": {
-    "date": "1971-03-02T18:24:52.208Z",
-    "age": 54
+    "date": "1984-11-08T05:48:22.372Z",
+    "age": 40
   },
   "registered": {
-    "date": "2013-07-07T20:03:30.693Z",
-    "age": 11
+    "date": "2008-08-22T22:21:32.065Z",
+    "age": 16
   },
-  "phone": "(96) 8279-0594",
-  "cell": "(02) 1752-9419",
+  "phone": "(630) 776 4977",
+  "cell": "(672) 590 2297",
   "id": {
-    "name": "CPF",
-    "value": "971.964.030-91"
+    "name": "NSS",
+    "value": "20 15 36 8689 8"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/31.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+    "large": "https://randomuser.me/api/portraits/men/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
   },
-  "nat": "BR"
+  "nat": "MX"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "مهراد",
-    "last": "سالاری"
+    "title": "Miss",
+    "first": "Özsu",
+    "last": "Tütüncü"
   },
   "location": {
     "street": {
-      "number": 8294,
-      "name": "برادران حسنی"
+      "number": 6768,
+      "name": "Talak Göktepe Cd"
     },
-    "city": "اراک",
-    "state": "قزوین",
-    "country": "Iran",
-    "postcode": 38535,
+    "city": "Denizli",
+    "state": "Tokat",
+    "country": "Turkey",
+    "postcode": 93654,
     "coordinates": {
-      "latitude": "16.4734",
-      "longitude": "-165.7743"
+      "latitude": "70.9602",
+      "longitude": "87.1430"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "mhrd.slry@example.com",
+  "email": "ozsu.tutuncu@example.com",
   "login": {
-    "uuid": "d4fd2085-8ea9-42a7-9402-af949f313a36",
-    "username": "angrydog676",
-    "password": "crunch",
-    "salt": "H3PKhNDu",
-    "md5": "a275f68268ff0aee034cda806d8348a8",
-    "sha1": "5ccdb377eff662bb982854e3b840527a96ad6042",
-    "sha256": "855020ee5b08d0639d73d8a2756a52b5c5747dc4bb8cb2716664f44f771f823e"
+    "uuid": "cd34a43b-e921-4025-8291-e77d3ddcd91b",
+    "username": "beautifultiger531",
+    "password": "maggie",
+    "salt": "Mjfajwrl",
+    "md5": "8b4d93cf801da24f86011d354eb0ddca",
+    "sha1": "2abc96997bfd9d540678bf6bac28bd4544cae3d5",
+    "sha256": "798bb8575aeb79ef456c2c2124fc5a711756952294e949f403c687e7fff32430"
   },
   "dob": {
-    "date": "1997-12-31T23:42:18.099Z",
-    "age": 27
+    "date": "1971-08-16T14:54:06.706Z",
+    "age": 53
   },
   "registered": {
-    "date": "2013-08-20T04:17:27.904Z",
-    "age": 11
+    "date": "2019-03-23T16:18:20.361Z",
+    "age": 6
   },
-  "phone": "059-21262441",
-  "cell": "0930-385-0318",
+  "phone": "(887)-851-7550",
+  "cell": "(588)-986-6302",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+    "large": "https://randomuser.me/api/portraits/women/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
   },
-  "nat": "IR"
+  "nat": "TR"
 }

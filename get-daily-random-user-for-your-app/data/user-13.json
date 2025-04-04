@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Ronnie",
-    "last": "Fields"
+    "first": "Loke",
+    "last": "Dyrnes"
   },
   "location": {
     "street": {
-      "number": 9102,
-      "name": "Marsh Ln"
+      "number": 4551,
+      "name": "Olav Selvaags plass"
     },
-    "city": "Ballarat",
-    "state": "Victoria",
-    "country": "Australia",
-    "postcode": 4064,
+    "city": "Movatn",
+    "state": "Oppland",
+    "country": "Norway",
+    "postcode": "2831",
     "coordinates": {
-      "latitude": "-84.8438",
-      "longitude": "-50.3564"
+      "latitude": "39.6775",
+      "longitude": "-59.0069"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "ronnie.fields@example.com",
+  "email": "loke.dyrnes@example.com",
   "login": {
-    "uuid": "d33e71c0-493b-4c32-88b7-393f61899f65",
-    "username": "sadladybug295",
-    "password": "laser",
-    "salt": "pLmSWnlc",
-    "md5": "82c9467c9117041258c231a20447792e",
-    "sha1": "d8673ec99c7de68c018f165eeba3ae6ff59a7b12",
-    "sha256": "561a00acad0f382e558a4647f0bbc1d5ff21a027c79dbc828c860e55fa977a52"
+    "uuid": "82d7a886-f6c4-48be-8ee9-906652df0308",
+    "username": "whitemeercat635",
+    "password": "talon",
+    "salt": "7xWrIR5q",
+    "md5": "b60b30207d43c4723a1308ac9de14bd1",
+    "sha1": "e642b478cfef610e3ee9451723cd3b2d17269170",
+    "sha256": "9050457e0485b14d1e21bc6059c90a6331f04f2adfa6aa6e012004cbaa4c1482"
   },
   "dob": {
-    "date": "1977-09-02T08:35:08.347Z",
-    "age": 47
+    "date": "1945-06-02T05:04:20.252Z",
+    "age": 79
   },
   "registered": {
-    "date": "2006-11-21T05:14:47.757Z",
-    "age": 18
+    "date": "2010-03-23T00:27:37.375Z",
+    "age": 15
   },
-  "phone": "03-1565-9435",
-  "cell": "0410-486-422",
+  "phone": "31890205",
+  "cell": "47592413",
   "id": {
-    "name": "TFN",
-    "value": "224251796"
+    "name": "FN",
+    "value": "02064549742"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
   },
-  "nat": "AU"
+  "nat": "NO"
 }

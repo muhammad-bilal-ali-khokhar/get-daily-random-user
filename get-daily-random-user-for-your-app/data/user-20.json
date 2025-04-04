@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Marta",
-    "last": "Zdravković"
+    "title": "Mr",
+    "first": "Oliver",
+    "last": "Petersen"
   },
   "location": {
     "street": {
-      "number": 9744,
-      "name": "Lole Ribara"
+      "number": 7464,
+      "name": "Sønderskovvej"
     },
-    "city": "Kučevo",
-    "state": "South Bačka",
-    "country": "Serbia",
-    "postcode": 35412,
+    "city": "Beder",
+    "state": "Syddanmark",
+    "country": "Denmark",
+    "postcode": 25036,
     "coordinates": {
-      "latitude": "58.3594",
-      "longitude": "146.5595"
+      "latitude": "-41.5962",
+      "longitude": "-46.3959"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "marta.zdravkovic@example.com",
+  "email": "oliver.petersen@example.com",
   "login": {
-    "uuid": "8f34f76c-49f0-45a6-8651-ac9a32414d89",
-    "username": "bigostrich777",
-    "password": "dustin",
-    "salt": "M7cxNBax",
-    "md5": "8bf00b4f8f751d569ccd318871f97ff2",
-    "sha1": "507779ba60fea121c07836cc449b939321638938",
-    "sha256": "fef71076d5dd17c2c38e7a3561cc45cc1b5aa044de2807a5c63f25694d58b205"
+    "uuid": "bc1bd1f2-9c85-44c8-a21d-16093500ab03",
+    "username": "bigswan178",
+    "password": "beethove",
+    "salt": "LXIurXGA",
+    "md5": "f38db3d1755796d5a778e07d6e357b1b",
+    "sha1": "72196d36a75c601dba71f59593e53d1ea98a1848",
+    "sha256": "bb234bbe618e8b1eeca03ebf1b3cc3613d477d9ccdaef025d4dc80519e588adf"
   },
   "dob": {
-    "date": "1976-12-10T17:46:17.350Z",
-    "age": 48
+    "date": "1969-02-20T05:38:48.796Z",
+    "age": 56
   },
   "registered": {
-    "date": "2015-06-25T17:29:25.705Z",
-    "age": 9
+    "date": "2002-05-19T17:31:31.295Z",
+    "age": 22
   },
-  "phone": "012-0285-664",
-  "cell": "060-5665-699",
+  "phone": "23006602",
+  "cell": "32167957",
   "id": {
-    "name": "SID",
-    "value": "212497016"
+    "name": "CPR",
+    "value": "190269-9673"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+    "large": "https://randomuser.me/api/portraits/men/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
   },
-  "nat": "RS"
+  "nat": "DK"
 }

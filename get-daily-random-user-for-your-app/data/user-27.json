@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Peter-Jan",
-    "last": "Rorije"
+    "first": "Eufrásio",
+    "last": "Cavalcanti"
   },
   "location": {
     "street": {
-      "number": 8890,
-      "name": "Dwarsreed"
+      "number": 7052,
+      "name": "Rua Amazonas "
     },
-    "city": "Spaubeek",
-    "state": "Friesland",
-    "country": "Netherlands",
-    "postcode": "1975 VN",
+    "city": "Uberlândia",
+    "state": "Roraima",
+    "country": "Brazil",
+    "postcode": 15798,
     "coordinates": {
-      "latitude": "33.2450",
-      "longitude": "-86.0850"
+      "latitude": "-73.1060",
+      "longitude": "-67.3169"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "peter-jan.rorije@example.com",
+  "email": "eufrasio.cavalcanti@example.com",
   "login": {
-    "uuid": "b9be7c35-8172-47b4-92ca-77d01073836b",
-    "username": "smallostrich516",
-    "password": "bian",
-    "salt": "IeBjCSs2",
-    "md5": "33fcd51efed15d024e12acc8c45691d3",
-    "sha1": "d965e809d5e5f2beb6d1ba0c3a9cb9a10be0a9e5",
-    "sha256": "dcf12d52fb9898b79f535293c697df945dc18fcba2946deb34550da71896442c"
+    "uuid": "52bb1ed1-b7a6-4aac-b446-048ee102044f",
+    "username": "crazygoose122",
+    "password": "deadspin",
+    "salt": "TDNANNUn",
+    "md5": "be0a96381865594e578d3ae2dd6aa96b",
+    "sha1": "30580e6523f7d0048166405bccb54ea0b2fc31c6",
+    "sha256": "7773b876b90eb39c12e9d29be4a1771d8eeefeffe9f28abf02ffff3a05f7e8e9"
   },
   "dob": {
-    "date": "1972-11-18T23:51:10.606Z",
-    "age": 52
+    "date": "1959-03-18T23:53:07.392Z",
+    "age": 66
   },
   "registered": {
-    "date": "2018-10-06T06:33:32.572Z",
-    "age": 6
+    "date": "2012-07-12T19:10:18.836Z",
+    "age": 12
   },
-  "phone": "(0383) 617975",
-  "cell": "(06) 78137094",
+  "phone": "(90) 0103-3951",
+  "cell": "(69) 8853-6097",
   "id": {
-    "name": "BSN",
-    "value": "01576478"
+    "name": "CPF",
+    "value": "295.468.575-16"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/5.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
+    "large": "https://randomuser.me/api/portraits/men/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/87.jpg"
   },
-  "nat": "NL"
+  "nat": "BR"
 }

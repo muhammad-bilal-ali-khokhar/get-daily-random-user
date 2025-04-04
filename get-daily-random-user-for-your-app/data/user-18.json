@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Florence",
-    "last": "Denys"
+    "title": "Mr",
+    "first": "Eloy",
+    "last": "Puente"
   },
   "location": {
     "street": {
-      "number": 9774,
-      "name": "Alfred St"
+      "number": 3304,
+      "name": "Andador Jamaica"
     },
-    "city": "Enterprise",
-    "state": "Prince Edward Island",
-    "country": "Canada",
-    "postcode": "F0Y 3Q4",
+    "city": "Aticama",
+    "state": "Aguascalientes",
+    "country": "Mexico",
+    "postcode": 77136,
     "coordinates": {
-      "latitude": "-68.9145",
-      "longitude": "39.5404"
+      "latitude": "24.7582",
+      "longitude": "-84.2165"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "florence.denys@example.com",
+  "email": "eloy.puente@example.com",
   "login": {
-    "uuid": "7410f14b-b202-43be-b903-04dad665e21d",
-    "username": "brownbird347",
-    "password": "1991",
-    "salt": "jdkmT3EK",
-    "md5": "dc1a9b0d63b1bad1373210d0deeac1a5",
-    "sha1": "cb30ea336314db336484460af9688d8ffa26270c",
-    "sha256": "645f9ee4f70e5b3f2ab922095b5d44924fdf41d57f75d9cbd60b88e500d2310f"
+    "uuid": "3bc5100b-23c6-447f-b64f-b9b5d9770696",
+    "username": "crazywolf755",
+    "password": "grunt",
+    "salt": "jlWxrE8S",
+    "md5": "4d886a23eb9174b95264342feb2f34b4",
+    "sha1": "8c7609636262910cc53061026c0403b78bab0dd8",
+    "sha256": "ed2d3d94b38d9c307d79e2733df947f5322bdbe3f315ccc8a7b36f0c4d744372"
   },
   "dob": {
-    "date": "1991-03-31T05:49:34.578Z",
-    "age": 34
+    "date": "1976-08-07T01:33:29.973Z",
+    "age": 48
   },
   "registered": {
-    "date": "2015-08-15T09:21:40.699Z",
-    "age": 9
+    "date": "2017-03-27T13:54:38.159Z",
+    "age": 8
   },
-  "phone": "K33 X11-8582",
-  "cell": "H29 L95-6906",
+  "phone": "(685) 440 3648",
+  "cell": "(626) 993 4216",
   "id": {
-    "name": "SIN",
-    "value": "072224991"
+    "name": "NSS",
+    "value": "68 33 60 3451 3"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/82.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "CA"
+  "nat": "MX"
 }

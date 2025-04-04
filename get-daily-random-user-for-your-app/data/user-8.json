@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Sonja",
-    "last": "Morin"
+    "title": "Mrs",
+    "first": "Helenice",
+    "last": "Rezende"
   },
   "location": {
     "street": {
-      "number": 1218,
-      "name": "Rue Duguesclin"
+      "number": 9116,
+      "name": "Rua Vinte de Setembro"
     },
-    "city": "Rüfenach",
-    "state": "Appenzell Innerrhoden",
-    "country": "Switzerland",
-    "postcode": 1005,
+    "city": "Piracicaba",
+    "state": "Roraima",
+    "country": "Brazil",
+    "postcode": 43172,
     "coordinates": {
-      "latitude": "-61.1285",
-      "longitude": "88.9504"
+      "latitude": "-78.1564",
+      "longitude": "55.9207"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "sonja.morin@example.com",
+  "email": "helenice.rezende@example.com",
   "login": {
-    "uuid": "eba91db1-2d96-4d8e-a2bb-6fe792098594",
-    "username": "sadgorilla956",
-    "password": "powell",
-    "salt": "ZMzZH4Nl",
-    "md5": "0d0130cac7ad6f8e8196a30cacb92348",
-    "sha1": "90aab9243fd60e28ad8a353576b69d7127d7e342",
-    "sha256": "af41c6c7b81e07aa9c19a456c25b31f56f6f3d67f5d47dcfd671b4962da520b7"
+    "uuid": "6daceead-5465-4bb0-8173-32db219ff385",
+    "username": "brownduck221",
+    "password": "iloveyou1",
+    "salt": "qzwSRcGh",
+    "md5": "b3d54647cb11c43eb72ae28a5d281f4e",
+    "sha1": "00c2f2ba21ef0d39990ea65afb1c0daced14574c",
+    "sha256": "60753ee8dec70bc99784a57b1524913beca5b3376a507b5ade49246997da31c5"
   },
   "dob": {
-    "date": "1995-06-23T11:47:42.506Z",
-    "age": 29
+    "date": "1991-09-08T20:42:32.805Z",
+    "age": 33
   },
   "registered": {
-    "date": "2012-01-09T10:56:31.690Z",
-    "age": 13
+    "date": "2017-04-21T00:55:30.711Z",
+    "age": 7
   },
-  "phone": "077 535 28 25",
-  "cell": "079 622 67 40",
+  "phone": "(05) 9925-3938",
+  "cell": "(76) 3496-2711",
   "id": {
-    "name": "AVS",
-    "value": "756.2139.2716.73"
+    "name": "CPF",
+    "value": "307.424.265-19"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+    "large": "https://randomuser.me/api/portraits/women/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
   },
-  "nat": "CH"
+  "nat": "BR"
 }

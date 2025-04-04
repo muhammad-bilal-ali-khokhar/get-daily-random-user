@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Laura",
-    "last": "Bishop"
+    "title": "Mr",
+    "first": "Kadir",
+    "last": "Arslanoğlu"
   },
   "location": {
     "street": {
-      "number": 4784,
-      "name": "Henry Street"
+      "number": 5417,
+      "name": "Abanoz Sk"
     },
-    "city": "Tullow",
-    "state": "Fingal",
-    "country": "Ireland",
-    "postcode": 40805,
+    "city": "Konya",
+    "state": "Sakarya",
+    "country": "Turkey",
+    "postcode": 85915,
     "coordinates": {
-      "latitude": "-0.1463",
-      "longitude": "74.4309"
+      "latitude": "64.4887",
+      "longitude": "-86.0058"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "laura.bishop@example.com",
+  "email": "kadir.arslanoglu@example.com",
   "login": {
-    "uuid": "90bd74f4-59b4-4db5-a62c-4615f6b1adab",
-    "username": "silverfish443",
-    "password": "bilbo",
-    "salt": "JRs1StkA",
-    "md5": "432a7d614870715886682c021cbeb4ba",
-    "sha1": "0aa69732682338c10799ac027ae3b0b0309d4aba",
-    "sha256": "eb2e5921a684a095ef4d5f9fe833f0c70ccb6ea960e52413fe3a6047b4d515ab"
+    "uuid": "717868ad-0664-45f7-a85b-4f6b4e47a7e0",
+    "username": "goldenpanda332",
+    "password": "lost",
+    "salt": "dzArx0DA",
+    "md5": "c54ea090c0fbd0afec3b237ee0caa6cb",
+    "sha1": "fc8d5fa78f3556fb3c4d8b5879421e0a0e92fa20",
+    "sha256": "9ccea5874810b4c1afc29999dfb63cac99b5247e55e7c10708a3974293ae4a3b"
   },
   "dob": {
-    "date": "1949-07-16T18:40:41.079Z",
-    "age": 75
+    "date": "2000-03-30T20:49:57.095Z",
+    "age": 25
   },
   "registered": {
-    "date": "2008-12-03T14:26:15.624Z",
-    "age": 16
+    "date": "2010-05-29T19:25:27.146Z",
+    "age": 14
   },
-  "phone": "041-606-8677",
-  "cell": "081-005-1298",
+  "phone": "(292)-464-9052",
+  "cell": "(361)-175-1712",
   "id": {
-    "name": "PPS",
-    "value": "1526244T"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
   },
-  "nat": "IE"
+  "nat": "TR"
 }

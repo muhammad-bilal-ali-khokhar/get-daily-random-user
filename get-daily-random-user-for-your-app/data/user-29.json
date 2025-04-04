@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Myrtha",
-    "last": "Garcia"
+    "title": "Mr",
+    "first": "Golubko",
+    "last": "Gorbachuk"
   },
   "location": {
     "street": {
-      "number": 6301,
-      "name": "Rue de L'Abbé-Rousselot"
+      "number": 7613,
+      "name": "Poshtova"
     },
-    "city": "Waldenburg",
-    "state": "Bern",
-    "country": "Switzerland",
-    "postcode": 2422,
+    "city": "Dzhankoy",
+    "state": "Zaporizka",
+    "country": "Ukraine",
+    "postcode": 18092,
     "coordinates": {
-      "latitude": "-57.0323",
-      "longitude": "125.0580"
+      "latitude": "75.8214",
+      "longitude": "-72.8379"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "myrtha.garcia@example.com",
+  "email": "golubko.gorbachuk@example.com",
   "login": {
-    "uuid": "b51da9f3-dda2-40e5-b9b7-0d5842244159",
-    "username": "heavybear833",
-    "password": "piao",
-    "salt": "YMkd3xBK",
-    "md5": "ed783233d3a17b9b513f8b3b6a6f81dd",
-    "sha1": "1536407e659ec99b1c9826cd89708697f3e36bc2",
-    "sha256": "52ba82e2c28b85a488347f21a6d0feb3358fb91b4a0e77b490a2560e4f87d8f6"
+    "uuid": "333cb451-747b-4c88-9c2a-2b49ad890b5c",
+    "username": "blackostrich243",
+    "password": "scooby1",
+    "salt": "BsDSUFHJ",
+    "md5": "722c89bf977591eed053269bcd3bb2af",
+    "sha1": "011e3fac3681b5aa39e73e218342146baa4aa41e",
+    "sha256": "91a8cbe7094e4fea9e477a62fe80023e562211464da116d43db29165b2556342"
   },
   "dob": {
-    "date": "1965-01-09T02:51:14.137Z",
-    "age": 60
+    "date": "1984-10-02T21:18:05.255Z",
+    "age": 40
   },
   "registered": {
-    "date": "2012-12-24T20:42:28.221Z",
-    "age": 12
+    "date": "2008-01-23T17:41:32.162Z",
+    "age": 17
   },
-  "phone": "076 313 69 55",
-  "cell": "076 850 77 30",
+  "phone": "(097) V55-0737",
+  "cell": "(099) S48-7272",
   "id": {
-    "name": "AVS",
-    "value": "756.9449.2047.94"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/28.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "CH"
+  "nat": "UA"
 }

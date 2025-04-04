@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Helene",
-    "last": "Silveira"
+    "title": "Mr",
+    "first": "Luukas",
+    "last": "Pietila"
   },
   "location": {
     "street": {
-      "number": 5443,
-      "name": "Rua Pernambuco "
+      "number": 371,
+      "name": "Esplanadi"
     },
-    "city": "Porto Velho",
-    "state": "Minas Gerais",
-    "country": "Brazil",
-    "postcode": 97468,
+    "city": "Jalasjärvi",
+    "state": "Uusimaa",
+    "country": "Finland",
+    "postcode": 55731,
     "coordinates": {
-      "latitude": "-75.0491",
-      "longitude": "30.8369"
+      "latitude": "-29.3919",
+      "longitude": "-107.4143"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "helene.silveira@example.com",
+  "email": "luukas.pietila@example.com",
   "login": {
-    "uuid": "6e4b87b7-ff12-4566-ba39-cdb79ea815c7",
-    "username": "organicrabbit852",
-    "password": "clinton",
-    "salt": "7glwyxSQ",
-    "md5": "871fd58922108758a7aee3f0952780e0",
-    "sha1": "f308d8f09b02f4f97ac16208a93fb90006fa82fc",
-    "sha256": "e90d604c3217e12e0346e4d5033acaa2fa461f2c5551880ca69c4a4d9c5caf60"
+    "uuid": "8be012e8-7004-480f-bcc4-052ba624edcf",
+    "username": "silverfish128",
+    "password": "river",
+    "salt": "EbaqIb9R",
+    "md5": "9c1d8a94f459f6b474c3a44d0124621c",
+    "sha1": "c9e890f47e703dd1928553753dea88860d369a97",
+    "sha256": "26a80056f74d80306c86b493b2e046fc4063eb226789c1ec0c98cdeccddaa3c3"
   },
   "dob": {
-    "date": "1984-03-27T12:35:48.223Z",
-    "age": 41
+    "date": "1964-01-17T03:32:20.295Z",
+    "age": 61
   },
   "registered": {
-    "date": "2011-02-09T08:31:19.336Z",
-    "age": 14
+    "date": "2004-12-31T02:19:19.853Z",
+    "age": 20
   },
-  "phone": "(86) 5037-4431",
-  "cell": "(53) 3289-8751",
+  "phone": "07-313-987",
+  "cell": "049-148-36-19",
   "id": {
-    "name": "CPF",
-    "value": "879.846.704-88"
+    "name": "HETU",
+    "value": "NaNNA497undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/60.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
   },
-  "nat": "BR"
+  "nat": "FI"
 }

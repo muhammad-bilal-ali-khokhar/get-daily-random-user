@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Milena",
-    "last": "Mladenović"
+    "title": "Mr",
+    "first": "Adrian",
+    "last": "Dammann"
   },
   "location": {
     "street": {
-      "number": 3257,
-      "name": "Dositeja Obradovića"
+      "number": 4013,
+      "name": "Schulstraße"
     },
-    "city": "Pirot",
-    "state": "Kosovo-Pomoravlje",
-    "country": "Serbia",
-    "postcode": 95559,
+    "city": "Mainburg",
+    "state": "Bayern",
+    "country": "Germany",
+    "postcode": 74266,
     "coordinates": {
-      "latitude": "63.7407",
-      "longitude": "134.4194"
+      "latitude": "-48.2015",
+      "longitude": "-64.2520"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "milena.mladenovic@example.com",
+  "email": "adrian.dammann@example.com",
   "login": {
-    "uuid": "86805293-f254-4658-a4d9-7cd098997be6",
-    "username": "organicladybug811",
-    "password": "spock",
-    "salt": "kvpytI3t",
-    "md5": "8647fa672c1f5bb3871bc408450d21a6",
-    "sha1": "88b4fa36d5350d69ce28a629396e584995ce914f",
-    "sha256": "a9edff3476fac24ea1e979cec124745ee0419043b4f44d0b1522c2b11adeee6c"
+    "uuid": "0136d81b-9304-4ea7-aa5b-4ad4dbb5e6a5",
+    "username": "goldenpanda343",
+    "password": "nineinch",
+    "salt": "Jmbq5MEA",
+    "md5": "5a2584955501a68d7ca1d7fc4824ab43",
+    "sha1": "d790d3ea40882d024f8130d44906cf0d392d726a",
+    "sha256": "66d1cbbb321f949a2e17342fef68899e8703780d5d3127a61c0c0e9b67ed9ac8"
   },
   "dob": {
-    "date": "1992-09-27T15:27:25.870Z",
-    "age": 32
+    "date": "1981-07-31T07:30:17.447Z",
+    "age": 43
   },
   "registered": {
-    "date": "2002-09-23T11:22:53.712Z",
-    "age": 22
+    "date": "2019-01-15T02:47:27.592Z",
+    "age": 6
   },
-  "phone": "026-5479-477",
-  "cell": "064-9425-949",
+  "phone": "0867-3946356",
+  "cell": "0172-6379233",
   "id": {
-    "name": "SID",
-    "value": "861010968"
+    "name": "SVNR",
+    "value": "75 310781 D 442"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/55.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "RS"
+  "nat": "DE"
 }

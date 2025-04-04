@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Noel",
-    "last": "Teixeira"
+    "first": "Jacob",
+    "last": "Kristensen"
   },
   "location": {
     "street": {
-      "number": 7111,
-      "name": "Rua Rio de Janeiro "
+      "number": 1584,
+      "name": "H.C. Andersens Vej"
     },
-    "city": "Araraquara",
-    "state": "Tocantins",
-    "country": "Brazil",
-    "postcode": 19185,
+    "city": "Gørløse",
+    "state": "Nordjylland",
+    "country": "Denmark",
+    "postcode": 72595,
     "coordinates": {
-      "latitude": "-76.3507",
-      "longitude": "-94.3216"
+      "latitude": "-38.7271",
+      "longitude": "-102.5253"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "noel.teixeira@example.com",
+  "email": "jacob.kristensen@example.com",
   "login": {
-    "uuid": "bfdb90f1-395b-4f5b-8bd4-ee852b07055b",
-    "username": "ticklishfish939",
-    "password": "report",
-    "salt": "pMuQ9wQc",
-    "md5": "5b3e048a3edf037e71ac74118bb01392",
-    "sha1": "5313810bb42f3a4ce79d85edf69dac058bf4970d",
-    "sha256": "77ed45325328cf8a1bbe313a721b45f9f896f7aa8a025a4e7f1e7a5d96f2e953"
+    "uuid": "55c244ab-669a-4817-afd7-cc6d50de8571",
+    "username": "tinyladybug808",
+    "password": "winter1",
+    "salt": "AyKPFgD4",
+    "md5": "a4dec0585542adcbf4cde1f05d2434d8",
+    "sha1": "5e65ed9921584dbe4a340bdaab84010ca86c485e",
+    "sha256": "854d22ef65fa55e314f15793eb1ce7e2362bdaf22eb7d7b5e4ab5cb992b36faa"
   },
   "dob": {
-    "date": "1995-03-14T00:18:08.782Z",
-    "age": 30
+    "date": "1990-02-16T18:47:54.080Z",
+    "age": 35
   },
   "registered": {
-    "date": "2012-10-27T23:47:44.349Z",
-    "age": 12
+    "date": "2009-11-24T14:49:18.481Z",
+    "age": 15
   },
-  "phone": "(17) 0403-3641",
-  "cell": "(50) 7561-7228",
+  "phone": "30895340",
+  "cell": "21540101",
   "id": {
-    "name": "CPF",
-    "value": "039.270.153-24"
+    "name": "CPR",
+    "value": "160290-0411"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
   },
-  "nat": "BR"
+  "nat": "DK"
 }

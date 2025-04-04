@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Anton",
-    "last": "Møller"
+    "first": "Travis",
+    "last": "Ryan"
   },
   "location": {
     "street": {
-      "number": 5338,
-      "name": "Gartnervænget"
+      "number": 2373,
+      "name": "Stanley Road"
     },
-    "city": "København N",
-    "state": "Hovedstaden",
-    "country": "Denmark",
-    "postcode": 35651,
+    "city": "Lichfield",
+    "state": "Cambridgeshire",
+    "country": "United Kingdom",
+    "postcode": "BB31 7HE",
     "coordinates": {
-      "latitude": "-44.5968",
-      "longitude": "-143.2283"
+      "latitude": "-10.5868",
+      "longitude": "-163.9633"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "anton.moller@example.com",
+  "email": "travis.ryan@example.com",
   "login": {
-    "uuid": "19783644-0e1d-47db-939c-2da8b63aa4db",
-    "username": "organicsnake217",
-    "password": "cloud",
-    "salt": "c6f2E1UY",
-    "md5": "82d34fd266b9b562f0b55598052ab012",
-    "sha1": "59cd7bdf81e1fc5908829623d56ce390e998cbbd",
-    "sha256": "70627fbce80dededc1ede898f9137ffe56b0409360c5459f199a2b16cc5f13b2"
+    "uuid": "fcc3c711-6a0e-41c9-9fd5-90eb1a061c98",
+    "username": "ticklishfrog609",
+    "password": "volkswag",
+    "salt": "yMb4gVIe",
+    "md5": "47763371b334eab4dedbf963af10fdc2",
+    "sha1": "db0ef4724e88973d2f0d65be28681a0ab2cec229",
+    "sha256": "f93dbf39e7e0c40169de3979b200a175e73d99e52f7150d93dffabf7c3b91c8e"
   },
   "dob": {
-    "date": "1992-09-21T08:08:20.703Z",
-    "age": 32
+    "date": "1946-02-13T17:52:43.790Z",
+    "age": 79
   },
   "registered": {
-    "date": "2015-09-30T06:50:43.336Z",
-    "age": 9
+    "date": "2020-03-04T11:17:17.097Z",
+    "age": 5
   },
-  "phone": "73266287",
-  "cell": "89885865",
+  "phone": "015396 53299",
+  "cell": "07977 550330",
   "id": {
-    "name": "CPR",
-    "value": "210992-9235"
+    "name": "NINO",
+    "value": "BM 83 71 86 H"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
   },
-  "nat": "DK"
+  "nat": "GB"
 }

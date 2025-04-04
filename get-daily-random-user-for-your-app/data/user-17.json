@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Batur",
-    "last": "Bolatlı"
+    "first": "Hotyan",
+    "last": "Gordasevich"
   },
   "location": {
     "street": {
-      "number": 7164,
-      "name": "Mevlana Cd"
+      "number": 2540,
+      "name": "Magistralna"
     },
-    "city": "Uşak",
-    "state": "İzmir",
-    "country": "Turkey",
-    "postcode": 75663,
+    "city": "Dnipro",
+    "state": "Dnipropetrovska",
+    "country": "Ukraine",
+    "postcode": 33923,
     "coordinates": {
-      "latitude": "71.6957",
-      "longitude": "-10.0331"
+      "latitude": "79.0175",
+      "longitude": "-159.3792"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "batur.bolatli@example.com",
+  "email": "hotyan.gordasevich@example.com",
   "login": {
-    "uuid": "133bec6b-38d0-4fef-93a7-938e7ed92f3a",
-    "username": "redkoala659",
-    "password": "cezer121",
-    "salt": "nHZd969L",
-    "md5": "66f1b8806b6392adfdb2118c0344ebc5",
-    "sha1": "e1662bd8df4522037cc77a992808247108550070",
-    "sha256": "70657efff45090dda6a434a789cf5b4416835c0fd2cc3d6929194851bd8ffc50"
+    "uuid": "e3148424-4203-4085-a58d-c0badec0285d",
+    "username": "orangeswan823",
+    "password": "freefree",
+    "salt": "sjdodGwN",
+    "md5": "1f453abad4252f5fbc50473c2d216d0f",
+    "sha1": "6375b21f754e6a9cea968680d606acacfba9d928",
+    "sha256": "9580535b059bf5d452ff9dab950104bb4a44c5edd45455f29703990ef2008cda"
   },
   "dob": {
-    "date": "1955-11-08T15:10:45.718Z",
-    "age": 69
+    "date": "1947-09-07T21:22:35.525Z",
+    "age": 77
   },
   "registered": {
-    "date": "2013-06-17T13:11:14.789Z",
-    "age": 11
+    "date": "2016-11-15T00:08:16.873Z",
+    "age": 8
   },
-  "phone": "(498)-519-2630",
-  "cell": "(739)-322-0550",
+  "phone": "(099) X70-1538",
+  "cell": "(068) V78-5210",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/63.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/63.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/63.jpg"
   },
-  "nat": "TR"
+  "nat": "UA"
 }

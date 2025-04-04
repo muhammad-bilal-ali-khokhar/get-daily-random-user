@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Sahila",
-    "last": "Bankers"
+    "title": "Mr",
+    "first": "Noah",
+    "last": "Bouchard"
   },
   "location": {
     "street": {
-      "number": 929,
-      "name": "L.J. Imminkstraat"
+      "number": 357,
+      "name": "Dieppe Ave"
     },
-    "city": "Valkenburg Lb",
-    "state": "Noord-Holland",
-    "country": "Netherlands",
-    "postcode": "7619 SP",
+    "city": "Campbellton",
+    "state": "Saskatchewan",
+    "country": "Canada",
+    "postcode": "K8C 2V8",
     "coordinates": {
-      "latitude": "34.4984",
-      "longitude": "72.3954"
+      "latitude": "-70.6548",
+      "longitude": "-98.1911"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "sahila.bankers@example.com",
+  "email": "noah.bouchard@example.com",
   "login": {
-    "uuid": "d0a31fda-8d8c-4519-9c7b-6cddd92f47a1",
-    "username": "sadgorilla801",
-    "password": "johngalt",
-    "salt": "1IWvfMvW",
-    "md5": "bb41b940c0c8fcd1b5b7697326c10c9a",
-    "sha1": "f8906aa9666d983bb3c96e92fb9b732d72a4dd36",
-    "sha256": "34667afb7cc4f68b949497c2755803fa5cef94183065f07aeb5e9f881ffc7af7"
+    "uuid": "b18051e7-7f16-4a90-ba79-7bfd19755de7",
+    "username": "lazymouse537",
+    "password": "nike",
+    "salt": "E7fAQMb0",
+    "md5": "d9316c161c4be949298a14c5feb2dd87",
+    "sha1": "74b0d19f41e8e46ede677a49cf2f13c6f8350401",
+    "sha256": "784f12c34c84287cd9f9d9116ec9bc8772b2e9f915b16b59277e27875ee66ed1"
   },
   "dob": {
-    "date": "1993-02-21T15:38:04.134Z",
-    "age": 32
+    "date": "1984-09-02T18:18:51.560Z",
+    "age": 40
   },
   "registered": {
-    "date": "2018-10-12T21:03:48.989Z",
-    "age": 6
+    "date": "2021-05-10T00:19:33.250Z",
+    "age": 3
   },
-  "phone": "(0306) 490877",
-  "cell": "(06) 12879321",
+  "phone": "C54 I38-9457",
+  "cell": "E45 P67-7451",
   "id": {
-    "name": "BSN",
-    "value": "49708202"
+    "name": "SIN",
+    "value": "628719239"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
   },
-  "nat": "NL"
+  "nat": "CA"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Tristan",
-    "last": "Novak"
+    "title": "Ms",
+    "first": "Mira",
+    "last": "Karanović"
   },
   "location": {
     "street": {
-      "number": 7520,
-      "name": "Grand Marais Ave"
+      "number": 8401,
+      "name": "Niška"
     },
-    "city": "Cartwright",
-    "state": "Québec",
-    "country": "Canada",
-    "postcode": "P7B 6E9",
+    "city": "Inđija",
+    "state": "South Banat",
+    "country": "Serbia",
+    "postcode": 44080,
     "coordinates": {
-      "latitude": "-72.4596",
-      "longitude": "-110.8216"
+      "latitude": "63.8371",
+      "longitude": "3.7289"
     },
     "timezone": {
       "offset": "+1:00",
       "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "tristan.novak@example.com",
+  "email": "mira.karanovic@example.com",
   "login": {
-    "uuid": "eb7c82c7-506d-466a-84f2-f15ab1c24fe7",
-    "username": "whitecat948",
-    "password": "dimas",
-    "salt": "vdA1xAPb",
-    "md5": "a123c2d524e5f519f408b6f37eb0027f",
-    "sha1": "e7352097fd71491cdb9b2e99da5d3817589733cd",
-    "sha256": "a21e9fa9731a775b19a538f9ccddccf1574ccdb5ad2b446d7f026d3309538349"
+    "uuid": "94b7d94c-6cff-4c26-be18-af3fecc553a7",
+    "username": "orangeostrich946",
+    "password": "angela",
+    "salt": "V00WhyS3",
+    "md5": "9a3166a5e151d12dd7d8da5751d6ee3c",
+    "sha1": "2112a2dfaf7c9227adf1d6075ebe69a82b802222",
+    "sha256": "b4f1e046a5510d65b0b76bf8d8bc31a2bb6cb9c909cc25fb6060087ea6d1a74a"
   },
   "dob": {
-    "date": "1949-10-17T16:36:37.834Z",
-    "age": 75
+    "date": "1957-02-24T05:39:17.059Z",
+    "age": 68
   },
   "registered": {
-    "date": "2009-08-31T19:27:18.436Z",
-    "age": 15
+    "date": "2021-04-10T03:59:32.547Z",
+    "age": 3
   },
-  "phone": "S17 E29-9452",
-  "cell": "G81 K47-2957",
+  "phone": "037-3316-413",
+  "cell": "060-4286-333",
   "id": {
-    "name": "SIN",
-    "value": "137643094"
+    "name": "SID",
+    "value": "920619747"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/62.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
+    "large": "https://randomuser.me/api/portraits/women/87.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/87.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/87.jpg"
   },
-  "nat": "CA"
+  "nat": "RS"
 }
