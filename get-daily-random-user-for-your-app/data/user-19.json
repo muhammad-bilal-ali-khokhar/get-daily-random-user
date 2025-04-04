@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Albert",
-    "last": "Nielsen"
+    "title": "Ms",
+    "first": "Filicata",
+    "last": "Ivano"
   },
   "location": {
     "street": {
-      "number": 1486,
-      "name": "Snerlevej"
+      "number": 9999,
+      "name": "Bankova"
     },
-    "city": "Gjern",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 56110,
+    "city": "Chortkiv",
+    "state": "Harkivska",
+    "country": "Ukraine",
+    "postcode": 44592,
     "coordinates": {
-      "latitude": "-43.3024",
-      "longitude": "-56.9159"
+      "latitude": "74.5049",
+      "longitude": "176.1854"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "albert.nielsen@example.com",
+  "email": "filicata.ivano@example.com",
   "login": {
-    "uuid": "09e2c308-0ef4-4665-b94d-1ad6c4e987f2",
-    "username": "crazysnake168",
-    "password": "miller1",
-    "salt": "a39sAxu9",
-    "md5": "880c9ea857bbb598f243183f80b71586",
-    "sha1": "8f550b3190fc23f5f95ad951d1e905abe9468338",
-    "sha256": "0a8da66e8df34febcd5367103c6add2fb4aa8bb646fbfb5988f420514fbf8852"
+    "uuid": "e5c2f0fd-6a8d-42a5-ad8a-61ee5fdf0988",
+    "username": "redkoala165",
+    "password": "lucas",
+    "salt": "OG2kQwPZ",
+    "md5": "bfd934ac38da95645d9345c4ef85703d",
+    "sha1": "7d73b37966fe128639ecb0bbfbbe2176d08b4012",
+    "sha256": "e0c831eae8c1281451fd552805a3e53c81b00682a788e70c788ac8f4640cb332"
   },
   "dob": {
-    "date": "1981-06-07T21:16:25.648Z",
-    "age": 43
+    "date": "1995-01-17T07:36:24.502Z",
+    "age": 30
   },
   "registered": {
-    "date": "2019-04-19T15:46:45.448Z",
-    "age": 5
+    "date": "2020-05-24T15:19:56.532Z",
+    "age": 4
   },
-  "phone": "83855491",
-  "cell": "39383691",
+  "phone": "(099) W90-5554",
+  "cell": "(068) K71-0840",
   "id": {
-    "name": "CPR",
-    "value": "070681-2310"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    "large": "https://randomuser.me/api/portraits/women/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
   },
-  "nat": "DK"
+  "nat": "UA"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Oscar",
-    "last": "Rasmussen"
+    "first": "Samesh",
+    "last": "Bharanya"
   },
   "location": {
     "street": {
-      "number": 946,
-      "name": "Hadsundvej"
+      "number": 6920,
+      "name": "Lamington Rd"
     },
-    "city": "Tisvilde",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 26554,
+    "city": "Guna",
+    "state": "Punjab",
+    "country": "India",
+    "postcode": 88270,
     "coordinates": {
-      "latitude": "-41.3272",
-      "longitude": "-52.9599"
+      "latitude": "9.9606",
+      "longitude": "-94.4398"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "oscar.rasmussen@example.com",
+  "email": "samesh.bharanya@example.com",
   "login": {
-    "uuid": "bd014e02-3673-44dd-944d-10156b841cd6",
-    "username": "crazysnake167",
-    "password": "donuts",
-    "salt": "mzCmr313",
-    "md5": "e010bfec44770a4e2d5fbe365978add5",
-    "sha1": "7a855f08c135803d072e93b4e4440478f49e37cc",
-    "sha256": "aaefc3cc1b7d2c9799c8b5953fa328193c885e24bdbf7e0a9e33123e15be38e5"
+    "uuid": "d2fb65cd-61ca-4e57-b4d8-731064ff3804",
+    "username": "smallleopard529",
+    "password": "cumcum",
+    "salt": "zfUN3vCQ",
+    "md5": "64c05e0db7a4efcbadda2558238a4e58",
+    "sha1": "54d9286a4ad097a0ce73af385f177c9cf4b6ddc9",
+    "sha256": "1a5d195223f1ed011b04a4c3ff905aa2d36a479228455967f567a5e6a40d1ecb"
   },
   "dob": {
-    "date": "1945-02-22T19:02:27.905Z",
-    "age": 80
+    "date": "1956-12-23T10:28:39.958Z",
+    "age": 68
   },
   "registered": {
-    "date": "2004-01-02T17:09:53.616Z",
-    "age": 21
+    "date": "2004-05-22T10:59:31.184Z",
+    "age": 20
   },
-  "phone": "47520784",
-  "cell": "53150852",
+  "phone": "8299250283",
+  "cell": "8924107501",
   "id": {
-    "name": "CPR",
-    "value": "220245-6361"
+    "name": "UIDAI",
+    "value": "746276871524"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+    "large": "https://randomuser.me/api/portraits/men/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
   },
-  "nat": "DK"
+  "nat": "IN"
 }

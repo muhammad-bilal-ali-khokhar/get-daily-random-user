@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Xavier",
-    "last": "Arce"
+    "first": "Halvard",
+    "last": "Wennberg"
   },
   "location": {
     "street": {
-      "number": 2307,
-      "name": "Andador Sur Gómez"
+      "number": 3672,
+      "name": "Meklenborgveien"
     },
-    "city": "Acapulco",
-    "state": "Tamaulipas",
-    "country": "Mexico",
-    "postcode": 64211,
+    "city": "Åmot",
+    "state": "Oppland",
+    "country": "Norway",
+    "postcode": "3043",
     "coordinates": {
-      "latitude": "28.7991",
-      "longitude": "-108.1336"
+      "latitude": "45.7138",
+      "longitude": "-153.2854"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "xavier.arce@example.com",
+  "email": "halvard.wennberg@example.com",
   "login": {
-    "uuid": "f07310d9-06ac-445e-aa02-9642a46f90c1",
-    "username": "angrydog622",
-    "password": "noelle",
-    "salt": "ayPYpt6k",
-    "md5": "8efdaf7e7d7f35a21e77c048d05aba83",
-    "sha1": "3daf67f6c1071d20df2124e3e82c2f3ae996b335",
-    "sha256": "04959f9fa309285eff6089ce4058d9254790ef78a971a3761f06e1076721406c"
+    "uuid": "5f958f81-1edb-4965-94b1-03875ee8e834",
+    "username": "sadcat105",
+    "password": "double",
+    "salt": "e6ZSLAvM",
+    "md5": "5199131623094efdc44e9090c7111dbe",
+    "sha1": "496f68b53500831bd6a897874da15435e52a1c72",
+    "sha256": "e4ada212495dfb9496446b844167c632fcb529ccb42a992cf54896f24da35e56"
   },
   "dob": {
-    "date": "1969-02-23T21:09:17.544Z",
-    "age": 56
+    "date": "1958-08-16T00:34:44.550Z",
+    "age": 66
   },
   "registered": {
-    "date": "2008-02-09T00:10:15.292Z",
-    "age": 17
+    "date": "2012-06-23T15:34:09.471Z",
+    "age": 12
   },
-  "phone": "(662) 496 0719",
-  "cell": "(606) 334 4137",
+  "phone": "59958522",
+  "cell": "94606842",
   "id": {
-    "name": "NSS",
-    "value": "76 73 86 7363 8"
+    "name": "FN",
+    "value": "16085814927"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
   },
-  "nat": "MX"
+  "nat": "NO"
 }

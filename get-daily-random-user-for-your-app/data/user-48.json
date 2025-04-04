@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Miss",
-    "first": "Malin",
-    "last": "Bakken"
+    "first": "Mattie",
+    "last": "Wright"
   },
   "location": {
     "street": {
-      "number": 3347,
-      "name": "Martin Borrebekkens vei"
+      "number": 4731,
+      "name": "Royal Ln"
     },
-    "city": "Kjøpmannsskjær",
-    "state": "Hordaland",
-    "country": "Norway",
-    "postcode": "5254",
+    "city": "Everett",
+    "state": "New Jersey",
+    "country": "United States",
+    "postcode": 40287,
     "coordinates": {
-      "latitude": "43.8278",
-      "longitude": "60.3023"
+      "latitude": "83.2683",
+      "longitude": "115.2948"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "malin.bakken@example.com",
+  "email": "mattie.wright@example.com",
   "login": {
-    "uuid": "904d5865-4220-497e-a908-7a3cbbb8d6a9",
-    "username": "orangekoala712",
-    "password": "1031",
-    "salt": "jhcJD3yK",
-    "md5": "82f55bf659bcd2e315bbe7635fe8c74d",
-    "sha1": "302299f147afc4f3b0ee77cd1ac23cc156730b1f",
-    "sha256": "167d7202da1facce4f6db1387a3c377290a37cf64fa8bcc26c4535c87b62f022"
+    "uuid": "af137b49-5280-4462-a8c3-9a99448f0520",
+    "username": "bluemeercat678",
+    "password": "rollins",
+    "salt": "iFbqAilI",
+    "md5": "abda53ec52784ebf76c17727927f88d9",
+    "sha1": "f5eaef8e3a9793193729e19f411cb26a50e9aaab",
+    "sha256": "46e858391344602ea5229c8b6862af8422abade0f17a0ace4a0ce3f349cb088b"
   },
   "dob": {
-    "date": "1956-06-30T19:46:18.857Z",
-    "age": 68
+    "date": "1978-02-22T04:31:07.319Z",
+    "age": 47
   },
   "registered": {
-    "date": "2018-07-28T12:39:40.199Z",
-    "age": 6
+    "date": "2013-09-18T06:44:47.041Z",
+    "age": 11
   },
-  "phone": "77584666",
-  "cell": "91137363",
+  "phone": "(459) 231-0694",
+  "cell": "(996) 845-2457",
   "id": {
-    "name": "FN",
-    "value": "30065629034"
+    "name": "SSN",
+    "value": "657-98-8694"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/67.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/67.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/67.jpg"
+    "large": "https://randomuser.me/api/portraits/women/29.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
   },
-  "nat": "NO"
+  "nat": "US"
 }

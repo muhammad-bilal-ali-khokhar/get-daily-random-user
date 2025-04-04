@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Cvitan",
-    "last": "Starcev"
+    "first": "Naveen",
+    "last": "Bharanya"
   },
   "location": {
     "street": {
-      "number": 1408,
-      "name": "Odeska ploshcha"
+      "number": 1563,
+      "name": "Bandstand Promenade"
     },
-    "city": "Mospine",
-    "state": "Odeska",
-    "country": "Ukraine",
-    "postcode": 19084,
+    "city": "Panchkula",
+    "state": "Goa",
+    "country": "India",
+    "postcode": 16864,
     "coordinates": {
-      "latitude": "77.1731",
-      "longitude": "-153.5429"
+      "latitude": "8.5785",
+      "longitude": "-99.8827"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "cvitan.starcev@example.com",
+  "email": "naveen.bharanya@example.com",
   "login": {
-    "uuid": "fc42a991-a237-4dcb-bd00-5dd5067ca4f6",
-    "username": "beautifulbird397",
-    "password": "stephan",
-    "salt": "QioC2WTB",
-    "md5": "8b8e27a90de9b8704178af7cabf5ecfd",
-    "sha1": "deffe91dac07e4f97b58ad798f656287f0ff4cd2",
-    "sha256": "f602886b795b590f390ba854c74e40aca55a0e8d06412ff34b0b3fe60f2956ee"
+    "uuid": "a2e20b41-bb3b-4ab0-821b-000bd8593a12",
+    "username": "beautifulpeacock156",
+    "password": "birdman",
+    "salt": "SSnQOSdX",
+    "md5": "286af6c72147b440099447fa34963f5a",
+    "sha1": "750cb8c7f4701ff05f59215c09cbc2d88ec985e5",
+    "sha256": "70ad01e4e338d04fdf3dad3e4656ce7a29b8b06cad7edc7a54c7bc615fface78"
   },
   "dob": {
-    "date": "1993-10-14T08:06:39.044Z",
-    "age": 31
+    "date": "1946-09-22T15:22:50.625Z",
+    "age": 78
   },
   "registered": {
-    "date": "2018-11-23T09:24:42.620Z",
-    "age": 6
+    "date": "2002-07-10T22:35:12.376Z",
+    "age": 22
   },
-  "phone": "(066) K48-6393",
-  "cell": "(067) T92-3286",
+  "phone": "9535261175",
+  "cell": "9149285964",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "507357474090"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
   },
-  "nat": "UA"
+  "nat": "IN"
 }

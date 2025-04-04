@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Gorana",
-    "last": "Uzelac"
+    "title": "Mr",
+    "first": "Slaven",
+    "last": "Stefanović"
   },
   "location": {
     "street": {
-      "number": 4591,
-      "name": "Miodraga Nikolića"
+      "number": 5819,
+      "name": "Voćarska"
     },
-    "city": "Čajetina",
-    "state": "Toplica",
+    "city": "Majdanpek",
+    "state": "Pčinja",
     "country": "Serbia",
-    "postcode": 63226,
+    "postcode": 51076,
     "coordinates": {
-      "latitude": "60.6832",
-      "longitude": "121.3078"
+      "latitude": "58.0830",
+      "longitude": "-170.3196"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "gorana.uzelac@example.com",
+  "email": "slaven.stefanovic@example.com",
   "login": {
-    "uuid": "4eb5783e-90ab-44bb-94d1-c0e9f8cf2c6b",
-    "username": "bigpeacock105",
-    "password": "snuggles",
-    "salt": "bOSrRQfr",
-    "md5": "d6f5bd92dfe139fb98e3b28da3c85683",
-    "sha1": "b834472d7904970675204a6b8083e74d38a5a7f7",
-    "sha256": "980dc85d786e9a5fa432dd84d9896a9ce65cdd444904935e3dfd5fb2a241d045"
+    "uuid": "bcf9f7a7-9e6a-438c-8e7a-296c0eed5c5a",
+    "username": "lazyostrich255",
+    "password": "valdez",
+    "salt": "K5APlGXV",
+    "md5": "38d28f50d2b714c91f03f05f81b3ead3",
+    "sha1": "b50f9332990369536ab2d7f77decfd16be3695f5",
+    "sha256": "8531f71510bef466727dbd298dd1a23dd3877f9a58319c57898708b8bc733fee"
   },
   "dob": {
-    "date": "1996-12-24T05:20:13.109Z",
-    "age": 28
+    "date": "1979-01-08T10:39:45.594Z",
+    "age": 46
   },
   "registered": {
-    "date": "2013-11-10T23:59:24.280Z",
-    "age": 11
+    "date": "2010-08-28T00:14:45.401Z",
+    "age": 14
   },
-  "phone": "027-9173-750",
-  "cell": "061-4462-458",
+  "phone": "018-9837-363",
+  "cell": "068-0829-552",
   "id": {
     "name": "SID",
-    "value": "718010605"
+    "value": "913026556"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
   },
   "nat": "RS"
 }

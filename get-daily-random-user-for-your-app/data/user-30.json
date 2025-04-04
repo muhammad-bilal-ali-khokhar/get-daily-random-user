@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "David",
-    "last": "Lavigne"
+    "first": "Julián",
+    "last": "Ramírez"
   },
   "location": {
     "street": {
-      "number": 1995,
-      "name": "Wellington St"
+      "number": 4841,
+      "name": "Calle de Alcalá"
     },
-    "city": "Borden",
-    "state": "Nunavut",
-    "country": "Canada",
-    "postcode": "X3S 2Z9",
+    "city": "Arrecife",
+    "state": "La Rioja",
+    "country": "Spain",
+    "postcode": 37958,
     "coordinates": {
-      "latitude": "-69.6615",
-      "longitude": "-4.4310"
+      "latitude": "-36.8605",
+      "longitude": "-129.2280"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "david.lavigne@example.com",
+  "email": "julian.ramirez@example.com",
   "login": {
-    "uuid": "4823f199-f2c6-4aaa-a058-96a1f9b5ba1f",
-    "username": "goldenleopard621",
-    "password": "323232",
-    "salt": "9lYyPPQj",
-    "md5": "2a4f930cac0a21917b960464e6f0a466",
-    "sha1": "76df11a02a5d68675e208c1920fcd6ccf134a899",
-    "sha256": "d29f943270a7967b6fb253a583188a115de08392ae515b039681bc975290d37a"
+    "uuid": "ab6741c4-c428-434d-add0-4c4c6d9d9afe",
+    "username": "ticklishbird358",
+    "password": "steph",
+    "salt": "XskGoqYz",
+    "md5": "70c66ccd57f7729bdf6d8b1ca1aaf2fc",
+    "sha1": "b5637274cbe3e16311a17031d71d4cbdb5377a9b",
+    "sha256": "7f932e67885396b1bb39f3bc5075c53d4f9130062c9500a687c7b0fb7c51a550"
   },
   "dob": {
-    "date": "1967-01-04T23:42:08.883Z",
-    "age": 58
+    "date": "1988-05-17T01:52:42.142Z",
+    "age": 36
   },
   "registered": {
-    "date": "2015-09-01T12:38:28.602Z",
-    "age": 9
+    "date": "2008-06-21T11:50:43.619Z",
+    "age": 16
   },
-  "phone": "Y57 J76-1909",
-  "cell": "S40 E99-9436",
+  "phone": "948-685-699",
+  "cell": "635-900-698",
   "id": {
-    "name": "SIN",
-    "value": "433540580"
+    "name": "DNI",
+    "value": "09309214-P"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/6.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/6.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/6.jpg"
+    "large": "https://randomuser.me/api/portraits/men/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
   },
-  "nat": "CA"
+  "nat": "ES"
 }

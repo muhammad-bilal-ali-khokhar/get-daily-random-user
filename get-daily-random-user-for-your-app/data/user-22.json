@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jovelino",
-    "last": "Ferreira"
+    "first": "Walter",
+    "last": "Alsvik"
   },
   "location": {
     "street": {
-      "number": 406,
-      "name": "Rua Treze de Maio "
+      "number": 5096,
+      "name": "Hanåveien"
     },
-    "city": "Tatuí",
-    "state": "Ceará",
-    "country": "Brazil",
-    "postcode": 38851,
+    "city": "Kolvereid",
+    "state": "Description",
+    "country": "Norway",
+    "postcode": "3291",
     "coordinates": {
-      "latitude": "-80.6184",
-      "longitude": "-1.5341"
+      "latitude": "46.4713",
+      "longitude": "-91.3015"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "jovelino.ferreira@example.com",
+  "email": "walter.alsvik@example.com",
   "login": {
-    "uuid": "97d0de35-ab66-40f7-be01-c82e9ca2a856",
-    "username": "angrycat803",
-    "password": "templar",
-    "salt": "PUAxa8D7",
-    "md5": "cffd17277e3a26d34986c9fe4efd17ab",
-    "sha1": "4bddf8ff40ec28afb80fcce9fa6d414fc1a12094",
-    "sha256": "0984d9aef6d66d5cb88809c24708612b8f7ef8aa349a0a90a6fcec6464224c82"
+    "uuid": "f008563c-b6f6-4130-955e-e45348297607",
+    "username": "goldenwolf895",
+    "password": "focus",
+    "salt": "Rx9yfla2",
+    "md5": "5e86aed38c54613a1644de1816bf5f7d",
+    "sha1": "1fe6e1e72bca35ce0df690436405b898b15bec5f",
+    "sha256": "1236af14897846a9da40180a52a7a6cd4dca15984ddde751fb5c0f9e836acde2"
   },
   "dob": {
-    "date": "1975-10-31T03:41:54.141Z",
-    "age": 49
+    "date": "1962-03-21T04:56:10.268Z",
+    "age": 63
   },
   "registered": {
-    "date": "2005-04-03T01:45:50.148Z",
-    "age": 20
+    "date": "2009-07-09T21:52:46.450Z",
+    "age": 15
   },
-  "phone": "(67) 6165-3304",
-  "cell": "(28) 2284-0109",
+  "phone": "35154404",
+  "cell": "95054569",
   "id": {
-    "name": "CPF",
-    "value": "174.404.805-97"
+    "name": "FN",
+    "value": "21036205978"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
   },
-  "nat": "BR"
+  "nat": "NO"
 }

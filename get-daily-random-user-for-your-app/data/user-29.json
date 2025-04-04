@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Gabriela",
-    "last": "Oterhals"
+    "title": "Miss",
+    "first": "Swathi",
+    "last": "Padmanabha"
   },
   "location": {
     "street": {
-      "number": 4165,
-      "name": "Vækerøåsen"
+      "number": 3447,
+      "name": "Janpath"
     },
-    "city": "Bodø",
-    "state": "Oslo",
-    "country": "Norway",
-    "postcode": "6019",
+    "city": "Narasaraopet",
+    "state": "Nagaland",
+    "country": "India",
+    "postcode": 27745,
     "coordinates": {
-      "latitude": "43.4087",
-      "longitude": "81.5794"
+      "latitude": "9.1804",
+      "longitude": "20.2378"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "gabriela.oterhals@example.com",
+  "email": "swathi.padmanabha@example.com",
   "login": {
-    "uuid": "5aaa6f19-680b-45dc-a5ec-46cc1329d217",
-    "username": "silverfish468",
-    "password": "travis",
-    "salt": "FdUv2Xlw",
-    "md5": "516909a2bd5381f606e22cf3d4768111",
-    "sha1": "33eacc3cdb413260f67f8c36188fa9873cfc81d3",
-    "sha256": "8752d2f5d901236e7e7bce4fe2a591fa6c3201490eb49c202140d5ae9b0ff27f"
+    "uuid": "ea2755ab-3dd4-44e0-88ee-77d033e39ab7",
+    "username": "tinyladybug531",
+    "password": "user",
+    "salt": "11qq6csF",
+    "md5": "ca16a07f80d75ed28bdfbfc449d30e5c",
+    "sha1": "2cdf69b0963bbb12f1d86bfad62fc29852222e6a",
+    "sha256": "c1dca1da9f6d22f1272cad7ea3ea45fd47004c468b4060a989aa2c5db6ba045b"
   },
   "dob": {
-    "date": "1987-12-21T08:55:28.509Z",
-    "age": 37
+    "date": "1992-10-21T20:12:10.016Z",
+    "age": 32
   },
   "registered": {
-    "date": "2018-02-16T10:04:09.391Z",
-    "age": 7
+    "date": "2002-05-16T14:47:09.790Z",
+    "age": 22
   },
-  "phone": "31581145",
-  "cell": "40652971",
+  "phone": "7815664655",
+  "cell": "8520625077",
   "id": {
-    "name": "FN",
-    "value": "21128747696"
+    "name": "UIDAI",
+    "value": "337622015692"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/11.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/11.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/11.jpg"
+    "large": "https://randomuser.me/api/portraits/women/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
   },
-  "nat": "NO"
+  "nat": "IN"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Lauren",
-    "last": "Peterson"
+    "title": "Mr",
+    "first": "Juan Carlos",
+    "last": "Zúñiga"
   },
   "location": {
     "street": {
-      "number": 5833,
-      "name": "School Lane"
+      "number": 3573,
+      "name": "Privada Sur Madrigal"
     },
-    "city": "Lusk",
-    "state": "Carlow",
-    "country": "Ireland",
-    "postcode": 85185,
+    "city": "Totutla",
+    "state": "Campeche",
+    "country": "Mexico",
+    "postcode": 73243,
     "coordinates": {
-      "latitude": "0.1926",
-      "longitude": "119.2372"
+      "latitude": "26.4568",
+      "longitude": "-137.5326"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "lauren.peterson@example.com",
+  "email": "juancarlos.zuniga@example.com",
   "login": {
-    "uuid": "9b199b90-d9db-4134-8bec-21a6a16ec2d6",
-    "username": "smallcat202",
-    "password": "trauma",
-    "salt": "IZRfmrrQ",
-    "md5": "d4bcfdcd347fa0f18b3f61a7c27fd8b2",
-    "sha1": "e9e604c69cdc21a1d5ea7743ab47b913e97fb9ea",
-    "sha256": "638d88bb780adae6e24ae720e7ce769a101450118a687a54ae34424d61f1ea73"
+    "uuid": "9fe5de1b-fd1c-440b-b6f0-c0ce432e7062",
+    "username": "whitebear782",
+    "password": "hall",
+    "salt": "8ZgYqdRC",
+    "md5": "ae226c223aeb127c36947e5abe4598f1",
+    "sha1": "816e54949c92af3aeb8f4a859295d671d31be7bf",
+    "sha256": "bc3ae3a73b4b1f910523ee7ed847952a6eb326663a149cda00b16889d7fe4667"
   },
   "dob": {
-    "date": "1980-03-04T08:24:31.469Z",
-    "age": 45
+    "date": "1947-07-20T20:08:10.416Z",
+    "age": 77
   },
   "registered": {
-    "date": "2010-07-26T07:10:02.354Z",
-    "age": 14
+    "date": "2018-06-03T09:12:13.226Z",
+    "age": 6
   },
-  "phone": "011-487-1831",
-  "cell": "081-976-8129",
+  "phone": "(621) 184 0311",
+  "cell": "(670) 847 2462",
   "id": {
-    "name": "PPS",
-    "value": "8682168T"
+    "name": "NSS",
+    "value": "60 00 79 1665 1"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/88.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
   },
-  "nat": "IE"
+  "nat": "MX"
 }

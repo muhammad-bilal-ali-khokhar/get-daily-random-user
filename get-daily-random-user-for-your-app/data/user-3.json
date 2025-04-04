@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Andrea",
-    "last": "Holt"
+    "title": "Ms",
+    "first": "Anujna",
+    "last": "Kavser"
   },
   "location": {
     "street": {
-      "number": 4007,
-      "name": "Westmoreland Street"
+      "number": 9707,
+      "name": "Mall Rd"
     },
-    "city": "Ashbourne",
-    "state": "Monaghan",
-    "country": "Ireland",
-    "postcode": 65284,
+    "city": "Belgaum",
+    "state": "Chhattisgarh",
+    "country": "India",
+    "postcode": 89466,
     "coordinates": {
-      "latitude": "-3.5380",
-      "longitude": "150.7405"
+      "latitude": "10.7574",
+      "longitude": "97.6799"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "andrea.holt@example.com",
+  "email": "anujna.kavser@example.com",
   "login": {
-    "uuid": "16056f0a-923f-4a1a-92b3-c97cbbf2e3c3",
-    "username": "bluepeacock640",
-    "password": "popo",
-    "salt": "kp9NhOvj",
-    "md5": "708cec8124fe35af0e71b81f61633f31",
-    "sha1": "a1bfa7d74eb415c68e357bacd69c0d9bdc92e4bf",
-    "sha256": "29150387e5789a929ba93018cf5f6047e9ffa714aa883f063361d7d35590e840"
+    "uuid": "16f4f712-e88e-46f9-8ac1-4cca06977877",
+    "username": "bigfish827",
+    "password": "semperfi",
+    "salt": "HF4x7JVP",
+    "md5": "5b29058e851bc2b8fc2604db9d3bd6c7",
+    "sha1": "bcfa443e4126f709db12acefb9698126d61b464a",
+    "sha256": "f7d586d91bb40a56620f9c00a8c6bad97811a3cfbf0b40eacd7209f9c341107d"
   },
   "dob": {
-    "date": "1970-04-24T23:50:21.074Z",
-    "age": 54
+    "date": "1988-01-06T23:43:59.453Z",
+    "age": 37
   },
   "registered": {
-    "date": "2018-05-25T15:38:04.218Z",
-    "age": 6
+    "date": "2015-08-19T16:52:05.608Z",
+    "age": 9
   },
-  "phone": "061-919-2726",
-  "cell": "081-492-3522",
+  "phone": "8544544110",
+  "cell": "9192969938",
   "id": {
-    "name": "PPS",
-    "value": "4123794T"
+    "name": "UIDAI",
+    "value": "297884484472"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/69.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/69.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/69.jpg"
+    "large": "https://randomuser.me/api/portraits/women/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
   },
-  "nat": "IE"
+  "nat": "IN"
 }

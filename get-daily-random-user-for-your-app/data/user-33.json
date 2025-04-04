@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Pierre",
-    "last": "Chevalier"
+    "title": "Miss",
+    "first": "Deeksha",
+    "last": "Prabhu"
   },
   "location": {
     "street": {
-      "number": 5128,
-      "name": "Avenue de la République"
+      "number": 2410,
+      "name": "Janpath"
     },
-    "city": "Limoges",
-    "state": "Isère",
-    "country": "France",
-    "postcode": 96804,
+    "city": "Bilaspur",
+    "state": "Uttarakhand",
+    "country": "India",
+    "postcode": 36014,
     "coordinates": {
-      "latitude": "-17.7338",
-      "longitude": "-68.0673"
+      "latitude": "12.3392",
+      "longitude": "134.1856"
     },
     "timezone": {
       "offset": "+1:00",
       "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "pierre.chevalier@example.com",
+  "email": "deeksha.prabhu@example.com",
   "login": {
-    "uuid": "c278078f-aaf3-4ce2-897f-5e58c88026a8",
-    "username": "heavyzebra431",
-    "password": "matthew1",
-    "salt": "PO8mV5ja",
-    "md5": "7d1f113598d3ca18c11e68d25e5baf20",
-    "sha1": "6353052a7cbac252d97ff5bc81f097c79588d2d7",
-    "sha256": "aec3f695ecfa5b2db413eba85aab31aa3649eadbbd2f3847b802fcf940d98141"
+    "uuid": "2a17353f-43a9-42e0-b50d-99945be3856f",
+    "username": "ticklishmeercat631",
+    "password": "1231",
+    "salt": "oQLj5bCu",
+    "md5": "3288b3a994b45e96d603ca2d1634abe2",
+    "sha1": "92b913662865a6ca1260133bbc6350dd55fa5feb",
+    "sha256": "62b806680541d27de69e435871ddb2630a124dd38f224a5d1b9cf30ed595a901"
   },
   "dob": {
-    "date": "1997-07-31T19:19:42.104Z",
-    "age": 27
+    "date": "1977-01-08T04:57:39.579Z",
+    "age": 48
   },
   "registered": {
-    "date": "2009-02-27T08:56:36.220Z",
-    "age": 16
+    "date": "2008-02-19T11:14:56.468Z",
+    "age": 17
   },
-  "phone": "04-55-01-46-58",
-  "cell": "06-25-99-43-59",
+  "phone": "9825349337",
+  "cell": "8441982408",
   "id": {
-    "name": "INSEE",
-    "value": "1970622299152 30"
+    "name": "UIDAI",
+    "value": "552652135991"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
+    "large": "https://randomuser.me/api/portraits/women/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
   },
-  "nat": "FR"
+  "nat": "IN"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Erik",
-    "last": "Fletcher"
+    "first": "Zvonimir",
+    "last": "Milovanović"
   },
   "location": {
     "street": {
-      "number": 3048,
-      "name": "Spring Hill Rd"
+      "number": 6513,
+      "name": "Ranka Živanovića"
     },
-    "city": "Norfolk",
-    "state": "Kentucky",
-    "country": "United States",
-    "postcode": 42822,
+    "city": "Krupanj",
+    "state": "Kosovska Mitrovica",
+    "country": "Serbia",
+    "postcode": 51097,
     "coordinates": {
-      "latitude": "88.3084",
-      "longitude": "-120.4559"
+      "latitude": "60.3787",
+      "longitude": "-31.9116"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "erik.fletcher@example.com",
+  "email": "zvonimir.milovanovic@example.com",
   "login": {
-    "uuid": "5494c955-cd29-44d1-85e5-3df02c12f001",
-    "username": "whitegoose300",
-    "password": "farscape",
-    "salt": "X1iKt2es",
-    "md5": "769c728fe1b0de99a6ccceff327bd5ca",
-    "sha1": "a96429d8a004e4e06c21fda6bb6965d351ca7a5f",
-    "sha256": "db097711a6102459cf422f73b1d2550bd9645fac6248a8ff2d7adb843e245f1b"
+    "uuid": "f6aab547-fb9e-4481-8fba-0f0821d268a9",
+    "username": "sadmouse121",
+    "password": "windmill",
+    "salt": "0SL4pGgr",
+    "md5": "a9a2c01637949515d26a13f148e2051b",
+    "sha1": "895962254223b867433916fe4bbe8aacf86c89de",
+    "sha256": "7390d88fdacbbf93ea71eef47eb10fa14d4b7b64813f4b9005c0b7c90be0b477"
   },
   "dob": {
-    "date": "1991-08-19T07:22:40.454Z",
-    "age": 33
+    "date": "1998-01-07T19:54:48.860Z",
+    "age": 27
   },
   "registered": {
-    "date": "2021-09-04T12:22:16.703Z",
-    "age": 3
+    "date": "2002-07-04T13:54:03.204Z",
+    "age": 22
   },
-  "phone": "(370) 390-0005",
-  "cell": "(491) 962-7567",
+  "phone": "011-8145-666",
+  "cell": "060-2132-552",
   "id": {
-    "name": "SSN",
-    "value": "302-74-8928"
+    "name": "SID",
+    "value": "906391900"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    "large": "https://randomuser.me/api/portraits/men/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/52.jpg"
   },
-  "nat": "US"
+  "nat": "RS"
 }

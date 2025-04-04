@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Dila",
-    "last": "de Souza"
+    "title": "Mr",
+    "first": "Julian",
+    "last": "Halvorsen"
   },
   "location": {
     "street": {
-      "number": 8611,
-      "name": "Rua Dezessete "
+      "number": 4461,
+      "name": "Gydas vei"
     },
-    "city": "Barreiras",
-    "state": "Mato Grosso do Sul",
-    "country": "Brazil",
-    "postcode": 19267,
+    "city": "Rød",
+    "state": "Oslo",
+    "country": "Norway",
+    "postcode": "5101",
     "coordinates": {
-      "latitude": "-79.8099",
-      "longitude": "19.9975"
+      "latitude": "45.7392",
+      "longitude": "-38.0356"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "dila.desouza@example.com",
+  "email": "julian.halvorsen@example.com",
   "login": {
-    "uuid": "35a1d417-14ef-4225-bdde-b204502ddd7e",
-    "username": "whitepanda259",
-    "password": "sloppy",
-    "salt": "s40jjuD1",
-    "md5": "9e41fbe8632386e4c446d2b0dfbfc05f",
-    "sha1": "0777aa178040f64e8bf2f8d2ba3e87eab7c55d1d",
-    "sha256": "c5f607c2e0fe374a786a742f1a4dff450324c5a5c6137d025f1cb7c45f4198d7"
+    "uuid": "74e74a9c-74f1-4770-a4c5-b01d5f0b6e5f",
+    "username": "smallgoose765",
+    "password": "condor",
+    "salt": "Cr7hEDcP",
+    "md5": "b0f40443b120580b8106d738ddcfd1cd",
+    "sha1": "3c4a0e1ea8b4ec3e1fea7421d0596146861e89e8",
+    "sha256": "fc93a7f76a7ce02c261208f08fac78376c201f3a06496c39897855392fc7107b"
   },
   "dob": {
-    "date": "1944-12-12T05:25:06.925Z",
-    "age": 80
+    "date": "1945-04-15T18:45:42.709Z",
+    "age": 79
   },
   "registered": {
-    "date": "2008-04-23T16:03:19.734Z",
-    "age": 16
+    "date": "2003-12-01T06:36:40.306Z",
+    "age": 21
   },
-  "phone": "(01) 8884-9350",
-  "cell": "(21) 0278-7910",
+  "phone": "59063839",
+  "cell": "99236983",
   "id": {
-    "name": "CPF",
-    "value": "714.434.159-83"
+    "name": "FN",
+    "value": "15044511395"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
   },
-  "nat": "BR"
+  "nat": "NO"
 }

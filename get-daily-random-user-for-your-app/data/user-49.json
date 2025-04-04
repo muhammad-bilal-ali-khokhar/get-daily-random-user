@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Bryan",
-    "last": "Carroll"
+    "title": "Miss",
+    "first": "Julie",
+    "last": "Petersen"
   },
   "location": {
     "street": {
-      "number": 864,
-      "name": "Valwood Pkwy"
+      "number": 9272,
+      "name": "Bakkesvinget"
     },
-    "city": "San Francisco",
-    "state": "Maryland",
-    "country": "United States",
-    "postcode": 68703,
+    "city": "Beder",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "postcode": 35637,
     "coordinates": {
-      "latitude": "81.5398",
-      "longitude": "-33.4532"
+      "latitude": "-45.5523",
+      "longitude": "32.5597"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "bryan.carroll@example.com",
+  "email": "julie.petersen@example.com",
   "login": {
-    "uuid": "2211dc6a-4af7-4f0a-bc2a-92ef242d8acb",
-    "username": "blueostrich642",
-    "password": "riders",
-    "salt": "tM0C8bNl",
-    "md5": "9c576289e3d6597334aa518375aa34c3",
-    "sha1": "1f384068277358cfcb41dd54e5d324bbd7de22b3",
-    "sha256": "2ff5531a352c326b4a5ba811144eee78c1aad4c589f003b9175cf44c7d121c79"
+    "uuid": "7c25e014-40ee-4123-828d-3dff1157ad85",
+    "username": "ticklishduck883",
+    "password": "kangaroo",
+    "salt": "d46fjltj",
+    "md5": "de82b301c69e77aede32f7124ddb7a79",
+    "sha1": "b2175d0c28f6ae61afa3109f002f8b8feade1456",
+    "sha256": "8a01536ea969e83f84df3f7562938f55f6ee78de4cf724924a15018fae7b64c7"
   },
   "dob": {
-    "date": "1953-11-05T22:44:34.606Z",
-    "age": 71
+    "date": "1999-07-05T00:43:16.097Z",
+    "age": 25
   },
   "registered": {
-    "date": "2020-02-28T08:42:16.597Z",
-    "age": 5
+    "date": "2022-03-07T11:39:45.483Z",
+    "age": 3
   },
-  "phone": "(321) 856-7611",
-  "cell": "(971) 470-4250",
+  "phone": "13468536",
+  "cell": "29336351",
   "id": {
-    "name": "SSN",
-    "value": "239-08-0222"
+    "name": "CPR",
+    "value": "040799-3570"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    "large": "https://randomuser.me/api/portraits/women/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
   },
-  "nat": "US"
+  "nat": "DK"
 }

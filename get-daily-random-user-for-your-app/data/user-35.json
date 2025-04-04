@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "سهیل",
-    "last": "کامروا"
+    "first": "Idhant",
+    "last": "Bharanya"
   },
   "location": {
     "street": {
-      "number": 3191,
-      "name": "شیخ فضل الله نوری"
+      "number": 7323,
+      "name": "Altamount Rd"
     },
-    "city": "ایلام",
-    "state": "هرمزگان",
-    "country": "Iran",
-    "postcode": 40230,
+    "city": "Navi Mumbai",
+    "state": "Karnataka",
+    "country": "India",
+    "postcode": 21876,
     "coordinates": {
-      "latitude": "16.9895",
-      "longitude": "-33.5420"
+      "latitude": "5.8065",
+      "longitude": "-124.5474"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "shyl.khmrw@example.com",
+  "email": "idhant.bharanya@example.com",
   "login": {
-    "uuid": "7c3582b5-1b91-48e3-9eca-dbdd117fd40b",
-    "username": "smallostrich866",
-    "password": "tiger1",
-    "salt": "hQIeF4nu",
-    "md5": "8851fa360ada89b61b5634f18fd62a7e",
-    "sha1": "070fe9fe9c5b015868213de9609c85c9cbf83457",
-    "sha256": "7024177b5aa62ae1618338dd44bd3b9fb33262fc6f1a9d823c8b7470082d217e"
+    "uuid": "728b0a72-6d1c-497e-8f33-c0291b7b9b3c",
+    "username": "blueduck778",
+    "password": "warthog",
+    "salt": "zYfVLE6G",
+    "md5": "76f0966b2a77cda1dfc00a06c091adf8",
+    "sha1": "497ff468cbf4152dbec39a778f767716e61506c0",
+    "sha256": "59972a176052e803641486db8c3692736a8ed204528480f728132d3107d44b23"
   },
   "dob": {
-    "date": "1986-06-17T22:31:22.783Z",
-    "age": 38
+    "date": "1946-06-29T03:16:10.343Z",
+    "age": 78
   },
   "registered": {
-    "date": "2019-10-14T14:35:03.130Z",
-    "age": 5
+    "date": "2005-11-02T07:13:50.172Z",
+    "age": 19
   },
-  "phone": "010-49820710",
-  "cell": "0993-226-6600",
+  "phone": "7747672750",
+  "cell": "7765024426",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "176662755432"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "IR"
+  "nat": "IN"
 }

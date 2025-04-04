@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Yashika",
-    "last": "Kamath"
+    "title": "Ms",
+    "first": "Ceylan",
+    "last": "Erberk"
   },
   "location": {
     "street": {
-      "number": 4144,
-      "name": "Fontainhas"
+      "number": 4432,
+      "name": "Talak Göktepe Cd"
     },
-    "city": "Kavali",
-    "state": "Tamil Nadu",
-    "country": "India",
-    "postcode": 13030,
+    "city": "Çankırı",
+    "state": "Erzincan",
+    "country": "Turkey",
+    "postcode": 10820,
     "coordinates": {
-      "latitude": "7.3631",
-      "longitude": "129.8096"
+      "latitude": "64.5487",
+      "longitude": "19.4520"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "yashika.kamath@example.com",
+  "email": "ceylan.erberk@example.com",
   "login": {
-    "uuid": "f6a5647e-0f06-4409-ac4d-ff29140c89bf",
-    "username": "ticklishzebra969",
-    "password": "cumcum",
-    "salt": "0aApaKzX",
-    "md5": "efb1442e729d503c8e058c0667fd67e2",
-    "sha1": "bf1e9391341b0398958a1ec0850cfe6160ae5249",
-    "sha256": "3c74070b747282f88ac850e010d0d23c4aa955e77c842c880ca999a94cc11770"
+    "uuid": "35ca7434-06a5-4488-bb93-6240d6dd7084",
+    "username": "browngorilla259",
+    "password": "magnolia",
+    "salt": "yPvqGGBR",
+    "md5": "cf59a6f7ef5b1a22b74a073aabb71b9d",
+    "sha1": "387c3ce26a65ba319829459940f3b5c50ad909c9",
+    "sha256": "9e2c959fd3d458587a8e2516b9602cad3214448a7adbf2de87d7e94a4b030f41"
   },
   "dob": {
-    "date": "1951-11-12T05:42:33.087Z",
-    "age": 73
+    "date": "1959-01-17T15:14:41.449Z",
+    "age": 66
   },
   "registered": {
-    "date": "2013-10-26T05:20:05.800Z",
-    "age": 11
+    "date": "2002-09-22T10:58:23.436Z",
+    "age": 22
   },
-  "phone": "7075679145",
-  "cell": "7165735756",
+  "phone": "(488)-405-2364",
+  "cell": "(736)-942-4804",
   "id": {
-    "name": "UIDAI",
-    "value": "680202593304"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/9.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+    "large": "https://randomuser.me/api/portraits/women/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
   },
-  "nat": "IN"
+  "nat": "TR"
 }

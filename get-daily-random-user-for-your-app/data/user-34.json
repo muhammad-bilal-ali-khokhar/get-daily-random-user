@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Atanásio",
-    "last": "Pereira"
+    "title": "Mrs",
+    "first": "Shubha",
+    "last": "Adiga"
   },
   "location": {
     "street": {
-      "number": 2766,
-      "name": "Rua Vinte E Um"
+      "number": 3186,
+      "name": "Pali Hill"
     },
-    "city": "Jandira",
-    "state": "Rio Grande do Norte",
-    "country": "Brazil",
-    "postcode": 50381,
+    "city": "Tiruppur",
+    "state": "Kerala",
+    "country": "India",
+    "postcode": 28655,
     "coordinates": {
-      "latitude": "-75.2462",
-      "longitude": "-17.5101"
+      "latitude": "9.7355",
+      "longitude": "51.5255"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "atanasio.pereira@example.com",
+  "email": "shubha.adiga@example.com",
   "login": {
-    "uuid": "2c64f7b7-744b-41ad-99b1-ddb7ab33eb47",
-    "username": "silverbird841",
-    "password": "mamas",
-    "salt": "DptRgO1v",
-    "md5": "29e90edc0d7963495e2c8b66608998b9",
-    "sha1": "d3f307c4f0b8f6723d4bf893edcc698870dc68cf",
-    "sha256": "6c7e76adabaeca49732c58339bd1a35effc36a238be7aba52764347562d945a0"
+    "uuid": "c0735af7-3a97-4a9c-8d2e-3d0e94f24aff",
+    "username": "tinydog849",
+    "password": "beezer",
+    "salt": "NKBOKXF2",
+    "md5": "b6c63427a81c109142101abf73ecf4c1",
+    "sha1": "d52a79b9f6a7716896cc38158c5304d72dabb09d",
+    "sha256": "6d2d316b04cdae93af3e6a9ef84f0fed94e4d35eb4033244342914b4ced55319"
   },
   "dob": {
-    "date": "1992-09-18T16:03:01.766Z",
-    "age": 32
+    "date": "1947-08-25T15:02:21.853Z",
+    "age": 77
   },
   "registered": {
-    "date": "2017-01-11T10:55:24.923Z",
-    "age": 8
+    "date": "2020-06-20T12:45:02.126Z",
+    "age": 4
   },
-  "phone": "(67) 2287-2468",
-  "cell": "(84) 2664-4102",
+  "phone": "7912699806",
+  "cell": "7100879532",
   "id": {
-    "name": "CPF",
-    "value": "069.566.202-72"
+    "name": "UIDAI",
+    "value": "801985301963"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/46.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+    "large": "https://randomuser.me/api/portraits/women/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
   },
-  "nat": "BR"
+  "nat": "IN"
 }

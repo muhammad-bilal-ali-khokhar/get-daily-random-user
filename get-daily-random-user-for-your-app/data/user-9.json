@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Leo",
-    "last": "Freeman"
+    "first": "Kornelius",
+    "last": "Havik"
   },
   "location": {
     "street": {
-      "number": 7061,
-      "name": "E Center St"
+      "number": 7638,
+      "name": "Langgata"
     },
-    "city": "Odessa",
-    "state": "Nevada",
-    "country": "United States",
-    "postcode": 76663,
+    "city": "Åmli",
+    "state": "Sogn og Fjordane",
+    "country": "Norway",
+    "postcode": "0687",
     "coordinates": {
-      "latitude": "84.3962",
-      "longitude": "-58.7339"
+      "latitude": "40.0410",
+      "longitude": "-173.2760"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "leo.freeman@example.com",
+  "email": "kornelius.havik@example.com",
   "login": {
-    "uuid": "943b2a8b-efb1-478a-9f2c-eeb0588bdad5",
-    "username": "blackrabbit917",
-    "password": "vince",
-    "salt": "57ThDIQ2",
-    "md5": "22b60e3c3465ba52df58da79e542f049",
-    "sha1": "2e1543c36d71e737fb368bb6e4f6a8eb8893c9cf",
-    "sha256": "dd319e90d8b4de194bb8566f37bdb7a0129382b533e81fb740d00a99b718ce37"
+    "uuid": "845c7fa3-9735-4b0c-9d14-73bab7a1362a",
+    "username": "beautifulfish504",
+    "password": "spiral",
+    "salt": "LDmxQaVw",
+    "md5": "2dba3f23b7b00365ba6dc2dadee2833f",
+    "sha1": "a5c40011023a4f57e4acef6dc084ce3df14e7a1b",
+    "sha256": "8501833948dae5fe2874e3851b4746078ca6f8a7d00bc8b5b92fd4cc6e14afc1"
   },
   "dob": {
-    "date": "1997-10-31T11:48:28.967Z",
-    "age": 27
+    "date": "1957-01-09T13:18:38.851Z",
+    "age": 68
   },
   "registered": {
-    "date": "2016-03-08T16:16:54.705Z",
-    "age": 9
+    "date": "2017-02-28T17:04:48.443Z",
+    "age": 8
   },
-  "phone": "(455) 786-8390",
-  "cell": "(807) 705-3744",
+  "phone": "74601316",
+  "cell": "93708216",
   "id": {
-    "name": "SSN",
-    "value": "615-40-1521"
+    "name": "FN",
+    "value": "09015717979"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+    "large": "https://randomuser.me/api/portraits/men/64.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
   },
-  "nat": "US"
+  "nat": "NO"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Özsu",
-    "last": "Ozansoy"
+    "title": "Mr",
+    "first": "Mahé",
+    "last": "Morel"
   },
   "location": {
     "street": {
-      "number": 2104,
-      "name": "Necatibey Cd"
+      "number": 916,
+      "name": "Rue de la Gare"
     },
-    "city": "Aydın",
-    "state": "Bayburt",
-    "country": "Turkey",
-    "postcode": 78625,
+    "city": "Orléans",
+    "state": "Allier",
+    "country": "France",
+    "postcode": 32483,
     "coordinates": {
-      "latitude": "64.8290",
-      "longitude": "159.4547"
+      "latitude": "-18.7123",
+      "longitude": "-106.4021"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "ozsu.ozansoy@example.com",
+  "email": "mahe.morel@example.com",
   "login": {
-    "uuid": "ca98381d-cc62-4bbb-80aa-114a40bd49c4",
-    "username": "purplebutterfly180",
-    "password": "penguins",
-    "salt": "UAjTTRsd",
-    "md5": "cc49e6dd3ac2e6e173c832023f8e6b97",
-    "sha1": "621abce6dad409dd64f55b156ce07d4d535c99d9",
-    "sha256": "66fb40b107ab75db252547d674407949753fee114579d32dd7a34a0d060a03a6"
+    "uuid": "9b21aa03-70e0-46db-b65d-83fa83d5d799",
+    "username": "goldenswan577",
+    "password": "gaymen",
+    "salt": "Ca6cA2T9",
+    "md5": "ab6a4491b42133c749b1817f84a7b88c",
+    "sha1": "6a39e69e1edca9558d00090f241821a33f0a3534",
+    "sha256": "4c5759af23cd4d498c8ae102d6d8e1090fcfceb8b6a795ad1077f22cc9321c6a"
   },
   "dob": {
-    "date": "1960-10-10T14:50:17.839Z",
-    "age": 64
+    "date": "1958-09-10T20:34:45.170Z",
+    "age": 66
   },
   "registered": {
-    "date": "2016-01-26T02:57:03.391Z",
-    "age": 9
+    "date": "2021-07-29T13:19:58.452Z",
+    "age": 3
   },
-  "phone": "(078)-257-2605",
-  "cell": "(743)-828-7508",
+  "phone": "03-28-38-45-60",
+  "cell": "06-00-09-54-70",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "1580847387713 37"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/30.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    "large": "https://randomuser.me/api/portraits/men/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
   },
-  "nat": "TR"
+  "nat": "FR"
 }

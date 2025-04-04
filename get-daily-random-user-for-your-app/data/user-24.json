@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Esma",
-    "last": "Kıraç"
+    "title": "Mr",
+    "first": "Derek",
+    "last": "Russell"
   },
   "location": {
     "street": {
-      "number": 1229,
-      "name": "Doktorlar Cd"
+      "number": 3866,
+      "name": "Spring St"
     },
-    "city": "Giresun",
-    "state": "Bursa",
-    "country": "Turkey",
-    "postcode": 71774,
+    "city": "Santa Rosa",
+    "state": "Illinois",
+    "country": "United States",
+    "postcode": 81926,
     "coordinates": {
-      "latitude": "70.1365",
-      "longitude": "36.0638"
+      "latitude": "82.9517",
+      "longitude": "-145.4790"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "esma.kirac@example.com",
+  "email": "derek.russell@example.com",
   "login": {
-    "uuid": "68521253-a7ce-4e7a-b7e5-8078750fa578",
-    "username": "goldenleopard139",
-    "password": "theresa",
-    "salt": "DV46BQQE",
-    "md5": "13008247eb03a2044717a22a0dafca55",
-    "sha1": "8aab490001d5f40c8a19a945ca71518d6ecb9b31",
-    "sha256": "556062e8124283c71764d78dc96ce8de84a49d055f8db687e03a91549fa6894c"
+    "uuid": "3ce6cc4c-67b8-4700-8546-8039e2b07f39",
+    "username": "brownkoala604",
+    "password": "florence",
+    "salt": "AERHDbcV",
+    "md5": "2757e155e629759a7177371add2e1b04",
+    "sha1": "42e0c8a915a87cc4720b7c472c5283975f56883a",
+    "sha256": "a6a45a2de39b6ccbe9ffee96163cb3dd64e6354b7178a38e75e2f1d7fd132b57"
   },
   "dob": {
-    "date": "1970-08-03T20:29:52.023Z",
-    "age": 54
+    "date": "1948-01-19T10:21:18.612Z",
+    "age": 77
   },
   "registered": {
-    "date": "2013-07-04T06:00:28.259Z",
-    "age": 11
+    "date": "2006-06-26T08:20:41.955Z",
+    "age": 18
   },
-  "phone": "(309)-634-5480",
-  "cell": "(638)-920-8212",
+  "phone": "(916) 249-2582",
+  "cell": "(208) 219-1439",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SSN",
+    "value": "760-24-7704"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "TR"
+  "nat": "US"
 }

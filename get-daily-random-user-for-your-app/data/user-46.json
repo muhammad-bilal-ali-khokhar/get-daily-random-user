@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Alma",
-    "last": "Alvarez"
+    "title": "Mr",
+    "first": "Malo",
+    "last": "Durand"
   },
   "location": {
     "street": {
-      "number": 8202,
-      "name": "Circunvalación Beltrán"
+      "number": 5978,
+      "name": "Rue Paul Bert"
     },
-    "city": "San Salvador Huixcolotla",
-    "state": "Colima",
-    "country": "Mexico",
-    "postcode": 28879,
+    "city": "Fort-de-France",
+    "state": "Bouches-du-Rhône",
+    "country": "France",
+    "postcode": 82629,
     "coordinates": {
-      "latitude": "24.8997",
-      "longitude": "93.6990"
+      "latitude": "-21.2892",
+      "longitude": "-27.2164"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "alma.alvarez@example.com",
+  "email": "malo.durand@example.com",
   "login": {
-    "uuid": "0081d6c4-33be-439d-a32f-298a7d2a46cb",
-    "username": "yellowcat608",
-    "password": "blonds",
-    "salt": "mR6mM1On",
-    "md5": "8fabbf12a03cee0510d3699c6a344750",
-    "sha1": "b702a8696c89746f1b14713c1124d645e458d09a",
-    "sha256": "d4b21587bcea88fd0a6c975bdf359fab174b4e9c4b49a219cf721227e0b6e859"
+    "uuid": "9489f52c-7854-475b-bf50-3d66726abaa4",
+    "username": "greenbird293",
+    "password": "xmas",
+    "salt": "DFvqExUp",
+    "md5": "bf3e93d8f65f0fc74ed458fec857ef55",
+    "sha1": "f4466a30507716857885fd379f701acabd70a4c8",
+    "sha256": "01354bf2c56c735fee1ed1393090e52519ddbbb2824498c0257971668f976b00"
   },
   "dob": {
-    "date": "1975-07-29T21:05:24.239Z",
-    "age": 49
+    "date": "1993-08-18T00:08:27.813Z",
+    "age": 31
   },
   "registered": {
-    "date": "2014-11-16T15:46:21.325Z",
-    "age": 10
+    "date": "2010-05-15T13:35:07.464Z",
+    "age": 14
   },
-  "phone": "(681) 624 7717",
-  "cell": "(651) 502 6123",
+  "phone": "03-14-67-66-27",
+  "cell": "06-25-03-16-18",
   "id": {
-    "name": "NSS",
-    "value": "88 13 98 2245 8"
+    "name": "INSEE",
+    "value": "1930764296836 66"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/46.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+    "large": "https://randomuser.me/api/portraits/men/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
   },
-  "nat": "MX"
+  "nat": "FR"
 }

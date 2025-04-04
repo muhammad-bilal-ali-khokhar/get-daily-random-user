@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Malik",
-    "last": "Pelletier"
+    "title": "Ms",
+    "first": "Lakshmi",
+    "last": "Bal"
   },
   "location": {
     "street": {
-      "number": 4061,
-      "name": "Pierre Ave"
+      "number": 9286,
+      "name": "Sampige Rd"
     },
-    "city": "Georgetown",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "L0J 0U8",
+    "city": "Ghaziabad",
+    "state": "Rajasthan",
+    "country": "India",
+    "postcode": 42141,
     "coordinates": {
-      "latitude": "-66.8153",
-      "longitude": "-160.9982"
+      "latitude": "5.3940",
+      "longitude": "8.6170"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "malik.pelletier@example.com",
+  "email": "lakshmi.bal@example.com",
   "login": {
-    "uuid": "9c16b52c-242e-42be-b96c-203690629bb2",
-    "username": "greenrabbit261",
-    "password": "mmmmmmm",
-    "salt": "lrk7kS5C",
-    "md5": "b335ffee67731ead2a6c5d909b7a2419",
-    "sha1": "92d21d51e9ea2c63938883e6004543e6cd8f8565",
-    "sha256": "258d1fa57ec2dc81a657847936d7ce6d5682eb1bbd2af1fb9f271803822c2352"
+    "uuid": "51edec5c-5bab-4a58-b130-6c943b41001b",
+    "username": "angrykoala830",
+    "password": "carpente",
+    "salt": "SOTNvGRg",
+    "md5": "f3975046285dcc6eb5673dcd195cfc4f",
+    "sha1": "f94c237d192694f525fb02d2a778075b69053a86",
+    "sha256": "64245fc745ac9c6e53963f0432c40e3136ef084c80af14e554bf9e5e5d220c70"
   },
   "dob": {
-    "date": "1947-01-17T02:53:42.329Z",
-    "age": 78
+    "date": "1976-08-08T04:24:24.416Z",
+    "age": 48
   },
   "registered": {
-    "date": "2006-10-27T11:09:04.472Z",
-    "age": 18
+    "date": "2007-11-01T22:24:33.235Z",
+    "age": 17
   },
-  "phone": "P04 D57-7183",
-  "cell": "N82 D63-7181",
+  "phone": "9200007711",
+  "cell": "8033884514",
   "id": {
-    "name": "SIN",
-    "value": "053064838"
+    "name": "UIDAI",
+    "value": "105432277216"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    "large": "https://randomuser.me/api/portraits/women/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
   },
-  "nat": "CA"
+  "nat": "IN"
 }

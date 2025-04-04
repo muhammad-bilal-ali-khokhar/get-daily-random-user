@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Vicenta",
-    "last": "Arias"
+    "title": "Mr",
+    "first": "Louis",
+    "last": "Turner"
   },
   "location": {
     "street": {
-      "number": 7513,
-      "name": "Calle del Pez"
+      "number": 6545,
+      "name": "Te Atatu Road"
     },
-    "city": "Bilbao",
-    "state": "Comunidad Valenciana",
-    "country": "Spain",
-    "postcode": 37731,
+    "city": "Hamilton",
+    "state": "Northland",
+    "country": "New Zealand",
+    "postcode": 55330,
     "coordinates": {
-      "latitude": "-32.7604",
-      "longitude": "64.6491"
+      "latitude": "52.1430",
+      "longitude": "-65.4888"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "vicenta.arias@example.com",
+  "email": "louis.turner@example.com",
   "login": {
-    "uuid": "f0edcc28-46fc-4c4f-a598-e09ab3f527aa",
-    "username": "lazytiger120",
-    "password": "montreal",
-    "salt": "z8XXt8zw",
-    "md5": "a3d7c9498d92ae984d3dbfdddfe78eec",
-    "sha1": "6be7f9d237e9d7ec5e0565f20f037e5521cf77c5",
-    "sha256": "465817f89ea2719805cbff9690a6a85e3b65ece884522c795e3fa9ec21fc4577"
+    "uuid": "acbad488-414a-4f99-a721-a7c6c00b2073",
+    "username": "bigbird664",
+    "password": "johnny5",
+    "salt": "rdsO9LJP",
+    "md5": "5c7ed6bb4abfaeb36d1951c03380d74a",
+    "sha1": "bd95445d513517f3aa8cdea9cdf22f28df5c6778",
+    "sha256": "a2390c4d502d64f73f311844de15c4704708691083b1812ae120af2f7bb4594d"
   },
   "dob": {
-    "date": "1979-01-15T23:05:02.921Z",
-    "age": 46
+    "date": "1972-12-26T20:18:52.049Z",
+    "age": 52
   },
   "registered": {
-    "date": "2015-04-15T13:16:23.085Z",
-    "age": 9
+    "date": "2017-12-04T07:34:20.822Z",
+    "age": 7
   },
-  "phone": "929-314-666",
-  "cell": "690-837-882",
+  "phone": "(700)-710-4289",
+  "cell": "(639)-192-6736",
   "id": {
-    "name": "DNI",
-    "value": "37652220-E"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+    "large": "https://randomuser.me/api/portraits/men/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
   },
-  "nat": "ES"
+  "nat": "NZ"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Waldo",
-    "last": "Van de Wege"
+    "title": "Miss",
+    "first": "Saisha",
+    "last": "Dsouza"
   },
   "location": {
     "street": {
-      "number": 1085,
-      "name": "Douwe Dabbertstraat"
+      "number": 7567,
+      "name": "NAD X Rd"
     },
-    "city": "Pesse",
-    "state": "Drenthe",
-    "country": "Netherlands",
-    "postcode": "5949 CJ",
+    "city": "Bathinda",
+    "state": "Daman and Diu",
+    "country": "India",
+    "postcode": 84590,
     "coordinates": {
-      "latitude": "37.9971",
-      "longitude": "-3.4337"
+      "latitude": "12.2764",
+      "longitude": "104.8993"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "waldo.vandewege@example.com",
+  "email": "saisha.dsouza@example.com",
   "login": {
-    "uuid": "fc917a08-1032-4eb3-b5ba-53046347f5b5",
-    "username": "sadostrich383",
-    "password": "fellow",
-    "salt": "gdni4Snm",
-    "md5": "54d59af226196b9059c8fad1928a7fd3",
-    "sha1": "4718a290f8ea024e5229ca37e563883710a237f2",
-    "sha256": "b6d37a0754b7e3539a0b05d4d4e10cf32d959342fba5c65805cfa7a3dea0704a"
+    "uuid": "a439c913-dd90-47fe-a33f-e31ecf4d7ed2",
+    "username": "whiteswan300",
+    "password": "cafc91",
+    "salt": "1KcE773m",
+    "md5": "89df7a4331ce597ac93e92c9250aa415",
+    "sha1": "cc670d2f9b2ccc2ab82e039721f869ed96f7a1b3",
+    "sha256": "cf2898636b03bcc4075c6bc317a3af0fb02fde7135b11d51608072b51a846acd"
   },
   "dob": {
-    "date": "1955-09-09T03:07:41.031Z",
-    "age": 69
+    "date": "1950-10-14T02:22:51.670Z",
+    "age": 74
   },
   "registered": {
-    "date": "2003-05-08T19:27:49.890Z",
-    "age": 21
+    "date": "2020-05-26T07:27:10.433Z",
+    "age": 4
   },
-  "phone": "(042) 3493735",
-  "cell": "(06) 41321525",
+  "phone": "9284881772",
+  "cell": "8161319275",
   "id": {
-    "name": "BSN",
-    "value": "98580462"
+    "name": "UIDAI",
+    "value": "501399141180"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    "large": "https://randomuser.me/api/portraits/women/76.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
   },
-  "nat": "NL"
+  "nat": "IN"
 }

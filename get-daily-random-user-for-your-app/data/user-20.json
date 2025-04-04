@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Joseph",
-    "last": "Muller"
+    "title": "Mr",
+    "first": "Álvaro",
+    "last": "Castro"
   },
   "location": {
     "street": {
-      "number": 8650,
-      "name": "Rue Paul-Duvivier"
+      "number": 7611,
+      "name": "Calle del Arenal"
     },
-    "city": "Genève",
-    "state": "Thurgau",
-    "country": "Switzerland",
-    "postcode": 2146,
+    "city": "Jerez de la Frontera",
+    "state": "Islas Baleares",
+    "country": "Spain",
+    "postcode": 18155,
     "coordinates": {
-      "latitude": "-63.6923",
-      "longitude": "-65.5440"
+      "latitude": "-37.7236",
+      "longitude": "-156.9680"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "joseph.muller@example.com",
+  "email": "alvaro.castro@example.com",
   "login": {
-    "uuid": "8bddf5cf-744c-43ce-867c-9c452196b6df",
-    "username": "lazyrabbit662",
-    "password": "golfgolf",
-    "salt": "EtqUnV3U",
-    "md5": "0c38055802ee3c094112bd170ac991c1",
-    "sha1": "429c77e011f1c18542f31869988816acc38dcf70",
-    "sha256": "21fa250259558b6d2cb05a7d61c4c6866999af56b75d55bb51562a614bc7bb4a"
+    "uuid": "12dcb6b1-1579-4629-9721-a14683150156",
+    "username": "blackbutterfly703",
+    "password": "jakejake",
+    "salt": "huCLzkKv",
+    "md5": "628c3e0d9fdfd3912a383c606de11b0c",
+    "sha1": "2e397a6f63f703c9c82296b9b28abefedd09710e",
+    "sha256": "519bbc23745bc9f0a148722226c84abfe622c14d528cebe942beaba6e394200d"
   },
   "dob": {
-    "date": "1987-12-11T10:11:04.440Z",
-    "age": 37
+    "date": "1951-09-06T21:25:36.238Z",
+    "age": 73
   },
   "registered": {
-    "date": "2008-02-05T13:40:38.704Z",
-    "age": 17
+    "date": "2008-07-06T03:19:41.833Z",
+    "age": 16
   },
-  "phone": "075 536 48 93",
-  "cell": "076 563 17 47",
+  "phone": "952-130-134",
+  "cell": "692-863-904",
   "id": {
-    "name": "AVS",
-    "value": "756.4270.7782.22"
+    "name": "DNI",
+    "value": "51127920-C"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/33.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "CH"
+  "nat": "ES"
 }
