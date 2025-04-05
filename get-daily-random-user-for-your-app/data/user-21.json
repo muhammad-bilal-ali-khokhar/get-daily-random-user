@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mahé",
-    "last": "Morel"
+    "first": "Arthur",
+    "last": "Claire"
   },
   "location": {
     "street": {
-      "number": 916,
-      "name": "Rue de la Gare"
+      "number": 650,
+      "name": "George St"
     },
-    "city": "Orléans",
-    "state": "Allier",
-    "country": "France",
-    "postcode": 32483,
+    "city": "Flatrock",
+    "state": "Saskatchewan",
+    "country": "Canada",
+    "postcode": "H4W 8E9",
     "coordinates": {
-      "latitude": "-18.7123",
-      "longitude": "-106.4021"
+      "latitude": "-64.7653",
+      "longitude": "-143.8416"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "mahe.morel@example.com",
+  "email": "arthur.claire@example.com",
   "login": {
-    "uuid": "9b21aa03-70e0-46db-b65d-83fa83d5d799",
-    "username": "goldenswan577",
-    "password": "gaymen",
-    "salt": "Ca6cA2T9",
-    "md5": "ab6a4491b42133c749b1817f84a7b88c",
-    "sha1": "6a39e69e1edca9558d00090f241821a33f0a3534",
-    "sha256": "4c5759af23cd4d498c8ae102d6d8e1090fcfceb8b6a795ad1077f22cc9321c6a"
+    "uuid": "23f175ec-c830-4c34-bc75-0b8b28a6ec2b",
+    "username": "lazyfrog106",
+    "password": "roadrunn",
+    "salt": "WHnbVnqQ",
+    "md5": "1edc6d02f3a3488c439fc0004351c327",
+    "sha1": "57ef3495416a7ae54e593078354eb8c112e38248",
+    "sha256": "bd2a51c073f6daf12df8157c47094e4be8dd450c73c5dea86695a8fa8d9c9d0f"
   },
   "dob": {
-    "date": "1958-09-10T20:34:45.170Z",
-    "age": 66
+    "date": "1986-12-12T20:15:10.154Z",
+    "age": 38
   },
   "registered": {
-    "date": "2021-07-29T13:19:58.452Z",
-    "age": 3
+    "date": "2013-07-24T04:39:45.906Z",
+    "age": 11
   },
-  "phone": "03-28-38-45-60",
-  "cell": "06-00-09-54-70",
+  "phone": "D56 L87-1725",
+  "cell": "L67 K58-3130",
   "id": {
-    "name": "INSEE",
-    "value": "1580847387713 37"
+    "name": "SIN",
+    "value": "712456482"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
   },
-  "nat": "FR"
+  "nat": "CA"
 }

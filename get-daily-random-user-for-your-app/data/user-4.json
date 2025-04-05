@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Alicia",
-    "last": "Benítez"
+    "title": "Ms",
+    "first": "Zaira",
+    "last": "Ramos"
   },
   "location": {
     "street": {
-      "number": 3933,
-      "name": "Avenida de Salamanca"
+      "number": 8014,
+      "name": "Beco dos Namorados"
     },
-    "city": "Talavera de la Reina",
-    "state": "Cataluña",
-    "country": "Spain",
-    "postcode": 23994,
+    "city": "Feira de Santana",
+    "state": "Mato Grosso",
+    "country": "Brazil",
+    "postcode": 99458,
     "coordinates": {
-      "latitude": "-31.0645",
-      "longitude": "122.9006"
+      "latitude": "-75.6998",
+      "longitude": "141.4897"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "alicia.benitez@example.com",
+  "email": "zaira.ramos@example.com",
   "login": {
-    "uuid": "000962d6-25c0-45f9-9f35-61ab89b3f21f",
-    "username": "goldenkoala190",
-    "password": "civicsi",
-    "salt": "wVcw9LZ7",
-    "md5": "474872e6c3dd40dedac43330fefdb283",
-    "sha1": "dae0b8b19e0de01828635423b88e6656dc4a7bb7",
-    "sha256": "e74485e758826e67f028f7f03eba7678f7d2fad233f738596021a244ba164f02"
+    "uuid": "fdd7c146-fef4-4477-9ebf-840d2bb9778f",
+    "username": "yellowlion373",
+    "password": "pierce",
+    "salt": "30psDCK3",
+    "md5": "46f755217035a0386c04affb70d83c23",
+    "sha1": "7d17926d4125f4dae1178b2b5f0f8377907110c9",
+    "sha256": "115304b838423f8a3f99c2d63e58d1a5a3f2abd4ddb446c154ea3a7134b06716"
   },
   "dob": {
-    "date": "1980-02-28T12:11:34.270Z",
-    "age": 45
+    "date": "1947-02-02T13:59:07.758Z",
+    "age": 78
   },
   "registered": {
-    "date": "2016-05-21T07:01:56.263Z",
-    "age": 8
+    "date": "2018-11-03T08:01:43.502Z",
+    "age": 6
   },
-  "phone": "957-291-090",
-  "cell": "613-990-059",
+  "phone": "(77) 6445-9978",
+  "cell": "(51) 4459-6524",
   "id": {
-    "name": "DNI",
-    "value": "96254278-V"
+    "name": "CPF",
+    "value": "469.212.322-14"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/50.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/50.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/50.jpg"
+    "large": "https://randomuser.me/api/portraits/women/15.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
   },
-  "nat": "ES"
+  "nat": "BR"
 }

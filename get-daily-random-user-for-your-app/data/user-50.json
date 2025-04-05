@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Julian",
-    "last": "Halvorsen"
+    "first": "Nakul",
+    "last": "Tipparti"
   },
   "location": {
     "street": {
-      "number": 4461,
-      "name": "Gydas vei"
+      "number": 9715,
+      "name": "Bandstand Promenade"
     },
-    "city": "Rød",
-    "state": "Oslo",
-    "country": "Norway",
-    "postcode": "5101",
+    "city": "Eluru",
+    "state": "Chandigarh",
+    "country": "India",
+    "postcode": 65713,
     "coordinates": {
-      "latitude": "45.7392",
-      "longitude": "-38.0356"
+      "latitude": "6.4690",
+      "longitude": "-114.5814"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "julian.halvorsen@example.com",
+  "email": "nakul.tipparti@example.com",
   "login": {
-    "uuid": "74e74a9c-74f1-4770-a4c5-b01d5f0b6e5f",
-    "username": "smallgoose765",
-    "password": "condor",
-    "salt": "Cr7hEDcP",
-    "md5": "b0f40443b120580b8106d738ddcfd1cd",
-    "sha1": "3c4a0e1ea8b4ec3e1fea7421d0596146861e89e8",
-    "sha256": "fc93a7f76a7ce02c261208f08fac78376c201f3a06496c39897855392fc7107b"
+    "uuid": "af1f0429-d98f-471b-b640-744e9bad7319",
+    "username": "crazybird532",
+    "password": "hannibal",
+    "salt": "1LG0BeT8",
+    "md5": "0a874f9171c03abc8def7e409d411390",
+    "sha1": "df62537b049694472e50a3b2f51370602109ecea",
+    "sha256": "6e82ef31d0acaa686c8738be81fe9326fa38080e4b13a865d7526d3a07e20f6c"
   },
   "dob": {
-    "date": "1945-04-15T18:45:42.709Z",
-    "age": 79
+    "date": "1959-01-06T04:20:10.740Z",
+    "age": 66
   },
   "registered": {
-    "date": "2003-12-01T06:36:40.306Z",
-    "age": 21
+    "date": "2008-05-10T02:19:05.177Z",
+    "age": 16
   },
-  "phone": "59063839",
-  "cell": "99236983",
+  "phone": "8768420513",
+  "cell": "8114949852",
   "id": {
-    "name": "FN",
-    "value": "15044511395"
+    "name": "UIDAI",
+    "value": "273084796734"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/85.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    "large": "https://randomuser.me/api/portraits/men/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
   },
-  "nat": "NO"
+  "nat": "IN"
 }

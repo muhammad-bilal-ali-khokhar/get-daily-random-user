@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Aimê",
-    "last": "da Cunha"
+    "title": "Mr",
+    "first": "Reginald",
+    "last": "Price"
   },
   "location": {
     "street": {
-      "number": 4995,
-      "name": "Rua São Sebastiao "
+      "number": 3132,
+      "name": "Spring St"
     },
-    "city": "Porto Velho",
-    "state": "Espírito Santo",
-    "country": "Brazil",
-    "postcode": 88716,
+    "city": "Cupertino",
+    "state": "Ohio",
+    "country": "United States",
+    "postcode": 13337,
     "coordinates": {
-      "latitude": "-80.7954",
-      "longitude": "71.3650"
+      "latitude": "84.6167",
+      "longitude": "-82.8795"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "aime.dacunha@example.com",
+  "email": "reginald.price@example.com",
   "login": {
-    "uuid": "03617db4-dccf-41cb-8e49-0f20fcd42314",
-    "username": "purplebear972",
-    "password": "dontknow",
-    "salt": "WW0gXUp4",
-    "md5": "aa7690abd7adb6284e9425fea4a13f4b",
-    "sha1": "6d54cf710ca4f0e45f1db4ba8816e0add217cdbd",
-    "sha256": "497ba98f8203594a6394ae6df82de867fb7b9abc01a381a6340a52f41f3420f9"
+    "uuid": "cbd5c3a0-aebd-4ddf-96f9-72e71ff8e965",
+    "username": "yellowmouse536",
+    "password": "girl",
+    "salt": "O6T1119u",
+    "md5": "d299edd76d23393dd0bc71add2827f72",
+    "sha1": "e0f95fb8a68b85b6a67765657ba5919ff1112cc9",
+    "sha256": "b573d1d4ac64b5f558d01fb02d1fa41b6dd9860d8fecb5abc842dacda7995ab0"
   },
   "dob": {
-    "date": "1953-01-26T11:22:21.039Z",
-    "age": 72
+    "date": "1951-09-30T18:53:04.391Z",
+    "age": 73
   },
   "registered": {
-    "date": "2003-06-06T13:05:49.077Z",
-    "age": 21
+    "date": "2020-04-14T18:22:41.824Z",
+    "age": 4
   },
-  "phone": "(78) 2121-2129",
-  "cell": "(24) 8483-1295",
+  "phone": "(299) 695-4374",
+  "cell": "(868) 309-2272",
   "id": {
-    "name": "CPF",
-    "value": "920.209.902-07"
+    "name": "SSN",
+    "value": "446-98-2398"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/93.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
   },
-  "nat": "BR"
+  "nat": "US"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Juan Carlos",
-    "last": "Zúñiga"
+    "first": "Steven",
+    "last": "Rhodes"
   },
   "location": {
     "street": {
-      "number": 3573,
-      "name": "Privada Sur Madrigal"
+      "number": 4404,
+      "name": "Manor Road"
     },
-    "city": "Totutla",
-    "state": "Campeche",
-    "country": "Mexico",
-    "postcode": 73243,
+    "city": "Ripon",
+    "state": "South Glamorgan",
+    "country": "United Kingdom",
+    "postcode": "X5T 4LJ",
     "coordinates": {
-      "latitude": "26.4568",
-      "longitude": "-137.5326"
+      "latitude": "-7.4716",
+      "longitude": "-115.7236"
     },
     "timezone": {
       "offset": "+10:00",
       "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "juancarlos.zuniga@example.com",
+  "email": "steven.rhodes@example.com",
   "login": {
-    "uuid": "9fe5de1b-fd1c-440b-b6f0-c0ce432e7062",
-    "username": "whitebear782",
-    "password": "hall",
-    "salt": "8ZgYqdRC",
-    "md5": "ae226c223aeb127c36947e5abe4598f1",
-    "sha1": "816e54949c92af3aeb8f4a859295d671d31be7bf",
-    "sha256": "bc3ae3a73b4b1f910523ee7ed847952a6eb326663a149cda00b16889d7fe4667"
+    "uuid": "ecf76bce-fce4-43fd-ba12-cc07856490cf",
+    "username": "beautifulcat779",
+    "password": "niang",
+    "salt": "8W6po020",
+    "md5": "5baa41d5ff044e41d0aeadd9daaf9b79",
+    "sha1": "a063fe9b111da471d8124d486f158b363bf79be3",
+    "sha256": "97eacd1479a90965ae8c64f0ec2954432534cc42a4381f761ce76cb5260eb10b"
   },
   "dob": {
-    "date": "1947-07-20T20:08:10.416Z",
-    "age": 77
+    "date": "1987-12-27T09:11:43.001Z",
+    "age": 37
   },
   "registered": {
-    "date": "2018-06-03T09:12:13.226Z",
-    "age": 6
+    "date": "2003-05-05T01:24:28.243Z",
+    "age": 21
   },
-  "phone": "(621) 184 0311",
-  "cell": "(670) 847 2462",
+  "phone": "016977 3156",
+  "cell": "07210 153543",
   "id": {
-    "name": "NSS",
-    "value": "60 00 79 1665 1"
+    "name": "NINO",
+    "value": "LH 29 46 57 Z"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "MX"
+  "nat": "GB"
 }

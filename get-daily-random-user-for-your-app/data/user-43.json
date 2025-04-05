@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Halvard",
-    "last": "Wennberg"
+    "first": "Ved",
+    "last": "Shetty"
   },
   "location": {
     "street": {
-      "number": 3672,
-      "name": "Meklenborgveien"
+      "number": 7924,
+      "name": "Kasturba Rd"
     },
-    "city": "Åmot",
-    "state": "Oppland",
-    "country": "Norway",
-    "postcode": "3043",
+    "city": "Varanasi",
+    "state": "Tripura",
+    "country": "India",
+    "postcode": 30589,
     "coordinates": {
-      "latitude": "45.7138",
-      "longitude": "-153.2854"
+      "latitude": "4.3408",
+      "longitude": "-135.4684"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "halvard.wennberg@example.com",
+  "email": "ved.shetty@example.com",
   "login": {
-    "uuid": "5f958f81-1edb-4965-94b1-03875ee8e834",
-    "username": "sadcat105",
-    "password": "double",
-    "salt": "e6ZSLAvM",
-    "md5": "5199131623094efdc44e9090c7111dbe",
-    "sha1": "496f68b53500831bd6a897874da15435e52a1c72",
-    "sha256": "e4ada212495dfb9496446b844167c632fcb529ccb42a992cf54896f24da35e56"
+    "uuid": "ee1c6fe3-3941-4969-ac4c-005e86b6f93a",
+    "username": "crazyrabbit154",
+    "password": "shamus",
+    "salt": "nJrhMzL6",
+    "md5": "073cebeb43d02676177adca4b4ba4023",
+    "sha1": "4fd73638d5ec63d74aa389ccd6c23300b2697115",
+    "sha256": "8e2d672959073ffa8156da8747278cb0418bd9a3935d706e1dbaeb34e974c8b9"
   },
   "dob": {
-    "date": "1958-08-16T00:34:44.550Z",
-    "age": 66
+    "date": "1946-12-04T14:53:47.216Z",
+    "age": 78
   },
   "registered": {
-    "date": "2012-06-23T15:34:09.471Z",
-    "age": 12
+    "date": "2009-03-02T21:31:31.481Z",
+    "age": 16
   },
-  "phone": "59958522",
-  "cell": "94606842",
+  "phone": "8464952689",
+  "cell": "8718438139",
   "id": {
-    "name": "FN",
-    "value": "16085814927"
+    "name": "UIDAI",
+    "value": "633818085238"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
   },
-  "nat": "NO"
+  "nat": "IN"
 }

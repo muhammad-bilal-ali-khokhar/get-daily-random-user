@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Anujna",
-    "last": "Kavser"
+    "title": "Mr",
+    "first": "Mikail",
+    "last": "Straatsma"
   },
   "location": {
     "street": {
-      "number": 9707,
-      "name": "Mall Rd"
+      "number": 4787,
+      "name": "Nobelstraat"
     },
-    "city": "Belgaum",
-    "state": "Chhattisgarh",
-    "country": "India",
-    "postcode": 89466,
+    "city": "Munstergeleen",
+    "state": "Limburg",
+    "country": "Netherlands",
+    "postcode": "4328 RW",
     "coordinates": {
-      "latitude": "10.7574",
-      "longitude": "97.6799"
+      "latitude": "30.0383",
+      "longitude": "-88.0629"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "anujna.kavser@example.com",
+  "email": "mikail.straatsma@example.com",
   "login": {
-    "uuid": "16f4f712-e88e-46f9-8ac1-4cca06977877",
-    "username": "bigfish827",
-    "password": "semperfi",
-    "salt": "HF4x7JVP",
-    "md5": "5b29058e851bc2b8fc2604db9d3bd6c7",
-    "sha1": "bcfa443e4126f709db12acefb9698126d61b464a",
-    "sha256": "f7d586d91bb40a56620f9c00a8c6bad97811a3cfbf0b40eacd7209f9c341107d"
+    "uuid": "aa77f876-8df9-4651-b575-3b017b518621",
+    "username": "heavyfrog277",
+    "password": "enigma",
+    "salt": "I28IztfB",
+    "md5": "f418898ffd898a64bd7a8bfa6bbe6386",
+    "sha1": "e89122ac2b8d4979245612afd0753dc195c54ef3",
+    "sha256": "645a49f9901531c0966c55a45f19603a112c938664d38223fae1d9038d11db27"
   },
   "dob": {
-    "date": "1988-01-06T23:43:59.453Z",
-    "age": 37
+    "date": "1985-09-19T22:34:48.508Z",
+    "age": 39
   },
   "registered": {
-    "date": "2015-08-19T16:52:05.608Z",
-    "age": 9
+    "date": "2003-06-23T02:51:24.391Z",
+    "age": 21
   },
-  "phone": "8544544110",
-  "cell": "9192969938",
+  "phone": "(047) 3053101",
+  "cell": "(06) 99780517",
   "id": {
-    "name": "UIDAI",
-    "value": "297884484472"
+    "name": "BSN",
+    "value": "58354790"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "IN"
+  "nat": "NL"
 }

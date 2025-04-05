@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Daniela",
-    "last": "Louis"
+    "title": "Mr",
+    "first": "Gorimisl",
+    "last": "Melnichuk"
   },
   "location": {
     "street": {
-      "number": 245,
-      "name": "Rue Cyrus-Hugues"
+      "number": 1151,
+      "name": "Nishchinskogo"
     },
-    "city": "Wohlen bei Bern",
-    "state": "Obwalden",
-    "country": "Switzerland",
-    "postcode": 9282,
+    "city": "Berestechko",
+    "state": "Donecka",
+    "country": "Ukraine",
+    "postcode": 26828,
     "coordinates": {
-      "latitude": "-62.4603",
-      "longitude": "90.1922"
+      "latitude": "79.2508",
+      "longitude": "-57.2943"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "daniela.louis@example.com",
+  "email": "gorimisl.melnichuk@example.com",
   "login": {
-    "uuid": "39cc07f8-9061-4556-a740-886ca1e04403",
-    "username": "beautifulleopard592",
-    "password": "company",
-    "salt": "byetwyNB",
-    "md5": "dec1786c7d5a041303353b8746b1e235",
-    "sha1": "bea09148a379b14bc065078609a8b0a280dafa09",
-    "sha256": "1451c04e7daf3d9dbc9258e88735ab74e24bb26f07ecd1aaf9ed044cff624ffd"
+    "uuid": "49219132-eaaf-44e0-adb0-18bdd688af1a",
+    "username": "sadbear159",
+    "password": "stinks",
+    "salt": "6OQ0r4a3",
+    "md5": "cc2ac75835948b977d3353d487335df3",
+    "sha1": "df557315947f0be64e1f2794009e5c5ec4a65fbf",
+    "sha256": "69ef8328ac02347ee4755473f3c7bdaceb84e45acba1305650a5fa7d8b7ee632"
   },
   "dob": {
-    "date": "1967-07-28T19:12:10.945Z",
-    "age": 57
+    "date": "1976-03-08T17:01:50.724Z",
+    "age": 49
   },
   "registered": {
-    "date": "2018-05-24T22:35:47.344Z",
-    "age": 6
+    "date": "2016-05-03T17:17:43.857Z",
+    "age": 8
   },
-  "phone": "075 220 22 85",
-  "cell": "077 277 81 70",
+  "phone": "(098) K55-6906",
+  "cell": "(098) J90-7258",
   "id": {
-    "name": "AVS",
-    "value": "756.5617.2257.19"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
   },
-  "nat": "CH"
+  "nat": "UA"
 }

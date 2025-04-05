@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Deeksha",
-    "last": "Prabhu"
+    "title": "Mr",
+    "first": "Gregório",
+    "last": "Oliveira"
   },
   "location": {
     "street": {
-      "number": 2410,
-      "name": "Janpath"
+      "number": 9319,
+      "name": "Avenida da Legalidade"
     },
-    "city": "Bilaspur",
-    "state": "Uttarakhand",
-    "country": "India",
-    "postcode": 36014,
+    "city": "Gravataí",
+    "state": "Minas Gerais",
+    "country": "Brazil",
+    "postcode": 67395,
     "coordinates": {
-      "latitude": "12.3392",
-      "longitude": "134.1856"
+      "latitude": "-76.6016",
+      "longitude": "-74.2014"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "deeksha.prabhu@example.com",
+  "email": "gregorio.oliveira@example.com",
   "login": {
-    "uuid": "2a17353f-43a9-42e0-b50d-99945be3856f",
-    "username": "ticklishmeercat631",
-    "password": "1231",
-    "salt": "oQLj5bCu",
-    "md5": "3288b3a994b45e96d603ca2d1634abe2",
-    "sha1": "92b913662865a6ca1260133bbc6350dd55fa5feb",
-    "sha256": "62b806680541d27de69e435871ddb2630a124dd38f224a5d1b9cf30ed595a901"
+    "uuid": "7b3e057a-356f-42b5-af0b-7937afe9f5ca",
+    "username": "angrypanda535",
+    "password": "wedding",
+    "salt": "nwA0jTw4",
+    "md5": "fafa66880f8fd12336cd0502aaa14ba6",
+    "sha1": "5911f726c709d0dc19d7cdde67b653e38feadab3",
+    "sha256": "844274f04e6d15d59b5f1e4a381b600a21429a56446130c4806f9120d7fd1d10"
   },
   "dob": {
-    "date": "1977-01-08T04:57:39.579Z",
+    "date": "1976-09-07T05:26:12.972Z",
     "age": 48
   },
   "registered": {
-    "date": "2008-02-19T11:14:56.468Z",
-    "age": 17
+    "date": "2006-10-25T14:00:51.498Z",
+    "age": 18
   },
-  "phone": "9825349337",
-  "cell": "8441982408",
+  "phone": "(69) 8693-7694",
+  "cell": "(03) 9110-5240",
   "id": {
-    "name": "UIDAI",
-    "value": "552652135991"
+    "name": "CPF",
+    "value": "228.636.540-77"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/35.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "IN"
+  "nat": "BR"
 }

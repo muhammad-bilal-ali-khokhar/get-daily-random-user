@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Irene",
-    "last": "Matre"
+    "title": "Mr",
+    "first": "Rosil",
+    "last": "Nascimento"
   },
   "location": {
     "street": {
-      "number": 9972,
-      "name": "Bilittkroken"
+      "number": 2626,
+      "name": "Rua Três"
     },
-    "city": "Inndyr",
-    "state": "Trøndelag",
-    "country": "Norway",
-    "postcode": "2062",
+    "city": "Itatiba",
+    "state": "Rio Grande do Sul",
+    "country": "Brazil",
+    "postcode": 84195,
     "coordinates": {
-      "latitude": "42.9102",
-      "longitude": "121.1702"
+      "latitude": "-78.5785",
+      "longitude": "-136.2043"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "irene.matre@example.com",
+  "email": "rosil.nascimento@example.com",
   "login": {
-    "uuid": "6870f15e-a72c-4610-811b-bd80690a1723",
-    "username": "sadpanda875",
-    "password": "antony",
-    "salt": "ElUAhbrh",
-    "md5": "4392389d8d6aa262d9251c8d9c79fc39",
-    "sha1": "da4b9795b6d3128b1e221fab3ec57dffdf7b8994",
-    "sha256": "8049c1af6ccb40bbabae2a39ea2bb31199a93f3856fe025f1f907d9b7e02807b"
+    "uuid": "daf4e6cd-e30d-44a9-b6f0-dc8479a65aa8",
+    "username": "yellowbear886",
+    "password": "hawkeyes",
+    "salt": "5oa2rPM9",
+    "md5": "564425fc5a04e2326298cec1f91e142d",
+    "sha1": "0cd034145fc69bed5a2198ca88a05e6df212cd27",
+    "sha256": "7eb1404868093bb5e9713475e76bb8caea805a7a7192f80f48ab594be69dde87"
   },
   "dob": {
-    "date": "1976-01-09T15:03:38.389Z",
-    "age": 49
+    "date": "1989-07-21T06:49:26.740Z",
+    "age": 35
   },
   "registered": {
-    "date": "2002-05-13T02:17:04.473Z",
-    "age": 22
+    "date": "2013-04-16T01:52:00.236Z",
+    "age": 11
   },
-  "phone": "60604116",
-  "cell": "43730796",
+  "phone": "(46) 6436-6539",
+  "cell": "(90) 5869-1805",
   "id": {
-    "name": "FN",
-    "value": "09017606058"
+    "name": "CPF",
+    "value": "835.574.637-45"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
   },
-  "nat": "NO"
+  "nat": "BR"
 }

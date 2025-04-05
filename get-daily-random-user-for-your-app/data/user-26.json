@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Kira",
-    "last": "Osmundsen"
+    "title": "Mr",
+    "first": "Tilmann",
+    "last": "Sand"
   },
   "location": {
     "street": {
-      "number": 6868,
-      "name": "Solhauggata"
+      "number": 3580,
+      "name": "Gartenstraße"
     },
-    "city": "Hol",
-    "state": "Trøndelag",
-    "country": "Norway",
-    "postcode": "4110",
+    "city": "Oberweißbach/Thür. Wald",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "postcode": 89269,
     "coordinates": {
-      "latitude": "39.7317",
-      "longitude": "58.6888"
+      "latitude": "-53.5543",
+      "longitude": "-107.4614"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "kira.osmundsen@example.com",
+  "email": "tilmann.sand@example.com",
   "login": {
-    "uuid": "7a51ac4d-5f3e-4049-9995-bd9c983980ae",
-    "username": "greenpanda833",
-    "password": "mickey",
-    "salt": "0n3bqLeK",
-    "md5": "c4cf44383aec3cf325c09934de08f9f2",
-    "sha1": "ad243f3eeb36396ab33d9247d4710f522439af5b",
-    "sha256": "5c41bc6b10687fedbc06ee8db178bcc9a85cefa74d67e434cd92af02c85e6425"
+    "uuid": "ebc55a0e-de7e-40d4-96d6-ef12855ae5dd",
+    "username": "tinygorilla907",
+    "password": "hhhhhh",
+    "salt": "14C4cZrw",
+    "md5": "60531d2425eee98c57ef0ff505bf9d69",
+    "sha1": "b07aec08c4e7eeff7d9c872c073939c2fbd436a1",
+    "sha256": "0e14efac50386e8ca74d642c53501c55901be205b314fcb71c440811f9208b7d"
   },
   "dob": {
-    "date": "1977-09-10T12:49:01.010Z",
-    "age": 47
+    "date": "2000-01-23T20:34:12.307Z",
+    "age": 25
   },
   "registered": {
-    "date": "2017-12-14T15:40:41.060Z",
-    "age": 7
+    "date": "2003-10-22T03:25:38.987Z",
+    "age": 21
   },
-  "phone": "61650695",
-  "cell": "95818162",
+  "phone": "0533-6938817",
+  "cell": "0174-7290071",
   "id": {
-    "name": "FN",
-    "value": "10097730275"
+    "name": "SVNR",
+    "value": "74 2301100 S 345"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
   },
-  "nat": "NO"
+  "nat": "DE"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Idhant",
-    "last": "Bharanya"
+    "first": "Cameron",
+    "last": "Roberts"
   },
   "location": {
     "street": {
-      "number": 7323,
-      "name": "Altamount Rd"
+      "number": 7237,
+      "name": "Elizabeth Street"
     },
-    "city": "Navi Mumbai",
-    "state": "Karnataka",
-    "country": "India",
-    "postcode": 21876,
+    "city": "Upper Hutt",
+    "state": "Southland",
+    "country": "New Zealand",
+    "postcode": 80418,
     "coordinates": {
-      "latitude": "5.8065",
-      "longitude": "-124.5474"
+      "latitude": "54.5233",
+      "longitude": "-36.0370"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "idhant.bharanya@example.com",
+  "email": "cameron.roberts@example.com",
   "login": {
-    "uuid": "728b0a72-6d1c-497e-8f33-c0291b7b9b3c",
-    "username": "blueduck778",
-    "password": "warthog",
-    "salt": "zYfVLE6G",
-    "md5": "76f0966b2a77cda1dfc00a06c091adf8",
-    "sha1": "497ff468cbf4152dbec39a778f767716e61506c0",
-    "sha256": "59972a176052e803641486db8c3692736a8ed204528480f728132d3107d44b23"
+    "uuid": "39ab3dac-da40-41fe-951b-b907c25204f1",
+    "username": "bigpanda762",
+    "password": "forever",
+    "salt": "2Nqcg96Y",
+    "md5": "73c47a2854028ca03310b54ae8e59cd2",
+    "sha1": "17fedc93b7bc1aba356f08e9da63e6fff3ec2999",
+    "sha256": "107eb2c6d1a3406fcbfcfb74aa140c983ff9e370c5816440544834190d533aab"
   },
   "dob": {
-    "date": "1946-06-29T03:16:10.343Z",
-    "age": 78
+    "date": "1979-05-17T14:07:05.783Z",
+    "age": 45
   },
   "registered": {
-    "date": "2005-11-02T07:13:50.172Z",
-    "age": 19
+    "date": "2002-06-09T12:32:35.775Z",
+    "age": 22
   },
-  "phone": "7747672750",
-  "cell": "7765024426",
+  "phone": "(813)-102-9155",
+  "cell": "(205)-477-3580",
   "id": {
-    "name": "UIDAI",
-    "value": "176662755432"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
   },
-  "nat": "IN"
+  "nat": "NZ"
 }

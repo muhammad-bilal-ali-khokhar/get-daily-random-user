@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Louis",
-    "last": "Turner"
+    "title": "Miss",
+    "first": "Marianne",
+    "last": "Remmen"
   },
   "location": {
     "street": {
-      "number": 6545,
-      "name": "Te Atatu Road"
+      "number": 2844,
+      "name": "Fossveien"
     },
-    "city": "Hamilton",
-    "state": "Northland",
-    "country": "New Zealand",
-    "postcode": 55330,
+    "city": "Sunde",
+    "state": "Nord-Trøndelag",
+    "country": "Norway",
+    "postcode": "3472",
     "coordinates": {
-      "latitude": "52.1430",
-      "longitude": "-65.4888"
+      "latitude": "42.7465",
+      "longitude": "46.4219"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "louis.turner@example.com",
+  "email": "marianne.remmen@example.com",
   "login": {
-    "uuid": "acbad488-414a-4f99-a721-a7c6c00b2073",
-    "username": "bigbird664",
-    "password": "johnny5",
-    "salt": "rdsO9LJP",
-    "md5": "5c7ed6bb4abfaeb36d1951c03380d74a",
-    "sha1": "bd95445d513517f3aa8cdea9cdf22f28df5c6778",
-    "sha256": "a2390c4d502d64f73f311844de15c4704708691083b1812ae120af2f7bb4594d"
+    "uuid": "aa3743c7-edd4-42f3-a2c6-f1f7f5cf3c61",
+    "username": "happyzebra204",
+    "password": "scania",
+    "salt": "1Zsi9mlh",
+    "md5": "b94cd97daf1e6bcb2449099b901b7088",
+    "sha1": "43db24031fd376342a356047330db6a314bedee0",
+    "sha256": "2e66f4ff1963223043e42100149e94c7356af60c8b4910b4b6f5f66da3545bb5"
   },
   "dob": {
-    "date": "1972-12-26T20:18:52.049Z",
-    "age": 52
+    "date": "1998-08-08T13:03:06.794Z",
+    "age": 26
   },
   "registered": {
-    "date": "2017-12-04T07:34:20.822Z",
-    "age": 7
+    "date": "2011-04-02T22:27:37.516Z",
+    "age": 14
   },
-  "phone": "(700)-710-4289",
-  "cell": "(639)-192-6736",
+  "phone": "57927300",
+  "cell": "96791799",
   "id": {
-    "name": "",
-    "value": null
+    "name": "FN",
+    "value": "08089825289"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    "large": "https://randomuser.me/api/portraits/women/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
   },
-  "nat": "NZ"
+  "nat": "NO"
 }

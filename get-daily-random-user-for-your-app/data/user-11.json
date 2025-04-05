@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Margie",
-    "last": "Flores"
+    "title": "Mr",
+    "first": "Oles",
+    "last": "Lazor"
   },
   "location": {
     "street": {
-      "number": 6878,
-      "name": "Hunters Creek Dr"
+      "number": 3826,
+      "name": "Ploshcha Malanyuka"
     },
-    "city": "Honolulu",
-    "state": "Texas",
-    "country": "United States",
-    "postcode": 88168,
+    "city": "Novoyavorivsk",
+    "state": "Avtonomna Respublika Krim",
+    "country": "Ukraine",
+    "postcode": 57170,
     "coordinates": {
-      "latitude": "82.2091",
-      "longitude": "7.1246"
+      "latitude": "79.1374",
+      "longitude": "-2.3159"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "margie.flores@example.com",
+  "email": "oles.lazor@example.com",
   "login": {
-    "uuid": "a420b66d-dbef-4709-ab57-1dea04db8b1d",
-    "username": "heavybird854",
-    "password": "fdm7ed",
-    "salt": "Q47BdLkS",
-    "md5": "82083021321feb326890fbd7c43b7487",
-    "sha1": "7ed5ca46fbb80d02b5f4db8156ba706bc2d422d9",
-    "sha256": "b64b376e4c6783e6560eade2caa4bdebc8a42c7e7b866ffdc05ffc9b8b7ad7e8"
+    "uuid": "97968908-5a6e-4f60-bfd5-d7e1339d0b22",
+    "username": "ticklishfrog877",
+    "password": "wally",
+    "salt": "wOB50zcC",
+    "md5": "5ef1c8d16a0c3a1f3ce90ec0cb5b61ca",
+    "sha1": "c3ded6279dce89b808a37e24da3c9b69270aad8f",
+    "sha256": "9a0d0e23fed89e0af640419efa5ac674511df542397f9ef047571dfced2b2f93"
   },
   "dob": {
-    "date": "1994-09-20T02:31:33.517Z",
-    "age": 30
+    "date": "1970-08-16T01:23:58.481Z",
+    "age": 54
   },
   "registered": {
-    "date": "2014-11-12T21:19:59.629Z",
-    "age": 10
+    "date": "2019-12-07T18:54:24.524Z",
+    "age": 5
   },
-  "phone": "(486) 670-8701",
-  "cell": "(280) 287-6173",
+  "phone": "(067) F68-0711",
+  "cell": "(068) D49-3593",
   "id": {
-    "name": "SSN",
-    "value": "027-88-3107"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/0.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+    "large": "https://randomuser.me/api/portraits/men/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
   },
-  "nat": "US"
+  "nat": "UA"
 }

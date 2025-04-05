@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Julie",
-    "last": "Petersen"
+    "title": "Ms",
+    "first": "Ayla",
+    "last": "Johnson"
   },
   "location": {
     "street": {
-      "number": 9272,
-      "name": "Bakkesvinget"
+      "number": 8459,
+      "name": "Kaikorai Valley Road"
     },
-    "city": "Beder",
-    "state": "Hovedstaden",
-    "country": "Denmark",
-    "postcode": 35637,
+    "city": "New Plymouth",
+    "state": "Nelson",
+    "country": "New Zealand",
+    "postcode": 29729,
     "coordinates": {
-      "latitude": "-45.5523",
-      "longitude": "32.5597"
+      "latitude": "55.0663",
+      "longitude": "64.1874"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "julie.petersen@example.com",
+  "email": "ayla.johnson@example.com",
   "login": {
-    "uuid": "7c25e014-40ee-4123-828d-3dff1157ad85",
-    "username": "ticklishduck883",
-    "password": "kangaroo",
-    "salt": "d46fjltj",
-    "md5": "de82b301c69e77aede32f7124ddb7a79",
-    "sha1": "b2175d0c28f6ae61afa3109f002f8b8feade1456",
-    "sha256": "8a01536ea969e83f84df3f7562938f55f6ee78de4cf724924a15018fae7b64c7"
+    "uuid": "25c0d697-3d02-4588-9bc8-980f6e034697",
+    "username": "orangemouse586",
+    "password": "runner",
+    "salt": "2cjuFFZT",
+    "md5": "a73802232d917a083629aeb0a80a42a1",
+    "sha1": "5835ff50ecbd24818d2f61cc294eabfee2100652",
+    "sha256": "5a5f37fd5292855bd12331b4c547837eeafd06a0826c16f82c54d6ab09792cdc"
   },
   "dob": {
-    "date": "1999-07-05T00:43:16.097Z",
-    "age": 25
+    "date": "1947-04-06T15:05:27.954Z",
+    "age": 77
   },
   "registered": {
-    "date": "2022-03-07T11:39:45.483Z",
+    "date": "2022-02-08T13:39:41.800Z",
     "age": 3
   },
-  "phone": "13468536",
-  "cell": "29336351",
+  "phone": "(802)-235-4520",
+  "cell": "(510)-688-0043",
   "id": {
-    "name": "CPR",
-    "value": "040799-3570"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
+    "large": "https://randomuser.me/api/portraits/women/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
   },
-  "nat": "DK"
+  "nat": "NZ"
 }

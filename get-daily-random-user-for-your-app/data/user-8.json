@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Izolda",
-    "last": "Simeonović"
+    "title": "Mr",
+    "first": "Elias",
+    "last": "Benavides"
   },
   "location": {
     "street": {
-      "number": 8674,
-      "name": "Leposave MilЈković  "
+      "number": 8014,
+      "name": "Diagonal Veracruz de Ignacio de la Llave"
     },
-    "city": "Prijepolje",
-    "state": "West Bačka",
-    "country": "Serbia",
-    "postcode": 94613,
+    "city": "Hocaba",
+    "state": "Chiapas",
+    "country": "Mexico",
+    "postcode": 45477,
     "coordinates": {
-      "latitude": "56.0383",
-      "longitude": "97.6544"
+      "latitude": "26.4277",
+      "longitude": "-20.9630"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "izolda.simeonovic@example.com",
+  "email": "elias.benavides@example.com",
   "login": {
-    "uuid": "5b80d6af-f83d-4731-9ec5-2eeaa4bffcb2",
-    "username": "greencat916",
-    "password": "robotics",
-    "salt": "Hm1Epgw6",
-    "md5": "740d130116da403f1069f234e8cd36fa",
-    "sha1": "3d214d9f7acee1303c8555e38aff2547800079c7",
-    "sha256": "60604ae3e78f519d9def1dc978110f8ed14d2049e340a2f6eb8dee3a4e0631fc"
+    "uuid": "31dc9526-0b31-47f9-8976-31cee4b91272",
+    "username": "heavygorilla298",
+    "password": "molson",
+    "salt": "aSofD9MG",
+    "md5": "7889214bbbd6ca0cdc2956905046088f",
+    "sha1": "cb71eacec5d0697758a2ee01ca140a6c776b3e3c",
+    "sha256": "42c7330ccc2fa6cbbac8147d44b5c059722c0cb4ae2c9f822b9745620c53f173"
   },
   "dob": {
-    "date": "1994-08-21T23:21:42.115Z",
-    "age": 30
+    "date": "1951-04-08T13:38:57.612Z",
+    "age": 73
   },
   "registered": {
-    "date": "2015-11-01T06:53:36.932Z",
-    "age": 9
+    "date": "2017-11-30T09:12:58.910Z",
+    "age": 7
   },
-  "phone": "017-9977-153",
-  "cell": "064-4266-453",
+  "phone": "(682) 760 1416",
+  "cell": "(661) 576 5713",
   "id": {
-    "name": "SID",
-    "value": "533253712"
+    "name": "NSS",
+    "value": "33 18 35 3221 2"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/63.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
   },
-  "nat": "RS"
+  "nat": "MX"
 }

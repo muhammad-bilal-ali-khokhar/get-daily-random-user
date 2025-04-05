@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Shubha",
-    "last": "Adiga"
+    "title": "Ms",
+    "first": "Erin",
+    "last": "Davies"
   },
   "location": {
     "street": {
-      "number": 3186,
-      "name": "Pali Hill"
+      "number": 5178,
+      "name": "Chester Road"
     },
-    "city": "Tiruppur",
-    "state": "Kerala",
-    "country": "India",
-    "postcode": 28655,
+    "city": "Cambridge",
+    "state": "Dorset",
+    "country": "United Kingdom",
+    "postcode": "WG5 6GS",
     "coordinates": {
-      "latitude": "9.7355",
-      "longitude": "51.5255"
+      "latitude": "-12.7001",
+      "longitude": "121.8238"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "shubha.adiga@example.com",
+  "email": "erin.davies@example.com",
   "login": {
-    "uuid": "c0735af7-3a97-4a9c-8d2e-3d0e94f24aff",
-    "username": "tinydog849",
-    "password": "beezer",
-    "salt": "NKBOKXF2",
-    "md5": "b6c63427a81c109142101abf73ecf4c1",
-    "sha1": "d52a79b9f6a7716896cc38158c5304d72dabb09d",
-    "sha256": "6d2d316b04cdae93af3e6a9ef84f0fed94e4d35eb4033244342914b4ced55319"
+    "uuid": "53d38124-68fd-438f-b1f2-dd17c7be9055",
+    "username": "blueswan858",
+    "password": "voyeur",
+    "salt": "G72oI98g",
+    "md5": "9ea8697780c553039ee785774ac83f71",
+    "sha1": "e987b6f3c435d813d2a44e8e5e54162b0587d620",
+    "sha256": "2834aab1e3bc6aabcecf182a027dca64603e0d35b5a4bb1270aed4a32cc926b4"
   },
   "dob": {
-    "date": "1947-08-25T15:02:21.853Z",
-    "age": 77
+    "date": "1950-02-08T07:34:28.234Z",
+    "age": 75
   },
   "registered": {
-    "date": "2020-06-20T12:45:02.126Z",
-    "age": 4
+    "date": "2011-11-08T14:51:55.352Z",
+    "age": 13
   },
-  "phone": "7912699806",
-  "cell": "7100879532",
+  "phone": "017683 07264",
+  "cell": "07152 951001",
   "id": {
-    "name": "UIDAI",
-    "value": "801985301963"
+    "name": "NINO",
+    "value": "YB 61 84 83 S"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/56.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+    "large": "https://randomuser.me/api/portraits/women/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
   },
-  "nat": "IN"
+  "nat": "GB"
 }

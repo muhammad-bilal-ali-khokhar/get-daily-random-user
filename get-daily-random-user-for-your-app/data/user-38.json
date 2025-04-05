@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Saisha",
-    "last": "Dsouza"
+    "title": "Mr",
+    "first": "Glen",
+    "last": "Douglas"
   },
   "location": {
     "street": {
-      "number": 7567,
-      "name": "NAD X Rd"
+      "number": 9252,
+      "name": "Walnut Hill Ln"
     },
-    "city": "Bathinda",
-    "state": "Daman and Diu",
-    "country": "India",
-    "postcode": 84590,
+    "city": "Ballarat",
+    "state": "New South Wales",
+    "country": "Australia",
+    "postcode": 5082,
     "coordinates": {
-      "latitude": "12.2764",
-      "longitude": "104.8993"
+      "latitude": "-88.3898",
+      "longitude": "-86.5331"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "saisha.dsouza@example.com",
+  "email": "glen.douglas@example.com",
   "login": {
-    "uuid": "a439c913-dd90-47fe-a33f-e31ecf4d7ed2",
-    "username": "whiteswan300",
-    "password": "cafc91",
-    "salt": "1KcE773m",
-    "md5": "89df7a4331ce597ac93e92c9250aa415",
-    "sha1": "cc670d2f9b2ccc2ab82e039721f869ed96f7a1b3",
-    "sha256": "cf2898636b03bcc4075c6bc317a3af0fb02fde7135b11d51608072b51a846acd"
+    "uuid": "630ee139-e9c0-47ee-892a-a611f657e3e6",
+    "username": "blackostrich679",
+    "password": "mizuno",
+    "salt": "7KXdB55s",
+    "md5": "31ac8a10f4687bf5eb4205a1203e9c37",
+    "sha1": "e9087a2ef96834d41cb967f0cde9f243fd32ccaa",
+    "sha256": "008281d4b5d8efcecb00b58a8b80fae0bde698e2f7c66eee25b0f2495942a12b"
   },
   "dob": {
-    "date": "1950-10-14T02:22:51.670Z",
-    "age": 74
+    "date": "1966-02-18T06:06:24.406Z",
+    "age": 59
   },
   "registered": {
-    "date": "2020-05-26T07:27:10.433Z",
-    "age": 4
+    "date": "2004-07-03T12:29:34.574Z",
+    "age": 20
   },
-  "phone": "9284881772",
-  "cell": "8161319275",
+  "phone": "09-4348-2942",
+  "cell": "0454-138-101",
   "id": {
-    "name": "UIDAI",
-    "value": "501399141180"
+    "name": "TFN",
+    "value": "000108856"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/76.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+    "large": "https://randomuser.me/api/portraits/men/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
   },
-  "nat": "IN"
+  "nat": "AU"
 }

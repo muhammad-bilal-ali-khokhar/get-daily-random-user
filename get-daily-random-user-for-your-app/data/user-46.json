@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Malo",
-    "last": "Durand"
+    "first": "Charles",
+    "last": "Chow"
   },
   "location": {
     "street": {
-      "number": 5978,
-      "name": "Rue Paul Bert"
+      "number": 5759,
+      "name": "Disputed Rd"
     },
-    "city": "Fort-de-France",
-    "state": "Bouches-du-Rhône",
-    "country": "France",
-    "postcode": 82629,
+    "city": "Cadillac",
+    "state": "British Columbia",
+    "country": "Canada",
+    "postcode": "N2Q 5T7",
     "coordinates": {
-      "latitude": "-21.2892",
-      "longitude": "-27.2164"
+      "latitude": "-68.6074",
+      "longitude": "-45.0096"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "malo.durand@example.com",
+  "email": "charles.chow@example.com",
   "login": {
-    "uuid": "9489f52c-7854-475b-bf50-3d66726abaa4",
-    "username": "greenbird293",
-    "password": "xmas",
-    "salt": "DFvqExUp",
-    "md5": "bf3e93d8f65f0fc74ed458fec857ef55",
-    "sha1": "f4466a30507716857885fd379f701acabd70a4c8",
-    "sha256": "01354bf2c56c735fee1ed1393090e52519ddbbb2824498c0257971668f976b00"
+    "uuid": "33f9611f-4fd1-4f8a-98a0-e2933879f8b5",
+    "username": "purplebear902",
+    "password": "lucky7",
+    "salt": "s0Yf7IPL",
+    "md5": "31baa92960656c5e4da6d659a3bba600",
+    "sha1": "8632a5a348256865f2a56817852144f2abde4908",
+    "sha256": "122e16d4fcc288868bc58df962b998ced6a76209b373efd44238cbb9c9595533"
   },
   "dob": {
-    "date": "1993-08-18T00:08:27.813Z",
-    "age": 31
+    "date": "1954-05-19T21:07:31.300Z",
+    "age": 70
   },
   "registered": {
-    "date": "2010-05-15T13:35:07.464Z",
-    "age": 14
+    "date": "2013-09-09T19:50:02.411Z",
+    "age": 11
   },
-  "phone": "03-14-67-66-27",
-  "cell": "06-25-03-16-18",
+  "phone": "F54 Q95-7313",
+  "cell": "O65 B23-2369",
   "id": {
-    "name": "INSEE",
-    "value": "1930764296836 66"
+    "name": "SIN",
+    "value": "049094238"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/40.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+    "large": "https://randomuser.me/api/portraits/men/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
   },
-  "nat": "FR"
+  "nat": "CA"
 }

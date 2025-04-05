@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Diane",
-    "last": "Hansen"
+    "title": "Mr",
+    "first": "Miroslav",
+    "last": "Obradović"
   },
   "location": {
     "street": {
-      "number": 3501,
-      "name": "Manor Road"
+      "number": 3210,
+      "name": "Vašarska"
     },
-    "city": "Thurles",
-    "state": "Offaly",
-    "country": "Ireland",
-    "postcode": 10323,
+    "city": "Tutin",
+    "state": "Mačva",
+    "country": "Serbia",
+    "postcode": 90006,
     "coordinates": {
-      "latitude": "-0.3592",
-      "longitude": "17.8476"
+      "latitude": "59.6436",
+      "longitude": "-78.2255"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "diane.hansen@example.com",
+  "email": "miroslav.obradovic@example.com",
   "login": {
-    "uuid": "456b56eb-0574-4487-8625-9e38910f55c8",
-    "username": "goldenmeercat931",
-    "password": "buffalo",
-    "salt": "tCrrHEbA",
-    "md5": "8556eaa3245fe92bf78701eee76c213b",
-    "sha1": "76947eb1bd140abd6f6ccca851a37d125438606a",
-    "sha256": "7537617885de2a0c22c88e861da28044d6265218a74e7d5bc2d62ecdf9cd6628"
+    "uuid": "87b5ed4e-fb31-4259-85fb-bc2bcea1d253",
+    "username": "whitepeacock769",
+    "password": "enjoy",
+    "salt": "9SogkuJI",
+    "md5": "c35e88fa4f483463747f42c5be119a7c",
+    "sha1": "dbca3d5383d7efa51b3bbbda49760b4795637608",
+    "sha256": "93b521f7ee0970f84f0a67c7c2ba8aef9f6b53e8b4a0c72ad75d7738c96ba036"
   },
   "dob": {
-    "date": "1957-11-26T20:27:25.518Z",
-    "age": 67
+    "date": "1988-06-29T09:29:08.436Z",
+    "age": 36
   },
   "registered": {
-    "date": "2013-07-08T10:11:08.237Z",
-    "age": 11
+    "date": "2004-11-13T09:57:07.546Z",
+    "age": 20
   },
-  "phone": "011-093-3758",
-  "cell": "081-389-7910",
+  "phone": "038-6081-324",
+  "cell": "068-9242-892",
   "id": {
-    "name": "PPS",
-    "value": "6850802T"
+    "name": "SID",
+    "value": "102496802"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/56.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+    "large": "https://randomuser.me/api/portraits/men/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
   },
-  "nat": "IE"
+  "nat": "RS"
 }

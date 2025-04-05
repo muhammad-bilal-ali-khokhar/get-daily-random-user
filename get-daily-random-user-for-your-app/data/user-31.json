@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Milovan",
-    "last": "Peković"
+    "first": "Cvitan",
+    "last": "Sokulskiy"
   },
   "location": {
     "street": {
-      "number": 4728,
-      "name": "Svetislava Milića"
+      "number": 2775,
+      "name": "Ploshcha Vizvolennya"
     },
-    "city": "Kanjiža",
-    "state": "Peć",
-    "country": "Serbia",
-    "postcode": 55674,
+    "city": "Borzna",
+    "state": "Dnipropetrovska",
+    "country": "Ukraine",
+    "postcode": 29684,
     "coordinates": {
-      "latitude": "63.6628",
-      "longitude": "-5.1608"
+      "latitude": "73.3419",
+      "longitude": "-82.9204"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "milovan.pekovic@example.com",
+  "email": "cvitan.sokulskiy@example.com",
   "login": {
-    "uuid": "8827d478-ec11-4e7e-a916-216cb13c4ac8",
-    "username": "biggorilla248",
-    "password": "maynard",
-    "salt": "6Ugh6E6i",
-    "md5": "1fa48ab405481133f5ecbb547a19628a",
-    "sha1": "48953e6d3e65b5637d03202353531b0625202705",
-    "sha256": "7f067adb993ed54f3721eb7f97aab598f160b888faf2375a10a7f5f9b4bab3ed"
+    "uuid": "fc342123-f7eb-4483-adf7-6d4b8664c537",
+    "username": "yellowladybug478",
+    "password": "sunfire",
+    "salt": "0C6RsGnM",
+    "md5": "97c4f559a317c5f1df1df07f2e6cff27",
+    "sha1": "6fa3839a10c317c97046f4adb6efec9fb91da94e",
+    "sha256": "eea2da8fe025c138cd4a0a39685ba5d3ce4e26a561983f139b9808a303190413"
   },
   "dob": {
-    "date": "1948-11-12T07:36:25.335Z",
-    "age": 76
+    "date": "1990-12-17T09:33:26.319Z",
+    "age": 34
   },
   "registered": {
-    "date": "2010-07-07T03:41:33.400Z",
-    "age": 14
+    "date": "2008-03-26T02:38:49.397Z",
+    "age": 17
   },
-  "phone": "031-2726-757",
-  "cell": "067-8857-590",
+  "phone": "(096) K42-7324",
+  "cell": "(068) B41-3474",
   "id": {
-    "name": "SID",
-    "value": "904598387"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/75.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
   },
-  "nat": "RS"
+  "nat": "UA"
 }

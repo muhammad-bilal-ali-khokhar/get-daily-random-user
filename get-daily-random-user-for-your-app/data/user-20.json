@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Álvaro",
-    "last": "Castro"
+    "first": "Ümit",
+    "last": "Erdoğan"
   },
   "location": {
     "street": {
-      "number": 7611,
-      "name": "Calle del Arenal"
+      "number": 7168,
+      "name": "Fatih Sultan Mehmet Cd"
     },
-    "city": "Jerez de la Frontera",
-    "state": "Islas Baleares",
-    "country": "Spain",
-    "postcode": 18155,
+    "city": "Mardin",
+    "state": "Çorum",
+    "country": "Turkey",
+    "postcode": 62200,
     "coordinates": {
-      "latitude": "-37.7236",
-      "longitude": "-156.9680"
+      "latitude": "70.6591",
+      "longitude": "-42.4118"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "alvaro.castro@example.com",
+  "email": "umit.erdogan@example.com",
   "login": {
-    "uuid": "12dcb6b1-1579-4629-9721-a14683150156",
-    "username": "blackbutterfly703",
-    "password": "jakejake",
-    "salt": "huCLzkKv",
-    "md5": "628c3e0d9fdfd3912a383c606de11b0c",
-    "sha1": "2e397a6f63f703c9c82296b9b28abefedd09710e",
-    "sha256": "519bbc23745bc9f0a148722226c84abfe622c14d528cebe942beaba6e394200d"
+    "uuid": "f5bbc939-1f25-41da-b574-b40b46bdf6c0",
+    "username": "heavyelephant726",
+    "password": "dudley",
+    "salt": "e0htd2Qn",
+    "md5": "9e674e89e22450af6dccb62ae81409e5",
+    "sha1": "a429c545525dfd0b8effc47edd68703c1d418f55",
+    "sha256": "d0ac4a40e9e950e8b886402b5f79f94f5565a7a89f35ae6d7cb1e04084f3b339"
   },
   "dob": {
-    "date": "1951-09-06T21:25:36.238Z",
-    "age": 73
+    "date": "1959-04-25T16:30:02.513Z",
+    "age": 65
   },
   "registered": {
-    "date": "2008-07-06T03:19:41.833Z",
-    "age": 16
+    "date": "2003-03-24T13:47:06.031Z",
+    "age": 22
   },
-  "phone": "952-130-134",
-  "cell": "692-863-904",
+  "phone": "(347)-893-7018",
+  "cell": "(376)-269-9005",
   "id": {
-    "name": "DNI",
-    "value": "51127920-C"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    "large": "https://randomuser.me/api/portraits/men/69.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/69.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/69.jpg"
   },
-  "nat": "ES"
+  "nat": "TR"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Derek",
-    "last": "Russell"
+    "first": "Ignacio",
+    "last": "Arce"
   },
   "location": {
     "street": {
-      "number": 3866,
-      "name": "Spring St"
+      "number": 598,
+      "name": "Continuación Yucatán"
     },
-    "city": "Santa Rosa",
-    "state": "Illinois",
-    "country": "United States",
-    "postcode": 81926,
+    "city": "Necaxa",
+    "state": "Ciudad de Mexico",
+    "country": "Mexico",
+    "postcode": 84154,
     "coordinates": {
-      "latitude": "82.9517",
-      "longitude": "-145.4790"
+      "latitude": "27.1099",
+      "longitude": "-150.8341"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "derek.russell@example.com",
+  "email": "ignacio.arce@example.com",
   "login": {
-    "uuid": "3ce6cc4c-67b8-4700-8546-8039e2b07f39",
-    "username": "brownkoala604",
-    "password": "florence",
-    "salt": "AERHDbcV",
-    "md5": "2757e155e629759a7177371add2e1b04",
-    "sha1": "42e0c8a915a87cc4720b7c472c5283975f56883a",
-    "sha256": "a6a45a2de39b6ccbe9ffee96163cb3dd64e6354b7178a38e75e2f1d7fd132b57"
+    "uuid": "6080783d-f43c-42a4-af09-38f9b5cf9ae9",
+    "username": "angrymouse310",
+    "password": "wayne1",
+    "salt": "8roUjOs4",
+    "md5": "15b4b055b93c5c75425b9a63c0dd079f",
+    "sha1": "edba759ffe1838c491af389c1ee6e7e07c68fddb",
+    "sha256": "2a9eb4d3ae5efb34d850b82af6faa9edaee63ca362fbdfd5da1dbf993f9455c7"
   },
   "dob": {
-    "date": "1948-01-19T10:21:18.612Z",
-    "age": 77
+    "date": "1973-11-18T04:06:41.118Z",
+    "age": 51
   },
   "registered": {
-    "date": "2006-06-26T08:20:41.955Z",
-    "age": 18
+    "date": "2022-01-08T11:38:17.422Z",
+    "age": 3
   },
-  "phone": "(916) 249-2582",
-  "cell": "(208) 219-1439",
+  "phone": "(663) 796 6955",
+  "cell": "(635) 109 1051",
   "id": {
-    "name": "SSN",
-    "value": "760-24-7704"
+    "name": "NSS",
+    "value": "07 38 95 4475 5"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
   },
-  "nat": "US"
+  "nat": "MX"
 }

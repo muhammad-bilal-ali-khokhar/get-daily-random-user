@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Corey",
-    "last": "Gordon"
+    "first": "May",
+    "last": "Roslavec"
   },
   "location": {
     "street": {
-      "number": 4230,
-      "name": "West Street"
+      "number": 6985,
+      "name": "Movchanivskiy v'yizd"
     },
-    "city": "Navan",
-    "state": "Longford",
-    "country": "Ireland",
-    "postcode": 16156,
+    "city": "Putivl",
+    "state": "Avtonomna Respublika Krim",
+    "country": "Ukraine",
+    "postcode": 15800,
     "coordinates": {
-      "latitude": "-2.6816",
-      "longitude": "-113.4644"
+      "latitude": "75.8251",
+      "longitude": "-33.1020"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "corey.gordon@example.com",
+  "email": "may.roslavec@example.com",
   "login": {
-    "uuid": "3526eb91-c3aa-4b19-8bc6-c2326cb51f29",
-    "username": "smallgorilla807",
-    "password": "qwerty",
-    "salt": "WmPPTgLb",
-    "md5": "3ea35c2d4b399964c2273e2eb36ebfa9",
-    "sha1": "6ac08d561cfd9eea47b9da19685dc3c0a66b05f3",
-    "sha256": "84da913157bfe8e8b6902343283f61f17f32420b2c905074af38732caa53d988"
+    "uuid": "8beb9b01-78dd-43cc-9fa4-b6c99dae6cec",
+    "username": "purplefish762",
+    "password": "volcano",
+    "salt": "BG12nWWh",
+    "md5": "2c64ade060e0aab0b76b5b019c57d0e3",
+    "sha1": "ad0dca427b60e05d0c30e3cddcdcc572fe45a750",
+    "sha256": "6d1bd287d087a7db030df025ef667df4c65b13024baa12abdd0464a3a77928f8"
   },
   "dob": {
-    "date": "1954-03-28T10:11:01.415Z",
-    "age": 71
+    "date": "1969-06-13T15:40:03.276Z",
+    "age": 55
   },
   "registered": {
-    "date": "2006-12-20T05:13:40.761Z",
-    "age": 18
+    "date": "2018-01-30T14:39:50.448Z",
+    "age": 7
   },
-  "phone": "031-763-0916",
-  "cell": "081-352-1239",
+  "phone": "(097) V69-3788",
+  "cell": "(098) T43-2194",
   "id": {
-    "name": "PPS",
-    "value": "7911714T"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
   },
-  "nat": "IE"
+  "nat": "UA"
 }

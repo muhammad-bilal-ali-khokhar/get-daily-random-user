@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Naveen",
-    "last": "Bharanya"
+    "first": "Miroslav",
+    "last": "Stepaniv"
   },
   "location": {
     "street": {
-      "number": 1563,
-      "name": "Bandstand Promenade"
+      "number": 4859,
+      "name": "Bagaliya"
     },
-    "city": "Panchkula",
-    "state": "Goa",
-    "country": "India",
-    "postcode": 16864,
+    "city": "Izyaslav",
+    "state": "Avtonomna Respublika Krim",
+    "country": "Ukraine",
+    "postcode": 36082,
     "coordinates": {
-      "latitude": "8.5785",
-      "longitude": "-99.8827"
+      "latitude": "78.6382",
+      "longitude": "-166.6486"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "naveen.bharanya@example.com",
+  "email": "miroslav.stepaniv@example.com",
   "login": {
-    "uuid": "a2e20b41-bb3b-4ab0-821b-000bd8593a12",
-    "username": "beautifulpeacock156",
-    "password": "birdman",
-    "salt": "SSnQOSdX",
-    "md5": "286af6c72147b440099447fa34963f5a",
-    "sha1": "750cb8c7f4701ff05f59215c09cbc2d88ec985e5",
-    "sha256": "70ad01e4e338d04fdf3dad3e4656ce7a29b8b06cad7edc7a54c7bc615fface78"
+    "uuid": "9c070504-6a3e-4471-9423-81f5e90d2dbd",
+    "username": "blueduck580",
+    "password": "derf",
+    "salt": "yQn5rEfx",
+    "md5": "1b8a0bb1bd5825557d00ed42c57333f8",
+    "sha1": "4b7d50e8c9d74526ad0d534a1f88287c3efbd70d",
+    "sha256": "367225f9fdedc287ae0210f9de5bd46f1a216ad5a441f207396c368f2088e93f"
   },
   "dob": {
-    "date": "1946-09-22T15:22:50.625Z",
-    "age": 78
+    "date": "1949-12-05T16:21:03.783Z",
+    "age": 75
   },
   "registered": {
-    "date": "2002-07-10T22:35:12.376Z",
-    "age": 22
+    "date": "2021-04-14T11:02:39.185Z",
+    "age": 3
   },
-  "phone": "9535261175",
-  "cell": "9149285964",
+  "phone": "(099) P08-1878",
+  "cell": "(097) T98-5072",
   "id": {
-    "name": "UIDAI",
-    "value": "507357474090"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "IN"
+  "nat": "UA"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Simon",
-    "last": "Patel"
+    "first": "Cliff",
+    "last": "Van Iperen"
   },
   "location": {
     "street": {
-      "number": 6619,
-      "name": "15th St"
+      "number": 344,
+      "name": "Brunholdplaats"
     },
-    "city": "Dorchester",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "E0X 4V8",
+    "city": "Galder",
+    "state": "Zuid-Holland",
+    "country": "Netherlands",
+    "postcode": "8145 AT",
     "coordinates": {
-      "latitude": "-67.0694",
-      "longitude": "-5.8390"
+      "latitude": "34.1056",
+      "longitude": "-19.5117"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "simon.patel@example.com",
+  "email": "cliff.vaniperen@example.com",
   "login": {
-    "uuid": "dbea0423-8d89-4c38-a19c-d1c5d798de11",
-    "username": "purplerabbit871",
-    "password": "alone",
-    "salt": "I1FLXmIP",
-    "md5": "e4809042ed9c82478bef807307bf5504",
-    "sha1": "4d7356e2ce05f3273e5dee9360526916c0907e6e",
-    "sha256": "2c55fa4d2b8e4518b2729e21ce8f403fa095c3521fa1dc3a12629eeaea00a54d"
+    "uuid": "2d3034fd-6590-4d2d-b1ef-e341b5cc192f",
+    "username": "tinyzebra887",
+    "password": "awnyce",
+    "salt": "xuLa2j1R",
+    "md5": "079f5207f4322e935b1722d9bd89d763",
+    "sha1": "80f4eabf458cde5ba6ea9963e9de6629d81ea47a",
+    "sha256": "7988f581d93b9b6cb825ec78852e17722160ba077e51e31c978ed85072dc01ed"
   },
   "dob": {
-    "date": "1948-04-07T21:21:45.193Z",
-    "age": 76
+    "date": "1957-12-15T08:07:15.030Z",
+    "age": 67
   },
   "registered": {
-    "date": "2017-09-07T16:21:14.496Z",
-    "age": 7
+    "date": "2008-05-23T10:47:30.184Z",
+    "age": 16
   },
-  "phone": "W45 O88-0052",
-  "cell": "S46 Z49-0258",
+  "phone": "(0070) 983304",
+  "cell": "(06) 12048079",
   "id": {
-    "name": "SIN",
-    "value": "927143586"
+    "name": "BSN",
+    "value": "37417483"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
   },
-  "nat": "CA"
+  "nat": "NL"
 }

@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Larisa",
-    "last": "Lyushnyak"
+    "first": "Krisha",
+    "last": "Das"
   },
   "location": {
     "street": {
-      "number": 4171,
-      "name": "Romena Rollana"
+      "number": 7990,
+      "name": "Lindsay St"
     },
-    "city": "Kiliya",
-    "state": "Rivnenska",
-    "country": "Ukraine",
-    "postcode": 91251,
+    "city": "Kolkata",
+    "state": "Punjab",
+    "country": "India",
+    "postcode": 58926,
     "coordinates": {
-      "latitude": "78.7874",
-      "longitude": "60.2898"
+      "latitude": "5.7866",
+      "longitude": "159.6669"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "larisa.lyushnyak@example.com",
+  "email": "krisha.das@example.com",
   "login": {
-    "uuid": "688d6c6a-e199-447a-9ab6-6ecc3719a984",
-    "username": "happygorilla898",
-    "password": "redleg",
-    "salt": "eKLsCPfP",
-    "md5": "f4d96d394cb8ed0468361fd01920ce27",
-    "sha1": "9ae12741c236ae8444117fba3b2dd01ac2771edd",
-    "sha256": "c32489b67357455065a4f9d369b510fed55cf34fa21306ad96af4883725af3de"
+    "uuid": "537fc78c-8349-4f6a-8e88-be35f67b6b6a",
+    "username": "orangepanda888",
+    "password": "lakers",
+    "salt": "lrK0xOU4",
+    "md5": "256410bb1a1a55843109ffecd479d9c3",
+    "sha1": "98c62221bc8fcb4a6f8aff9ce6b3e9f71fe0f060",
+    "sha256": "329e26bf4b9a68932699457a921a87cdf81100b06ea77a92488d4d5b60433796"
   },
   "dob": {
-    "date": "1990-05-30T10:31:57.333Z",
-    "age": 34
+    "date": "1958-01-23T01:45:38.611Z",
+    "age": 67
   },
   "registered": {
-    "date": "2018-07-24T03:10:40.107Z",
-    "age": 6
+    "date": "2009-02-04T01:14:34.449Z",
+    "age": 16
   },
-  "phone": "(096) C56-6523",
-  "cell": "(068) N30-3051",
+  "phone": "8474736911",
+  "cell": "7610983548",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "113457590818"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/22.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+    "large": "https://randomuser.me/api/portraits/women/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
   },
-  "nat": "UA"
+  "nat": "IN"
 }

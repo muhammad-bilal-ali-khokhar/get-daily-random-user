@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Adela",
-    "last": "Rodríquez"
+    "title": "Mr",
+    "first": "Larry",
+    "last": "Mason"
   },
   "location": {
     "street": {
-      "number": 5509,
-      "name": "Privada Olmos"
+      "number": 6014,
+      "name": "Spring St"
     },
-    "city": "Zapopan",
-    "state": "Estado de Mexico",
-    "country": "Mexico",
-    "postcode": 75767,
+    "city": "Milwaukee",
+    "state": "New Jersey",
+    "country": "United States",
+    "postcode": 10811,
     "coordinates": {
-      "latitude": "26.2357",
-      "longitude": "117.2150"
+      "latitude": "84.4387",
+      "longitude": "-9.4952"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "adela.rodriquez@example.com",
+  "email": "larry.mason@example.com",
   "login": {
-    "uuid": "0ca18df5-bf58-4958-8926-03b0b3f9a83d",
-    "username": "happybear313",
-    "password": "beatles",
-    "salt": "8uHMvIIK",
-    "md5": "52e9a49590a460104159bbbe99d72267",
-    "sha1": "ffeb38a3cd0e2c1f65c9e46a80adb59a3b9fb812",
-    "sha256": "2308b2babc0b95ce8feaa0d82d5c80165444a6c75d734e3238406d37396f7ab9"
+    "uuid": "98b9c890-5afd-46c3-bc1d-537e428ff29c",
+    "username": "bigsnake433",
+    "password": "rugger",
+    "salt": "tN9ZyUom",
+    "md5": "b60e990410fa9a3b9ff8c3bac1f0aeb1",
+    "sha1": "6b8bc66a663231e6fa26308c68f01322e29878bc",
+    "sha256": "de6472ce79a3019461470bae058bfb5447cc8edda50615c5fc5475fa498a5af1"
   },
   "dob": {
-    "date": "1984-08-23T07:29:16.019Z",
-    "age": 40
+    "date": "1955-09-11T10:37:24.991Z",
+    "age": 69
   },
   "registered": {
-    "date": "2003-04-15T09:24:59.136Z",
-    "age": 21
+    "date": "2012-02-11T17:44:15.288Z",
+    "age": 13
   },
-  "phone": "(629) 565 2833",
-  "cell": "(604) 178 4000",
+  "phone": "(415) 991-5799",
+  "cell": "(644) 704-8375",
   "id": {
-    "name": "NSS",
-    "value": "70 90 46 1296 6"
+    "name": "SSN",
+    "value": "482-61-8912"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+    "large": "https://randomuser.me/api/portraits/men/90.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
   },
-  "nat": "MX"
+  "nat": "US"
 }

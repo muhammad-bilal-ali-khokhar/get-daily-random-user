@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Jasmine",
-    "last": "Roy"
+    "title": "Mr",
+    "first": "Gene",
+    "last": "Jenkins"
   },
   "location": {
     "street": {
-      "number": 9742,
-      "name": "Vimy St"
+      "number": 8347,
+      "name": "Springfield Road"
     },
-    "city": "Tecumseh",
-    "state": "Alberta",
-    "country": "Canada",
-    "postcode": "R8I 2L2",
+    "city": "Birr",
+    "state": "Dún Laoghaire–Rathdown",
+    "country": "Ireland",
+    "postcode": 73242,
     "coordinates": {
-      "latitude": "-67.0653",
-      "longitude": "162.5005"
+      "latitude": "-3.0840",
+      "longitude": "-8.7235"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "jasmine.roy@example.com",
+  "email": "gene.jenkins@example.com",
   "login": {
-    "uuid": "9cd6fee1-d27c-425c-872b-fe53dca0cf8d",
-    "username": "sadwolf916",
-    "password": "buckeye",
-    "salt": "hEVjwXbC",
-    "md5": "8cd50276cf7d97d0ee9f9af3587922f1",
-    "sha1": "a7397dad2281f51dbb3e9cf3b386727eb4c11894",
-    "sha256": "c083f0bb262d9f7358b67015911b7e46cc1f5445f28e32446a7d1f285b5420a0"
+    "uuid": "57edc13b-2d7a-4c84-bf65-5b88b756f89f",
+    "username": "greenfrog421",
+    "password": "wareagle",
+    "salt": "kYEOUItm",
+    "md5": "e0d2a0967dcebc659d6a229196f9effb",
+    "sha1": "af8b1fc2c9f8842897464b9e29c2a283170432e6",
+    "sha256": "7cf9f4a9d9f4a89c9b40e66d37b1c11563768f4f3d5d392d93e147dc913298e4"
   },
   "dob": {
-    "date": "1963-12-16T18:57:37.535Z",
-    "age": 61
+    "date": "1986-08-23T12:58:19.704Z",
+    "age": 38
   },
   "registered": {
-    "date": "2006-09-28T23:02:32.516Z",
-    "age": 18
+    "date": "2013-07-05T00:39:16.742Z",
+    "age": 11
   },
-  "phone": "T60 T95-8354",
-  "cell": "J41 F15-6958",
+  "phone": "061-434-9559",
+  "cell": "081-737-3310",
   "id": {
-    "name": "SIN",
-    "value": "651121576"
+    "name": "PPS",
+    "value": "0898826T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/82.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    "large": "https://randomuser.me/api/portraits/men/53.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
   },
-  "nat": "CA"
+  "nat": "IE"
 }

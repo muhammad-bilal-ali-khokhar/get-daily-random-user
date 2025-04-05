@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Filicata",
-    "last": "Ivano"
+    "title": "Mr",
+    "first": "German",
+    "last": "Peña"
   },
   "location": {
     "street": {
-      "number": 9999,
-      "name": "Bankova"
+      "number": 3190,
+      "name": "Avenida de América"
     },
-    "city": "Chortkiv",
-    "state": "Harkivska",
-    "country": "Ukraine",
-    "postcode": 44592,
+    "city": "Alicante",
+    "state": "Cataluña",
+    "country": "Spain",
+    "postcode": 33701,
     "coordinates": {
-      "latitude": "74.5049",
-      "longitude": "176.1854"
+      "latitude": "-37.1399",
+      "longitude": "-154.8376"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "filicata.ivano@example.com",
+  "email": "german.pena@example.com",
   "login": {
-    "uuid": "e5c2f0fd-6a8d-42a5-ad8a-61ee5fdf0988",
-    "username": "redkoala165",
-    "password": "lucas",
-    "salt": "OG2kQwPZ",
-    "md5": "bfd934ac38da95645d9345c4ef85703d",
-    "sha1": "7d73b37966fe128639ecb0bbfbbe2176d08b4012",
-    "sha256": "e0c831eae8c1281451fd552805a3e53c81b00682a788e70c788ac8f4640cb332"
+    "uuid": "6b050064-6ad1-492c-bc0b-833bc8be151a",
+    "username": "angrypanda572",
+    "password": "shop",
+    "salt": "yMYfLiVm",
+    "md5": "7f123d6426077bc0c80452db0b27cfd5",
+    "sha1": "d69a830ed9aa5fadbef9290c5380dea6d2950d16",
+    "sha256": "7b9813c8107339d7759044193a202874b5e49548c338c63a89e157a9c2ef5c03"
   },
   "dob": {
-    "date": "1995-01-17T07:36:24.502Z",
-    "age": 30
+    "date": "1955-06-08T03:11:46.506Z",
+    "age": 69
   },
   "registered": {
-    "date": "2020-05-24T15:19:56.532Z",
-    "age": 4
+    "date": "2006-11-16T23:54:14.417Z",
+    "age": 18
   },
-  "phone": "(099) W90-5554",
-  "cell": "(068) K71-0840",
+  "phone": "975-690-306",
+  "cell": "612-276-534",
   "id": {
-    "name": "",
-    "value": null
+    "name": "DNI",
+    "value": "04845930-W"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/35.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
   },
-  "nat": "UA"
+  "nat": "ES"
 }
