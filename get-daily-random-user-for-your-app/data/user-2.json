@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Farhiya",
-    "last": "Brandse"
+    "title": "Mr",
+    "first": "Cory",
+    "last": "Rodriguez"
   },
   "location": {
     "street": {
-      "number": 9503,
-      "name": "Gezelweg"
+      "number": 8109,
+      "name": "Main Street"
     },
-    "city": "Lathum",
-    "state": "Zeeland",
-    "country": "Netherlands",
-    "postcode": "5394 KD",
+    "city": "Londonderry",
+    "state": "Northamptonshire",
+    "country": "United Kingdom",
+    "postcode": "JB28 8SH",
     "coordinates": {
-      "latitude": "30.0225",
-      "longitude": "94.7070"
+      "latitude": "-12.8223",
+      "longitude": "-101.6925"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "farhiya.brandse@example.com",
+  "email": "cory.rodriguez@example.com",
   "login": {
-    "uuid": "41e6f97e-9b2b-4e2e-8d03-962afd91c32f",
-    "username": "brownmeercat463",
-    "password": "888888",
-    "salt": "TlU4l6YZ",
-    "md5": "9a51b1dba3b7e17a091024bfddf0f44d",
-    "sha1": "8e3df557becd7751e617c234051983d158071087",
-    "sha256": "e5b4616ed4def89e0f90b7b9339e555ec4108361588935b7eda0318614cf2ca7"
+    "uuid": "3c6c68a5-b738-4fc0-bafd-b8b95c3d0fd2",
+    "username": "yellowswan727",
+    "password": "nevada",
+    "salt": "RElF9Xbn",
+    "md5": "d3b409649c961f574bfdf4a90d7e6911",
+    "sha1": "3dffdee09568270eecb978ae4a25bfffb561f5d2",
+    "sha256": "35f91b2edf66a7e69f7b6fa7f1dbb0987e8538d899f5b89b03502380a3e10371"
   },
   "dob": {
-    "date": "1952-06-20T03:05:12.042Z",
-    "age": 72
+    "date": "1975-06-12T01:24:31.846Z",
+    "age": 49
   },
   "registered": {
-    "date": "2014-11-05T10:48:37.386Z",
-    "age": 10
+    "date": "2016-07-01T18:28:18.097Z",
+    "age": 8
   },
-  "phone": "(085) 1721946",
-  "cell": "(06) 70374778",
+  "phone": "01372 80981",
+  "cell": "07172 037541",
   "id": {
-    "name": "BSN",
-    "value": "06095943"
+    "name": "NINO",
+    "value": "MR 26 45 49 W"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
   },
-  "nat": "NL"
+  "nat": "GB"
 }

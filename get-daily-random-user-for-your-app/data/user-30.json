@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Abigail",
-    "last": "Taylor"
+    "title": "Mr",
+    "first": "Roberto",
+    "last": "Hernández"
   },
   "location": {
     "street": {
-      "number": 3955,
-      "name": "Dalhousie Ave"
+      "number": 3408,
+      "name": "Calle de Atocha"
     },
-    "city": "Windsor",
-    "state": "Prince Edward Island",
-    "country": "Canada",
-    "postcode": "H9C 4R5",
+    "city": "Elche",
+    "state": "Comunidad de Madrid",
+    "country": "Spain",
+    "postcode": 15790,
     "coordinates": {
-      "latitude": "-67.8894",
-      "longitude": "20.9415"
+      "latitude": "-32.6309",
+      "longitude": "-74.9448"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "abigail.taylor@example.com",
+  "email": "roberto.hernandez@example.com",
   "login": {
-    "uuid": "0ec065fb-3cc4-4f42-b9cc-ec1c94a8bc96",
-    "username": "smalltiger789",
-    "password": "samantha",
-    "salt": "XWr0pj8K",
-    "md5": "219176a5a9dd786e1675c7c280ac12ff",
-    "sha1": "3dbea09466ae9e991385ac1a781b8441e5a1a10c",
-    "sha256": "3eef52ae00ccac89654fb2330e087111240a4e01d0089bd88571a81722493aa1"
+    "uuid": "d6f56371-135a-4919-a0f5-335225820247",
+    "username": "yellowfrog324",
+    "password": "1982",
+    "salt": "foxNLhJP",
+    "md5": "14ff9d53edfd1df78280325f25a9c4c4",
+    "sha1": "8d449987df376bbf737b3f4328142b52a875908a",
+    "sha256": "9dca4c162a29a16d6cc7fd40feceae24efdd869019559f8d1db8b53b5d1e919e"
   },
   "dob": {
-    "date": "1949-10-13T10:10:11.011Z",
-    "age": 75
+    "date": "1957-12-12T00:42:11.392Z",
+    "age": 67
   },
   "registered": {
-    "date": "2018-01-09T07:02:28.301Z",
-    "age": 7
+    "date": "2009-08-23T18:26:14.336Z",
+    "age": 15
   },
-  "phone": "H65 S75-3397",
-  "cell": "Q61 Y26-7379",
+  "phone": "913-510-124",
+  "cell": "619-181-078",
   "id": {
-    "name": "SIN",
-    "value": "466285749"
+    "name": "DNI",
+    "value": "12098298-N"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/55.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+    "large": "https://randomuser.me/api/portraits/men/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
   },
-  "nat": "CA"
+  "nat": "ES"
 }

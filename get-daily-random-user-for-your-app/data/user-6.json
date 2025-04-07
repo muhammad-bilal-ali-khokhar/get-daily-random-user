@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Kerttu",
-    "last": "Kallio"
+    "title": "Mr",
+    "first": "Mathew",
+    "last": "Rhodes"
   },
   "location": {
     "street": {
-      "number": 3334,
-      "name": "Hatanpään Valtatie"
+      "number": 3557,
+      "name": "Cherry St"
     },
-    "city": "Lumijoki",
-    "state": "Päijät-Häme",
-    "country": "Finland",
-    "postcode": 15861,
+    "city": "Abilene",
+    "state": "Michigan",
+    "country": "United States",
+    "postcode": 66750,
     "coordinates": {
-      "latitude": "-26.5777",
-      "longitude": "40.0817"
+      "latitude": "82.8965",
+      "longitude": "-95.5345"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "kerttu.kallio@example.com",
+  "email": "mathew.rhodes@example.com",
   "login": {
-    "uuid": "73df5279-1f07-4753-b9a9-07099f1fe6bc",
-    "username": "organicbear512",
-    "password": "nuts",
-    "salt": "9cCDvoRK",
-    "md5": "0568c06ea75656bcb6e514ce5e71259f",
-    "sha1": "e83297bac5e32d831bccd1ef5ce0d07c31058c2c",
-    "sha256": "a2d8656b250251e493d55e675323c6baa061cda79a4e65f7ebe94b13ecff9780"
+    "uuid": "ac85106a-3b01-4c54-ab29-6152c9c187a5",
+    "username": "bluelion473",
+    "password": "rebels",
+    "salt": "nTbeXwrz",
+    "md5": "bfa468a48138d9b8ecdb9899bcd65867",
+    "sha1": "988a616fab43fd4cf2bcc94301a416a543dfef43",
+    "sha256": "c23d2bc40fe2afa16abb6e63f5b5182c6ef8ae5d58f872bcc583f570e1a5f461"
   },
   "dob": {
-    "date": "1948-02-17T04:35:49.866Z",
-    "age": 77
+    "date": "1951-06-24T01:56:30.032Z",
+    "age": 73
   },
   "registered": {
-    "date": "2013-07-28T09:57:09.360Z",
-    "age": 11
+    "date": "2008-08-29T02:41:47.391Z",
+    "age": 16
   },
-  "phone": "09-099-377",
-  "cell": "047-134-73-68",
+  "phone": "(867) 254-6325",
+  "cell": "(846) 731-1734",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA572undefined"
+    "name": "SSN",
+    "value": "570-33-5475"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/55.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+    "large": "https://randomuser.me/api/portraits/men/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
   },
-  "nat": "FI"
+  "nat": "US"
 }

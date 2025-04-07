@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Ayla",
-    "last": "Johnson"
+    "first": "Madeleine",
+    "last": "Løvlien"
   },
   "location": {
     "street": {
-      "number": 8459,
-      "name": "Kaikorai Valley Road"
+      "number": 1459,
+      "name": "Ivan Bjørndals gate"
     },
-    "city": "New Plymouth",
-    "state": "Nelson",
-    "country": "New Zealand",
-    "postcode": 29729,
+    "city": "Sundbyfoss",
+    "state": "Oppland",
+    "country": "Norway",
+    "postcode": "3513",
     "coordinates": {
-      "latitude": "55.0663",
-      "longitude": "64.1874"
+      "latitude": "45.9168",
+      "longitude": "142.6445"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "ayla.johnson@example.com",
+  "email": "madeleine.lovlien@example.com",
   "login": {
-    "uuid": "25c0d697-3d02-4588-9bc8-980f6e034697",
-    "username": "orangemouse586",
-    "password": "runner",
-    "salt": "2cjuFFZT",
-    "md5": "a73802232d917a083629aeb0a80a42a1",
-    "sha1": "5835ff50ecbd24818d2f61cc294eabfee2100652",
-    "sha256": "5a5f37fd5292855bd12331b4c547837eeafd06a0826c16f82c54d6ab09792cdc"
+    "uuid": "98e526c8-26d9-4641-ae09-c278dba21f02",
+    "username": "organicrabbit226",
+    "password": "134679",
+    "salt": "yZLxsfi3",
+    "md5": "4aebd92c460dbc00958ef94f9bcb2f14",
+    "sha1": "0824c199148e704d642558dc6d4ec84647b929d7",
+    "sha256": "77daaf15cb7b0085183a274981eaa8491185a1e6f1554577620d601ee891435c"
   },
   "dob": {
-    "date": "1947-04-06T15:05:27.954Z",
-    "age": 77
+    "date": "1970-11-11T20:05:00.740Z",
+    "age": 54
   },
   "registered": {
-    "date": "2022-02-08T13:39:41.800Z",
-    "age": 3
+    "date": "2012-06-29T10:19:44.476Z",
+    "age": 12
   },
-  "phone": "(802)-235-4520",
-  "cell": "(510)-688-0043",
+  "phone": "76119018",
+  "cell": "93212720",
   "id": {
-    "name": "",
-    "value": null
+    "name": "FN",
+    "value": "11117007296"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    "large": "https://randomuser.me/api/portraits/women/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
   },
-  "nat": "NZ"
+  "nat": "NO"
 }

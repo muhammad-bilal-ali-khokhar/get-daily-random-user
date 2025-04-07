@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Darlene",
-    "last": "Anderson"
+    "title": "Mr",
+    "first": "Enrique",
+    "last": "Balderas"
   },
   "location": {
     "street": {
-      "number": 9141,
-      "name": "Walnut Hill Ln"
+      "number": 9988,
+      "name": "Retorno Ceja"
     },
-    "city": "Busselton",
-    "state": "Australian Capital Territory",
-    "country": "Australia",
-    "postcode": 9996,
+    "city": "Xochipala",
+    "state": "Veracruz",
+    "country": "Mexico",
+    "postcode": 62406,
     "coordinates": {
-      "latitude": "-85.4342",
-      "longitude": "71.5170"
+      "latitude": "27.6059",
+      "longitude": "-91.9148"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "darlene.anderson@example.com",
+  "email": "enrique.balderas@example.com",
   "login": {
-    "uuid": "30eaee30-ffe4-4cb2-82b4-c87e254733e3",
-    "username": "crazysnake566",
-    "password": "pitbull",
-    "salt": "74qUSirl",
-    "md5": "a65cc11969a33fef08057f9ceed38857",
-    "sha1": "6611a25fa0c7639e412c6958d8a53ef46f16af61",
-    "sha256": "b774696d942105cf495a53a9f98a010fd90d2cbce06207e54a4d0de61ed4be4a"
+    "uuid": "416fefe9-1bbb-4e75-8089-a16f8f5b28f1",
+    "username": "lazymeercat704",
+    "password": "1994",
+    "salt": "fQRT4Cus",
+    "md5": "5aa7280006b825d24235de7357e8a8da",
+    "sha1": "ab8a300b6cdf02832c07e24bc2c6b71eef4fcd50",
+    "sha256": "7313ab6f0417fae2a840586e1cc820778b58aea76f2b3d2e2b710ab3ba18e244"
   },
   "dob": {
-    "date": "1971-05-22T16:21:07.065Z",
-    "age": 53
+    "date": "1950-01-01T09:57:50.785Z",
+    "age": 75
   },
   "registered": {
-    "date": "2020-03-31T04:46:10.878Z",
-    "age": 5
+    "date": "2010-05-30T01:17:55.543Z",
+    "age": 14
   },
-  "phone": "03-2412-8136",
-  "cell": "0400-233-726",
+  "phone": "(659) 371 5910",
+  "cell": "(637) 124 6428",
   "id": {
-    "name": "TFN",
-    "value": "962985010"
+    "name": "NSS",
+    "value": "98 06 51 9445 8"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
   },
-  "nat": "AU"
+  "nat": "MX"
 }

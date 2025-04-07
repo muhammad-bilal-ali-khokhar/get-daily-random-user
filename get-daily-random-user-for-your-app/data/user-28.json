@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Sofia",
-    "last": "Rose"
+    "title": "Mr",
+    "first": "Onur",
+    "last": "Kavaklıoğlu"
   },
   "location": {
     "street": {
-      "number": 3449,
-      "name": "Dublin Road"
+      "number": 9560,
+      "name": "Bağdat Cd"
     },
-    "city": "Trim",
-    "state": "Sligo",
-    "country": "Ireland",
-    "postcode": 55124,
+    "city": "Zonguldak",
+    "state": "Tokat",
+    "country": "Turkey",
+    "postcode": 60416,
     "coordinates": {
-      "latitude": "3.1143",
-      "longitude": "91.9064"
+      "latitude": "72.3929",
+      "longitude": "-133.1113"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "sofia.rose@example.com",
+  "email": "onur.kavaklioglu@example.com",
   "login": {
-    "uuid": "ecf352ec-8627-4be0-b200-f1175501fa61",
-    "username": "angryzebra197",
-    "password": "373737",
-    "salt": "yiCT4cCi",
-    "md5": "6866f0749b46ff96d52162ca126e46fb",
-    "sha1": "d7ec604c5fa5fd4948d97bbe17ead17c7094c645",
-    "sha256": "32175b9706c00d10413277937d8a22eb76bdad8f4d3b049ffe67626ce298a7cc"
+    "uuid": "d7dfddb8-f596-42b6-8a6d-91f9ba051e7f",
+    "username": "happyswan614",
+    "password": "mutant",
+    "salt": "9wKzhTAI",
+    "md5": "96fe37f747978f1319886857faca4216",
+    "sha1": "e44fcd22ea20ac29a22c5b66400407f0186de8ac",
+    "sha256": "21e9b5b5c8515e5f3accf8c8d8ffc1ebc22d8d9ba5aa523f8dad2e0df7b2e513"
   },
   "dob": {
-    "date": "1950-09-24T05:10:52.304Z",
+    "date": "1951-03-18T12:48:48.899Z",
     "age": 74
   },
   "registered": {
-    "date": "2011-11-05T12:54:23.010Z",
-    "age": 13
+    "date": "2021-11-02T11:36:46.216Z",
+    "age": 3
   },
-  "phone": "031-019-6301",
-  "cell": "081-228-3833",
+  "phone": "(760)-308-4942",
+  "cell": "(772)-994-5853",
   "id": {
-    "name": "PPS",
-    "value": "5748322T"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
   },
-  "nat": "IE"
+  "nat": "TR"
 }

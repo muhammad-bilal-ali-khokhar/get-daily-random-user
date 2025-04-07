@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Arthur",
-    "last": "Claire"
+    "first": "Xu",
+    "last": "Broer"
   },
   "location": {
     "street": {
-      "number": 650,
-      "name": "George St"
+      "number": 1518,
+      "name": "Bredenel"
     },
-    "city": "Flatrock",
-    "state": "Saskatchewan",
-    "country": "Canada",
-    "postcode": "H4W 8E9",
+    "city": "Ulvenhout",
+    "state": "Zeeland",
+    "country": "Netherlands",
+    "postcode": "2012 XG",
     "coordinates": {
-      "latitude": "-64.7653",
-      "longitude": "-143.8416"
+      "latitude": "33.7826",
+      "longitude": "-144.7516"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "arthur.claire@example.com",
+  "email": "xu.broer@example.com",
   "login": {
-    "uuid": "23f175ec-c830-4c34-bc75-0b8b28a6ec2b",
-    "username": "lazyfrog106",
-    "password": "roadrunn",
-    "salt": "WHnbVnqQ",
-    "md5": "1edc6d02f3a3488c439fc0004351c327",
-    "sha1": "57ef3495416a7ae54e593078354eb8c112e38248",
-    "sha256": "bd2a51c073f6daf12df8157c47094e4be8dd450c73c5dea86695a8fa8d9c9d0f"
+    "uuid": "f1223ddd-890f-4c1c-a81a-b2e052622f7a",
+    "username": "bigostrich766",
+    "password": "kong",
+    "salt": "HKd0WgW5",
+    "md5": "6deca9712add5988d5d7db8bef4c2205",
+    "sha1": "0abd65cb554aa26d12ce1d21bb32c6a28bc4bae1",
+    "sha256": "a34127711a494e730d363111ee479d89f9b5b3dbd3b48659e8aca7789f65663c"
   },
   "dob": {
-    "date": "1986-12-12T20:15:10.154Z",
-    "age": 38
+    "date": "1953-12-19T16:21:58.970Z",
+    "age": 71
   },
   "registered": {
-    "date": "2013-07-24T04:39:45.906Z",
-    "age": 11
+    "date": "2019-12-01T04:40:59.649Z",
+    "age": 5
   },
-  "phone": "D56 L87-1725",
-  "cell": "L67 K58-3130",
+  "phone": "(0456) 299734",
+  "cell": "(06) 84816892",
   "id": {
-    "name": "SIN",
-    "value": "712456482"
+    "name": "BSN",
+    "value": "37537732"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/72.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+    "large": "https://randomuser.me/api/portraits/men/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
   },
-  "nat": "CA"
+  "nat": "NL"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Rosil",
-    "last": "Nascimento"
+    "title": "Mrs",
+    "first": "Freja",
+    "last": "Kristensen"
   },
   "location": {
     "street": {
-      "number": 2626,
-      "name": "Rua Três"
+      "number": 7843,
+      "name": "Agnetevej"
     },
-    "city": "Itatiba",
-    "state": "Rio Grande do Sul",
-    "country": "Brazil",
-    "postcode": 84195,
+    "city": "Kongens  Lyngby",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 43280,
     "coordinates": {
-      "latitude": "-78.5785",
-      "longitude": "-136.2043"
+      "latitude": "-40.7635",
+      "longitude": "39.0004"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "rosil.nascimento@example.com",
+  "email": "freja.kristensen@example.com",
   "login": {
-    "uuid": "daf4e6cd-e30d-44a9-b6f0-dc8479a65aa8",
-    "username": "yellowbear886",
-    "password": "hawkeyes",
-    "salt": "5oa2rPM9",
-    "md5": "564425fc5a04e2326298cec1f91e142d",
-    "sha1": "0cd034145fc69bed5a2198ca88a05e6df212cd27",
-    "sha256": "7eb1404868093bb5e9713475e76bb8caea805a7a7192f80f48ab594be69dde87"
+    "uuid": "5675c061-55a6-4bac-a5bf-d7418d40afef",
+    "username": "whiteswan539",
+    "password": "pocket",
+    "salt": "tPASQWyu",
+    "md5": "4296be2ae2187e866960e0f9116ba4da",
+    "sha1": "de5aa372360c3121162d19e431f28a410069b17d",
+    "sha256": "4e6088323d59f0ea1dbfe9707ab916f8e2684684ba8d6ae77451ac2ce45274eb"
   },
   "dob": {
-    "date": "1989-07-21T06:49:26.740Z",
-    "age": 35
+    "date": "1961-10-08T03:51:44.021Z",
+    "age": 63
   },
   "registered": {
-    "date": "2013-04-16T01:52:00.236Z",
-    "age": 11
+    "date": "2003-12-14T02:09:50.402Z",
+    "age": 21
   },
-  "phone": "(46) 6436-6539",
-  "cell": "(90) 5869-1805",
+  "phone": "83069995",
+  "cell": "51928586",
   "id": {
-    "name": "CPF",
-    "value": "835.574.637-45"
+    "name": "CPR",
+    "value": "071061-1832"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/30.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+    "large": "https://randomuser.me/api/portraits/women/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
   },
-  "nat": "BR"
+  "nat": "DK"
 }

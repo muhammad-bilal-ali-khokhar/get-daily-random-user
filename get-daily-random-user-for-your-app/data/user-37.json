@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Tammy",
-    "last": "Nguyen"
+    "title": "Mr",
+    "first": "Felix",
+    "last": "Møller"
   },
   "location": {
     "street": {
-      "number": 2490,
-      "name": "E Center St"
+      "number": 2081,
+      "name": "Bøgevænget"
     },
-    "city": "Addison",
-    "state": "Washington",
-    "country": "United States",
-    "postcode": 93985,
+    "city": "Nørre Sundby",
+    "state": "Hovedstaden",
+    "country": "Denmark",
+    "postcode": 95203,
     "coordinates": {
-      "latitude": "89.2359",
-      "longitude": "14.6785"
+      "latitude": "-41.4885",
+      "longitude": "-170.2225"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "tammy.nguyen@example.com",
+  "email": "felix.moller@example.com",
   "login": {
-    "uuid": "eae1320e-ea00-4e45-8bad-41b486af6630",
-    "username": "ticklishfish200",
-    "password": "nine",
-    "salt": "Pbd6puIU",
-    "md5": "558e4b3f36a2fc259fa9c53a9f81619e",
-    "sha1": "5f5ae4f4e7d1c51e0dd20d8c76285219158bb85d",
-    "sha256": "e04ce2f29a58bdcd60f5555bd37f3496ea8c7dfe7cf7531551b79632c01d5a18"
+    "uuid": "4963195f-8e6b-47c9-972e-8f12e002d4c9",
+    "username": "blackwolf565",
+    "password": "jacques",
+    "salt": "F6yTDWMv",
+    "md5": "a45091356fa13fcc4d50ae8202c1d038",
+    "sha1": "b96aeaeab4bcf8567016bed2a409323ee74ddc10",
+    "sha256": "ccfe24c7dfa021c04a47850e13b6aa80de7ac8f12ca6d2c0bd46a4c0bd0c23bc"
   },
   "dob": {
-    "date": "1985-05-05T17:39:23.673Z",
-    "age": 39
+    "date": "2001-02-27T21:28:33.663Z",
+    "age": 24
   },
   "registered": {
-    "date": "2008-02-06T01:07:44.070Z",
-    "age": 17
+    "date": "2004-03-03T12:27:50.473Z",
+    "age": 21
   },
-  "phone": "(569) 531-0080",
-  "cell": "(749) 930-9652",
+  "phone": "90018276",
+  "cell": "32633141",
   "id": {
-    "name": "SSN",
-    "value": "039-16-5428"
+    "name": "CPR",
+    "value": "2702101-0753"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
   },
-  "nat": "US"
+  "nat": "DK"
 }

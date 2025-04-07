@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Gorimisl",
-    "last": "Melnichuk"
+    "first": "Anthony",
+    "last": "Margaret"
   },
   "location": {
     "street": {
-      "number": 1151,
-      "name": "Nishchinskogo"
+      "number": 6799,
+      "name": "Main St"
     },
-    "city": "Berestechko",
-    "state": "Donecka",
-    "country": "Ukraine",
-    "postcode": 26828,
+    "city": "Stirling",
+    "state": "Ontario",
+    "country": "Canada",
+    "postcode": "B0V 7Q3",
     "coordinates": {
-      "latitude": "79.2508",
-      "longitude": "-57.2943"
+      "latitude": "-70.0404",
+      "longitude": "-33.3043"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "gorimisl.melnichuk@example.com",
+  "email": "anthony.margaret@example.com",
   "login": {
-    "uuid": "49219132-eaaf-44e0-adb0-18bdd688af1a",
-    "username": "sadbear159",
-    "password": "stinks",
-    "salt": "6OQ0r4a3",
-    "md5": "cc2ac75835948b977d3353d487335df3",
-    "sha1": "df557315947f0be64e1f2794009e5c5ec4a65fbf",
-    "sha256": "69ef8328ac02347ee4755473f3c7bdaceb84e45acba1305650a5fa7d8b7ee632"
+    "uuid": "1a2a9da3-9c8b-4be0-8cb1-9fb63990fca8",
+    "username": "silverbutterfly657",
+    "password": "shiner",
+    "salt": "KVIRT4at",
+    "md5": "7b39d45878874430ea3a52cee893e02b",
+    "sha1": "689d23b2799d66059f9fc69c66ba75f155c11d89",
+    "sha256": "51f5204031d6eb1b199fd3ebecab8c93aa997968cddcf66725e72785196dae32"
   },
   "dob": {
-    "date": "1976-03-08T17:01:50.724Z",
-    "age": 49
+    "date": "1998-10-19T06:39:49.617Z",
+    "age": 26
   },
   "registered": {
-    "date": "2016-05-03T17:17:43.857Z",
+    "date": "2016-04-07T18:03:28.100Z",
     "age": 8
   },
-  "phone": "(098) K55-6906",
-  "cell": "(098) J90-7258",
+  "phone": "F55 B97-6566",
+  "cell": "P32 O71-3550",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "838949733"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    "large": "https://randomuser.me/api/portraits/men/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
   },
-  "nat": "UA"
+  "nat": "CA"
 }

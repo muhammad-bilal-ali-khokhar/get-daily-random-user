@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Charles",
-    "last": "Chow"
+    "title": "Ms",
+    "first": "Valentine",
+    "last": "Dumont"
   },
   "location": {
     "street": {
-      "number": 5759,
-      "name": "Disputed Rd"
+      "number": 2099,
+      "name": "Rue du Château"
     },
-    "city": "Cadillac",
-    "state": "British Columbia",
-    "country": "Canada",
-    "postcode": "N2Q 5T7",
+    "city": "Aulnay-sous-Bois",
+    "state": "Essonne",
+    "country": "France",
+    "postcode": 77496,
     "coordinates": {
-      "latitude": "-68.6074",
-      "longitude": "-45.0096"
+      "latitude": "-19.0023",
+      "longitude": "81.4024"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "charles.chow@example.com",
+  "email": "valentine.dumont@example.com",
   "login": {
-    "uuid": "33f9611f-4fd1-4f8a-98a0-e2933879f8b5",
-    "username": "purplebear902",
-    "password": "lucky7",
-    "salt": "s0Yf7IPL",
-    "md5": "31baa92960656c5e4da6d659a3bba600",
-    "sha1": "8632a5a348256865f2a56817852144f2abde4908",
-    "sha256": "122e16d4fcc288868bc58df962b998ced6a76209b373efd44238cbb9c9595533"
+    "uuid": "f3ba3c14-b26c-4c56-a839-f3bc5c0717b9",
+    "username": "organiczebra290",
+    "password": "colton",
+    "salt": "kyWUwzzH",
+    "md5": "65b8197c122c5f56f5a34d37ff20deaf",
+    "sha1": "39204714fecc1090138c4daff1bd3c9db654cefb",
+    "sha256": "695a77ee595d209e5e1429ea94fbf396914c1c6e5be563ae7bd96bfc070ea123"
   },
   "dob": {
-    "date": "1954-05-19T21:07:31.300Z",
-    "age": 70
+    "date": "1985-07-31T15:34:08.369Z",
+    "age": 39
   },
   "registered": {
-    "date": "2013-09-09T19:50:02.411Z",
-    "age": 11
+    "date": "2018-07-31T02:26:12.186Z",
+    "age": 6
   },
-  "phone": "F54 Q95-7313",
-  "cell": "O65 B23-2369",
+  "phone": "04-04-14-75-60",
+  "cell": "06-85-84-21-13",
   "id": {
-    "name": "SIN",
-    "value": "049094238"
+    "name": "INSEE",
+    "value": "2850620113017 32"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    "large": "https://randomuser.me/api/portraits/women/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
   },
-  "nat": "CA"
+  "nat": "FR"
 }

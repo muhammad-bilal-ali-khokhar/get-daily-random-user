@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Oles",
-    "last": "Lazor"
+    "first": "Mair",
+    "last": "Nascimento"
   },
   "location": {
     "street": {
-      "number": 3826,
-      "name": "Ploshcha Malanyuka"
+      "number": 8241,
+      "name": "Rua Santa Catarina "
     },
-    "city": "Novoyavorivsk",
-    "state": "Avtonomna Respublika Krim",
-    "country": "Ukraine",
-    "postcode": 57170,
+    "city": "Balneário Camboriú",
+    "state": "Amapá",
+    "country": "Brazil",
+    "postcode": 98008,
     "coordinates": {
-      "latitude": "79.1374",
-      "longitude": "-2.3159"
+      "latitude": "-74.1193",
+      "longitude": "-61.5783"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "oles.lazor@example.com",
+  "email": "mair.nascimento@example.com",
   "login": {
-    "uuid": "97968908-5a6e-4f60-bfd5-d7e1339d0b22",
-    "username": "ticklishfrog877",
-    "password": "wally",
-    "salt": "wOB50zcC",
-    "md5": "5ef1c8d16a0c3a1f3ce90ec0cb5b61ca",
-    "sha1": "c3ded6279dce89b808a37e24da3c9b69270aad8f",
-    "sha256": "9a0d0e23fed89e0af640419efa5ac674511df542397f9ef047571dfced2b2f93"
+    "uuid": "aaad911f-6a5d-4912-8e32-0a2d505927f4",
+    "username": "bluecat154",
+    "password": "thomas1",
+    "salt": "yQu2Jgkb",
+    "md5": "239d7cecc62f57de0be434d3f510dbe4",
+    "sha1": "dcf9e2414515b5031638ec0210ff1335536dd40f",
+    "sha256": "05a975418974a4d191eb1fa1d1a82e146fe09a533674b70bb3b537cd9a4a3fdf"
   },
   "dob": {
-    "date": "1970-08-16T01:23:58.481Z",
-    "age": 54
+    "date": "1983-06-12T05:49:26.273Z",
+    "age": 41
   },
   "registered": {
-    "date": "2019-12-07T18:54:24.524Z",
-    "age": 5
+    "date": "2005-05-25T09:08:11.545Z",
+    "age": 19
   },
-  "phone": "(067) F68-0711",
-  "cell": "(068) D49-3593",
+  "phone": "(30) 3514-9376",
+  "cell": "(78) 8476-7768",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "194.183.683-71"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/11.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+    "large": "https://randomuser.me/api/portraits/men/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
   },
-  "nat": "UA"
+  "nat": "BR"
 }

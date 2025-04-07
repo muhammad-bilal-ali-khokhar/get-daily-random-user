@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Irma",
-    "last": "Stevens"
+    "title": "Ms",
+    "first": "Mestan",
+    "last": "Kıraç"
   },
   "location": {
     "street": {
-      "number": 1899,
-      "name": "Lakeshore Rd"
+      "number": 4608,
+      "name": "Filistin Cd"
     },
-    "city": "Orange",
-    "state": "Australian Capital Territory",
-    "country": "Australia",
-    "postcode": 7527,
+    "city": "Artvin",
+    "state": "Tekirdağ",
+    "country": "Turkey",
+    "postcode": 24164,
     "coordinates": {
-      "latitude": "-87.0761",
-      "longitude": "52.5811"
+      "latitude": "66.8336",
+      "longitude": "136.7736"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "irma.stevens@example.com",
+  "email": "mestan.kirac@example.com",
   "login": {
-    "uuid": "6d9336a1-d80c-498c-bad1-3d3cb3cc2b3c",
-    "username": "beautifulduck876",
-    "password": "sprite",
-    "salt": "FdWMIV8O",
-    "md5": "cdf7d56238ef3d6af57ef2c452fe0438",
-    "sha1": "2d79ccc16dde7195b6f660f080746660038d71b4",
-    "sha256": "593c0cd4044ff5a7ecf555840b858879e71046e564022e07de511b3d52f8d018"
+    "uuid": "98b1791b-2fff-41cc-992a-e09a487fe8c4",
+    "username": "redtiger138",
+    "password": "buffa",
+    "salt": "097hWX1L",
+    "md5": "ed5096b49c2432e7b1207825dbaaecc7",
+    "sha1": "ee173581b17cd5c76a177d8474642ba57ced804a",
+    "sha256": "74fcc1ffce7c3739ce42117e0207f3988218fd6e9369422cea9e7dd0f4131439"
   },
   "dob": {
-    "date": "1956-03-14T16:52:34.873Z",
-    "age": 69
+    "date": "1978-05-08T23:15:38.674Z",
+    "age": 46
   },
   "registered": {
-    "date": "2018-02-17T12:07:31.061Z",
-    "age": 7
+    "date": "2014-12-31T03:35:53.743Z",
+    "age": 10
   },
-  "phone": "01-8717-2803",
-  "cell": "0473-807-610",
+  "phone": "(549)-957-2615",
+  "cell": "(047)-322-4182",
   "id": {
-    "name": "TFN",
-    "value": "403975517"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+    "large": "https://randomuser.me/api/portraits/women/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
   },
-  "nat": "AU"
+  "nat": "TR"
 }

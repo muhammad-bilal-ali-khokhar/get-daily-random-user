@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Evdokija",
-    "last": "Zelenović"
+    "title": "Mr",
+    "first": "Celto",
+    "last": "Silveira"
   },
   "location": {
     "street": {
-      "number": 5907,
-      "name": "Porodice Stekić"
+      "number": 9468,
+      "name": "Rua Treze "
     },
-    "city": "Trstenik",
-    "state": "Kosovska Mitrovica",
-    "country": "Serbia",
-    "postcode": 66202,
+    "city": "Mogi Guaçu",
+    "state": "Amapá",
+    "country": "Brazil",
+    "postcode": 34844,
     "coordinates": {
-      "latitude": "57.7232",
-      "longitude": "17.5893"
+      "latitude": "-77.3660",
+      "longitude": "-92.4280"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "evdokija.zelenovic@example.com",
+  "email": "celto.silveira@example.com",
   "login": {
-    "uuid": "4f029bd4-9ad6-4362-88ba-a2f028609cd3",
-    "username": "purpleostrich225",
-    "password": "qwerty1",
-    "salt": "Q1xmzjWH",
-    "md5": "12c9c3881ca18dc41a6e9cd361104246",
-    "sha1": "ecb34514310065050c35136285a3fecf0cd9cab2",
-    "sha256": "045235df67a4e3a659e5dca5521d1c5e2e99a69f958df1a97dfa9bb2a7c6cfb7"
+    "uuid": "3fdfd814-ddf8-4d60-9153-91a9bad9d876",
+    "username": "goldenelephant660",
+    "password": "baba",
+    "salt": "Z20H3xbg",
+    "md5": "3b9cae41b5341ed0abb2584f4372414f",
+    "sha1": "902503875a97108b97eca781ef1fbe7001b62ae4",
+    "sha256": "3ced40d8c5375d117cc76c6cc23b0b21c2dffa223f21d621b4cc4e8e6290c3f0"
   },
   "dob": {
-    "date": "1999-11-22T23:23:35.268Z",
-    "age": 25
+    "date": "1949-03-08T09:15:51.955Z",
+    "age": 76
   },
   "registered": {
-    "date": "2002-04-07T12:03:12.763Z",
-    "age": 22
+    "date": "2015-10-21T23:49:12.302Z",
+    "age": 9
   },
-  "phone": "023-0578-226",
-  "cell": "062-1577-244",
+  "phone": "(66) 8585-4367",
+  "cell": "(18) 0780-8228",
   "id": {
-    "name": "SID",
-    "value": "348580717"
+    "name": "CPF",
+    "value": "439.296.856-52"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+    "large": "https://randomuser.me/api/portraits/men/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
   },
-  "nat": "RS"
+  "nat": "BR"
 }

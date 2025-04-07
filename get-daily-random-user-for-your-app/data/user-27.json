@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Reginald",
-    "last": "Price"
+    "first": "Dhanush",
+    "last": "Shayana"
   },
   "location": {
     "street": {
-      "number": 3132,
-      "name": "Spring St"
+      "number": 9850,
+      "name": "Kasba Peth"
     },
-    "city": "Cupertino",
-    "state": "Ohio",
-    "country": "United States",
-    "postcode": 13337,
+    "city": "Bhimavaram",
+    "state": "Nagaland",
+    "country": "India",
+    "postcode": 62502,
     "coordinates": {
-      "latitude": "84.6167",
-      "longitude": "-82.8795"
+      "latitude": "11.6244",
+      "longitude": "-174.7609"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "reginald.price@example.com",
+  "email": "dhanush.shayana@example.com",
   "login": {
-    "uuid": "cbd5c3a0-aebd-4ddf-96f9-72e71ff8e965",
-    "username": "yellowmouse536",
-    "password": "girl",
-    "salt": "O6T1119u",
-    "md5": "d299edd76d23393dd0bc71add2827f72",
-    "sha1": "e0f95fb8a68b85b6a67765657ba5919ff1112cc9",
-    "sha256": "b573d1d4ac64b5f558d01fb02d1fa41b6dd9860d8fecb5abc842dacda7995ab0"
+    "uuid": "4dff62b9-efc1-4641-9643-c1413f1a2790",
+    "username": "goldenduck775",
+    "password": "hellas",
+    "salt": "69Ueyrhd",
+    "md5": "fb96123356b1ffce58a59206d46b51f3",
+    "sha1": "5512aa82596dc4fc154837ffce0379d8eebf9a51",
+    "sha256": "0736f03f121953fdc690a3f19f531b687f21a37fb8e759eb0a15061cad4084ee"
   },
   "dob": {
-    "date": "1951-09-30T18:53:04.391Z",
+    "date": "1951-08-02T05:14:33.516Z",
     "age": 73
   },
   "registered": {
-    "date": "2020-04-14T18:22:41.824Z",
-    "age": 4
+    "date": "2008-07-02T09:47:06.871Z",
+    "age": 16
   },
-  "phone": "(299) 695-4374",
-  "cell": "(868) 309-2272",
+  "phone": "7916145055",
+  "cell": "8582281368",
   "id": {
-    "name": "SSN",
-    "value": "446-98-2398"
+    "name": "UIDAI",
+    "value": "388924703360"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/47.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    "large": "https://randomuser.me/api/portraits/men/7.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
   },
-  "nat": "US"
+  "nat": "IN"
 }

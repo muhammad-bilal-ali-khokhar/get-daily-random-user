@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Cvitan",
-    "last": "Sokulskiy"
+    "first": "Philip",
+    "last": "Gordon"
   },
   "location": {
     "street": {
-      "number": 2775,
-      "name": "Ploshcha Vizvolennya"
+      "number": 2805,
+      "name": "Bollinger Rd"
     },
-    "city": "Borzna",
-    "state": "Dnipropetrovska",
-    "country": "Ukraine",
-    "postcode": 29684,
+    "city": "Cairns",
+    "state": "South Australia",
+    "country": "Australia",
+    "postcode": 6516,
     "coordinates": {
-      "latitude": "73.3419",
-      "longitude": "-82.9204"
+      "latitude": "-85.4620",
+      "longitude": "-155.2414"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "cvitan.sokulskiy@example.com",
+  "email": "philip.gordon@example.com",
   "login": {
-    "uuid": "fc342123-f7eb-4483-adf7-6d4b8664c537",
-    "username": "yellowladybug478",
-    "password": "sunfire",
-    "salt": "0C6RsGnM",
-    "md5": "97c4f559a317c5f1df1df07f2e6cff27",
-    "sha1": "6fa3839a10c317c97046f4adb6efec9fb91da94e",
-    "sha256": "eea2da8fe025c138cd4a0a39685ba5d3ce4e26a561983f139b9808a303190413"
+    "uuid": "c504048a-71c8-4d4f-92da-71ed16e8d2a3",
+    "username": "smallostrich509",
+    "password": "bills",
+    "salt": "BhWI1q8g",
+    "md5": "05d32346ff68a5af37c08af8fba55897",
+    "sha1": "ffa0c47814e81451aad4280d60b269872d84d693",
+    "sha256": "c9740c0c1ec26b6f39b777c48ad3cdd542553c313468249e191dc5b15fc61f9c"
   },
   "dob": {
-    "date": "1990-12-17T09:33:26.319Z",
-    "age": 34
+    "date": "1948-09-30T00:03:32.556Z",
+    "age": 76
   },
   "registered": {
-    "date": "2008-03-26T02:38:49.397Z",
-    "age": 17
+    "date": "2020-08-09T15:58:22.622Z",
+    "age": 4
   },
-  "phone": "(096) K42-7324",
-  "cell": "(068) B41-3474",
+  "phone": "00-4858-1619",
+  "cell": "0451-443-309",
   "id": {
-    "name": "",
-    "value": null
+    "name": "TFN",
+    "value": "783266508"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    "large": "https://randomuser.me/api/portraits/men/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
   },
-  "nat": "UA"
+  "nat": "AU"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Ignacio",
-    "last": "Arce"
+    "first": "Časlav",
+    "last": "Hadžić"
   },
   "location": {
     "street": {
-      "number": 598,
-      "name": "Continuación Yucatán"
+      "number": 8353,
+      "name": "Janče Jovanovića "
     },
-    "city": "Necaxa",
-    "state": "Ciudad de Mexico",
-    "country": "Mexico",
-    "postcode": 84154,
+    "city": "Vršac",
+    "state": "South Bačka",
+    "country": "Serbia",
+    "postcode": 16003,
     "coordinates": {
-      "latitude": "27.1099",
-      "longitude": "-150.8341"
+      "latitude": "59.6601",
+      "longitude": "-89.2790"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "ignacio.arce@example.com",
+  "email": "caslav.hadzic@example.com",
   "login": {
-    "uuid": "6080783d-f43c-42a4-af09-38f9b5cf9ae9",
-    "username": "angrymouse310",
-    "password": "wayne1",
-    "salt": "8roUjOs4",
-    "md5": "15b4b055b93c5c75425b9a63c0dd079f",
-    "sha1": "edba759ffe1838c491af389c1ee6e7e07c68fddb",
-    "sha256": "2a9eb4d3ae5efb34d850b82af6faa9edaee63ca362fbdfd5da1dbf993f9455c7"
+    "uuid": "225d5fc1-4869-41dd-b199-ad1fffb75e1d",
+    "username": "organicmeercat706",
+    "password": "abcd1234",
+    "salt": "qHyLhZ28",
+    "md5": "637efa98bbf7fdc5d58dd6388745c62a",
+    "sha1": "68a126548da491c5fe3171ff5a9845dc7d2a77e3",
+    "sha256": "dddfbce526b45182d210193acaa9469d0e841ea665fa312f723255fdd02354b4"
   },
   "dob": {
-    "date": "1973-11-18T04:06:41.118Z",
-    "age": 51
+    "date": "1990-12-29T00:42:54.997Z",
+    "age": 34
   },
   "registered": {
-    "date": "2022-01-08T11:38:17.422Z",
-    "age": 3
+    "date": "2003-06-25T16:08:03.352Z",
+    "age": 21
   },
-  "phone": "(663) 796 6955",
-  "cell": "(635) 109 1051",
+  "phone": "039-7439-186",
+  "cell": "064-2845-841",
   "id": {
-    "name": "NSS",
-    "value": "07 38 95 4475 5"
+    "name": "SID",
+    "value": "544741865"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/60.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+    "large": "https://randomuser.me/api/portraits/men/98.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
   },
-  "nat": "MX"
+  "nat": "RS"
 }

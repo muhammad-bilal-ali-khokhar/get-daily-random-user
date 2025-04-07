@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Charlotte",
-    "last": "Gerth"
+    "title": "Mrs",
+    "first": "Renuka",
+    "last": "Moolya"
   },
   "location": {
     "street": {
-      "number": 4957,
-      "name": "Gartenstraße"
+      "number": 9571,
+      "name": "Mirza Ghalib St"
     },
-    "city": "Bad Neuenahr-Ahrweiler",
-    "state": "Saarland",
-    "country": "Germany",
-    "postcode": 13993,
+    "city": "Purnia",
+    "state": "Mizoram",
+    "country": "India",
+    "postcode": 57162,
     "coordinates": {
-      "latitude": "-48.0138",
-      "longitude": "117.6818"
+      "latitude": "12.2494",
+      "longitude": "148.6798"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "charlotte.gerth@example.com",
+  "email": "renuka.moolya@example.com",
   "login": {
-    "uuid": "2317751b-0d1b-40e2-8ff4-705cf0f40893",
-    "username": "crazyladybug115",
-    "password": "vvvvv",
-    "salt": "YfUd4lF7",
-    "md5": "4e1a58016be01fa1c71f86cb6cdd4fa9",
-    "sha1": "aa7b6b3a671d7f502f2b82dc03a724ac0450527d",
-    "sha256": "eca4131466ff4f5dd80c7c8590387cde6b08c91c8c513ca1e3b713c2a45d693b"
+    "uuid": "a8a2f8ca-8dcc-4e4c-9730-1bbd2e659598",
+    "username": "beautifulbutterfly722",
+    "password": "caprice",
+    "salt": "ZXW6sX3B",
+    "md5": "b9d2525b0411f5105031c632abd085d6",
+    "sha1": "068a24559fa262faba86d481cbb2cd830ac524f8",
+    "sha256": "b0ee6716672e1211fcc00224c609009ed39a93d4272419074d477c5db2239b76"
   },
   "dob": {
-    "date": "1965-09-05T22:03:44.468Z",
-    "age": 59
+    "date": "1986-07-27T03:25:53.674Z",
+    "age": 38
   },
   "registered": {
-    "date": "2017-06-02T02:44:41.869Z",
-    "age": 7
+    "date": "2019-10-11T17:16:10.725Z",
+    "age": 5
   },
-  "phone": "0093-0552418",
-  "cell": "0176-2908099",
+  "phone": "9436355690",
+  "cell": "8393628854",
   "id": {
-    "name": "SVNR",
-    "value": "45 050965 G 881"
+    "name": "UIDAI",
+    "value": "772518659764"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/94.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
+    "large": "https://randomuser.me/api/portraits/women/15.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
   },
-  "nat": "DE"
+  "nat": "IN"
 }

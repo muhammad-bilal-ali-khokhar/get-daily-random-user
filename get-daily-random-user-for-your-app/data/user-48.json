@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Elvina",
-    "last": "Oleksenko"
+    "title": "Mr",
+    "first": "Arnold",
+    "last": "Burton"
   },
   "location": {
     "street": {
-      "number": 9870,
-      "name": "23 Veresnya"
+      "number": 5945,
+      "name": "Dublin Road"
     },
-    "city": "Krasiliv",
-    "state": "Donecka",
-    "country": "Ukraine",
-    "postcode": 49773,
+    "city": "Wexford",
+    "state": "Galway",
+    "country": "Ireland",
+    "postcode": 85150,
     "coordinates": {
-      "latitude": "79.1534",
-      "longitude": "136.5249"
+      "latitude": "-2.9170",
+      "longitude": "-46.5269"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "elvina.oleksenko@example.com",
+  "email": "arnold.burton@example.com",
   "login": {
-    "uuid": "49faf272-7519-45bc-8a2e-465c995bc949",
-    "username": "tinyfish438",
-    "password": "berry",
-    "salt": "wgMvTXWO",
-    "md5": "0be00e0f1753e82aa5c28536b6de16b3",
-    "sha1": "bab3f2d40a9f82c8a81c908fb608484abe6ed68f",
-    "sha256": "d24898eedbef0246390660eb561c801453b15511176a33194f991a3da24ac6aa"
+    "uuid": "01392f4d-6b69-4261-9c51-f4aa7c9e3633",
+    "username": "greenbird980",
+    "password": "shaker",
+    "salt": "ATAIjzeZ",
+    "md5": "119c4eb765d74493e4162f32d127880f",
+    "sha1": "34f4a299c2bbefe0e751e287b51a6e4b48b01c51",
+    "sha256": "fbed8501ebc0bb07b15af25ec17c72481afb3485d5bf140c8b50e3f30527e811"
   },
   "dob": {
-    "date": "1963-08-23T09:54:10.329Z",
-    "age": 61
+    "date": "1958-12-10T00:14:59.690Z",
+    "age": 66
   },
   "registered": {
-    "date": "2017-12-13T13:26:13.972Z",
-    "age": 7
+    "date": "2015-10-27T01:42:30.777Z",
+    "age": 9
   },
-  "phone": "(097) I77-5255",
-  "cell": "(067) G07-2607",
+  "phone": "041-769-1421",
+  "cell": "081-953-2653",
   "id": {
-    "name": "",
-    "value": null
+    "name": "PPS",
+    "value": "5009266T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/54.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    "large": "https://randomuser.me/api/portraits/men/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/68.jpg"
   },
-  "nat": "UA"
+  "nat": "IE"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Krisha",
-    "last": "Das"
+    "title": "Mr",
+    "first": "Wayne",
+    "last": "Cole"
   },
   "location": {
     "street": {
-      "number": 7990,
-      "name": "Lindsay St"
+      "number": 7836,
+      "name": "Grange Road"
     },
-    "city": "Kolkata",
-    "state": "Punjab",
-    "country": "India",
-    "postcode": 58926,
+    "city": "Salisbury",
+    "state": "West Midlands",
+    "country": "United Kingdom",
+    "postcode": "V9 2XT",
     "coordinates": {
-      "latitude": "5.7866",
-      "longitude": "159.6669"
+      "latitude": "-9.9998",
+      "longitude": "-18.2263"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "krisha.das@example.com",
+  "email": "wayne.cole@example.com",
   "login": {
-    "uuid": "537fc78c-8349-4f6a-8e88-be35f67b6b6a",
-    "username": "orangepanda888",
-    "password": "lakers",
-    "salt": "lrK0xOU4",
-    "md5": "256410bb1a1a55843109ffecd479d9c3",
-    "sha1": "98c62221bc8fcb4a6f8aff9ce6b3e9f71fe0f060",
-    "sha256": "329e26bf4b9a68932699457a921a87cdf81100b06ea77a92488d4d5b60433796"
+    "uuid": "f2dc3bef-e803-427f-8cdb-ffe4909b7f4e",
+    "username": "smallpeacock987",
+    "password": "rice",
+    "salt": "4FanjE7W",
+    "md5": "23706fdaf65547e50def41b7bc475680",
+    "sha1": "44b8f918fec0f06567b6556a6334f4706357c57d",
+    "sha256": "65b0ea40721c7714f2a5e9949dba22c7392dca2e6237fcc6747d1c60d1fcbd9c"
   },
   "dob": {
-    "date": "1958-01-23T01:45:38.611Z",
-    "age": 67
+    "date": "1999-08-05T18:30:48.645Z",
+    "age": 25
   },
   "registered": {
-    "date": "2009-02-04T01:14:34.449Z",
-    "age": 16
+    "date": "2020-05-29T00:26:55.868Z",
+    "age": 4
   },
-  "phone": "8474736911",
-  "cell": "7610983548",
+  "phone": "015242 46492",
+  "cell": "07492 618481",
   "id": {
-    "name": "UIDAI",
-    "value": "113457590818"
+    "name": "NINO",
+    "value": "PS 44 82 12 B"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
   },
-  "nat": "IN"
+  "nat": "GB"
 }

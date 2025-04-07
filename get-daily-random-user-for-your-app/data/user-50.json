@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Nakul",
-    "last": "Tipparti"
+    "first": "Miloš",
+    "last": "Van As"
   },
   "location": {
     "street": {
-      "number": 9715,
-      "name": "Bandstand Promenade"
+      "number": 2297,
+      "name": "Genijkenkampweg"
     },
-    "city": "Eluru",
-    "state": "Chandigarh",
-    "country": "India",
-    "postcode": 65713,
+    "city": "Eibergen",
+    "state": "Zuid-Holland",
+    "country": "Netherlands",
+    "postcode": "8692 SF",
     "coordinates": {
-      "latitude": "6.4690",
-      "longitude": "-114.5814"
+      "latitude": "36.5621",
+      "longitude": "-85.3340"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "nakul.tipparti@example.com",
+  "email": "milos.vanas@example.com",
   "login": {
-    "uuid": "af1f0429-d98f-471b-b640-744e9bad7319",
-    "username": "crazybird532",
-    "password": "hannibal",
-    "salt": "1LG0BeT8",
-    "md5": "0a874f9171c03abc8def7e409d411390",
-    "sha1": "df62537b049694472e50a3b2f51370602109ecea",
-    "sha256": "6e82ef31d0acaa686c8738be81fe9326fa38080e4b13a865d7526d3a07e20f6c"
+    "uuid": "aba393e1-00df-4d72-b810-7b9a36eadcc4",
+    "username": "bigbird549",
+    "password": "lakota",
+    "salt": "bdZ0YBjS",
+    "md5": "398381d23e60b5d62f3a0c3c39db701b",
+    "sha1": "eb9342a3af97495803319d96881e7b6eb5f49876",
+    "sha256": "0991a739a2e66094442a80762ff43b3f04317e26c806c6b307c9e13387a57a49"
   },
   "dob": {
-    "date": "1959-01-06T04:20:10.740Z",
-    "age": 66
+    "date": "1984-11-23T19:49:03.883Z",
+    "age": 40
   },
   "registered": {
-    "date": "2008-05-10T02:19:05.177Z",
-    "age": 16
+    "date": "2013-08-17T15:01:12.956Z",
+    "age": 11
   },
-  "phone": "8768420513",
-  "cell": "8114949852",
+  "phone": "(023) 9688720",
+  "cell": "(06) 94279986",
   "id": {
-    "name": "UIDAI",
-    "value": "273084796734"
+    "name": "BSN",
+    "value": "19738507"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/62.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
   },
-  "nat": "IN"
+  "nat": "NL"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Joan",
-    "last": "Black"
+    "title": "Mr",
+    "first": "Prvoslav",
+    "last": "Stefanović"
   },
   "location": {
     "street": {
-      "number": 8695,
-      "name": "Hillcrest Rd"
+      "number": 641,
+      "name": "Dvadesetdevetog Novembra"
     },
-    "city": "Lowell",
-    "state": "Nevada",
-    "country": "United States",
-    "postcode": 95875,
+    "city": "Bač",
+    "state": "Pomoravlje",
+    "country": "Serbia",
+    "postcode": 26914,
     "coordinates": {
-      "latitude": "88.9033",
-      "longitude": "175.6572"
+      "latitude": "60.0736",
+      "longitude": "-155.1303"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "joan.black@example.com",
+  "email": "prvoslav.stefanovic@example.com",
   "login": {
-    "uuid": "71fed588-f452-4355-8cdc-55902fac9adf",
-    "username": "silverfrog399",
-    "password": "solution",
-    "salt": "ttjnvwGW",
-    "md5": "39f3eb71cb954614d5ecbcad75016241",
-    "sha1": "9caa92b9e404ea0ee11bd4685a0111c53cf61184",
-    "sha256": "a90d3aac7cd670fbbd0a3d93d8d4df2a9a227a0af06ac51eb44d88bc25a76b2d"
+    "uuid": "ac913093-a28e-43f7-bd70-9f6c64c1205a",
+    "username": "heavybear644",
+    "password": "single",
+    "salt": "OiG5n8Cn",
+    "md5": "5e572179c8f618177a20c378ba11e64a",
+    "sha1": "53b242173113410ab0afa69a8d95ebccb4f05fc5",
+    "sha256": "e0632cf63885021938aa78a523d175bd72d58e8360ba8dd7cb4e280d130c8f44"
   },
   "dob": {
-    "date": "1979-10-26T07:50:25.176Z",
-    "age": 45
+    "date": "1998-12-26T04:02:13.837Z",
+    "age": 26
   },
   "registered": {
-    "date": "2003-06-03T12:54:48.540Z",
-    "age": 21
+    "date": "2010-11-09T19:44:10.352Z",
+    "age": 14
   },
-  "phone": "(967) 668-9190",
-  "cell": "(677) 909-8285",
+  "phone": "022-7110-365",
+  "cell": "065-4906-117",
   "id": {
-    "name": "SSN",
-    "value": "249-90-0998"
+    "name": "SID",
+    "value": "954323262"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
   },
-  "nat": "US"
+  "nat": "RS"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Fiona",
-    "last": "Cooper"
+    "title": "Mr",
+    "first": "Baptiste",
+    "last": "Barbier"
   },
   "location": {
     "street": {
-      "number": 4079,
-      "name": "Galway Road"
+      "number": 6600,
+      "name": "Rue de L'Abbé-Carton"
     },
-    "city": "Ballinasloe",
-    "state": "Kildare",
-    "country": "Ireland",
-    "postcode": 15406,
+    "city": "Mulhouse",
+    "state": "Meurthe-et-Moselle",
+    "country": "France",
+    "postcode": 95247,
     "coordinates": {
-      "latitude": "-1.8657",
-      "longitude": "68.8919"
+      "latitude": "-16.3915",
+      "longitude": "-40.7045"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "fiona.cooper@example.com",
+  "email": "baptiste.barbier@example.com",
   "login": {
-    "uuid": "625a6216-0807-428e-b46c-3839c7105fbc",
-    "username": "silverdog573",
-    "password": "guinness",
-    "salt": "FcDlH4pq",
-    "md5": "4120dd34caaa30aba6daa93dfdbb1eb2",
-    "sha1": "50439e9253b3a77ef5879d57dd4e90a3b8040636",
-    "sha256": "e68c277f198ba5e871e048c6068ab28238f4070ce15ae1d6017dd98f03889094"
+    "uuid": "100a88af-21bf-4a3a-b30b-3c155c5499a5",
+    "username": "beautifulpanda323",
+    "password": "chocolate",
+    "salt": "ifR8QnP7",
+    "md5": "6a1819673071e97d59280ad872d524fe",
+    "sha1": "d1c1a89bd394ed663427ef4b7be0948940107f38",
+    "sha256": "e00644c7dfae3259c16d0409dd7f7923557f6078b95cc76343b198b503b39936"
   },
   "dob": {
-    "date": "1955-11-06T04:20:06.537Z",
-    "age": 69
+    "date": "1987-10-25T10:42:13.283Z",
+    "age": 37
   },
   "registered": {
-    "date": "2014-05-16T03:05:11.177Z",
-    "age": 10
+    "date": "2003-12-22T05:31:40.520Z",
+    "age": 21
   },
-  "phone": "041-103-9772",
-  "cell": "081-732-8412",
+  "phone": "02-73-26-56-32",
+  "cell": "06-30-93-59-99",
   "id": {
-    "name": "PPS",
-    "value": "4081454T"
+    "name": "INSEE",
+    "value": "1870929025937 54"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
   },
-  "nat": "IE"
+  "nat": "FR"
 }
