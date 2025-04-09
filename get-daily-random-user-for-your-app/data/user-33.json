@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Anna",
-    "last": "Henry"
+    "title": "Monsieur",
+    "first": "Jean-Pierre",
+    "last": "Lefevre"
   },
   "location": {
     "street": {
-      "number": 6245,
-      "name": "Shady Ln Dr"
+      "number": 8259,
+      "name": "Rue des Chartreux"
     },
-    "city": "Hervey Bay",
-    "state": "Tasmania",
-    "country": "Australia",
-    "postcode": 6786,
+    "city": "Burgistein",
+    "state": "Aargau",
+    "country": "Switzerland",
+    "postcode": 1681,
     "coordinates": {
-      "latitude": "-81.6637",
-      "longitude": "38.2751"
+      "latitude": "-56.5137",
+      "longitude": "-74.6659"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "anna.henry@example.com",
+  "email": "jean-pierre.lefevre@example.com",
   "login": {
-    "uuid": "06fe9c7a-3091-44b7-a54a-6e4d1cdb85cc",
-    "username": "redgoose906",
-    "password": "domingo",
-    "salt": "bJfrTDOu",
-    "md5": "831f3aef478eb3af2f943080d690d649",
-    "sha1": "e278f2d945d1f58d4aade673f32b5dac5d487df0",
-    "sha256": "4660231268b36a142f5d5cef1d2f1f1fdcb1d32bf7210b867a8f5d33cf7467ff"
+    "uuid": "780db200-f19c-4431-bf20-fe131a3bc5a7",
+    "username": "blackbear946",
+    "password": "yyyyyy1",
+    "salt": "8eMWpne8",
+    "md5": "cf852285c80d457fea72f28b3cb7d831",
+    "sha1": "b9fff1121707563a318c199ee0ec13867ad70bc8",
+    "sha256": "406826b010716cf9cd72007dcbe41c3c10ca6eae41dedf876a879a4f045c0b13"
   },
   "dob": {
-    "date": "1960-04-11T02:32:31.761Z",
-    "age": 64
+    "date": "1996-08-12T09:29:56.170Z",
+    "age": 28
   },
   "registered": {
-    "date": "2019-01-16T21:31:31.617Z",
-    "age": 6
+    "date": "2004-05-23T15:06:38.140Z",
+    "age": 20
   },
-  "phone": "07-8653-7703",
-  "cell": "0408-490-492",
+  "phone": "078 277 36 48",
+  "cell": "078 306 87 35",
   "id": {
-    "name": "TFN",
-    "value": "183069877"
+    "name": "AVS",
+    "value": "756.8627.5690.07"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/6.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    "large": "https://randomuser.me/api/portraits/men/22.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
   },
-  "nat": "AU"
+  "nat": "CH"
 }

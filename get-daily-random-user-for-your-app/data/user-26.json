@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Hilda",
-    "last": "Willis"
+    "title": "Mr",
+    "first": "Chakradev",
+    "last": "Thampy"
   },
   "location": {
     "street": {
-      "number": 2059,
-      "name": "W Dallas St"
+      "number": 2874,
+      "name": "Lindsay St"
     },
-    "city": "Bundaberg",
-    "state": "South Australia",
-    "country": "Australia",
-    "postcode": 6650,
+    "city": "Vijayawada",
+    "state": "Uttarakhand",
+    "country": "India",
+    "postcode": 37920,
     "coordinates": {
-      "latitude": "-86.7628",
-      "longitude": "146.8928"
+      "latitude": "4.9429",
+      "longitude": "-95.2801"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "hilda.willis@example.com",
+  "email": "chakradev.thampy@example.com",
   "login": {
-    "uuid": "6fb63e38-9af8-4364-9c4d-0e32525e484c",
-    "username": "ticklishbear898",
-    "password": "darwin",
-    "salt": "M9ImxqeX",
-    "md5": "5a13993003cab192098c8becad6b9ee4",
-    "sha1": "fe821dfd247d04703039e14cd958c51a17b23df4",
-    "sha256": "c212937c6cef8629a7dae0e0c7b475aad4d3ed03f1381558a2c289687a03d3e4"
+    "uuid": "3f147ff4-a259-4803-ac32-44d97c6f55c7",
+    "username": "bluecat366",
+    "password": "rugger",
+    "salt": "PkvJFblj",
+    "md5": "b3674b4a343aff64d38ab779d5b240df",
+    "sha1": "faca52e30067172a2f23b99cc43d7bf8345639db",
+    "sha256": "84555e96ecc8811f10c5a2c3d9242c7652d3dcf48404c0a9b4234cff2d63ea01"
   },
   "dob": {
-    "date": "1956-09-07T01:36:11.392Z",
-    "age": 68
+    "date": "1959-02-11T17:09:32.286Z",
+    "age": 66
   },
   "registered": {
-    "date": "2005-09-21T12:04:56.459Z",
-    "age": 19
+    "date": "2018-12-27T15:07:17.268Z",
+    "age": 6
   },
-  "phone": "01-3935-2728",
-  "cell": "0485-799-297",
+  "phone": "8749337440",
+  "cell": "9653317956",
   "id": {
-    "name": "TFN",
-    "value": "765898685"
+    "name": "UIDAI",
+    "value": "881304111117"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/35.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    "large": "https://randomuser.me/api/portraits/men/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
   },
-  "nat": "AU"
+  "nat": "IN"
 }

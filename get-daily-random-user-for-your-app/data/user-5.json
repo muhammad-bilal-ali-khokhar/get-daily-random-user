@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Scott",
-    "last": "Ryan"
+    "first": "Rasmus",
+    "last": "Madsen"
   },
   "location": {
     "street": {
-      "number": 6552,
-      "name": "Valwood Pkwy"
+      "number": 2065,
+      "name": "Fuglevænget"
     },
-    "city": "Gladstone",
-    "state": "Victoria",
-    "country": "Australia",
-    "postcode": 2784,
+    "city": "København N",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 18943,
     "coordinates": {
-      "latitude": "-86.5323",
-      "longitude": "-163.8126"
+      "latitude": "-42.3313",
+      "longitude": "-26.4080"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "scott.ryan@example.com",
+  "email": "rasmus.madsen@example.com",
   "login": {
-    "uuid": "dcfad6d6-0f1e-4ee8-b805-df3eef3ccd3f",
-    "username": "beautifulfrog852",
-    "password": "maddog",
-    "salt": "d9g645Io",
-    "md5": "5e504d853d8919104f613c184671da1d",
-    "sha1": "9e3ec6ae95713b835938addd9ce93560ec4b912b",
-    "sha256": "52cd66c22d61aa0671cfe17c3777e7d4c09c74cd3d60c3346fae4635ab4b69d8"
+    "uuid": "c7233601-b503-4a77-8eae-13d3a9e7f862",
+    "username": "purpletiger189",
+    "password": "thanks",
+    "salt": "UvbnNDCH",
+    "md5": "3943d3d06e3a8a00365e304a0bbc8cbd",
+    "sha1": "24e3edb72fc0557b469c65d0832abd9f4a4ea741",
+    "sha256": "5aab5773c6ca19090c3cb5818a067c0857fd2261b4cb96fc861dcef16b8f5df2"
   },
   "dob": {
-    "date": "1999-04-01T12:10:15.227Z",
-    "age": 26
+    "date": "1957-11-01T02:00:38.807Z",
+    "age": 67
   },
   "registered": {
-    "date": "2006-07-20T05:25:05.345Z",
-    "age": 18
+    "date": "2019-10-01T14:46:01.287Z",
+    "age": 5
   },
-  "phone": "08-9177-8293",
-  "cell": "0427-109-372",
+  "phone": "65949541",
+  "cell": "17003875",
   "id": {
-    "name": "TFN",
-    "value": "585672441"
+    "name": "CPR",
+    "value": "311057-1591"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
+    "large": "https://randomuser.me/api/portraits/men/22.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
   },
-  "nat": "AU"
+  "nat": "DK"
 }

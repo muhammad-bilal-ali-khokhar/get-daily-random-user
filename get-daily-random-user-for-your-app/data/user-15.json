@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Mestan",
-    "last": "Kıraç"
+    "title": "Mr",
+    "first": "Nicklas",
+    "last": "Johansen"
   },
   "location": {
     "street": {
-      "number": 4608,
-      "name": "Filistin Cd"
+      "number": 9231,
+      "name": "Vesterhavsgade"
     },
-    "city": "Artvin",
-    "state": "Tekirdağ",
-    "country": "Turkey",
-    "postcode": 24164,
+    "city": "Pandrup",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "postcode": 10364,
     "coordinates": {
-      "latitude": "66.8336",
-      "longitude": "136.7736"
+      "latitude": "-47.1129",
+      "longitude": "-144.1216"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "mestan.kirac@example.com",
+  "email": "nicklas.johansen@example.com",
   "login": {
-    "uuid": "98b1791b-2fff-41cc-992a-e09a487fe8c4",
-    "username": "redtiger138",
-    "password": "buffa",
-    "salt": "097hWX1L",
-    "md5": "ed5096b49c2432e7b1207825dbaaecc7",
-    "sha1": "ee173581b17cd5c76a177d8474642ba57ced804a",
-    "sha256": "74fcc1ffce7c3739ce42117e0207f3988218fd6e9369422cea9e7dd0f4131439"
+    "uuid": "a4eee970-8dd4-4bdb-911b-3f6d74a7cec8",
+    "username": "bigpeacock308",
+    "password": "babylon",
+    "salt": "G31qSYTv",
+    "md5": "549a28e5c758626bc798008ed577b597",
+    "sha1": "61487d8d045a0844f6ec801c49940fbb24e4d196",
+    "sha256": "f5b844ab1cc4a0df3b02285b9410fedbd0f2db2daba660ac77fc3e461ad0af89"
   },
   "dob": {
-    "date": "1978-05-08T23:15:38.674Z",
-    "age": 46
+    "date": "2000-08-24T05:08:30.678Z",
+    "age": 24
   },
   "registered": {
-    "date": "2014-12-31T03:35:53.743Z",
-    "age": 10
+    "date": "2009-10-27T07:25:23.190Z",
+    "age": 15
   },
-  "phone": "(549)-957-2615",
-  "cell": "(047)-322-4182",
+  "phone": "42647975",
+  "cell": "53641572",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "2408100-5846"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/26.jpg"
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
   },
-  "nat": "TR"
+  "nat": "DK"
 }

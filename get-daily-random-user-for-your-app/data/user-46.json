@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Valentine",
-    "last": "Dumont"
+    "title": "Mr",
+    "first": "Juan Carlos",
+    "last": "Blanco"
   },
   "location": {
     "street": {
-      "number": 2099,
-      "name": "Rue du Château"
+      "number": 9830,
+      "name": "Peatonal Norte Santana"
     },
-    "city": "Aulnay-sous-Bois",
-    "state": "Essonne",
-    "country": "France",
-    "postcode": 77496,
+    "city": "Cancún",
+    "state": "Hidalgo",
+    "country": "Mexico",
+    "postcode": 13983,
     "coordinates": {
-      "latitude": "-19.0023",
-      "longitude": "81.4024"
+      "latitude": "23.2982",
+      "longitude": "-156.8272"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "valentine.dumont@example.com",
+  "email": "juancarlos.blanco@example.com",
   "login": {
-    "uuid": "f3ba3c14-b26c-4c56-a839-f3bc5c0717b9",
-    "username": "organiczebra290",
-    "password": "colton",
-    "salt": "kyWUwzzH",
-    "md5": "65b8197c122c5f56f5a34d37ff20deaf",
-    "sha1": "39204714fecc1090138c4daff1bd3c9db654cefb",
-    "sha256": "695a77ee595d209e5e1429ea94fbf396914c1c6e5be563ae7bd96bfc070ea123"
+    "uuid": "91afb160-5c3f-459e-a511-be63f139a5ae",
+    "username": "beautifulbutterfly748",
+    "password": "feather",
+    "salt": "uWo9uJ6O",
+    "md5": "ee2dfa8e7a2a9b2bdda95628dab9af19",
+    "sha1": "0878823aedcbb47381c24c9e203a6e2108ede15b",
+    "sha256": "196dd1567cacf8293b9b5280d6033549e51bc98cb9249f87e388d4f85a709def"
   },
   "dob": {
-    "date": "1985-07-31T15:34:08.369Z",
-    "age": 39
+    "date": "1997-09-11T00:03:43.544Z",
+    "age": 27
   },
   "registered": {
-    "date": "2018-07-31T02:26:12.186Z",
-    "age": 6
+    "date": "2010-11-29T18:21:22.445Z",
+    "age": 14
   },
-  "phone": "04-04-14-75-60",
-  "cell": "06-85-84-21-13",
+  "phone": "(691) 266 3684",
+  "cell": "(613) 863 6563",
   "id": {
-    "name": "INSEE",
-    "value": "2850620113017 32"
+    "name": "NSS",
+    "value": "26 29 78 4539 2"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
   },
-  "nat": "FR"
+  "nat": "MX"
 }

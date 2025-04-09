@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Mair",
-    "last": "Nascimento"
+    "title": "Mademoiselle",
+    "first": "Myrtha",
+    "last": "Martin"
   },
   "location": {
     "street": {
-      "number": 8241,
-      "name": "Rua Santa Catarina "
+      "number": 5129,
+      "name": "Rue de la Fontaine"
     },
-    "city": "Balneário Camboriú",
-    "state": "Amapá",
-    "country": "Brazil",
-    "postcode": 98008,
+    "city": "Bioggio",
+    "state": "Uri",
+    "country": "Switzerland",
+    "postcode": 1723,
     "coordinates": {
-      "latitude": "-74.1193",
-      "longitude": "-61.5783"
+      "latitude": "-56.2430",
+      "longitude": "126.8167"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "mair.nascimento@example.com",
+  "email": "myrtha.martin@example.com",
   "login": {
-    "uuid": "aaad911f-6a5d-4912-8e32-0a2d505927f4",
-    "username": "bluecat154",
-    "password": "thomas1",
-    "salt": "yQu2Jgkb",
-    "md5": "239d7cecc62f57de0be434d3f510dbe4",
-    "sha1": "dcf9e2414515b5031638ec0210ff1335536dd40f",
-    "sha256": "05a975418974a4d191eb1fa1d1a82e146fe09a533674b70bb3b537cd9a4a3fdf"
+    "uuid": "bac28a1d-dc16-4dbd-bf28-6f8fd71e005a",
+    "username": "orangegorilla994",
+    "password": "bonjovi",
+    "salt": "WgA2R2o8",
+    "md5": "e73a9b72128a07a1583adb7763f12881",
+    "sha1": "0b407cbd57a746adc5e85d125546a354b251827c",
+    "sha256": "2b222634bd0d400166559bd503249d43c0dd01fd79b55878782677be83098c51"
   },
   "dob": {
-    "date": "1983-06-12T05:49:26.273Z",
-    "age": 41
+    "date": "1976-07-17T14:16:33.042Z",
+    "age": 48
   },
   "registered": {
-    "date": "2005-05-25T09:08:11.545Z",
-    "age": 19
+    "date": "2021-02-22T09:47:36.130Z",
+    "age": 4
   },
-  "phone": "(30) 3514-9376",
-  "cell": "(78) 8476-7768",
+  "phone": "079 003 69 99",
+  "cell": "079 635 47 33",
   "id": {
-    "name": "CPF",
-    "value": "194.183.683-71"
+    "name": "AVS",
+    "value": "756.9372.7141.20"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/81.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    "large": "https://randomuser.me/api/portraits/women/80.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
   },
-  "nat": "BR"
+  "nat": "CH"
 }

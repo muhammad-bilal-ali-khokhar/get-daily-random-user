@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mathew",
-    "last": "Rhodes"
+    "first": "Dylan",
+    "last": "Stanley"
   },
   "location": {
     "street": {
-      "number": 3557,
-      "name": "Cherry St"
+      "number": 5027,
+      "name": "New Road"
     },
-    "city": "Abilene",
-    "state": "Michigan",
-    "country": "United States",
-    "postcode": 66750,
+    "city": "Leicester",
+    "state": "Avon",
+    "country": "United Kingdom",
+    "postcode": "F8B 9TX",
     "coordinates": {
-      "latitude": "82.8965",
-      "longitude": "-95.5345"
+      "latitude": "-8.9257",
+      "longitude": "-55.6301"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "mathew.rhodes@example.com",
+  "email": "dylan.stanley@example.com",
   "login": {
-    "uuid": "ac85106a-3b01-4c54-ab29-6152c9c187a5",
-    "username": "bluelion473",
-    "password": "rebels",
-    "salt": "nTbeXwrz",
-    "md5": "bfa468a48138d9b8ecdb9899bcd65867",
-    "sha1": "988a616fab43fd4cf2bcc94301a416a543dfef43",
-    "sha256": "c23d2bc40fe2afa16abb6e63f5b5182c6ef8ae5d58f872bcc583f570e1a5f461"
+    "uuid": "4d287709-3297-4e24-8a83-f0a57a3005c4",
+    "username": "lazyduck964",
+    "password": "mushroom",
+    "salt": "miLB6kqH",
+    "md5": "c9b4f5ea53dd084ce90d4e52879a49a3",
+    "sha1": "226dd618995caa652cf83cedc567b621e98c15ee",
+    "sha256": "0c335e679c5793728d4b86366997f6099b165c4a6890a6db5c164ff9f673429e"
   },
   "dob": {
-    "date": "1951-06-24T01:56:30.032Z",
-    "age": 73
+    "date": "1946-08-16T01:30:43.053Z",
+    "age": 78
   },
   "registered": {
-    "date": "2008-08-29T02:41:47.391Z",
-    "age": 16
+    "date": "2015-12-12T00:26:49.924Z",
+    "age": 9
   },
-  "phone": "(867) 254-6325",
-  "cell": "(846) 731-1734",
+  "phone": "017687 86088",
+  "cell": "07184 908929",
   "id": {
-    "name": "SSN",
-    "value": "570-33-5475"
+    "name": "NINO",
+    "value": "GP 81 33 50 C"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/17.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
   },
-  "nat": "US"
+  "nat": "GB"
 }

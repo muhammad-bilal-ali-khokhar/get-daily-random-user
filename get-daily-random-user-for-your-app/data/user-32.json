@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Renuka",
-    "last": "Moolya"
+    "title": "Madame",
+    "first": "Danièle",
+    "last": "Guillaume"
   },
   "location": {
     "street": {
-      "number": 9571,
-      "name": "Mirza Ghalib St"
+      "number": 2159,
+      "name": "Rue du Bât-D'Argent"
     },
-    "city": "Purnia",
-    "state": "Mizoram",
-    "country": "India",
-    "postcode": 57162,
+    "city": "Hitzkirch",
+    "state": "Glarus",
+    "country": "Switzerland",
+    "postcode": 5120,
     "coordinates": {
-      "latitude": "12.2494",
-      "longitude": "148.6798"
+      "latitude": "-63.0026",
+      "longitude": "66.7334"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "renuka.moolya@example.com",
+  "email": "daniele.guillaume@example.com",
   "login": {
-    "uuid": "a8a2f8ca-8dcc-4e4c-9730-1bbd2e659598",
-    "username": "beautifulbutterfly722",
-    "password": "caprice",
-    "salt": "ZXW6sX3B",
-    "md5": "b9d2525b0411f5105031c632abd085d6",
-    "sha1": "068a24559fa262faba86d481cbb2cd830ac524f8",
-    "sha256": "b0ee6716672e1211fcc00224c609009ed39a93d4272419074d477c5db2239b76"
+    "uuid": "36113c65-8cca-4af7-b89d-51d4cd72824d",
+    "username": "smallfrog193",
+    "password": "mark1",
+    "salt": "YYNP8BCF",
+    "md5": "824c177238a4742cf158ce290daf2018",
+    "sha1": "cd3041272e5c3cb766e40260c23887d1b737b731",
+    "sha256": "73c38241a6c2d4f79bc764f6579c5be4fb25784602e42c1eebfce7e5adc9077a"
   },
   "dob": {
-    "date": "1986-07-27T03:25:53.674Z",
-    "age": 38
+    "date": "1993-01-17T06:49:48.519Z",
+    "age": 32
   },
   "registered": {
-    "date": "2019-10-11T17:16:10.725Z",
-    "age": 5
+    "date": "2007-04-13T03:58:20.213Z",
+    "age": 17
   },
-  "phone": "9436355690",
-  "cell": "8393628854",
+  "phone": "075 513 80 57",
+  "cell": "078 611 57 40",
   "id": {
-    "name": "UIDAI",
-    "value": "772518659764"
+    "name": "AVS",
+    "value": "756.1586.2478.61"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/15.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+    "large": "https://randomuser.me/api/portraits/women/76.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
   },
-  "nat": "IN"
+  "nat": "CH"
 }

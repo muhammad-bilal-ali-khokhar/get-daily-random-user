@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Felix",
-    "last": "Møller"
+    "first": "Auguste",
+    "last": "Le Gall"
   },
   "location": {
     "street": {
-      "number": 2081,
-      "name": "Bøgevænget"
+      "number": 4498,
+      "name": "Rue du Château"
     },
-    "city": "Nørre Sundby",
-    "state": "Hovedstaden",
-    "country": "Denmark",
-    "postcode": 95203,
+    "city": "Saint-Étienne",
+    "state": "Val-de-Marne",
+    "country": "France",
+    "postcode": 15976,
     "coordinates": {
-      "latitude": "-41.4885",
-      "longitude": "-170.2225"
+      "latitude": "-17.7408",
+      "longitude": "-31.6329"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "felix.moller@example.com",
+  "email": "auguste.legall@example.com",
   "login": {
-    "uuid": "4963195f-8e6b-47c9-972e-8f12e002d4c9",
-    "username": "blackwolf565",
-    "password": "jacques",
-    "salt": "F6yTDWMv",
-    "md5": "a45091356fa13fcc4d50ae8202c1d038",
-    "sha1": "b96aeaeab4bcf8567016bed2a409323ee74ddc10",
-    "sha256": "ccfe24c7dfa021c04a47850e13b6aa80de7ac8f12ca6d2c0bd46a4c0bd0c23bc"
+    "uuid": "17e7cde1-c04b-40bd-87a9-ad033d7b6288",
+    "username": "redmeercat669",
+    "password": "jeanette",
+    "salt": "WcqRbR2p",
+    "md5": "6ea97836290abc4dfd52dfd8f4746038",
+    "sha1": "c04da465bd38d8ecdc458673bfd40e0723269159",
+    "sha256": "d69aec188615c1a596de0df6a461e36cf6f93fa2c1a08fa64d6d3a95e4bb29db"
   },
   "dob": {
-    "date": "2001-02-27T21:28:33.663Z",
-    "age": 24
+    "date": "1993-01-16T07:39:06.944Z",
+    "age": 32
   },
   "registered": {
-    "date": "2004-03-03T12:27:50.473Z",
-    "age": 21
+    "date": "2002-03-25T17:53:15.746Z",
+    "age": 23
   },
-  "phone": "90018276",
-  "cell": "32633141",
+  "phone": "01-84-74-15-50",
+  "cell": "06-08-87-98-13",
   "id": {
-    "name": "CPR",
-    "value": "2702101-0753"
+    "name": "INSEE",
+    "value": "1930018200260 93"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
   },
-  "nat": "DK"
+  "nat": "FR"
 }

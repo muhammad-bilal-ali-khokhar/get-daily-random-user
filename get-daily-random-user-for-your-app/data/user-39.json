@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Aldonza",
-    "last": "Pineda"
+    "title": "Mr",
+    "first": "Ratko",
+    "last": "Subašić"
   },
   "location": {
     "street": {
-      "number": 9018,
-      "name": "Viaducto Tamayo"
+      "number": 7152,
+      "name": "Slobodana Perovića"
     },
-    "city": "Tonila",
-    "state": "Nuevo Leon",
-    "country": "Mexico",
-    "postcode": 69510,
+    "city": "Gadžin Han",
+    "state": "North Bačka",
+    "country": "Serbia",
+    "postcode": 53656,
     "coordinates": {
-      "latitude": "23.0772",
-      "longitude": "43.0054"
+      "latitude": "57.6654",
+      "longitude": "-154.4643"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "aldonza.pineda@example.com",
+  "email": "ratko.subasic@example.com",
   "login": {
-    "uuid": "0bacefe9-ab64-4739-b62e-95a9ddddbf3d",
-    "username": "tinymeercat407",
-    "password": "bledsoe",
-    "salt": "SzsCmIDy",
-    "md5": "577bfb2e3e204e4527ee58189954e80c",
-    "sha1": "031cb6b76381a978e1ae1e51bc17f0662cd2ef9a",
-    "sha256": "97140acab3e0f6e1bbb742f20d7fdaaa93b27f7c4ea8c34c6db5b1109f8d29ed"
+    "uuid": "bc2bc367-42cd-4d3d-83cb-0c9232799453",
+    "username": "smallpanda153",
+    "password": "camero1",
+    "salt": "rkY1ZpZV",
+    "md5": "0be0a0aa3a31d3ff2b4200e9ccefd0ed",
+    "sha1": "b4fec52778bea049dd574ed5176ce72f9751450c",
+    "sha256": "4516aa8b2c594542ab7ea66ca537f9f86d25b9717939151089d5ff93a06e1263"
   },
   "dob": {
-    "date": "1981-05-02T12:24:06.577Z",
-    "age": 43
+    "date": "1988-11-08T19:09:20.675Z",
+    "age": 36
   },
   "registered": {
-    "date": "2014-10-07T12:27:00.610Z",
-    "age": 10
+    "date": "2013-08-25T19:27:59.674Z",
+    "age": 11
   },
-  "phone": "(688) 879 2838",
-  "cell": "(616) 816 9589",
+  "phone": "011-4562-324",
+  "cell": "062-6880-456",
   "id": {
-    "name": "NSS",
-    "value": "94 49 55 3917 2"
+    "name": "SID",
+    "value": "881827941"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/84.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+    "large": "https://randomuser.me/api/portraits/men/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
   },
-  "nat": "MX"
+  "nat": "RS"
 }

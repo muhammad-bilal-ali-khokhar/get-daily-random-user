@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Anthony",
-    "last": "Margaret"
+    "first": "Krishna",
+    "last": "Vernekar"
   },
   "location": {
     "street": {
-      "number": 6799,
-      "name": "Main St"
+      "number": 6794,
+      "name": "Dwaraka Nagar"
     },
-    "city": "Stirling",
-    "state": "Ontario",
-    "country": "Canada",
-    "postcode": "B0V 7Q3",
+    "city": "Morbi",
+    "state": "Himachal Pradesh",
+    "country": "India",
+    "postcode": 88975,
     "coordinates": {
-      "latitude": "-70.0404",
-      "longitude": "-33.3043"
+      "latitude": "6.3055",
+      "longitude": "-145.0111"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "anthony.margaret@example.com",
+  "email": "krishna.vernekar@example.com",
   "login": {
-    "uuid": "1a2a9da3-9c8b-4be0-8cb1-9fb63990fca8",
-    "username": "silverbutterfly657",
-    "password": "shiner",
-    "salt": "KVIRT4at",
-    "md5": "7b39d45878874430ea3a52cee893e02b",
-    "sha1": "689d23b2799d66059f9fc69c66ba75f155c11d89",
-    "sha256": "51f5204031d6eb1b199fd3ebecab8c93aa997968cddcf66725e72785196dae32"
+    "uuid": "8f0a495e-9104-4d1b-8d77-681a6304bbeb",
+    "username": "lazyladybug470",
+    "password": "sophia",
+    "salt": "Jecr3hSU",
+    "md5": "be037ef5ca6f0986d6aa7df1f5eb9e12",
+    "sha1": "5134dce360399abd218a2634c126436d3ec1a8ae",
+    "sha256": "8a8431ac222d6a81ae13436dc83bf4d458f12fe8921233cf6c16c076a97dba02"
   },
   "dob": {
-    "date": "1998-10-19T06:39:49.617Z",
-    "age": 26
+    "date": "1976-03-14T09:56:59.028Z",
+    "age": 49
   },
   "registered": {
-    "date": "2016-04-07T18:03:28.100Z",
-    "age": 8
+    "date": "2003-10-11T11:15:24.062Z",
+    "age": 21
   },
-  "phone": "F55 B97-6566",
-  "cell": "P32 O71-3550",
+  "phone": "8202779721",
+  "cell": "7304841459",
   "id": {
-    "name": "SIN",
-    "value": "838949733"
+    "name": "UIDAI",
+    "value": "921111123681"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/43.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/43.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/43.jpg"
+    "large": "https://randomuser.me/api/portraits/men/67.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
   },
-  "nat": "CA"
+  "nat": "IN"
 }

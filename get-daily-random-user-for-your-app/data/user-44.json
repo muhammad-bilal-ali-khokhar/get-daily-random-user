@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Prvoslav",
-    "last": "Stefanović"
+    "first": "Borja",
+    "last": "Sáez"
   },
   "location": {
     "street": {
-      "number": 641,
-      "name": "Dvadesetdevetog Novembra"
+      "number": 5399,
+      "name": "Calle de Atocha"
     },
-    "city": "Bač",
-    "state": "Pomoravlje",
-    "country": "Serbia",
-    "postcode": 26914,
+    "city": "Santa Cruz de Tenerife",
+    "state": "País Vasco",
+    "country": "Spain",
+    "postcode": 34784,
     "coordinates": {
-      "latitude": "60.0736",
-      "longitude": "-155.1303"
+      "latitude": "-30.8128",
+      "longitude": "-142.4565"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "prvoslav.stefanovic@example.com",
+  "email": "borja.saez@example.com",
   "login": {
-    "uuid": "ac913093-a28e-43f7-bd70-9f6c64c1205a",
-    "username": "heavybear644",
-    "password": "single",
-    "salt": "OiG5n8Cn",
-    "md5": "5e572179c8f618177a20c378ba11e64a",
-    "sha1": "53b242173113410ab0afa69a8d95ebccb4f05fc5",
-    "sha256": "e0632cf63885021938aa78a523d175bd72d58e8360ba8dd7cb4e280d130c8f44"
+    "uuid": "2dc86ce4-db33-45b2-9360-07393ae1387c",
+    "username": "happybear128",
+    "password": "chopin",
+    "salt": "ZQmnuTkg",
+    "md5": "575d9eb639e63d15209570c77a313870",
+    "sha1": "1b22dcecd3b0625eed246cd17b2ad09a9125c4b1",
+    "sha256": "d3c696912c7a00f39ae54d86d0ee538e13e96b6acb5bfd2af9fe6d26d0ff4146"
   },
   "dob": {
-    "date": "1998-12-26T04:02:13.837Z",
-    "age": 26
+    "date": "1969-09-22T20:20:59.964Z",
+    "age": 55
   },
   "registered": {
-    "date": "2010-11-09T19:44:10.352Z",
-    "age": 14
+    "date": "2007-01-16T19:31:41.573Z",
+    "age": 18
   },
-  "phone": "022-7110-365",
-  "cell": "065-4906-117",
+  "phone": "926-902-548",
+  "cell": "699-166-953",
   "id": {
-    "name": "SID",
-    "value": "954323262"
+    "name": "DNI",
+    "value": "06676411-M"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/75.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+    "large": "https://randomuser.me/api/portraits/men/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
   },
-  "nat": "RS"
+  "nat": "ES"
 }

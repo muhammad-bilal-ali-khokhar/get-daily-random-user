@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Anni",
-    "last": "Rajala"
+    "title": "Mr",
+    "first": "Srđan",
+    "last": "Milutinović"
   },
   "location": {
     "street": {
-      "number": 2414,
-      "name": "Satakennankatu"
+      "number": 1775,
+      "name": "Brnjačka"
     },
-    "city": "Savitaipale",
-    "state": "Tavastia Proper",
-    "country": "Finland",
-    "postcode": 35712,
+    "city": "Bor",
+    "state": "Pomoravlje",
+    "country": "Serbia",
+    "postcode": 20959,
     "coordinates": {
-      "latitude": "-25.3430",
-      "longitude": "22.6704"
+      "latitude": "61.4663",
+      "longitude": "-125.4040"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "anni.rajala@example.com",
+  "email": "srdan.milutinovic@example.com",
   "login": {
-    "uuid": "1c0d3cce-4d36-4bdb-9a1e-92026f2c4374",
-    "username": "tinylion265",
-    "password": "anne",
-    "salt": "2lzTZR1P",
-    "md5": "0e322b4a82563985d8e7afc3ba7c5a1e",
-    "sha1": "6e41ecde8276be80a3b09865c42233e27015338a",
-    "sha256": "a6e89e718f7668cd0fe735ed2d8abc328285514272a868fa89a33da726ef1a98"
+    "uuid": "b6b21291-c139-4d2a-9a6e-20f65c456abf",
+    "username": "happytiger249",
+    "password": "page",
+    "salt": "WgpL1jQv",
+    "md5": "e1b693505f48573c5f5345438fab5e73",
+    "sha1": "b593e96136d811b6ff5f3d0bd8e8dc356b16cced",
+    "sha256": "b71e3c921d0b7e92cfef6368efe8fe31a8d75e1207efdbd2dfc0bcbf0b7281fe"
   },
   "dob": {
-    "date": "1946-10-09T17:51:10.917Z",
-    "age": 78
+    "date": "1946-01-09T13:07:30.538Z",
+    "age": 79
   },
   "registered": {
-    "date": "2005-03-12T02:30:22.314Z",
-    "age": 20
+    "date": "2022-05-19T20:10:17.444Z",
+    "age": 2
   },
-  "phone": "09-173-242",
-  "cell": "040-219-88-38",
+  "phone": "017-2346-699",
+  "cell": "067-0310-766",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA856undefined"
+    "name": "SID",
+    "value": "524359185"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
   },
-  "nat": "FI"
+  "nat": "RS"
 }

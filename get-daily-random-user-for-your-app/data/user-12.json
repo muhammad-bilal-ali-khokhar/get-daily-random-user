@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Freja",
-    "last": "Kristensen"
+    "title": "Mr",
+    "first": "Olivier",
+    "last": "Lo"
   },
   "location": {
     "street": {
-      "number": 7843,
-      "name": "Agnetevej"
+      "number": 304,
+      "name": "Duke St"
     },
-    "city": "Kongens  Lyngby",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 43280,
+    "city": "Lafontaine",
+    "state": "Manitoba",
+    "country": "Canada",
+    "postcode": "O2M 1C8",
     "coordinates": {
-      "latitude": "-40.7635",
-      "longitude": "39.0004"
+      "latitude": "-66.0711",
+      "longitude": "-97.7434"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "freja.kristensen@example.com",
+  "email": "olivier.lo@example.com",
   "login": {
-    "uuid": "5675c061-55a6-4bac-a5bf-d7418d40afef",
-    "username": "whiteswan539",
-    "password": "pocket",
-    "salt": "tPASQWyu",
-    "md5": "4296be2ae2187e866960e0f9116ba4da",
-    "sha1": "de5aa372360c3121162d19e431f28a410069b17d",
-    "sha256": "4e6088323d59f0ea1dbfe9707ab916f8e2684684ba8d6ae77451ac2ce45274eb"
+    "uuid": "b8406831-30dd-4afe-9260-c66508ae2733",
+    "username": "happybear817",
+    "password": "browning",
+    "salt": "nb33O841",
+    "md5": "75b08da46a8f3019b72cd74dda6a83a2",
+    "sha1": "c009db0c409c964d2abb4d34250e7a85793f13d8",
+    "sha256": "26ce999a4a473f9646ab88cbef056d940c72175555a71263934cce3e0a64333a"
   },
   "dob": {
-    "date": "1961-10-08T03:51:44.021Z",
-    "age": 63
+    "date": "1968-11-07T03:19:08.795Z",
+    "age": 56
   },
   "registered": {
-    "date": "2003-12-14T02:09:50.402Z",
-    "age": 21
+    "date": "2009-12-03T05:26:23.040Z",
+    "age": 15
   },
-  "phone": "83069995",
-  "cell": "51928586",
+  "phone": "B56 X14-2265",
+  "cell": "H78 F62-5541",
   "id": {
-    "name": "CPR",
-    "value": "071061-1832"
+    "name": "SIN",
+    "value": "105341135"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "DK"
+  "nat": "CA"
 }

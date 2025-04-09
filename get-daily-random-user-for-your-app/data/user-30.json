@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Roberto",
-    "last": "Hernández"
+    "first": "Hélder",
+    "last": "Cardoso"
   },
   "location": {
     "street": {
-      "number": 3408,
-      "name": "Calle de Atocha"
+      "number": 5466,
+      "name": "Rua Espirito Santo "
     },
-    "city": "Elche",
-    "state": "Comunidad de Madrid",
-    "country": "Spain",
-    "postcode": 15790,
+    "city": "Guarapuava",
+    "state": "Rio Grande do Sul",
+    "country": "Brazil",
+    "postcode": 84120,
     "coordinates": {
-      "latitude": "-32.6309",
-      "longitude": "-74.9448"
+      "latitude": "-72.8627",
+      "longitude": "-129.2959"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "roberto.hernandez@example.com",
+  "email": "helder.cardoso@example.com",
   "login": {
-    "uuid": "d6f56371-135a-4919-a0f5-335225820247",
-    "username": "yellowfrog324",
-    "password": "1982",
-    "salt": "foxNLhJP",
-    "md5": "14ff9d53edfd1df78280325f25a9c4c4",
-    "sha1": "8d449987df376bbf737b3f4328142b52a875908a",
-    "sha256": "9dca4c162a29a16d6cc7fd40feceae24efdd869019559f8d1db8b53b5d1e919e"
+    "uuid": "717855cd-2f5a-4d09-b3f6-7ee248f461a8",
+    "username": "yellowkoala496",
+    "password": "cigar",
+    "salt": "i8vNZdJR",
+    "md5": "4cbdd555aeb7f0f93a4ca02e1dba4e68",
+    "sha1": "715f3c5c75a982ce10904e14eacc084f42582980",
+    "sha256": "d55e1138a79937c49eab4cd7a212bee5cac45ed0852a34059e73c02c1f015962"
   },
   "dob": {
-    "date": "1957-12-12T00:42:11.392Z",
-    "age": 67
+    "date": "1994-06-04T11:45:44.061Z",
+    "age": 30
   },
   "registered": {
-    "date": "2009-08-23T18:26:14.336Z",
-    "age": 15
+    "date": "2020-01-20T23:15:51.781Z",
+    "age": 5
   },
-  "phone": "913-510-124",
-  "cell": "619-181-078",
+  "phone": "(25) 9240-6510",
+  "cell": "(47) 2093-1093",
   "id": {
-    "name": "DNI",
-    "value": "12098298-N"
+    "name": "CPF",
+    "value": "251.327.299-49"
   },
   "picture": {
     "large": "https://randomuser.me/api/portraits/men/18.jpg",
     "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
     "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
   },
-  "nat": "ES"
+  "nat": "BR"
 }

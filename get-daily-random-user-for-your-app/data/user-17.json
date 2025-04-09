@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Olivia",
-    "last": "Williams"
+    "first": "Oriyanka",
+    "last": "Hizhnyak"
   },
   "location": {
     "street": {
-      "number": 876,
-      "name": "Frances Ct"
+      "number": 5199,
+      "name": "Provulok Zhelyabova"
     },
-    "city": "Townsville",
-    "state": "Australian Capital Territory",
-    "country": "Australia",
-    "postcode": 6983,
+    "city": "Gorodok",
+    "state": "Sumska",
+    "country": "Ukraine",
+    "postcode": 95276,
     "coordinates": {
-      "latitude": "-82.1393",
-      "longitude": "64.6183"
+      "latitude": "75.0633",
+      "longitude": "45.8240"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "olivia.williams@example.com",
+  "email": "oriyanka.hizhnyak@example.com",
   "login": {
-    "uuid": "bf5014d1-05d8-4b69-9250-fce83ce570dd",
-    "username": "angryzebra783",
-    "password": "elway",
-    "salt": "w1HUxKKh",
-    "md5": "ca71bcaf0c53f489941b2e7f5531a944",
-    "sha1": "dafa90c2d46242231a587f69ed66bb0608d11908",
-    "sha256": "be6ca44c3351b936288af94768931af4949e066f2034b06b76971057c201ce41"
+    "uuid": "aeac8b3b-fd15-4ab2-a675-3a4cd86a5f3a",
+    "username": "greenelephant677",
+    "password": "javier",
+    "salt": "1fuMRlkx",
+    "md5": "57574d83325311b9e85471e1631c4775",
+    "sha1": "a4ea7f81a8bd2a79e023a3f9e7bd976eca962307",
+    "sha256": "a35c220aa47aa2f5bf99eec79019fc568c731383acfb9302f53650e81033e1ae"
   },
   "dob": {
-    "date": "1997-02-06T02:19:31.492Z",
-    "age": 28
+    "date": "1960-02-07T06:40:14.290Z",
+    "age": 65
   },
   "registered": {
-    "date": "2013-06-24T18:34:47.650Z",
-    "age": 11
+    "date": "2018-02-07T17:48:02.617Z",
+    "age": 7
   },
-  "phone": "07-9340-8893",
-  "cell": "0494-171-210",
+  "phone": "(096) K63-9263",
+  "cell": "(098) N15-5486",
   "id": {
-    "name": "TFN",
-    "value": "640211026"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/24.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+    "large": "https://randomuser.me/api/portraits/women/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
   },
-  "nat": "AU"
+  "nat": "UA"
 }

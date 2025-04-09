@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Celto",
-    "last": "Silveira"
+    "first": "José",
+    "last": "Rössler"
   },
   "location": {
     "street": {
-      "number": 9468,
-      "name": "Rua Treze "
+      "number": 8851,
+      "name": "Kapellenweg"
     },
-    "city": "Mogi Guaçu",
-    "state": "Amapá",
-    "country": "Brazil",
-    "postcode": 34844,
+    "city": "Schiltach",
+    "state": "Nordrhein-Westfalen",
+    "country": "Germany",
+    "postcode": 55971,
     "coordinates": {
-      "latitude": "-77.3660",
-      "longitude": "-92.4280"
+      "latitude": "-50.5209",
+      "longitude": "-99.0517"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "celto.silveira@example.com",
+  "email": "jose.rossler@example.com",
   "login": {
-    "uuid": "3fdfd814-ddf8-4d60-9153-91a9bad9d876",
-    "username": "goldenelephant660",
-    "password": "baba",
-    "salt": "Z20H3xbg",
-    "md5": "3b9cae41b5341ed0abb2584f4372414f",
-    "sha1": "902503875a97108b97eca781ef1fbe7001b62ae4",
-    "sha256": "3ced40d8c5375d117cc76c6cc23b0b21c2dffa223f21d621b4cc4e8e6290c3f0"
+    "uuid": "8bce7c98-8934-4e0a-b3e4-d7d67cb5fc3c",
+    "username": "tinyelephant842",
+    "password": "capricor",
+    "salt": "ILms6aN0",
+    "md5": "a52d9c1589eb57d0b75a5b3024f74aed",
+    "sha1": "41d00244721a3063da8700307d3ff7ee70fe023b",
+    "sha256": "c12aac163810d60281e0ca78bb212e8c105eb9a7653e942855ef5ba723b4440e"
   },
   "dob": {
-    "date": "1949-03-08T09:15:51.955Z",
-    "age": 76
+    "date": "1971-01-31T23:06:36.129Z",
+    "age": 54
   },
   "registered": {
-    "date": "2015-10-21T23:49:12.302Z",
-    "age": 9
+    "date": "2019-06-21T15:23:25.910Z",
+    "age": 5
   },
-  "phone": "(66) 8585-4367",
-  "cell": "(18) 0780-8228",
+  "phone": "0477-3972700",
+  "cell": "0175-9887667",
   "id": {
-    "name": "CPF",
-    "value": "439.296.856-52"
+    "name": "SVNR",
+    "value": "80 310171 R 325"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
   },
-  "nat": "BR"
+  "nat": "DE"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "سوگند",
-    "last": "رضاییان"
+    "title": "Mr",
+    "first": "Mille",
+    "last": "Olsen"
   },
   "location": {
     "street": {
-      "number": 1996,
-      "name": "پارک 17 شهریور"
+      "number": 2044,
+      "name": "Bakkedraget"
     },
-    "city": "سیرجان",
-    "state": "البرز",
-    "country": "Iran",
-    "postcode": 86761,
+    "city": "Askeby",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "postcode": 59358,
     "coordinates": {
-      "latitude": "12.9893",
-      "longitude": "114.5457"
+      "latitude": "-40.4392",
+      "longitude": "-131.2159"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "swgnd.rdyyn@example.com",
+  "email": "mille.olsen@example.com",
   "login": {
-    "uuid": "83f13e92-d244-471e-a82d-8f487ddcf581",
-    "username": "ticklishleopard956",
-    "password": "blast",
-    "salt": "jrqEe5kF",
-    "md5": "5a4b09ea0f58e9ef670e401ec69edcad",
-    "sha1": "db40ffa2e5aea3d836baef2ffdf7eda54f987a9a",
-    "sha256": "82942c8723f90026bad5ca9ba2870d585ea059c4ce89b9f15636e7d9d4e2ad96"
+    "uuid": "aa730168-f5ce-4e5f-baaf-42c3f6fd48c2",
+    "username": "redzebra331",
+    "password": "patches",
+    "salt": "7uY33v9B",
+    "md5": "fa90f109ab8a6ae27c82b4618175ee8c",
+    "sha1": "cac7dd14d3252aa497034d128a30bf017ecf7432",
+    "sha256": "115dd03fdb232485b02b82addc7f876b01cff56c46a3b0d70e10105450ae6ba7"
   },
   "dob": {
-    "date": "1959-09-10T17:10:18.035Z",
-    "age": 65
+    "date": "1954-12-31T01:56:04.686Z",
+    "age": 70
   },
   "registered": {
-    "date": "2012-09-24T16:09:07.745Z",
-    "age": 12
+    "date": "2017-07-26T16:29:03.697Z",
+    "age": 7
   },
-  "phone": "088-79350842",
-  "cell": "0928-702-0429",
+  "phone": "94982571",
+  "cell": "71921672",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "301254-8092"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
   },
-  "nat": "IR"
+  "nat": "DK"
 }

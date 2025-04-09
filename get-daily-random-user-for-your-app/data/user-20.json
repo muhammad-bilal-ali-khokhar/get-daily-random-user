@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Hans-Wilhelm",
-    "last": "Jessen"
+    "first": "Adam",
+    "last": "Wood"
   },
   "location": {
     "street": {
-      "number": 3745,
-      "name": "Am Sportplatz"
+      "number": 2517,
+      "name": "Barbadoes Street"
     },
-    "city": "Schlieben",
-    "state": "Baden-Württemberg",
-    "country": "Germany",
-    "postcode": 93793,
+    "city": "Wellington",
+    "state": "Tasman",
+    "country": "New Zealand",
+    "postcode": 91825,
     "coordinates": {
-      "latitude": "-53.7577",
-      "longitude": "-92.2683"
+      "latitude": "48.6753",
+      "longitude": "-68.0383"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "hans-wilhelm.jessen@example.com",
+  "email": "adam.wood@example.com",
   "login": {
-    "uuid": "66950c0e-0f8e-4f0a-aa2e-3e7d72aa1338",
-    "username": "bigtiger294",
-    "password": "pepsi",
-    "salt": "b8G60bPz",
-    "md5": "1d4ba925e20ebacacef3ddbd5eaab1d8",
-    "sha1": "0ee7bc640c5bc3d1ef7616424a6b992e0c38306c",
-    "sha256": "1708934f73d8d20cbf6a0760e7857a01e77480dbc93ddd6c6bde1080caf8e6e9"
+    "uuid": "0f340ece-ef39-4a40-9bd9-d9dae94714f4",
+    "username": "ticklishmouse867",
+    "password": "republic",
+    "salt": "48nIOtdM",
+    "md5": "c8f9aee2fdb50b10789fbefd22c88411",
+    "sha1": "83a7edeb8a1c23040cdba4d7e81d881fdb23e101",
+    "sha256": "bd37cb294e44fe537504959e71c6f765d5adbe29881a30b95e6923891072e092"
   },
   "dob": {
-    "date": "1994-07-17T23:54:47.555Z",
-    "age": 30
+    "date": "1978-10-08T22:00:47.921Z",
+    "age": 46
   },
   "registered": {
-    "date": "2012-03-01T17:45:31.943Z",
-    "age": 13
+    "date": "2019-10-01T11:53:59.530Z",
+    "age": 5
   },
-  "phone": "0416-6022511",
-  "cell": "0175-0651988",
+  "phone": "(953)-412-9219",
+  "cell": "(599)-772-1920",
   "id": {
-    "name": "SVNR",
-    "value": "48 170794 J 405"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    "large": "https://randomuser.me/api/portraits/men/64.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
   },
-  "nat": "DE"
+  "nat": "NZ"
 }

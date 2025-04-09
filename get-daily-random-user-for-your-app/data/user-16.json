@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Francisca",
-    "last": "Roque"
+    "title": "Mr",
+    "first": "Reis",
+    "last": "da Mota"
   },
   "location": {
     "street": {
-      "number": 504,
-      "name": "Eje vial Rincón"
+      "number": 9242,
+      "name": "Rua Das Flores "
     },
-    "city": "Mecatán",
-    "state": "Tamaulipas",
-    "country": "Mexico",
-    "postcode": 64287,
+    "city": "Viamão",
+    "state": "Espírito Santo",
+    "country": "Brazil",
+    "postcode": 61385,
     "coordinates": {
-      "latitude": "28.4375",
-      "longitude": "110.1127"
+      "latitude": "-76.8503",
+      "longitude": "-83.1163"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "francisca.roque@example.com",
+  "email": "reis.damota@example.com",
   "login": {
-    "uuid": "6cab0a7d-972a-4443-9eb2-4708a728f40f",
-    "username": "blackfish518",
-    "password": "phoenix1",
-    "salt": "CjOtpn24",
-    "md5": "0c44f796ae7b840d8bce8953f8387118",
-    "sha1": "cc0a891c222a34823e5d02a8560ea774a90192fe",
-    "sha256": "26fb6ff028ed0405174b8be7980669fa4cc989cf90eceeee800b6c3b8a732482"
+    "uuid": "c46e3f49-d23f-4e9f-a808-d506de3a269f",
+    "username": "angryleopard845",
+    "password": "lorraine",
+    "salt": "1km86K8z",
+    "md5": "8d8c81105bef584f59f836b6aecda72b",
+    "sha1": "f6da39dc6a8ad142938a9df74d87b7084754260b",
+    "sha256": "56825b76321234cc412164ebb84f88fd206f165a44b85558b7607268d3924b13"
   },
   "dob": {
-    "date": "1948-01-23T09:11:55.165Z",
-    "age": 77
+    "date": "1964-02-21T06:14:29.370Z",
+    "age": 61
   },
   "registered": {
-    "date": "2013-02-12T04:00:09.002Z",
-    "age": 12
+    "date": "2003-03-13T11:50:06.519Z",
+    "age": 22
   },
-  "phone": "(641) 592 0938",
-  "cell": "(618) 917 8999",
+  "phone": "(89) 1613-5950",
+  "cell": "(42) 6622-0412",
   "id": {
-    "name": "NSS",
-    "value": "59 60 23 0000 5"
+    "name": "CPF",
+    "value": "222.059.739-09"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/64.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
   },
-  "nat": "MX"
+  "nat": "BR"
 }

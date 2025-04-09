@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Xu",
-    "last": "Broer"
+    "first": "Mark",
+    "last": "Ohnstad"
   },
   "location": {
     "street": {
-      "number": 1518,
-      "name": "Bredenel"
+      "number": 1417,
+      "name": "Solligrenda"
     },
-    "city": "Ulvenhout",
-    "state": "Zeeland",
-    "country": "Netherlands",
-    "postcode": "2012 XG",
+    "city": "Hem",
+    "state": "Vest-Agder",
+    "country": "Norway",
+    "postcode": "7019",
     "coordinates": {
-      "latitude": "33.7826",
-      "longitude": "-144.7516"
+      "latitude": "38.9946",
+      "longitude": "-13.9850"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "xu.broer@example.com",
+  "email": "mark.ohnstad@example.com",
   "login": {
-    "uuid": "f1223ddd-890f-4c1c-a81a-b2e052622f7a",
-    "username": "bigostrich766",
-    "password": "kong",
-    "salt": "HKd0WgW5",
-    "md5": "6deca9712add5988d5d7db8bef4c2205",
-    "sha1": "0abd65cb554aa26d12ce1d21bb32c6a28bc4bae1",
-    "sha256": "a34127711a494e730d363111ee479d89f9b5b3dbd3b48659e8aca7789f65663c"
+    "uuid": "99d2c4ec-ecce-4b55-af51-34ac1ec79fda",
+    "username": "greencat272",
+    "password": "written",
+    "salt": "3UV6UvuP",
+    "md5": "e73ceff586bb4a8de77dad8bb71b8c14",
+    "sha1": "194ae938d9729faa07e8b9645245f174d0081e1a",
+    "sha256": "2e94ea5522159272d42932eb2ac0791ecd595bed7df5e5ebaaab473a89c88a5a"
   },
   "dob": {
-    "date": "1953-12-19T16:21:58.970Z",
-    "age": 71
+    "date": "1959-07-14T02:41:44.531Z",
+    "age": 65
   },
   "registered": {
-    "date": "2019-12-01T04:40:59.649Z",
-    "age": 5
+    "date": "2015-06-21T17:17:31.406Z",
+    "age": 9
   },
-  "phone": "(0456) 299734",
-  "cell": "(06) 84816892",
+  "phone": "29745986",
+  "cell": "44999088",
   "id": {
-    "name": "BSN",
-    "value": "37537732"
+    "name": "FN",
+    "value": "14075922931"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    "large": "https://randomuser.me/api/portraits/men/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
   },
-  "nat": "NL"
+  "nat": "NO"
 }
