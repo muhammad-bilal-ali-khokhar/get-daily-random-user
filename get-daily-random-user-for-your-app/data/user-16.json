@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Reis",
-    "last": "da Mota"
+    "title": "Miss",
+    "first": "Alix",
+    "last": "Guillaume"
   },
   "location": {
     "street": {
-      "number": 9242,
-      "name": "Rua Das Flores "
+      "number": 6404,
+      "name": "Avenue des Ternes"
     },
-    "city": "Viamão",
-    "state": "Espírito Santo",
-    "country": "Brazil",
-    "postcode": 61385,
+    "city": "Angers",
+    "state": "Maine-et-Loire",
+    "country": "France",
+    "postcode": 44079,
     "coordinates": {
-      "latitude": "-76.8503",
-      "longitude": "-83.1163"
+      "latitude": "-15.8192",
+      "longitude": "51.8034"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "reis.damota@example.com",
+  "email": "alix.guillaume@example.com",
   "login": {
-    "uuid": "c46e3f49-d23f-4e9f-a808-d506de3a269f",
-    "username": "angryleopard845",
-    "password": "lorraine",
-    "salt": "1km86K8z",
-    "md5": "8d8c81105bef584f59f836b6aecda72b",
-    "sha1": "f6da39dc6a8ad142938a9df74d87b7084754260b",
-    "sha256": "56825b76321234cc412164ebb84f88fd206f165a44b85558b7607268d3924b13"
+    "uuid": "0602a009-62fc-4183-a5e5-c17e5cb339f6",
+    "username": "greensnake190",
+    "password": "toolman",
+    "salt": "j7XgIniu",
+    "md5": "c9f2b3df357e0c06c09b6bc25107e549",
+    "sha1": "e71b41dcce28ed46709bcc36a29bdd1c8e7d5ddf",
+    "sha256": "b2349104f758411c10ea555a1dc5254ac8f85bf3fcd62a637be642eaa0812eaf"
   },
   "dob": {
-    "date": "1964-02-21T06:14:29.370Z",
-    "age": 61
+    "date": "1970-01-24T21:31:39.035Z",
+    "age": 55
   },
   "registered": {
-    "date": "2003-03-13T11:50:06.519Z",
-    "age": 22
+    "date": "2020-12-12T10:29:54.509Z",
+    "age": 4
   },
-  "phone": "(89) 1613-5950",
-  "cell": "(42) 6622-0412",
+  "phone": "04-72-25-94-29",
+  "cell": "06-48-73-32-74",
   "id": {
-    "name": "CPF",
-    "value": "222.059.739-09"
+    "name": "INSEE",
+    "value": "2700032265637 17"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/women/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
   },
-  "nat": "BR"
+  "nat": "FR"
 }

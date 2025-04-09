@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Hélder",
-    "last": "Cardoso"
+    "title": "Miss",
+    "first": "Elya",
+    "last": "Le Gall"
   },
   "location": {
     "street": {
-      "number": 5466,
-      "name": "Rua Espirito Santo "
+      "number": 3680,
+      "name": "Rue André-Gide"
     },
-    "city": "Guarapuava",
-    "state": "Rio Grande do Sul",
-    "country": "Brazil",
-    "postcode": 84120,
+    "city": "Toulon",
+    "state": "Seine-Saint-Denis",
+    "country": "France",
+    "postcode": 15746,
     "coordinates": {
-      "latitude": "-72.8627",
-      "longitude": "-129.2959"
+      "latitude": "-18.1931",
+      "longitude": "33.5618"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "helder.cardoso@example.com",
+  "email": "elya.legall@example.com",
   "login": {
-    "uuid": "717855cd-2f5a-4d09-b3f6-7ee248f461a8",
-    "username": "yellowkoala496",
-    "password": "cigar",
-    "salt": "i8vNZdJR",
-    "md5": "4cbdd555aeb7f0f93a4ca02e1dba4e68",
-    "sha1": "715f3c5c75a982ce10904e14eacc084f42582980",
-    "sha256": "d55e1138a79937c49eab4cd7a212bee5cac45ed0852a34059e73c02c1f015962"
+    "uuid": "471c55ed-1415-4c65-b2d1-5c9640db5d8f",
+    "username": "biggoose799",
+    "password": "",
+    "salt": "sewXzvpj",
+    "md5": "96a587c25aed4eb41a186a68b2305e7f",
+    "sha1": "192825e2ca769d451c9247a780732b843575b139",
+    "sha256": "ea510e86fc9633a1243ec36905e8b4effcf657cb4adeb9a898c29b3549bd0ebd"
   },
   "dob": {
-    "date": "1994-06-04T11:45:44.061Z",
-    "age": 30
+    "date": "1979-08-05T10:14:15.591Z",
+    "age": 45
   },
   "registered": {
-    "date": "2020-01-20T23:15:51.781Z",
-    "age": 5
+    "date": "2009-12-08T16:31:13.635Z",
+    "age": 15
   },
-  "phone": "(25) 9240-6510",
-  "cell": "(47) 2093-1093",
+  "phone": "01-87-38-59-49",
+  "cell": "06-34-04-94-64",
   "id": {
-    "name": "CPF",
-    "value": "251.327.299-49"
+    "name": "INSEE",
+    "value": "2790760453026 14"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    "large": "https://randomuser.me/api/portraits/women/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
   },
-  "nat": "BR"
+  "nat": "FR"
 }

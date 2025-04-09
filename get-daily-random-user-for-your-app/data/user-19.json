@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Tyler",
-    "last": "Lewis"
+    "title": "Ms",
+    "first": "Sofie",
+    "last": "Poulsen"
   },
   "location": {
     "street": {
-      "number": 8727,
-      "name": "Penrose Road"
+      "number": 4641,
+      "name": "Nellikevej"
     },
-    "city": "Wellington",
-    "state": "Nelson",
-    "country": "New Zealand",
-    "postcode": 65948,
+    "city": "Øster Assels",
+    "state": "Syddanmark",
+    "country": "Denmark",
+    "postcode": 86095,
     "coordinates": {
-      "latitude": "51.4479",
-      "longitude": "-174.4321"
+      "latitude": "-43.8620",
+      "longitude": "130.4143"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "tyler.lewis@example.com",
+  "email": "sofie.poulsen@example.com",
   "login": {
-    "uuid": "f7bdae79-e943-4d67-a815-9ef799b26b1a",
-    "username": "bigfrog629",
-    "password": "lazarus",
-    "salt": "6Kro1AEy",
-    "md5": "e41392afecc196b3ccfb277753a87733",
-    "sha1": "a733b4dc50c7906edd80ba5f16b88d146654a8fc",
-    "sha256": "06181d53321f749d628ed29eefc3174fc802c544901aa6a6cf511dbb1549909a"
+    "uuid": "ecf678ff-d550-41cd-8215-59a1800f4708",
+    "username": "greenfrog618",
+    "password": "aardvark",
+    "salt": "wtceXZak",
+    "md5": "ea570100893d918b58364ede33f41c87",
+    "sha1": "5f8b05ba61a1ab991b87dbd6bd2df2b596ab736f",
+    "sha256": "c44ed65743bfa5c432a76e64f40f6ae0576903a1fcd7cb60a26e010ef28b23e1"
   },
   "dob": {
-    "date": "1994-07-22T12:57:21.195Z",
-    "age": 30
+    "date": "1983-06-01T08:20:34.463Z",
+    "age": 41
   },
   "registered": {
-    "date": "2021-10-11T10:03:17.793Z",
-    "age": 3
+    "date": "2004-07-05T01:42:19.225Z",
+    "age": 20
   },
-  "phone": "(556)-147-1684",
-  "cell": "(212)-750-0557",
+  "phone": "00924051",
+  "cell": "29097532",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "010683-3309"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/46.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+    "large": "https://randomuser.me/api/portraits/women/53.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
   },
-  "nat": "NZ"
+  "nat": "DK"
 }

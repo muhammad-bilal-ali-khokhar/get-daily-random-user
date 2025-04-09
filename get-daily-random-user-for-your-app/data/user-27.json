@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Ayşe",
-    "last": "Tunçeri"
+    "title": "Mr",
+    "first": "Zion",
+    "last": "Van Diest"
   },
   "location": {
     "street": {
-      "number": 7276,
-      "name": "Vatan Cd"
+      "number": 598,
+      "name": "Hartmanplein"
     },
-    "city": "Elazığ",
-    "state": "Antalya",
-    "country": "Turkey",
-    "postcode": 97711,
+    "city": "Doorn",
+    "state": "Friesland",
+    "country": "Netherlands",
+    "postcode": "9374 HV",
     "coordinates": {
-      "latitude": "67.1998",
-      "longitude": "44.0860"
+      "latitude": "33.2294",
+      "longitude": "-15.8182"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "ayse.tunceri@example.com",
+  "email": "zion.vandiest@example.com",
   "login": {
-    "uuid": "0d35bf41-fa3c-40c6-aab1-2a86b21b9334",
-    "username": "beautifulcat709",
-    "password": "redone",
-    "salt": "NoWaYy4N",
-    "md5": "27b14e6a7616ca9d72819efbd905d492",
-    "sha1": "667933bff2f18421ee1f9a651892362eeb6de830",
-    "sha256": "95549e889b772212a3a68d27c4a2a1a51a9a051ebad62ef6de2bb9b2ad95b7a5"
+    "uuid": "fc20a23f-d4dd-4b60-97b9-5fb2be35d01d",
+    "username": "sadmouse424",
+    "password": "jerky",
+    "salt": "2q3ZTzb2",
+    "md5": "d84e0a9a60fddde8365f78cc11addb4c",
+    "sha1": "cda50383df3b1354d9bf77ac09cc6abf75429f92",
+    "sha256": "fd3115ed67931349f704ed4adeb0a1c39d575add35393de52caac7b2758ae0b8"
   },
   "dob": {
-    "date": "1976-01-09T09:34:47.912Z",
-    "age": 49
+    "date": "1999-08-11T17:44:24.534Z",
+    "age": 25
   },
   "registered": {
-    "date": "2009-11-11T20:48:41.488Z",
-    "age": 15
+    "date": "2016-12-02T18:14:16.043Z",
+    "age": 8
   },
-  "phone": "(117)-612-2770",
-  "cell": "(961)-631-1351",
+  "phone": "(078) 2380183",
+  "cell": "(06) 82117152",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "21479895"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/71.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
+    "large": "https://randomuser.me/api/portraits/men/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
   },
-  "nat": "TR"
+  "nat": "NL"
 }

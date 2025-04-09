@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Justin",
-    "last": "Harcourt"
+    "first": "Zhdan",
+    "last": "Radilovskiy"
   },
   "location": {
     "street": {
-      "number": 8366,
-      "name": "Coastal Highway"
+      "number": 8448,
+      "name": "Prospekt Zluki"
     },
-    "city": "Burlington",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "Q2O 8S8",
+    "city": "Turka",
+    "state": "Ternopilska",
+    "country": "Ukraine",
+    "postcode": 18273,
     "coordinates": {
-      "latitude": "-68.1069",
-      "longitude": "-53.4552"
+      "latitude": "78.0193",
+      "longitude": "-25.6373"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "justin.harcourt@example.com",
+  "email": "zhdan.radilovskiy@example.com",
   "login": {
-    "uuid": "864d4139-3cc2-4951-ab44-023a4f7d4f59",
-    "username": "crazyfish115",
-    "password": "reagan",
-    "salt": "oVWiMwgk",
-    "md5": "2040a0570c60e69c72f1740f7b0b51b0",
-    "sha1": "6c4fcd9a62c7a9cc6bf6159e8f058e2cdf1f4409",
-    "sha256": "b9192e8621b5b0508a04d075103ad52a004f3959f30491fa600b1ce6d9d4031c"
+    "uuid": "6b7d5ec1-1ecd-47bf-bed8-028cd316291c",
+    "username": "ticklishleopard109",
+    "password": "umbrella",
+    "salt": "g4VYBT0l",
+    "md5": "47dcaec2bfe8ff9f8578d3b6931d3c15",
+    "sha1": "e6396da6fbcc813873a6d53b6f5177386040cc64",
+    "sha256": "1fe879c041d9574974b6bc8a9266028e51d8a12055bdcfbcd630d335e56d0f58"
   },
   "dob": {
-    "date": "1953-09-19T03:44:40.548Z",
-    "age": 71
+    "date": "1952-04-13T06:54:01.444Z",
+    "age": 72
   },
   "registered": {
-    "date": "2006-06-15T02:41:01.464Z",
-    "age": 18
+    "date": "2013-01-15T21:15:21.083Z",
+    "age": 12
   },
-  "phone": "G94 V29-3679",
-  "cell": "X03 A02-7127",
+  "phone": "(098) F13-1508",
+  "cell": "(067) T77-0059",
   "id": {
-    "name": "SIN",
-    "value": "069720290"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/67.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
+    "large": "https://randomuser.me/api/portraits/men/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
   },
-  "nat": "CA"
+  "nat": "UA"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Rosario",
-    "last": "Rolón"
+    "title": "Mrs",
+    "first": "Anupama",
+    "last": "Kumari"
   },
   "location": {
     "street": {
-      "number": 6054,
-      "name": "Viaducto Ucrania"
+      "number": 5585,
+      "name": "Old Jail Rd"
     },
-    "city": "Teocelo",
-    "state": "Nuevo Leon",
-    "country": "Mexico",
-    "postcode": 57676,
+    "city": "Kottayam",
+    "state": "Rajasthan",
+    "country": "India",
+    "postcode": 38172,
     "coordinates": {
-      "latitude": "25.0260",
-      "longitude": "95.7500"
+      "latitude": "7.6573",
+      "longitude": "64.4279"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "rosario.rolon@example.com",
+  "email": "anupama.kumari@example.com",
   "login": {
-    "uuid": "dc349fd9-881d-4a70-b84e-1e55a0320f3f",
-    "username": "whitebutterfly905",
-    "password": "cypress",
-    "salt": "GhZNBb8H",
-    "md5": "761496af95e13bd8042df84550b19158",
-    "sha1": "073bbedbca003d215ccfaf6d5fc00c25c77a25a4",
-    "sha256": "cff46ecbeb91e2045287b116ac9fe84b6325e43e418adc4aad0524f85b45251c"
+    "uuid": "178a898d-5633-4a9e-8a89-e098ceed17ad",
+    "username": "purpletiger115",
+    "password": "kungfu",
+    "salt": "xonPL3sO",
+    "md5": "a16c4db8561eb46b71d4f1ba50ad01af",
+    "sha1": "a52579fc7c255a1fe9735de3dd8876aa8b4707e2",
+    "sha256": "5b3db32785ebfa2de9bec9faaf80db0508637bf35f8249205e47a2bf2ef37800"
   },
   "dob": {
-    "date": "1965-02-01T22:40:06.859Z",
-    "age": 60
+    "date": "1978-07-03T07:36:54.578Z",
+    "age": 46
   },
   "registered": {
-    "date": "2009-01-05T03:47:52.345Z",
-    "age": 16
+    "date": "2012-11-12T02:50:09.776Z",
+    "age": 12
   },
-  "phone": "(602) 109 2994",
-  "cell": "(607) 296 3948",
+  "phone": "9980468378",
+  "cell": "9668905720",
   "id": {
-    "name": "NSS",
-    "value": "22 64 82 8471 9"
+    "name": "UIDAI",
+    "value": "524692390816"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/63.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+    "large": "https://randomuser.me/api/portraits/women/75.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
   },
-  "nat": "MX"
+  "nat": "IN"
 }

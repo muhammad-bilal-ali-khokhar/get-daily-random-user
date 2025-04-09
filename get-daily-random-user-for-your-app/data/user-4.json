@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "آراد",
-    "last": "كامياران"
+    "first": "Fernandino",
+    "last": "Pereira"
   },
   "location": {
     "street": {
-      "number": 519,
-      "name": "موسیوند"
+      "number": 8413,
+      "name": "Rua Paraná "
     },
-    "city": "خمینی‌شهر",
-    "state": "قم",
-    "country": "Iran",
-    "postcode": 28856,
+    "city": "Caraguatatuba",
+    "state": "Pará",
+    "country": "Brazil",
+    "postcode": 94072,
     "coordinates": {
-      "latitude": "13.8550",
-      "longitude": "-167.8727"
+      "latitude": "-74.4839",
+      "longitude": "-9.4586"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "ard.kmyrn@example.com",
+  "email": "fernandino.pereira@example.com",
   "login": {
-    "uuid": "08d0a693-df73-4ad5-8d05-701876979c96",
-    "username": "beautifulgoose505",
-    "password": "surgery",
-    "salt": "29EmPYuX",
-    "md5": "7ff2dd50c1de0e8e388b015aa58e39b7",
-    "sha1": "1d8f7c4eafc6fe0bda0d06659bd65dad0f8e64e8",
-    "sha256": "0e1a7c0b5c999a83eb94dc7960736e617d25cda06b18b7cc6e632a8b70f90aa4"
+    "uuid": "6cad739e-87ee-431e-bfc3-2749df02fe30",
+    "username": "smallduck228",
+    "password": "wildbill",
+    "salt": "GD65nh57",
+    "md5": "97952e23e75a89ccd68682de5200b372",
+    "sha1": "1c596322694e0ab3e682f6b8651a7d4c230b1e64",
+    "sha256": "920b8cc503536028c041c78a0e0b9aec3deb6387f873ed8b7e212bead528e46d"
   },
   "dob": {
-    "date": "1946-08-10T08:46:49.905Z",
-    "age": 78
+    "date": "1972-08-19T03:58:37.544Z",
+    "age": 52
   },
   "registered": {
-    "date": "2004-02-24T17:34:16.767Z",
-    "age": 21
+    "date": "2007-09-16T07:25:32.626Z",
+    "age": 17
   },
-  "phone": "044-54685406",
-  "cell": "0928-234-2365",
+  "phone": "(89) 0198-2039",
+  "cell": "(63) 5282-4748",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "638.765.760-65"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/50.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+    "large": "https://randomuser.me/api/portraits/men/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
   },
-  "nat": "IR"
+  "nat": "BR"
 }

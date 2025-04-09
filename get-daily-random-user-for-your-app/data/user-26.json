@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Chakradev",
-    "last": "Thampy"
+    "title": "Miss",
+    "first": "Déborah",
+    "last": "Teixeira"
   },
   "location": {
     "street": {
-      "number": 2874,
-      "name": "Lindsay St"
+      "number": 5858,
+      "name": "Rua São Paulo "
     },
-    "city": "Vijayawada",
-    "state": "Uttarakhand",
-    "country": "India",
-    "postcode": 37920,
+    "city": "Queimados",
+    "state": "Rondônia",
+    "country": "Brazil",
+    "postcode": 12915,
     "coordinates": {
-      "latitude": "4.9429",
-      "longitude": "-95.2801"
+      "latitude": "-73.8004",
+      "longitude": "5.1448"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "chakradev.thampy@example.com",
+  "email": "deborah.teixeira@example.com",
   "login": {
-    "uuid": "3f147ff4-a259-4803-ac32-44d97c6f55c7",
-    "username": "bluecat366",
-    "password": "rugger",
-    "salt": "PkvJFblj",
-    "md5": "b3674b4a343aff64d38ab779d5b240df",
-    "sha1": "faca52e30067172a2f23b99cc43d7bf8345639db",
-    "sha256": "84555e96ecc8811f10c5a2c3d9242c7652d3dcf48404c0a9b4234cff2d63ea01"
+    "uuid": "4f119cbc-0ebf-494a-bf27-63af146c5a3a",
+    "username": "heavygorilla290",
+    "password": "brain",
+    "salt": "5S9JrOQ0",
+    "md5": "25dc60df06826fd229b363c4ad1a8e94",
+    "sha1": "6f9d31f6b310664d89c0c63ab3c0047e165322ee",
+    "sha256": "00a3363859442cd53e67c0a73bd9d7021166314dcaa1205e043064498825138a"
   },
   "dob": {
-    "date": "1959-02-11T17:09:32.286Z",
-    "age": 66
+    "date": "1981-05-25T07:27:16.640Z",
+    "age": 43
   },
   "registered": {
-    "date": "2018-12-27T15:07:17.268Z",
-    "age": 6
+    "date": "2021-09-05T23:42:24.451Z",
+    "age": 3
   },
-  "phone": "8749337440",
-  "cell": "9653317956",
+  "phone": "(23) 8362-6245",
+  "cell": "(37) 8565-4525",
   "id": {
-    "name": "UIDAI",
-    "value": "881304111117"
+    "name": "CPF",
+    "value": "215.659.209-74"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/60.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
   },
-  "nat": "IN"
+  "nat": "BR"
 }

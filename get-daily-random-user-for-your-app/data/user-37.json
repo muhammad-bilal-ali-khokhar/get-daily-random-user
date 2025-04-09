@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Auguste",
-    "last": "Le Gall"
+    "first": "Mirko",
+    "last": "Radivojević"
   },
   "location": {
     "street": {
-      "number": 4498,
-      "name": "Rue du Château"
+      "number": 6477,
+      "name": "Drenoglavska"
     },
-    "city": "Saint-Étienne",
-    "state": "Val-de-Marne",
-    "country": "France",
-    "postcode": 15976,
+    "city": "Smederevo",
+    "state": "Jablanica",
+    "country": "Serbia",
+    "postcode": 88866,
     "coordinates": {
-      "latitude": "-17.7408",
-      "longitude": "-31.6329"
+      "latitude": "60.0819",
+      "longitude": "-108.3857"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "auguste.legall@example.com",
+  "email": "mirko.radivojevic@example.com",
   "login": {
-    "uuid": "17e7cde1-c04b-40bd-87a9-ad033d7b6288",
-    "username": "redmeercat669",
-    "password": "jeanette",
-    "salt": "WcqRbR2p",
-    "md5": "6ea97836290abc4dfd52dfd8f4746038",
-    "sha1": "c04da465bd38d8ecdc458673bfd40e0723269159",
-    "sha256": "d69aec188615c1a596de0df6a461e36cf6f93fa2c1a08fa64d6d3a95e4bb29db"
+    "uuid": "896a3c2e-8295-457a-b1f4-a48f3ce49783",
+    "username": "whitefish714",
+    "password": "aspen",
+    "salt": "FhMwuBQC",
+    "md5": "94e48c0030d806f62a4db277f7951dbf",
+    "sha1": "0cef7bb55c25030a049f4234a1338accad146656",
+    "sha256": "1ed00ffa88720c9485c93387ec1b8202a7b7f62136a3b6542d579b0d666666ce"
   },
   "dob": {
-    "date": "1993-01-16T07:39:06.944Z",
-    "age": 32
+    "date": "1960-12-24T21:48:58.289Z",
+    "age": 64
   },
   "registered": {
-    "date": "2002-03-25T17:53:15.746Z",
-    "age": 23
+    "date": "2012-10-09T18:58:59.408Z",
+    "age": 12
   },
-  "phone": "01-84-74-15-50",
-  "cell": "06-08-87-98-13",
+  "phone": "018-8264-517",
+  "cell": "067-8602-412",
   "id": {
-    "name": "INSEE",
-    "value": "1930018200260 93"
+    "name": "SID",
+    "value": "113480790"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/98.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
   },
-  "nat": "FR"
+  "nat": "RS"
 }

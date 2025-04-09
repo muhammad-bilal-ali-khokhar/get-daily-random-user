@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Myrtha",
-    "last": "Martin"
+    "title": "Mr",
+    "first": "Célian",
+    "last": "Clement"
   },
   "location": {
     "street": {
-      "number": 5129,
-      "name": "Rue de la Fontaine"
+      "number": 940,
+      "name": "Rue Abel-Gance"
     },
-    "city": "Bioggio",
-    "state": "Uri",
-    "country": "Switzerland",
-    "postcode": 1723,
+    "city": "Dunkerque",
+    "state": "Aveyron",
+    "country": "France",
+    "postcode": 37220,
     "coordinates": {
-      "latitude": "-56.2430",
-      "longitude": "126.8167"
+      "latitude": "-20.4300",
+      "longitude": "-66.7827"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "myrtha.martin@example.com",
+  "email": "celian.clement@example.com",
   "login": {
-    "uuid": "bac28a1d-dc16-4dbd-bf28-6f8fd71e005a",
-    "username": "orangegorilla994",
-    "password": "bonjovi",
-    "salt": "WgA2R2o8",
-    "md5": "e73a9b72128a07a1583adb7763f12881",
-    "sha1": "0b407cbd57a746adc5e85d125546a354b251827c",
-    "sha256": "2b222634bd0d400166559bd503249d43c0dd01fd79b55878782677be83098c51"
+    "uuid": "22915514-ebb6-455e-accb-cdedf8b2249e",
+    "username": "smallpanda829",
+    "password": "seymour",
+    "salt": "5SQxww54",
+    "md5": "aef0a2ed31af5abe40fd64f9ab086fc8",
+    "sha1": "716a1a39b3f3525001eb570eafd9ae08055f45e6",
+    "sha256": "9bace3e68da7fad92fb66abf7bd2c30b80ba97bcc85d8fe4546dd06636b33b6a"
   },
   "dob": {
-    "date": "1976-07-17T14:16:33.042Z",
-    "age": 48
+    "date": "1994-01-27T22:18:53.209Z",
+    "age": 31
   },
   "registered": {
-    "date": "2021-02-22T09:47:36.130Z",
+    "date": "2020-06-20T06:38:25.392Z",
     "age": 4
   },
-  "phone": "079 003 69 99",
-  "cell": "079 635 47 33",
+  "phone": "05-56-11-25-97",
+  "cell": "06-09-36-75-04",
   "id": {
-    "name": "AVS",
-    "value": "756.9372.7141.20"
+    "name": "INSEE",
+    "value": "1940084108089 29"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/80.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
   },
-  "nat": "CH"
+  "nat": "FR"
 }

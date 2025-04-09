@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Akram",
-    "last": "Hofseth"
+    "first": "Luukas",
+    "last": "Halko"
   },
   "location": {
     "street": {
-      "number": 7146,
-      "name": "Nordliveien"
+      "number": 2955,
+      "name": "Pyynikintie"
     },
-    "city": "Noresund",
-    "state": "Buskerud",
-    "country": "Norway",
-    "postcode": "9376",
+    "city": "Kiikoinen",
+    "state": "Central Finland",
+    "country": "Finland",
+    "postcode": 45647,
     "coordinates": {
-      "latitude": "43.7451",
-      "longitude": "-141.6484"
+      "latitude": "-25.1425",
+      "longitude": "-7.4716"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "akram.hofseth@example.com",
+  "email": "luukas.halko@example.com",
   "login": {
-    "uuid": "055b9921-4d38-4c62-a049-56472d6628fc",
-    "username": "brownmeercat432",
-    "password": "6464",
-    "salt": "q2pGVxih",
-    "md5": "5ec0ed1dcf05d593999d5d47ce45dbc6",
-    "sha1": "1d4a463a98172ec6f90f4fa5d954ba2933be6d0e",
-    "sha256": "8a254f3e2c2435f6cbc5e2779b7777b21e7d8dbf6cbbaad2677172982985acc3"
+    "uuid": "81d49406-ec9d-4792-811b-b7e22d5a596f",
+    "username": "beautifulpeacock746",
+    "password": "armada",
+    "salt": "4WJYDJid",
+    "md5": "52e60f818aed251daf8fe53e7fd0c321",
+    "sha1": "547f689a6f7aaacc957ffcefda691cdf0b60544b",
+    "sha256": "22c7b173f903bd3879bb7b0691c437e9ec69f031458a65c33175bafbfbac03af"
   },
   "dob": {
-    "date": "1966-05-26T09:39:52.580Z",
-    "age": 58
+    "date": "1971-04-26T12:36:29.060Z",
+    "age": 53
   },
   "registered": {
-    "date": "2007-12-12T16:33:15.000Z",
-    "age": 17
+    "date": "2020-03-05T17:04:11.034Z",
+    "age": 5
   },
-  "phone": "28431597",
-  "cell": "92074099",
+  "phone": "03-836-363",
+  "cell": "049-531-76-84",
   "id": {
-    "name": "FN",
-    "value": "26056641784"
+    "name": "HETU",
+    "value": "NaNNA211undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "NO"
+  "nat": "FI"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Danièle",
-    "last": "Guillaume"
+    "title": "Mr",
+    "first": "Elijah",
+    "last": "Edwards"
   },
   "location": {
     "street": {
-      "number": 2159,
-      "name": "Rue du Bât-D'Argent"
+      "number": 7451,
+      "name": "Hillside Road"
     },
-    "city": "Hitzkirch",
-    "state": "Glarus",
-    "country": "Switzerland",
-    "postcode": 5120,
+    "city": "Rotorua",
+    "state": "Manawatu-Wanganui",
+    "country": "New Zealand",
+    "postcode": 26314,
     "coordinates": {
-      "latitude": "-63.0026",
-      "longitude": "66.7334"
+      "latitude": "48.8585",
+      "longitude": "-119.3895"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "daniele.guillaume@example.com",
+  "email": "elijah.edwards@example.com",
   "login": {
-    "uuid": "36113c65-8cca-4af7-b89d-51d4cd72824d",
-    "username": "smallfrog193",
-    "password": "mark1",
-    "salt": "YYNP8BCF",
-    "md5": "824c177238a4742cf158ce290daf2018",
-    "sha1": "cd3041272e5c3cb766e40260c23887d1b737b731",
-    "sha256": "73c38241a6c2d4f79bc764f6579c5be4fb25784602e42c1eebfce7e5adc9077a"
+    "uuid": "523b6b52-f339-4801-88f0-0fa5d4bd5805",
+    "username": "yellowbear103",
+    "password": "louise",
+    "salt": "0nmMFbea",
+    "md5": "2b4e6b52c1f69b4f49d21b6ee1135c34",
+    "sha1": "72fea2ad3b46a72f293ec50119d8a611cbb1bd68",
+    "sha256": "6d1f71d1ae674e579ac4862b579f2abee88705c7ef2ee6b04e8d917478efa3d3"
   },
   "dob": {
-    "date": "1993-01-17T06:49:48.519Z",
-    "age": 32
+    "date": "2001-04-25T20:59:18.664Z",
+    "age": 23
   },
   "registered": {
-    "date": "2007-04-13T03:58:20.213Z",
-    "age": 17
+    "date": "2015-01-03T13:03:41.246Z",
+    "age": 10
   },
-  "phone": "075 513 80 57",
-  "cell": "078 611 57 40",
+  "phone": "(837)-835-0365",
+  "cell": "(057)-981-4157",
   "id": {
-    "name": "AVS",
-    "value": "756.1586.2478.61"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/76.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "CH"
+  "nat": "NZ"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Zoe",
-    "last": "Phillips"
+    "title": "Ms",
+    "first": "Özsu",
+    "last": "Tanrıkulu"
   },
   "location": {
     "street": {
-      "number": 9740,
-      "name": "Church Street"
+      "number": 3082,
+      "name": "Atatürk Sk"
     },
-    "city": "Birmingham",
-    "state": "Gwent",
-    "country": "United Kingdom",
-    "postcode": "LL5 8TZ",
+    "city": "Hakkâri",
+    "state": "Nevşehir",
+    "country": "Turkey",
+    "postcode": 19872,
     "coordinates": {
-      "latitude": "-5.1038",
-      "longitude": "43.8719"
+      "latitude": "69.6800",
+      "longitude": "27.5173"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "zoe.phillips@example.com",
+  "email": "ozsu.tanrikulu@example.com",
   "login": {
-    "uuid": "fb53f216-8c82-42f4-81be-8eed0220e937",
-    "username": "whiteleopard896",
-    "password": "pinkfloy",
-    "salt": "VHij0qVf",
-    "md5": "7d8a68dc663d1cada38d35205c212532",
-    "sha1": "2fff99326c52327061ce2b6deb8b4ef75a6054df",
-    "sha256": "1420b24af3576600b6a444440e72a759b95c799f5e06ecf6ebf58b5f007bdf1d"
+    "uuid": "dcda4059-1461-4d02-938d-2db2ccd0add7",
+    "username": "ticklishdog872",
+    "password": "korn",
+    "salt": "tyfZdjen",
+    "md5": "2f9e5396fa31102f8473570e6a9e4239",
+    "sha1": "34cc008864101a2bd2f7d4f5655464aace6b9ede",
+    "sha256": "b850bf9fb08b6eae78b41d1c7452d661d2393929a63bf0098d381dc612539f59"
   },
   "dob": {
-    "date": "1994-11-15T01:57:27.105Z",
-    "age": 30
+    "date": "1985-04-07T21:32:52.889Z",
+    "age": 40
   },
   "registered": {
-    "date": "2019-07-02T12:30:17.536Z",
-    "age": 5
+    "date": "2005-10-29T19:37:00.164Z",
+    "age": 19
   },
-  "phone": "01252 143426",
-  "cell": "07654 041045",
+  "phone": "(780)-688-4753",
+  "cell": "(187)-818-1037",
   "id": {
-    "name": "NINO",
-    "value": "SG 20 94 49 S"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+    "large": "https://randomuser.me/api/portraits/women/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
   },
-  "nat": "GB"
+  "nat": "TR"
 }

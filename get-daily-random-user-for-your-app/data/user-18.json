@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mille",
-    "last": "Olsen"
+    "first": "Derzhikray",
+    "last": "Mric"
   },
   "location": {
     "street": {
-      "number": 2044,
-      "name": "Bakkedraget"
+      "number": 8759,
+      "name": "Bogatirskiy proyizd"
     },
-    "city": "Askeby",
-    "state": "Midtjylland",
-    "country": "Denmark",
-    "postcode": 59358,
+    "city": "Gorodnya",
+    "state": "Hersonska",
+    "country": "Ukraine",
+    "postcode": 69234,
     "coordinates": {
-      "latitude": "-40.4392",
-      "longitude": "-131.2159"
+      "latitude": "80.8378",
+      "longitude": "-107.4749"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "mille.olsen@example.com",
+  "email": "derzhikray.mric@example.com",
   "login": {
-    "uuid": "aa730168-f5ce-4e5f-baaf-42c3f6fd48c2",
-    "username": "redzebra331",
-    "password": "patches",
-    "salt": "7uY33v9B",
-    "md5": "fa90f109ab8a6ae27c82b4618175ee8c",
-    "sha1": "cac7dd14d3252aa497034d128a30bf017ecf7432",
-    "sha256": "115dd03fdb232485b02b82addc7f876b01cff56c46a3b0d70e10105450ae6ba7"
+    "uuid": "59de13da-8cde-4dee-9789-af56dc2dcf3f",
+    "username": "orangemeercat713",
+    "password": "jasmine",
+    "salt": "FW15356J",
+    "md5": "19fc86463ddc805d2d0a77654c00f1b4",
+    "sha1": "f86ecea230396e6d556fd77140a260db9c252c85",
+    "sha256": "4672bf511ba764ab4ec551aaaec2f45a20bd3552581bbeade5614788e1366101"
   },
   "dob": {
-    "date": "1954-12-31T01:56:04.686Z",
-    "age": 70
+    "date": "2000-05-06T13:27:56.521Z",
+    "age": 24
   },
   "registered": {
-    "date": "2017-07-26T16:29:03.697Z",
-    "age": 7
+    "date": "2009-01-20T07:46:15.100Z",
+    "age": 16
   },
-  "phone": "94982571",
-  "cell": "71921672",
+  "phone": "(098) U18-7929",
+  "cell": "(066) G83-0268",
   "id": {
-    "name": "CPR",
-    "value": "301254-8092"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/23.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
+    "large": "https://randomuser.me/api/portraits/men/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
   },
-  "nat": "DK"
+  "nat": "UA"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "José",
-    "last": "Rössler"
+    "first": "Valentín",
+    "last": "Cabrera"
   },
   "location": {
     "street": {
-      "number": 8851,
-      "name": "Kapellenweg"
+      "number": 2953,
+      "name": "Avenida del Planetario"
     },
-    "city": "Schiltach",
-    "state": "Nordrhein-Westfalen",
-    "country": "Germany",
-    "postcode": 55971,
+    "city": "Valencia",
+    "state": "Castilla y León",
+    "country": "Spain",
+    "postcode": 32168,
     "coordinates": {
-      "latitude": "-50.5209",
-      "longitude": "-99.0517"
+      "latitude": "-34.0294",
+      "longitude": "-118.3338"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "jose.rossler@example.com",
+  "email": "valentin.cabrera@example.com",
   "login": {
-    "uuid": "8bce7c98-8934-4e0a-b3e4-d7d67cb5fc3c",
-    "username": "tinyelephant842",
-    "password": "capricor",
-    "salt": "ILms6aN0",
-    "md5": "a52d9c1589eb57d0b75a5b3024f74aed",
-    "sha1": "41d00244721a3063da8700307d3ff7ee70fe023b",
-    "sha256": "c12aac163810d60281e0ca78bb212e8c105eb9a7653e942855ef5ba723b4440e"
+    "uuid": "f1642e53-4145-4314-a20e-a3fb8e621554",
+    "username": "beautifultiger665",
+    "password": "bucky",
+    "salt": "pestngsO",
+    "md5": "542d91c614e006419c4990a71e3c5532",
+    "sha1": "48ffa1ae509ee69ca869481a2a1d0fa48ab41bbb",
+    "sha256": "bbe75b8bcee6b3e87cc6ba0790a0c3724a086af97d85a021682f47d237891b6a"
   },
   "dob": {
-    "date": "1971-01-31T23:06:36.129Z",
-    "age": 54
+    "date": "1957-11-21T12:35:14.417Z",
+    "age": 67
   },
   "registered": {
-    "date": "2019-06-21T15:23:25.910Z",
-    "age": 5
+    "date": "2021-09-19T09:22:12.204Z",
+    "age": 3
   },
-  "phone": "0477-3972700",
-  "cell": "0175-9887667",
+  "phone": "958-310-332",
+  "cell": "646-280-625",
   "id": {
-    "name": "SVNR",
-    "value": "80 310171 R 325"
+    "name": "DNI",
+    "value": "08928815-N"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/37.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
+    "large": "https://randomuser.me/api/portraits/men/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
   },
-  "nat": "DE"
+  "nat": "ES"
 }

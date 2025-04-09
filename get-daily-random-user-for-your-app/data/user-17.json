@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Oriyanka",
-    "last": "Hizhnyak"
+    "title": "Mr",
+    "first": "Vicente",
+    "last": "de la Crúz"
   },
   "location": {
     "street": {
-      "number": 5199,
-      "name": "Provulok Zhelyabova"
+      "number": 6051,
+      "name": "Eje vial Carmona"
     },
-    "city": "Gorodok",
-    "state": "Sumska",
-    "country": "Ukraine",
-    "postcode": 95276,
+    "city": "San Miguel Octopan",
+    "state": "Ciudad de Mexico",
+    "country": "Mexico",
+    "postcode": 81446,
     "coordinates": {
-      "latitude": "75.0633",
-      "longitude": "45.8240"
+      "latitude": "22.7002",
+      "longitude": "-4.5935"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "oriyanka.hizhnyak@example.com",
+  "email": "vicente.delacruz@example.com",
   "login": {
-    "uuid": "aeac8b3b-fd15-4ab2-a675-3a4cd86a5f3a",
-    "username": "greenelephant677",
-    "password": "javier",
-    "salt": "1fuMRlkx",
-    "md5": "57574d83325311b9e85471e1631c4775",
-    "sha1": "a4ea7f81a8bd2a79e023a3f9e7bd976eca962307",
-    "sha256": "a35c220aa47aa2f5bf99eec79019fc568c731383acfb9302f53650e81033e1ae"
+    "uuid": "f4b99b3c-d731-4237-bf14-1dc6f71f087e",
+    "username": "bigelephant207",
+    "password": "yyyyyyyy",
+    "salt": "2CngkpDS",
+    "md5": "cbd9ee3fb75aecf64cfdfdef1cb8b618",
+    "sha1": "2effa29ab5da68498791b39431eedeb26fd9d6c2",
+    "sha256": "8512151086df9c9719553d85b65b756bc6c09765edb73fbb210ef77028c00dd0"
   },
   "dob": {
-    "date": "1960-02-07T06:40:14.290Z",
-    "age": 65
+    "date": "1992-05-30T20:01:41.093Z",
+    "age": 32
   },
   "registered": {
-    "date": "2018-02-07T17:48:02.617Z",
-    "age": 7
+    "date": "2018-06-02T19:29:17.863Z",
+    "age": 6
   },
-  "phone": "(096) K63-9263",
-  "cell": "(098) N15-5486",
+  "phone": "(694) 090 5486",
+  "cell": "(662) 936 4394",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NSS",
+    "value": "74 78 04 5769 7"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/78.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
   },
-  "nat": "UA"
+  "nat": "MX"
 }

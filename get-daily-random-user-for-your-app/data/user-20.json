@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Adam",
-    "last": "Wood"
+    "first": "Hitesh",
+    "last": "Prabhu"
   },
   "location": {
     "street": {
-      "number": 2517,
-      "name": "Barbadoes Street"
+      "number": 2564,
+      "name": "Sampige Rd"
     },
-    "city": "Wellington",
-    "state": "Tasman",
-    "country": "New Zealand",
-    "postcode": 91825,
+    "city": "Kishanganj",
+    "state": "Andaman and Nicobar Islands",
+    "country": "India",
+    "postcode": 41142,
     "coordinates": {
-      "latitude": "48.6753",
-      "longitude": "-68.0383"
+      "latitude": "10.7032",
+      "longitude": "-59.9510"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "adam.wood@example.com",
+  "email": "hitesh.prabhu@example.com",
   "login": {
-    "uuid": "0f340ece-ef39-4a40-9bd9-d9dae94714f4",
-    "username": "ticklishmouse867",
-    "password": "republic",
-    "salt": "48nIOtdM",
-    "md5": "c8f9aee2fdb50b10789fbefd22c88411",
-    "sha1": "83a7edeb8a1c23040cdba4d7e81d881fdb23e101",
-    "sha256": "bd37cb294e44fe537504959e71c6f765d5adbe29881a30b95e6923891072e092"
+    "uuid": "7a34c805-9f67-4be2-b7b3-b0d1e262011e",
+    "username": "sadduck762",
+    "password": "joemama",
+    "salt": "J9ABR3hn",
+    "md5": "83451156cda18471f262e04719b1d2bb",
+    "sha1": "dc95e3720b5924a40b15163cb92ef4ec3d99936d",
+    "sha256": "4b31b64ff188c0fd3fa8fa3fa0246e3c47793161542d02e2ca80a14a7c55737e"
   },
   "dob": {
-    "date": "1978-10-08T22:00:47.921Z",
-    "age": 46
+    "date": "1946-08-24T10:35:14.667Z",
+    "age": 78
   },
   "registered": {
-    "date": "2019-10-01T11:53:59.530Z",
-    "age": 5
+    "date": "2019-02-16T02:35:12.817Z",
+    "age": 6
   },
-  "phone": "(953)-412-9219",
-  "cell": "(599)-772-1920",
+  "phone": "9141010914",
+  "cell": "7309166036",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "385104964558"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/64.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/64.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/64.jpg"
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
   },
-  "nat": "NZ"
+  "nat": "IN"
 }

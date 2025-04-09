@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Srđan",
-    "last": "Milutinović"
+    "first": "Siegmar",
+    "last": "Morgenroth"
   },
   "location": {
     "street": {
-      "number": 1775,
-      "name": "Brnjačka"
+      "number": 4793,
+      "name": "Marktplatz"
     },
-    "city": "Bor",
-    "state": "Pomoravlje",
-    "country": "Serbia",
-    "postcode": 20959,
+    "city": "Ingolstadt",
+    "state": "Bremen",
+    "country": "Germany",
+    "postcode": 78259,
     "coordinates": {
-      "latitude": "61.4663",
-      "longitude": "-125.4040"
+      "latitude": "-48.2108",
+      "longitude": "-92.6547"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "srdan.milutinovic@example.com",
+  "email": "siegmar.morgenroth@example.com",
   "login": {
-    "uuid": "b6b21291-c139-4d2a-9a6e-20f65c456abf",
-    "username": "happytiger249",
-    "password": "page",
-    "salt": "WgpL1jQv",
-    "md5": "e1b693505f48573c5f5345438fab5e73",
-    "sha1": "b593e96136d811b6ff5f3d0bd8e8dc356b16cced",
-    "sha256": "b71e3c921d0b7e92cfef6368efe8fe31a8d75e1207efdbd2dfc0bcbf0b7281fe"
+    "uuid": "d917964c-54ef-4ff3-abec-db669db1e929",
+    "username": "tinyrabbit878",
+    "password": "poetry",
+    "salt": "wq3998px",
+    "md5": "2dd078b1145aa93e72edab0600bb60f7",
+    "sha1": "070a8ad1f060231dc437963182f126b7ed25ba2a",
+    "sha256": "6263d614b61ca56779fda481c73d4754b07ad702511b961498069d135e584828"
   },
   "dob": {
-    "date": "1946-01-09T13:07:30.538Z",
-    "age": 79
+    "date": "1985-08-28T09:09:25.627Z",
+    "age": 39
   },
   "registered": {
-    "date": "2022-05-19T20:10:17.444Z",
-    "age": 2
+    "date": "2010-04-02T16:20:13.917Z",
+    "age": 15
   },
-  "phone": "017-2346-699",
-  "cell": "067-0310-766",
+  "phone": "0586-0951582",
+  "cell": "0171-0441927",
   "id": {
-    "name": "SID",
-    "value": "524359185"
+    "name": "SVNR",
+    "value": "59 280885 M 280"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
   },
-  "nat": "RS"
+  "nat": "DE"
 }

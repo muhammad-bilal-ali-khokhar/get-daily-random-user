@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Alvin",
-    "last": "Cox"
+    "first": "Lohan",
+    "last": "Arnaud"
   },
   "location": {
     "street": {
-      "number": 6559,
-      "name": "W Gray St"
+      "number": 264,
+      "name": "Rue Barrier"
     },
-    "city": "Port St. Lucie",
-    "state": "Tennessee",
-    "country": "United States",
-    "postcode": 28399,
+    "city": "Courbevoie",
+    "state": "Meurthe-et-Moselle",
+    "country": "France",
+    "postcode": 29828,
     "coordinates": {
-      "latitude": "87.9565",
-      "longitude": "-129.2682"
+      "latitude": "-13.1669",
+      "longitude": "-96.4444"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "alvin.cox@example.com",
+  "email": "lohan.arnaud@example.com",
   "login": {
-    "uuid": "023aebd3-9451-4b98-8acf-082841921bbb",
-    "username": "silverwolf105",
-    "password": "pepsi",
-    "salt": "KqveQMFG",
-    "md5": "198c65cf6583d5370f8bec8b2b7998bc",
-    "sha1": "3b3233b5a7656a1d389b4096fafb81a183293cca",
-    "sha256": "9e92a77ccfba4c12e55d1b88cbbf38bd9bf301627eceea4f61b2ce273d102b4b"
+    "uuid": "70c064a3-63a2-4d2c-8a97-1b8885035c67",
+    "username": "organicladybug187",
+    "password": "nope",
+    "salt": "AmQhYjXU",
+    "md5": "1352ebdd62df17b43d6d360ca4e8cbbb",
+    "sha1": "523cce43ef3920ec8bb3e5bf6e0a37084521e6bc",
+    "sha256": "ef1e6b48ff43be744199530620d2cfa1ddf3acf7bcdc6fba842600affde7a985"
   },
   "dob": {
-    "date": "1976-05-26T16:58:35.628Z",
-    "age": 48
+    "date": "1986-05-09T09:50:05.648Z",
+    "age": 38
   },
   "registered": {
-    "date": "2005-11-01T06:28:04.498Z",
-    "age": 19
+    "date": "2013-06-01T11:05:32.688Z",
+    "age": 11
   },
-  "phone": "(415) 317-7759",
-  "cell": "(764) 581-5858",
+  "phone": "03-30-23-74-42",
+  "cell": "06-61-44-93-76",
   "id": {
-    "name": "SSN",
-    "value": "657-80-5574"
+    "name": "INSEE",
+    "value": "1860458164032 49"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/55.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
+    "large": "https://randomuser.me/api/portraits/men/53.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
   },
-  "nat": "US"
+  "nat": "FR"
 }

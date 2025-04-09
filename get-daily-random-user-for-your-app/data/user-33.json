@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Monsieur",
-    "first": "Jean-Pierre",
-    "last": "Lefevre"
+    "title": "Ms",
+    "first": "Maeva",
+    "last": "Smith"
   },
   "location": {
     "street": {
-      "number": 8259,
-      "name": "Rue des Chartreux"
+      "number": 8073,
+      "name": "Vimy St"
     },
-    "city": "Burgistein",
-    "state": "Aargau",
-    "country": "Switzerland",
-    "postcode": 1681,
+    "city": "Maidstone",
+    "state": "Ontario",
+    "country": "Canada",
+    "postcode": "E4S 7W9",
     "coordinates": {
-      "latitude": "-56.5137",
-      "longitude": "-74.6659"
+      "latitude": "-70.2341",
+      "longitude": "155.5814"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "jean-pierre.lefevre@example.com",
+  "email": "maeva.smith@example.com",
   "login": {
-    "uuid": "780db200-f19c-4431-bf20-fe131a3bc5a7",
-    "username": "blackbear946",
-    "password": "yyyyyy1",
-    "salt": "8eMWpne8",
-    "md5": "cf852285c80d457fea72f28b3cb7d831",
-    "sha1": "b9fff1121707563a318c199ee0ec13867ad70bc8",
-    "sha256": "406826b010716cf9cd72007dcbe41c3c10ca6eae41dedf876a879a4f045c0b13"
+    "uuid": "bde6ce8a-eef7-44bf-b21b-b395a79fb7a1",
+    "username": "sadpanda279",
+    "password": "australi",
+    "salt": "40EpS8Tl",
+    "md5": "c9c9a1390742bbbdfc84dee1b974fb0b",
+    "sha1": "eb9dced71a923be30738d85189207320342a2a61",
+    "sha256": "847e5217373be78631b600b2ccfa0dd9bed7c3a1378b6b252b550f69f32fb815"
   },
   "dob": {
-    "date": "1996-08-12T09:29:56.170Z",
-    "age": 28
+    "date": "1976-09-12T01:15:16.039Z",
+    "age": 48
   },
   "registered": {
-    "date": "2004-05-23T15:06:38.140Z",
-    "age": 20
+    "date": "2009-03-01T19:22:53.777Z",
+    "age": 16
   },
-  "phone": "078 277 36 48",
-  "cell": "078 306 87 35",
+  "phone": "M69 S46-0988",
+  "cell": "R11 H62-2592",
   "id": {
-    "name": "AVS",
-    "value": "756.8627.5690.07"
+    "name": "SIN",
+    "value": "494109234"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/22.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+    "large": "https://randomuser.me/api/portraits/women/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
   },
-  "nat": "CH"
+  "nat": "CA"
 }

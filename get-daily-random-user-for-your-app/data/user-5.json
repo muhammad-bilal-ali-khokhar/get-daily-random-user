@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Rasmus",
-    "last": "Madsen"
+    "title": "Monsieur",
+    "first": "Ulrich",
+    "last": "Chevalier"
   },
   "location": {
     "street": {
-      "number": 2065,
-      "name": "Fuglevænget"
+      "number": 9878,
+      "name": "Rue du Bon-Pasteur"
     },
-    "city": "København N",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 18943,
+    "city": "Valeyres-Sous-Ursins",
+    "state": "Schaffhausen",
+    "country": "Switzerland",
+    "postcode": 6057,
     "coordinates": {
-      "latitude": "-42.3313",
-      "longitude": "-26.4080"
+      "latitude": "-60.9480",
+      "longitude": "-91.0588"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "rasmus.madsen@example.com",
+  "email": "ulrich.chevalier@example.com",
   "login": {
-    "uuid": "c7233601-b503-4a77-8eae-13d3a9e7f862",
-    "username": "purpletiger189",
-    "password": "thanks",
-    "salt": "UvbnNDCH",
-    "md5": "3943d3d06e3a8a00365e304a0bbc8cbd",
-    "sha1": "24e3edb72fc0557b469c65d0832abd9f4a4ea741",
-    "sha256": "5aab5773c6ca19090c3cb5818a067c0857fd2261b4cb96fc861dcef16b8f5df2"
+    "uuid": "f27fce9d-308c-443b-a820-75778996c77e",
+    "username": "blackbear503",
+    "password": "kathy",
+    "salt": "mcGVrmSx",
+    "md5": "e54d18700922d10ebc8999c1b89f0bbe",
+    "sha1": "a2695d5ae352e091d57715098ee43c18c2f79895",
+    "sha256": "9d84e15189cd779bee9c60e611147810b7787fcbe91c6af3e1e654d81407158e"
   },
   "dob": {
-    "date": "1957-11-01T02:00:38.807Z",
-    "age": 67
+    "date": "1965-05-12T14:32:02.846Z",
+    "age": 59
   },
   "registered": {
-    "date": "2019-10-01T14:46:01.287Z",
-    "age": 5
+    "date": "2011-10-13T19:18:33.252Z",
+    "age": 13
   },
-  "phone": "65949541",
-  "cell": "17003875",
+  "phone": "077 637 44 96",
+  "cell": "076 912 70 14",
   "id": {
-    "name": "CPR",
-    "value": "311057-1591"
+    "name": "AVS",
+    "value": "756.1130.5244.91"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/22.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+    "large": "https://randomuser.me/api/portraits/men/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/45.jpg"
   },
-  "nat": "DK"
+  "nat": "CH"
 }
