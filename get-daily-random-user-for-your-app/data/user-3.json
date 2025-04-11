@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Ninon",
-    "last": "Rousseau"
+    "title": "Mr",
+    "first": "Phoenix",
+    "last": "Evans"
   },
   "location": {
     "street": {
-      "number": 6007,
-      "name": "Avenue Jean-Jaurès"
+      "number": 8045,
+      "name": "Tremaine Avenue"
     },
-    "city": "Aix-En-Provence",
-    "state": "Indre-et-Loire",
-    "country": "France",
-    "postcode": 52773,
+    "city": "Hastings",
+    "state": "Manawatu-Wanganui",
+    "country": "New Zealand",
+    "postcode": 19822,
     "coordinates": {
-      "latitude": "-14.3401",
-      "longitude": "66.2356"
+      "latitude": "52.0306",
+      "longitude": "-80.7533"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "ninon.rousseau@example.com",
+  "email": "phoenix.evans@example.com",
   "login": {
-    "uuid": "de669107-7297-4bed-914a-a2617d13463c",
-    "username": "redmouse213",
-    "password": "dottie",
-    "salt": "hJEU42Kg",
-    "md5": "67ec5188ce8b7e2fc2e57051dae6bd9e",
-    "sha1": "3b2f0a3d576d42219251a87716b414f978d8c2ba",
-    "sha256": "acff0ff83dfb42fea702a4d6cc889d860251e9f0acaeb0f5f648e691e33628c7"
+    "uuid": "d22ce451-f0f4-4436-be8e-27e0053d0203",
+    "username": "orangetiger221",
+    "password": "tatiana",
+    "salt": "9b8qqpy0",
+    "md5": "b265ab659cc32be1de74e1d92354ee58",
+    "sha1": "15d820c091ce2d6731bed4a8f003b37f01a73954",
+    "sha256": "62ae1e8f06cd80227cea016db9985f268ca342a2982724668d568e752c035c37"
   },
   "dob": {
-    "date": "1966-05-15T03:39:18.074Z",
-    "age": 58
+    "date": "1971-06-18T04:42:07.170Z",
+    "age": 53
   },
   "registered": {
-    "date": "2004-01-07T20:32:08.627Z",
-    "age": 21
+    "date": "2020-12-22T10:41:46.755Z",
+    "age": 4
   },
-  "phone": "05-02-23-17-94",
-  "cell": "06-67-62-45-05",
+  "phone": "(032)-801-0238",
+  "cell": "(797)-135-9856",
   "id": {
-    "name": "INSEE",
-    "value": "2660486326482 54"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/46.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+    "large": "https://randomuser.me/api/portraits/men/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
   },
-  "nat": "FR"
+  "nat": "NZ"
 }

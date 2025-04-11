@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Derzhikray",
-    "last": "Mric"
+    "first": "Siert",
+    "last": "Smeekes"
   },
   "location": {
     "street": {
-      "number": 8759,
-      "name": "Bogatirskiy proyizd"
+      "number": 9998,
+      "name": "Annerstreek"
     },
-    "city": "Gorodnya",
-    "state": "Hersonska",
-    "country": "Ukraine",
-    "postcode": 69234,
+    "city": "Egmondermeer",
+    "state": "Flevoland",
+    "country": "Netherlands",
+    "postcode": "4773 SR",
     "coordinates": {
-      "latitude": "80.8378",
-      "longitude": "-107.4749"
+      "latitude": "35.4879",
+      "longitude": "-175.6070"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "derzhikray.mric@example.com",
+  "email": "siert.smeekes@example.com",
   "login": {
-    "uuid": "59de13da-8cde-4dee-9789-af56dc2dcf3f",
-    "username": "orangemeercat713",
-    "password": "jasmine",
-    "salt": "FW15356J",
-    "md5": "19fc86463ddc805d2d0a77654c00f1b4",
-    "sha1": "f86ecea230396e6d556fd77140a260db9c252c85",
-    "sha256": "4672bf511ba764ab4ec551aaaec2f45a20bd3552581bbeade5614788e1366101"
+    "uuid": "da0f131a-794f-4aba-b3fc-25dd6323d7cc",
+    "username": "yellowrabbit263",
+    "password": "christine",
+    "salt": "BJq9PTO8",
+    "md5": "866c43c62cb29682f293fe02e3927948",
+    "sha1": "d3df8558759117c405fb8fb8b0dfd6fc40998067",
+    "sha256": "8eba1bef7fa79121f186c42ff92f72d0c50cf6c51a3e0b3081fac5ded138ac34"
   },
   "dob": {
-    "date": "2000-05-06T13:27:56.521Z",
-    "age": 24
+    "date": "1964-11-23T12:18:30.669Z",
+    "age": 60
   },
   "registered": {
-    "date": "2009-01-20T07:46:15.100Z",
-    "age": 16
+    "date": "2019-06-16T16:06:59.783Z",
+    "age": 5
   },
-  "phone": "(098) U18-7929",
-  "cell": "(066) G83-0268",
+  "phone": "(0344) 561270",
+  "cell": "(06) 65838493",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "79819815"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/40.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
+    "large": "https://randomuser.me/api/portraits/men/81.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
   },
-  "nat": "UA"
+  "nat": "NL"
 }

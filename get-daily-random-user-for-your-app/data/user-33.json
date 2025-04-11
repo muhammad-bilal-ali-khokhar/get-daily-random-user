@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Maeva",
-    "last": "Smith"
+    "title": "Mr",
+    "first": "Isaac",
+    "last": "Mccoy"
   },
   "location": {
     "street": {
-      "number": 8073,
-      "name": "Vimy St"
+      "number": 6079,
+      "name": "First Street"
     },
-    "city": "Maidstone",
-    "state": "Ontario",
-    "country": "Canada",
-    "postcode": "E4S 7W9",
+    "city": "Launceston",
+    "state": "Queensland",
+    "country": "Australia",
+    "postcode": 1119,
     "coordinates": {
-      "latitude": "-70.2341",
-      "longitude": "155.5814"
+      "latitude": "-88.5986",
+      "longitude": "-70.2412"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "maeva.smith@example.com",
+  "email": "isaac.mccoy@example.com",
   "login": {
-    "uuid": "bde6ce8a-eef7-44bf-b21b-b395a79fb7a1",
-    "username": "sadpanda279",
-    "password": "australi",
-    "salt": "40EpS8Tl",
-    "md5": "c9c9a1390742bbbdfc84dee1b974fb0b",
-    "sha1": "eb9dced71a923be30738d85189207320342a2a61",
-    "sha256": "847e5217373be78631b600b2ccfa0dd9bed7c3a1378b6b252b550f69f32fb815"
+    "uuid": "6959486c-ec10-4485-8dbe-a65f0ef12418",
+    "username": "sadtiger683",
+    "password": "susan1",
+    "salt": "4WhasGuc",
+    "md5": "0f15fe0a8cbe4b3f0e9225c2a61c98e6",
+    "sha1": "5be2058366ab1823f007476d04d970e20f66441d",
+    "sha256": "cc1bcf574bd4469a83b876f62ae42304789701c18ab926f696cf1dcb25ebb75e"
   },
   "dob": {
-    "date": "1976-09-12T01:15:16.039Z",
-    "age": 48
+    "date": "1968-07-08T00:03:36.121Z",
+    "age": 56
   },
   "registered": {
-    "date": "2009-03-01T19:22:53.777Z",
-    "age": 16
+    "date": "2009-04-29T00:52:47.631Z",
+    "age": 15
   },
-  "phone": "M69 S46-0988",
-  "cell": "R11 H62-2592",
+  "phone": "00-8911-2052",
+  "cell": "0461-759-862",
   "id": {
-    "name": "SIN",
-    "value": "494109234"
+    "name": "TFN",
+    "value": "465940892"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "CA"
+  "nat": "AU"
 }

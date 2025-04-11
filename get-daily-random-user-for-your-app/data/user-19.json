@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Sofie",
-    "last": "Poulsen"
+    "title": "Mr",
+    "first": "Dragutin",
+    "last": "Šerbedžija"
   },
   "location": {
     "street": {
-      "number": 4641,
-      "name": "Nellikevej"
+      "number": 6718,
+      "name": "Veroljuba Atanasijevića"
     },
-    "city": "Øster Assels",
-    "state": "Syddanmark",
-    "country": "Denmark",
-    "postcode": 86095,
+    "city": "Stara Pazova",
+    "state": "Central Banat",
+    "country": "Serbia",
+    "postcode": 16923,
     "coordinates": {
-      "latitude": "-43.8620",
-      "longitude": "130.4143"
+      "latitude": "58.1364",
+      "longitude": "-110.0108"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "sofie.poulsen@example.com",
+  "email": "dragutin.serbedzija@example.com",
   "login": {
-    "uuid": "ecf678ff-d550-41cd-8215-59a1800f4708",
-    "username": "greenfrog618",
-    "password": "aardvark",
-    "salt": "wtceXZak",
-    "md5": "ea570100893d918b58364ede33f41c87",
-    "sha1": "5f8b05ba61a1ab991b87dbd6bd2df2b596ab736f",
-    "sha256": "c44ed65743bfa5c432a76e64f40f6ae0576903a1fcd7cb60a26e010ef28b23e1"
+    "uuid": "4a9aec11-59a2-4d36-b044-6e39057b7d13",
+    "username": "crazyfish455",
+    "password": "987987",
+    "salt": "uKMk2mxS",
+    "md5": "f58947457198bca400fa1cd62c65a20a",
+    "sha1": "402b6e220cdcd0b1219c31c4a8de60aa6ebb82ab",
+    "sha256": "2f115902048a864901e55f2ce3639c5e44f2eca2c7aa289e48b25b4b8ce05e09"
   },
   "dob": {
-    "date": "1983-06-01T08:20:34.463Z",
-    "age": 41
+    "date": "1995-08-06T13:22:27.401Z",
+    "age": 29
   },
   "registered": {
-    "date": "2004-07-05T01:42:19.225Z",
-    "age": 20
+    "date": "2007-03-20T04:12:55.146Z",
+    "age": 18
   },
-  "phone": "00924051",
-  "cell": "29097532",
+  "phone": "013-4748-116",
+  "cell": "069-9679-751",
   "id": {
-    "name": "CPR",
-    "value": "010683-3309"
+    "name": "SID",
+    "value": "161920996"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/53.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "DK"
+  "nat": "RS"
 }

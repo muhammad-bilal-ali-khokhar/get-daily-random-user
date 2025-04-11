@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Rosa",
-    "last": "Christensen"
+    "title": "Mr",
+    "first": "Joaquín",
+    "last": "Collazo"
   },
   "location": {
     "street": {
-      "number": 4310,
-      "name": "Mariehøj"
+      "number": 2920,
+      "name": "Viaducto Querétaro"
     },
-    "city": "Stoevring",
-    "state": "Syddanmark",
-    "country": "Denmark",
-    "postcode": 37405,
+    "city": "San Felipe Guanajuato",
+    "state": "Tamaulipas",
+    "country": "Mexico",
+    "postcode": 49745,
     "coordinates": {
-      "latitude": "-39.6417",
-      "longitude": "31.6887"
+      "latitude": "26.9897",
+      "longitude": "-34.8530"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "rosa.christensen@example.com",
+  "email": "joaquin.collazo@example.com",
   "login": {
-    "uuid": "c10068ce-40d6-4fa5-8edd-ab87499c5e16",
-    "username": "tinyostrich763",
-    "password": "sinbad",
-    "salt": "aYz8QtH5",
-    "md5": "e4e0d85e7048a9b27460d79c246c68f4",
-    "sha1": "3fe5aa95247a992d544b0c54e87cb7664540a252",
-    "sha256": "973e29b27c2050a7ac9a75205e4070ab71a226a83528a1b03f22818c4f63f144"
+    "uuid": "7394fad7-9a14-4c70-b9f3-e8f5d39caffe",
+    "username": "yellowduck909",
+    "password": "memorex",
+    "salt": "JQeqUDbT",
+    "md5": "058e4a5267235adbe36837d643d9668f",
+    "sha1": "013d92eedcb5a6555818df6fb527b6950e1896dd",
+    "sha256": "bff83adffcfa64179d995d26207109f588e26cae50b9e3cbddbd3572bd055694"
   },
   "dob": {
-    "date": "1973-09-01T18:24:19.593Z",
-    "age": 51
+    "date": "1974-04-21T19:28:47.245Z",
+    "age": 50
   },
   "registered": {
-    "date": "2011-11-17T01:34:45.054Z",
-    "age": 13
+    "date": "2021-10-14T00:57:07.349Z",
+    "age": 3
   },
-  "phone": "55738139",
-  "cell": "75895362",
+  "phone": "(682) 576 9987",
+  "cell": "(678) 187 7540",
   "id": {
-    "name": "CPR",
-    "value": "010973-6229"
+    "name": "NSS",
+    "value": "67 52 42 0020 2"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "DK"
+  "nat": "MX"
 }

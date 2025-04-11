@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Célian",
-    "last": "Clement"
+    "first": "Tom",
+    "last": "Ruiz"
   },
   "location": {
     "street": {
-      "number": 940,
-      "name": "Rue Abel-Gance"
+      "number": 2096,
+      "name": "South Street"
     },
-    "city": "Dunkerque",
-    "state": "Aveyron",
-    "country": "France",
-    "postcode": 37220,
+    "city": "Winchester",
+    "state": "Tyne and Wear",
+    "country": "United Kingdom",
+    "postcode": "YF9T 3HZ",
     "coordinates": {
-      "latitude": "-20.4300",
-      "longitude": "-66.7827"
+      "latitude": "-12.4289",
+      "longitude": "-61.4747"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "celian.clement@example.com",
+  "email": "tom.ruiz@example.com",
   "login": {
-    "uuid": "22915514-ebb6-455e-accb-cdedf8b2249e",
-    "username": "smallpanda829",
-    "password": "seymour",
-    "salt": "5SQxww54",
-    "md5": "aef0a2ed31af5abe40fd64f9ab086fc8",
-    "sha1": "716a1a39b3f3525001eb570eafd9ae08055f45e6",
-    "sha256": "9bace3e68da7fad92fb66abf7bd2c30b80ba97bcc85d8fe4546dd06636b33b6a"
+    "uuid": "ec43bfe3-08b0-473b-83a8-eeae20092adb",
+    "username": "redlion942",
+    "password": "cable",
+    "salt": "cIRaDmRs",
+    "md5": "1805faa5d66bfa99e4bf7710b1350dba",
+    "sha1": "6f8f8445a794bb8da2ae6105978a8a76760dbe23",
+    "sha256": "38727b47693b49a23bd6d588b00eed4b8f4e44b9a050e4ed35907df27b9da2d6"
   },
   "dob": {
-    "date": "1994-01-27T22:18:53.209Z",
-    "age": 31
+    "date": "1994-06-24T08:47:52.093Z",
+    "age": 30
   },
   "registered": {
-    "date": "2020-06-20T06:38:25.392Z",
-    "age": 4
+    "date": "2015-12-01T13:34:04.862Z",
+    "age": 9
   },
-  "phone": "05-56-11-25-97",
-  "cell": "06-09-36-75-04",
+  "phone": "016973 59512",
+  "cell": "07682 863972",
   "id": {
-    "name": "INSEE",
-    "value": "1940084108089 29"
+    "name": "NINO",
+    "value": "RH 15 03 59 V"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    "large": "https://randomuser.me/api/portraits/men/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
   },
-  "nat": "FR"
+  "nat": "GB"
 }

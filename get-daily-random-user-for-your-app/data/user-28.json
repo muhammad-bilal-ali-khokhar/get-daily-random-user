@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Özsu",
-    "last": "Tanrıkulu"
+    "title": "Mr",
+    "first": "Vedat",
+    "last": "Çevik"
   },
   "location": {
     "street": {
-      "number": 3082,
-      "name": "Atatürk Sk"
+      "number": 2151,
+      "name": "Fatih Sultan Mehmet Cd"
     },
-    "city": "Hakkâri",
-    "state": "Nevşehir",
+    "city": "Zonguldak",
+    "state": "Rize",
     "country": "Turkey",
-    "postcode": 19872,
+    "postcode": 57375,
     "coordinates": {
-      "latitude": "69.6800",
-      "longitude": "27.5173"
+      "latitude": "72.4461",
+      "longitude": "-103.6919"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "ozsu.tanrikulu@example.com",
+  "email": "vedat.cevik@example.com",
   "login": {
-    "uuid": "dcda4059-1461-4d02-938d-2db2ccd0add7",
-    "username": "ticklishdog872",
-    "password": "korn",
-    "salt": "tyfZdjen",
-    "md5": "2f9e5396fa31102f8473570e6a9e4239",
-    "sha1": "34cc008864101a2bd2f7d4f5655464aace6b9ede",
-    "sha256": "b850bf9fb08b6eae78b41d1c7452d661d2393929a63bf0098d381dc612539f59"
+    "uuid": "fe13cda8-2949-4cb8-b321-74a5faf70be3",
+    "username": "blackbutterfly544",
+    "password": "chopper",
+    "salt": "jMrJWRIT",
+    "md5": "6fb089b9bb1179051c4a6d4da1252889",
+    "sha1": "0867f43f3518d13268bc9f635f97116ab3e8395e",
+    "sha256": "56dd154d1ead5aac4843ca3c63a67cff76940beee9dcbb92c88a77c1869d6bd1"
   },
   "dob": {
-    "date": "1985-04-07T21:32:52.889Z",
-    "age": 40
+    "date": "1959-01-22T20:45:21.184Z",
+    "age": 66
   },
   "registered": {
-    "date": "2005-10-29T19:37:00.164Z",
-    "age": 19
+    "date": "2015-12-29T21:04:16.813Z",
+    "age": 9
   },
-  "phone": "(780)-688-4753",
-  "cell": "(187)-818-1037",
+  "phone": "(969)-407-8238",
+  "cell": "(222)-149-5083",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
   "nat": "TR"
 }

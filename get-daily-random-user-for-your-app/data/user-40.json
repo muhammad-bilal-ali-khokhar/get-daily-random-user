@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Alanis",
-    "last": "Wassenaar"
+    "title": "Mr",
+    "first": "Isaac",
+    "last": "Lee"
   },
   "location": {
     "street": {
-      "number": 1378,
-      "name": "J C van Markenstraat"
+      "number": 7842,
+      "name": "Richmond Road"
     },
-    "city": "Winneweer",
-    "state": "Utrecht",
-    "country": "Netherlands",
-    "postcode": "5258 HU",
+    "city": "Manchester",
+    "state": "West Sussex",
+    "country": "United Kingdom",
+    "postcode": "XJ3 0HH",
     "coordinates": {
-      "latitude": "30.5404",
-      "longitude": "5.3881"
+      "latitude": "-11.0872",
+      "longitude": "-53.4595"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "alanis.wassenaar@example.com",
+  "email": "isaac.lee@example.com",
   "login": {
-    "uuid": "0f182cfc-129d-435e-bbd4-3373e90a1869",
-    "username": "brownduck313",
-    "password": "stalker",
-    "salt": "jMZnu5ST",
-    "md5": "7ac588851eaf1601143545a5cbb5d275",
-    "sha1": "aed6cfd7f2d8fa0f43ef151830f9db82b40e9490",
-    "sha256": "ffe17c9e4f0e4af19b439373edca82f1ab729d0c8db00eb282ed785f60708bb1"
+    "uuid": "68cca8f9-38d7-430a-9791-85827d4b1643",
+    "username": "organicbutterfly564",
+    "password": "jazzy",
+    "salt": "pHYDpcQZ",
+    "md5": "be3edc8c0c9c7e28cf7a7d41a1bd1db9",
+    "sha1": "4dd4146672a54cefe2fe1429c1e1bfff154dd6f2",
+    "sha256": "1c2de4696fc35c5ca752617edde1a0c9d419a3216fc9f3943eabb52e51b7a84c"
   },
   "dob": {
-    "date": "1970-03-24T06:00:49.675Z",
-    "age": 55
+    "date": "1963-02-23T18:51:57.803Z",
+    "age": 62
   },
   "registered": {
-    "date": "2006-06-08T13:04:38.008Z",
-    "age": 18
+    "date": "2013-06-29T16:54:17.601Z",
+    "age": 11
   },
-  "phone": "(060) 6154626",
-  "cell": "(06) 66979661",
+  "phone": "01113 455993",
+  "cell": "07740 896886",
   "id": {
-    "name": "BSN",
-    "value": "40658951"
+    "name": "NINO",
+    "value": "KN 03 10 99 H"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/85.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+    "large": "https://randomuser.me/api/portraits/men/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
   },
-  "nat": "NL"
+  "nat": "GB"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Ella",
-    "last": "Mantyla"
+    "title": "Monsieur",
+    "first": "Malik",
+    "last": "Noel"
   },
   "location": {
     "street": {
-      "number": 8882,
-      "name": "Hämeentie"
+      "number": 9951,
+      "name": "Rue de L'Abbé-Gillet"
     },
-    "city": "Parkano",
-    "state": "Southern Ostrobothnia",
-    "country": "Finland",
-    "postcode": 72208,
+    "city": "Veyrier",
+    "state": "Zürich",
+    "country": "Switzerland",
+    "postcode": 7617,
     "coordinates": {
-      "latitude": "-25.1203",
-      "longitude": "144.7522"
+      "latitude": "-61.8250",
+      "longitude": "-1.1198"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "ella.mantyla@example.com",
+  "email": "malik.noel@example.com",
   "login": {
-    "uuid": "2928e49c-b944-49d1-b588-0b07d8a77b00",
-    "username": "orangebird757",
-    "password": "lefty",
-    "salt": "KstLZdmw",
-    "md5": "1a1f2ffac84a223fdf999e6f05551ce9",
-    "sha1": "2c5c9157aed95225237cdafa13aa7da44b8d5735",
-    "sha256": "06ff7ced2d6d738fed27305dc85fb65b9034b2f6c2881f8146e82b1b34b40038"
+    "uuid": "9c4f8ef5-3c3c-4b9a-9a38-ea1eba2abdca",
+    "username": "blueleopard898",
+    "password": "ning",
+    "salt": "nVoURLOJ",
+    "md5": "e6cb34d1b350800d7729e40461ffeff4",
+    "sha1": "926c9997f42605c80ea2dc1e2500722bf3138e22",
+    "sha256": "013d7e7251d1edf17c7a069d14ae4b557882dd5ab84bbc83406a74582bca756b"
   },
   "dob": {
-    "date": "1946-05-09T06:33:42.150Z",
-    "age": 78
+    "date": "1982-01-26T15:40:52.035Z",
+    "age": 43
   },
   "registered": {
-    "date": "2011-04-26T18:04:48.283Z",
-    "age": 13
+    "date": "2003-09-10T18:09:44.892Z",
+    "age": 21
   },
-  "phone": "06-644-700",
-  "cell": "046-216-77-94",
+  "phone": "078 167 87 66",
+  "cell": "076 532 75 91",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA806undefined"
+    "name": "AVS",
+    "value": "756.8059.1365.63"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/80.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+    "large": "https://randomuser.me/api/portraits/men/90.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
   },
-  "nat": "FI"
+  "nat": "CH"
 }

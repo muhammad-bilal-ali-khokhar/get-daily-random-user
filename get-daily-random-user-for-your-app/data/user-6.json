@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Claudia",
-    "last": "Rosado"
+    "title": "Miss",
+    "first": "Manisha",
+    "last": "Holla"
   },
   "location": {
     "street": {
-      "number": 8852,
-      "name": "Peatonal Federación de Rusia"
+      "number": 3893,
+      "name": "Sampige Rd"
     },
-    "city": "República Mexicana",
-    "state": "San Luis Potosí",
-    "country": "Mexico",
-    "postcode": 18198,
+    "city": "Kadapa",
+    "state": "Odisha",
+    "country": "India",
+    "postcode": 13642,
     "coordinates": {
-      "latitude": "26.4877",
-      "longitude": "51.7212"
+      "latitude": "10.5550",
+      "longitude": "26.5002"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "claudia.rosado@example.com",
+  "email": "manisha.holla@example.com",
   "login": {
-    "uuid": "3c55ebab-1224-4a57-ad77-039786354b44",
-    "username": "heavybird284",
-    "password": "iguana",
-    "salt": "jjqPvCjZ",
-    "md5": "b07761e5a264661ee0e89f639c986e7b",
-    "sha1": "0f33be9bc3f3fa1ed645bd1c0ded0d8b9a516137",
-    "sha256": "501a514873a3a77d5038b9d2e7f069f070f72855734b7de9e104eacc6a81ea6a"
+    "uuid": "652d6c7b-0aa7-4eda-b10f-2cbc0994895b",
+    "username": "whitecat826",
+    "password": "13579",
+    "salt": "OPE51Plh",
+    "md5": "9c8bc977259f2925d6c9e2e3fd3c296b",
+    "sha1": "967ec6ebb108201a903fc692f0b30a773b900a7c",
+    "sha256": "0c74c79123edee8cad9469a26e20c5240b385afcdee2cd6e46e27b3e0d340e8f"
   },
   "dob": {
-    "date": "1977-11-23T00:23:07.721Z",
-    "age": 47
+    "date": "1987-01-23T13:44:50.124Z",
+    "age": 38
   },
   "registered": {
-    "date": "2012-02-10T10:38:02.924Z",
-    "age": 13
+    "date": "2018-07-20T19:37:28.390Z",
+    "age": 6
   },
-  "phone": "(632) 327 3289",
-  "cell": "(684) 781 7933",
+  "phone": "8635537518",
+  "cell": "9320225945",
   "id": {
-    "name": "NSS",
-    "value": "95 51 50 7989 1"
+    "name": "UIDAI",
+    "value": "614531731131"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/53.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+    "large": "https://randomuser.me/api/portraits/women/1.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
   },
-  "nat": "MX"
+  "nat": "IN"
 }

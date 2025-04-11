@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Alix",
-    "last": "Guillaume"
+    "title": "Mr",
+    "first": "Maximiliano",
+    "last": "Balderas"
   },
   "location": {
     "street": {
-      "number": 6404,
-      "name": "Avenue des Ternes"
+      "number": 7661,
+      "name": "Andador Jamaica"
     },
-    "city": "Angers",
-    "state": "Maine-et-Loire",
-    "country": "France",
-    "postcode": 44079,
+    "city": "Zacualtipán",
+    "state": "Campeche",
+    "country": "Mexico",
+    "postcode": 30613,
     "coordinates": {
-      "latitude": "-15.8192",
-      "longitude": "51.8034"
+      "latitude": "28.0754",
+      "longitude": "-126.2611"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "alix.guillaume@example.com",
+  "email": "maximiliano.balderas@example.com",
   "login": {
-    "uuid": "0602a009-62fc-4183-a5e5-c17e5cb339f6",
-    "username": "greensnake190",
-    "password": "toolman",
-    "salt": "j7XgIniu",
-    "md5": "c9f2b3df357e0c06c09b6bc25107e549",
-    "sha1": "e71b41dcce28ed46709bcc36a29bdd1c8e7d5ddf",
-    "sha256": "b2349104f758411c10ea555a1dc5254ac8f85bf3fcd62a637be642eaa0812eaf"
+    "uuid": "b14c1f13-54dd-4547-b406-819e6f629558",
+    "username": "angrygorilla597",
+    "password": "denmark",
+    "salt": "vs31xqC7",
+    "md5": "25e57e6dcb2d9839c1d46feff77ad6bf",
+    "sha1": "45e78f3f5df84f9d061e8e5a117610331991ad9c",
+    "sha256": "4f3ebb34563c8b41fc95763bbce99ead52f93fd7b774772c948f9db8a85668e2"
   },
   "dob": {
-    "date": "1970-01-24T21:31:39.035Z",
-    "age": 55
+    "date": "1948-08-16T01:47:47.034Z",
+    "age": 76
   },
   "registered": {
-    "date": "2020-12-12T10:29:54.509Z",
-    "age": 4
+    "date": "2014-01-22T20:18:56.035Z",
+    "age": 11
   },
-  "phone": "04-72-25-94-29",
-  "cell": "06-48-73-32-74",
+  "phone": "(649) 416 3350",
+  "cell": "(631) 851 7665",
   "id": {
-    "name": "INSEE",
-    "value": "2700032265637 17"
+    "name": "NSS",
+    "value": "97 30 83 6961 5"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/30.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/30.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/30.jpg"
+    "large": "https://randomuser.me/api/portraits/men/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
   },
-  "nat": "FR"
+  "nat": "MX"
 }

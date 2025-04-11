@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Hitesh",
-    "last": "Prabhu"
+    "first": "Arthur",
+    "last": "Holland"
   },
   "location": {
     "street": {
-      "number": 2564,
-      "name": "Sampige Rd"
+      "number": 8108,
+      "name": "Smokey Ln"
     },
-    "city": "Kishanganj",
-    "state": "Andaman and Nicobar Islands",
-    "country": "India",
-    "postcode": 41142,
+    "city": "Kalgoorlie",
+    "state": "New South Wales",
+    "country": "Australia",
+    "postcode": 4049,
     "coordinates": {
-      "latitude": "10.7032",
-      "longitude": "-59.9510"
+      "latitude": "-83.9213",
+      "longitude": "-144.7850"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "hitesh.prabhu@example.com",
+  "email": "arthur.holland@example.com",
   "login": {
-    "uuid": "7a34c805-9f67-4be2-b7b3-b0d1e262011e",
-    "username": "sadduck762",
-    "password": "joemama",
-    "salt": "J9ABR3hn",
-    "md5": "83451156cda18471f262e04719b1d2bb",
-    "sha1": "dc95e3720b5924a40b15163cb92ef4ec3d99936d",
-    "sha256": "4b31b64ff188c0fd3fa8fa3fa0246e3c47793161542d02e2ca80a14a7c55737e"
+    "uuid": "167cc721-5533-4d08-b3dc-20b43b6e7dad",
+    "username": "smallrabbit216",
+    "password": "coming",
+    "salt": "xullYdG8",
+    "md5": "83dc8b4694afb094222bec2a135223ad",
+    "sha1": "d3a98d49060c61d4c419f77aabbc63c1bd545b75",
+    "sha256": "518ce5744c97e0cad125e42d1d2e8f6dc016f020f0945af3251c29097fa6b14c"
   },
   "dob": {
-    "date": "1946-08-24T10:35:14.667Z",
-    "age": 78
+    "date": "1947-05-05T00:23:44.013Z",
+    "age": 77
   },
   "registered": {
-    "date": "2019-02-16T02:35:12.817Z",
-    "age": 6
+    "date": "2017-02-08T12:37:55.160Z",
+    "age": 8
   },
-  "phone": "9141010914",
-  "cell": "7309166036",
+  "phone": "02-7484-8689",
+  "cell": "0426-840-335",
   "id": {
-    "name": "UIDAI",
-    "value": "385104964558"
+    "name": "TFN",
+    "value": "257283310"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/10.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    "large": "https://randomuser.me/api/portraits/men/29.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
   },
-  "nat": "IN"
+  "nat": "AU"
 }

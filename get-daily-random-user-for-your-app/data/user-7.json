@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Claire",
-    "last": "Berry"
+    "title": "Mr",
+    "first": "Jonas",
+    "last": "Kristensen"
   },
   "location": {
     "street": {
-      "number": 1742,
-      "name": "Victoria Road"
+      "number": 7851,
+      "name": "Lindevej"
     },
-    "city": "Dunboyne",
-    "state": "Galway",
-    "country": "Ireland",
-    "postcode": 34398,
+    "city": "Ansager",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 90252,
     "coordinates": {
-      "latitude": "4.0310",
-      "longitude": "136.5264"
+      "latitude": "-46.2553",
+      "longitude": "-0.6503"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "claire.berry@example.com",
+  "email": "jonas.kristensen@example.com",
   "login": {
-    "uuid": "40bb2e54-4690-4a2d-83d0-6cbd4626058f",
-    "username": "angrygorilla789",
-    "password": "slowhand",
-    "salt": "zLbOhZYo",
-    "md5": "a5c5fab22fc0028b1d9ec29e553cacb1",
-    "sha1": "358e0ed64d89a3815cc83648658e3cb62f9f7f7f",
-    "sha256": "d1087cf24ccad34a4874a5a6fed74900123d2a9bfe19f44297a20b7d8e2ebde5"
+    "uuid": "76dc712e-21a2-4a8a-87d2-1a831fbe35a2",
+    "username": "tinydog165",
+    "password": "idunno",
+    "salt": "jhPjNHNW",
+    "md5": "b191ee791bac0e6a2062e5dc1080298d",
+    "sha1": "21ed1fd038f9fb6839b439151bba74d9a5a5aea1",
+    "sha256": "30accaf3214a94d322030573bd652c7a16b11851c245ecb22aecc084330e9c4d"
   },
   "dob": {
-    "date": "1986-07-18T04:26:27.506Z",
-    "age": 38
+    "date": "1981-10-08T02:03:35.483Z",
+    "age": 43
   },
   "registered": {
-    "date": "2019-05-27T18:52:16.150Z",
-    "age": 5
+    "date": "2012-08-31T21:37:12.107Z",
+    "age": 12
   },
-  "phone": "031-130-3594",
-  "cell": "081-340-4736",
+  "phone": "19792361",
+  "cell": "62222162",
   "id": {
-    "name": "PPS",
-    "value": "8651193T"
+    "name": "CPR",
+    "value": "071081-2604"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
+    "large": "https://randomuser.me/api/portraits/men/24.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
   },
-  "nat": "IE"
+  "nat": "DK"
 }

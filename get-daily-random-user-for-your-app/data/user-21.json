@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Marisol",
-    "last": "Tapia"
+    "title": "Mr",
+    "first": "Bertram",
+    "last": "Larsen"
   },
   "location": {
     "street": {
-      "number": 6121,
-      "name": "Calle Tlaxcala"
+      "number": 8361,
+      "name": "Vadgårdsvej"
     },
-    "city": "San Luis Río Colorado",
-    "state": "Tamaulipas",
-    "country": "Mexico",
-    "postcode": 70627,
+    "city": "Sundby/Erslev",
+    "state": "Syddanmark",
+    "country": "Denmark",
+    "postcode": 32783,
     "coordinates": {
-      "latitude": "22.7247",
-      "longitude": "167.9367"
+      "latitude": "-38.8204",
+      "longitude": "-39.0312"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "marisol.tapia@example.com",
+  "email": "bertram.larsen@example.com",
   "login": {
-    "uuid": "ade293bd-a461-41af-b597-7fc7c4ed6c52",
-    "username": "heavykoala957",
-    "password": "muffin1",
-    "salt": "pxfgN9Cw",
-    "md5": "0159622683ac57cd4ed4250d95d3c4dc",
-    "sha1": "e5d5db3b5899e5c6ea1790ca0a53c2643cbb27ab",
-    "sha256": "ff1c7ca5bbe7bc697a8de053d17f5b676af202008220f865382806417fe8f48f"
+    "uuid": "263dedf4-bcc5-4985-adcf-6bf62210ce62",
+    "username": "silverzebra453",
+    "password": "start",
+    "salt": "SXVtJIv4",
+    "md5": "d9c31083e1356d1e7b7d1106748e56fc",
+    "sha1": "098bef5c80130e406fdd7e899f8464c34b7a8f1d",
+    "sha256": "ab3c3522a2408f6f67e85559cbd0a7c7de279621d198d18f6e10f21e296c3930"
   },
   "dob": {
-    "date": "1990-01-10T13:23:57.776Z",
-    "age": 35
+    "date": "1986-04-15T08:30:25.684Z",
+    "age": 38
   },
   "registered": {
-    "date": "2011-12-26T17:29:39.902Z",
-    "age": 13
+    "date": "2022-03-12T11:55:39.578Z",
+    "age": 3
   },
-  "phone": "(628) 847 3151",
-  "cell": "(603) 438 6516",
+  "phone": "11007831",
+  "cell": "61682951",
   "id": {
-    "name": "NSS",
-    "value": "22 59 09 4699 0"
+    "name": "CPR",
+    "value": "150486-4049"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/73.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/73.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/73.jpg"
+    "large": "https://randomuser.me/api/portraits/men/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
   },
-  "nat": "MX"
+  "nat": "DK"
 }

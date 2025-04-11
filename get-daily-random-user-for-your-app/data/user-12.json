@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Alice",
-    "last": "Crawford"
+    "title": "Mr",
+    "first": "Arjan",
+    "last": "Kragten"
   },
   "location": {
     "street": {
-      "number": 1064,
-      "name": "Mcclellan Rd"
+      "number": 4885,
+      "name": "Korte Slagenweg"
     },
-    "city": "Hobart",
-    "state": "Tasmania",
-    "country": "Australia",
-    "postcode": 3881,
+    "city": "Hattem",
+    "state": "Noord-Holland",
+    "country": "Netherlands",
+    "postcode": "6589 PF",
     "coordinates": {
-      "latitude": "-86.3280",
-      "longitude": "143.9976"
+      "latitude": "35.8122",
+      "longitude": "-32.7233"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "alice.crawford@example.com",
+  "email": "arjan.kragten@example.com",
   "login": {
-    "uuid": "02dd177b-cab9-4278-a610-ce5e0fc76dcc",
-    "username": "angryrabbit913",
-    "password": "bauhaus",
-    "salt": "OSJkCIxy",
-    "md5": "ab1fb1e717b7a426691ca0a279f88826",
-    "sha1": "23eb90f55022978cd6d42e207fa7b02af3f76bc1",
-    "sha256": "fc10c6fe9d31435c11c662e5be9ac1c195fc3e00a4bcb25c471d2c57c7b47665"
+    "uuid": "1647f5a2-5c94-4aac-a657-936d5ea6c384",
+    "username": "goldenladybug624",
+    "password": "gmoney",
+    "salt": "vVMsONVQ",
+    "md5": "6be9f1b32d0d6689e5a45af03d508551",
+    "sha1": "7af70d0a56f9e2b8042e67a135a17e75ebc8eadc",
+    "sha256": "bb372f07a5b604182ef4850d5fc719638f9cd371db112061babaa07a3a5d49bd"
   },
   "dob": {
-    "date": "1964-11-02T08:16:11.347Z",
-    "age": 60
+    "date": "1958-05-02T18:26:07.068Z",
+    "age": 66
   },
   "registered": {
-    "date": "2020-12-25T19:13:59.313Z",
-    "age": 4
+    "date": "2009-11-06T14:54:40.971Z",
+    "age": 15
   },
-  "phone": "09-7438-8709",
-  "cell": "0436-048-242",
+  "phone": "(0599) 868301",
+  "cell": "(06) 64426745",
   "id": {
-    "name": "TFN",
-    "value": "000267871"
+    "name": "BSN",
+    "value": "07324108"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/5.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/5.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/5.jpg"
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
   },
-  "nat": "AU"
+  "nat": "NL"
 }

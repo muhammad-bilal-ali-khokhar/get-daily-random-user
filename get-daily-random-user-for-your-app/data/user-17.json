@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Vicente",
-    "last": "de la Crúz"
+    "first": "Leo",
+    "last": "Liu"
   },
   "location": {
     "street": {
-      "number": 6051,
-      "name": "Eje vial Carmona"
+      "number": 6489,
+      "name": "9th St"
     },
-    "city": "San Miguel Octopan",
-    "state": "Ciudad de Mexico",
-    "country": "Mexico",
-    "postcode": 81446,
+    "city": "Keswick",
+    "state": "Nova Scotia",
+    "country": "Canada",
+    "postcode": "M5L 1B7",
     "coordinates": {
-      "latitude": "22.7002",
-      "longitude": "-4.5935"
+      "latitude": "-64.4421",
+      "longitude": "-132.0276"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "vicente.delacruz@example.com",
+  "email": "leo.liu@example.com",
   "login": {
-    "uuid": "f4b99b3c-d731-4237-bf14-1dc6f71f087e",
-    "username": "bigelephant207",
-    "password": "yyyyyyyy",
-    "salt": "2CngkpDS",
-    "md5": "cbd9ee3fb75aecf64cfdfdef1cb8b618",
-    "sha1": "2effa29ab5da68498791b39431eedeb26fd9d6c2",
-    "sha256": "8512151086df9c9719553d85b65b756bc6c09765edb73fbb210ef77028c00dd0"
+    "uuid": "887a177e-5a68-4e01-8116-af74ac13d2ab",
+    "username": "beautifulgorilla698",
+    "password": "another",
+    "salt": "vNxH4chI",
+    "md5": "77e7fb598183b6e78861f010e1c6862c",
+    "sha1": "b1f42d0b612cd787975efd90c5846a11097be1ef",
+    "sha256": "b4b8f898886997bcb33102dac5ce6384b66e110727be8564e200a6f0c35916d2"
   },
   "dob": {
-    "date": "1992-05-30T20:01:41.093Z",
-    "age": 32
+    "date": "1999-01-27T12:56:19.166Z",
+    "age": 26
   },
   "registered": {
-    "date": "2018-06-02T19:29:17.863Z",
-    "age": 6
+    "date": "2012-03-06T06:27:21.172Z",
+    "age": 13
   },
-  "phone": "(694) 090 5486",
-  "cell": "(662) 936 4394",
+  "phone": "R70 G81-6733",
+  "cell": "G57 L76-3705",
   "id": {
-    "name": "NSS",
-    "value": "74 78 04 5769 7"
+    "name": "SIN",
+    "value": "848558011"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
   },
-  "nat": "MX"
+  "nat": "CA"
 }

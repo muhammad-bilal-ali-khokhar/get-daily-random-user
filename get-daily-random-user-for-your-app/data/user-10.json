@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Anupama",
-    "last": "Kumari"
+    "first": "Billie",
+    "last": "Ferguson"
   },
   "location": {
     "street": {
-      "number": 5585,
-      "name": "Old Jail Rd"
+      "number": 4306,
+      "name": "White Oak Dr"
     },
-    "city": "Kottayam",
-    "state": "Rajasthan",
-    "country": "India",
-    "postcode": 38172,
+    "city": "Bowral",
+    "state": "South Australia",
+    "country": "Australia",
+    "postcode": 4942,
     "coordinates": {
-      "latitude": "7.6573",
-      "longitude": "64.4279"
+      "latitude": "-82.3043",
+      "longitude": "157.8261"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "anupama.kumari@example.com",
+  "email": "billie.ferguson@example.com",
   "login": {
-    "uuid": "178a898d-5633-4a9e-8a89-e098ceed17ad",
-    "username": "purpletiger115",
-    "password": "kungfu",
-    "salt": "xonPL3sO",
-    "md5": "a16c4db8561eb46b71d4f1ba50ad01af",
-    "sha1": "a52579fc7c255a1fe9735de3dd8876aa8b4707e2",
-    "sha256": "5b3db32785ebfa2de9bec9faaf80db0508637bf35f8249205e47a2bf2ef37800"
+    "uuid": "13926f29-c02d-4ffb-9282-fc1b28d0a330",
+    "username": "bluewolf785",
+    "password": "live",
+    "salt": "bkZ70Sxk",
+    "md5": "54fc890597b9b6d1b7cb41e691fa3232",
+    "sha1": "98ef1c0efc7dc00cb1106e7ab9c039670da451b8",
+    "sha256": "fb49fe56b25f749dea9e9d641de8131e54d154ed6bb0525cbc011f2f5343a5ce"
   },
   "dob": {
-    "date": "1978-07-03T07:36:54.578Z",
-    "age": 46
+    "date": "1949-08-21T18:42:46.512Z",
+    "age": 75
   },
   "registered": {
-    "date": "2012-11-12T02:50:09.776Z",
-    "age": 12
+    "date": "2016-10-31T03:33:15.856Z",
+    "age": 8
   },
-  "phone": "9980468378",
-  "cell": "9668905720",
+  "phone": "05-8061-2066",
+  "cell": "0427-956-524",
   "id": {
-    "name": "UIDAI",
-    "value": "524692390816"
+    "name": "TFN",
+    "value": "747652038"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/75.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+    "large": "https://randomuser.me/api/portraits/women/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
   },
-  "nat": "IN"
+  "nat": "AU"
 }

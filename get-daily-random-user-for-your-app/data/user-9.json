@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Ashley",
-    "last": "Duncan"
+    "title": "Mr",
+    "first": "Peter",
+    "last": "Bentsen"
   },
   "location": {
     "street": {
-      "number": 5791,
-      "name": "Albert Road"
+      "number": 5879,
+      "name": "Agdergata"
     },
-    "city": "Stirling",
-    "state": "West Glamorgan",
-    "country": "United Kingdom",
-    "postcode": "A1 1HU",
+    "city": "Gladstad",
+    "state": "Sogn og Fjordane",
+    "country": "Norway",
+    "postcode": "9603",
     "coordinates": {
-      "latitude": "-11.4008",
-      "longitude": "135.0967"
+      "latitude": "45.4667",
+      "longitude": "-13.9856"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "ashley.duncan@example.com",
+  "email": "peter.bentsen@example.com",
   "login": {
-    "uuid": "13e690de-922a-421b-b3ee-22713a9d5ea1",
-    "username": "tinydog230",
-    "password": "testerer",
-    "salt": "iiOlfRQm",
-    "md5": "af347daa6ba8ea7eefa2196efdc9c7b9",
-    "sha1": "fe4dcc6dc38dce598f725dec86435402b4e65a39",
-    "sha256": "d3657f532ffde468007eecb3862629f422d33ac43704a693598ec3950dc0def2"
+    "uuid": "c05903b4-baed-4e3f-b964-5e8552c4d81f",
+    "username": "greenfish390",
+    "password": "mozart",
+    "salt": "UQ5Z6o0S",
+    "md5": "c6bb1a768470e1c50b9f03cc73106142",
+    "sha1": "402e5e2a06926ab128fd90e77103f943ec38c625",
+    "sha256": "9beeb150d141a395dd5dca4381f401c336ce5fe29e9297c36e7c2cd4dc03b00a"
   },
   "dob": {
-    "date": "1970-10-24T18:01:35.132Z",
-    "age": 54
+    "date": "1997-08-28T16:32:40.018Z",
+    "age": 27
   },
   "registered": {
-    "date": "2003-10-19T14:33:53.473Z",
-    "age": 21
+    "date": "2012-08-25T19:37:13.300Z",
+    "age": 12
   },
-  "phone": "015394 70761",
-  "cell": "07391 062840",
+  "phone": "51828519",
+  "cell": "96342167",
   "id": {
-    "name": "NINO",
-    "value": "ZR 38 43 10 P"
+    "name": "FN",
+    "value": "28089719188"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
   },
-  "nat": "GB"
+  "nat": "NO"
 }

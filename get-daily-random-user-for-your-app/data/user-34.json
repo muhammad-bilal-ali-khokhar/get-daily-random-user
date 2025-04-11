@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Vanessa",
-    "last": "Wagner"
+    "title": "Mr",
+    "first": "Bernardo",
+    "last": "Iglesias"
   },
   "location": {
     "street": {
-      "number": 3030,
-      "name": "The Crescent"
+      "number": 7609,
+      "name": "Viaducto Cardenas"
     },
-    "city": "Salisbury",
-    "state": "Buckinghamshire",
-    "country": "United Kingdom",
-    "postcode": "L7 7GW",
+    "city": "Santo Domingo Atoyatempan",
+    "state": "Tlaxcala",
+    "country": "Mexico",
+    "postcode": 95176,
     "coordinates": {
-      "latitude": "-9.4188",
-      "longitude": "68.0789"
+      "latitude": "25.1362",
+      "longitude": "-37.3916"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "vanessa.wagner@example.com",
+  "email": "bernardo.iglesias@example.com",
   "login": {
-    "uuid": "fe814db0-f35f-4139-a2b5-6e77cea33859",
-    "username": "goldengorilla931",
-    "password": "red123",
-    "salt": "ow7enIxj",
-    "md5": "ad676d3cf86f7522fa63c0e693bd1884",
-    "sha1": "cb93bf4cd541f4eedc7205c1d20e4f73e3f3c80e",
-    "sha256": "c2c400e310f85fd42a729a819844c7ed817a64295f947d7453e60ac55f4f6616"
+    "uuid": "27fcfcef-01b9-47ec-bf32-ff16b3e328f0",
+    "username": "bluedog964",
+    "password": "yankees2",
+    "salt": "bgSJD6UE",
+    "md5": "77625e6f73a50c33fd4287bb8946f330",
+    "sha1": "14bab13959e44977a7dc016514cf7d854afaaf28",
+    "sha256": "52401188ce41c954a05a64b3f5627e3b8102b53cd4709f2604ed49f2f2ae1aeb"
   },
   "dob": {
-    "date": "1970-06-21T22:45:12.916Z",
-    "age": 54
+    "date": "1999-09-05T22:23:50.827Z",
+    "age": 25
   },
   "registered": {
-    "date": "2011-10-09T23:57:01.365Z",
-    "age": 13
+    "date": "2003-09-19T04:25:33.074Z",
+    "age": 21
   },
-  "phone": "0121 456 8989",
-  "cell": "07877 405903",
+  "phone": "(672) 811 5909",
+  "cell": "(602) 659 6550",
   "id": {
-    "name": "NINO",
-    "value": "YG 73 45 83 U"
+    "name": "NSS",
+    "value": "05 51 99 6714 1"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/76.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
   },
-  "nat": "GB"
+  "nat": "MX"
 }

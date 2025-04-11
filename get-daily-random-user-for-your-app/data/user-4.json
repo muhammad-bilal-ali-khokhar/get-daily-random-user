@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Fernandino",
-    "last": "Pereira"
+    "first": "Rodney",
+    "last": "Ortiz"
   },
   "location": {
     "street": {
-      "number": 8413,
-      "name": "Rua Paraná "
+      "number": 5412,
+      "name": "New Road"
     },
-    "city": "Caraguatatuba",
-    "state": "Pará",
-    "country": "Brazil",
-    "postcode": 94072,
+    "city": "Southampton",
+    "state": "South Glamorgan",
+    "country": "United Kingdom",
+    "postcode": "R0H 1BZ",
     "coordinates": {
-      "latitude": "-74.4839",
-      "longitude": "-9.4586"
+      "latitude": "-10.8289",
+      "longitude": "-35.0426"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "fernandino.pereira@example.com",
+  "email": "rodney.ortiz@example.com",
   "login": {
-    "uuid": "6cad739e-87ee-431e-bfc3-2749df02fe30",
-    "username": "smallduck228",
-    "password": "wildbill",
-    "salt": "GD65nh57",
-    "md5": "97952e23e75a89ccd68682de5200b372",
-    "sha1": "1c596322694e0ab3e682f6b8651a7d4c230b1e64",
-    "sha256": "920b8cc503536028c041c78a0e0b9aec3deb6387f873ed8b7e212bead528e46d"
+    "uuid": "da487ccb-f413-4d92-8a55-bc5b6a351570",
+    "username": "goldenfrog764",
+    "password": "nittany",
+    "salt": "7pgn1Jis",
+    "md5": "a528a8f49847cb4527b22934991161ac",
+    "sha1": "bfb4e28d5c14f64b25e3b083b59e623658f9a845",
+    "sha256": "3cd0208498f7a74e6e9b6675b99664b1f94fbf789522208ff7e187adf1fca603"
   },
   "dob": {
-    "date": "1972-08-19T03:58:37.544Z",
-    "age": 52
+    "date": "1987-12-31T14:57:36.512Z",
+    "age": 37
   },
   "registered": {
-    "date": "2007-09-16T07:25:32.626Z",
-    "age": 17
+    "date": "2009-10-11T17:38:43.498Z",
+    "age": 15
   },
-  "phone": "(89) 0198-2039",
-  "cell": "(63) 5282-4748",
+  "phone": "016973 42266",
+  "cell": "07878 271605",
   "id": {
-    "name": "CPF",
-    "value": "638.765.760-65"
+    "name": "NINO",
+    "value": "PX 70 56 80 C"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/60.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
   },
-  "nat": "BR"
+  "nat": "GB"
 }

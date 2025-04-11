@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Valentín",
-    "last": "Cabrera"
+    "first": "Eládio",
+    "last": "Campos"
   },
   "location": {
     "street": {
-      "number": 2953,
-      "name": "Avenida del Planetario"
+      "number": 8912,
+      "name": "Rua Santa Rita "
     },
-    "city": "Valencia",
-    "state": "Castilla y León",
-    "country": "Spain",
-    "postcode": 32168,
+    "city": "Vespasiano",
+    "state": "Rio Grande do Norte",
+    "country": "Brazil",
+    "postcode": 56710,
     "coordinates": {
-      "latitude": "-34.0294",
-      "longitude": "-118.3338"
+      "latitude": "-76.7160",
+      "longitude": "-101.0731"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "valentin.cabrera@example.com",
+  "email": "eladio.campos@example.com",
   "login": {
-    "uuid": "f1642e53-4145-4314-a20e-a3fb8e621554",
-    "username": "beautifultiger665",
-    "password": "bucky",
-    "salt": "pestngsO",
-    "md5": "542d91c614e006419c4990a71e3c5532",
-    "sha1": "48ffa1ae509ee69ca869481a2a1d0fa48ab41bbb",
-    "sha256": "bbe75b8bcee6b3e87cc6ba0790a0c3724a086af97d85a021682f47d237891b6a"
+    "uuid": "51aeafb8-ed91-4ccd-823b-982e34cf85ec",
+    "username": "bluepanda660",
+    "password": "buffalo1",
+    "salt": "51MgVVYX",
+    "md5": "61f7224a05da68210b64c832e79e3078",
+    "sha1": "a288f0f42270bea2ea0f79cced38a324427fdd69",
+    "sha256": "5161a49e3f8ab5d6a4ebe99ecf7d8666db6f13cc037d7124724466647a4675e3"
   },
   "dob": {
-    "date": "1957-11-21T12:35:14.417Z",
-    "age": 67
+    "date": "1973-09-25T13:28:13.776Z",
+    "age": 51
   },
   "registered": {
-    "date": "2021-09-19T09:22:12.204Z",
-    "age": 3
+    "date": "2005-04-03T06:06:58.076Z",
+    "age": 20
   },
-  "phone": "958-310-332",
-  "cell": "646-280-625",
+  "phone": "(22) 7953-9748",
+  "cell": "(65) 1745-2579",
   "id": {
-    "name": "DNI",
-    "value": "08928815-N"
+    "name": "CPF",
+    "value": "513.496.669-02"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/74.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    "large": "https://randomuser.me/api/portraits/men/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
   },
-  "nat": "ES"
+  "nat": "BR"
 }

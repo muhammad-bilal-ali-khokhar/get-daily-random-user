@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "علی",
-    "last": "سالاری"
+    "title": "Ms",
+    "first": "Emilie",
+    "last": "Martin"
   },
   "location": {
     "street": {
-      "number": 5965,
-      "name": "داودی"
+      "number": 2640,
+      "name": "St. Lawrence Ave"
     },
-    "city": "اراک",
-    "state": "کردستان",
-    "country": "Iran",
-    "postcode": 32767,
+    "city": "St. Antoine",
+    "state": "Northwest Territories",
+    "country": "Canada",
+    "postcode": "D6J 0V2",
     "coordinates": {
-      "latitude": "18.8264",
-      "longitude": "-104.5853"
+      "latitude": "-65.6706",
+      "longitude": "137.1509"
     },
     "timezone": {
       "offset": "+9:00",
       "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "aaly.slry@example.com",
+  "email": "emilie.martin@example.com",
   "login": {
-    "uuid": "95e940c4-3853-4024-b35d-bde9c3dd1706",
-    "username": "greenswan753",
-    "password": "chiks",
-    "salt": "mGuoaipS",
-    "md5": "48049f5a595cad71d85bb14437eca233",
-    "sha1": "d2f7dc041315791a24068cb0db1ef5d257ee8cd3",
-    "sha256": "54e67434869a5303e6c0aeef6dbfd67c42adb7bd8e126b97bf80c921f56207f2"
+    "uuid": "6ace4dd6-02d8-4c9b-bcfa-fa8bf18850b8",
+    "username": "redzebra667",
+    "password": "wallet",
+    "salt": "k1GVIToV",
+    "md5": "b670e571f5e35f6ab395e9b82121f740",
+    "sha1": "52164c21d3e3b37457949222047bb467c99e676b",
+    "sha256": "cb62e20d8c5fe4fe66fe646b9d01e68ae9961d26e5a932a1ae5f22ad47de3f5e"
   },
   "dob": {
-    "date": "1990-12-13T05:42:08.220Z",
-    "age": 34
+    "date": "1976-01-31T09:24:35.555Z",
+    "age": 49
   },
   "registered": {
-    "date": "2020-06-18T13:40:34.050Z",
-    "age": 4
+    "date": "2016-12-12T16:20:18.340Z",
+    "age": 8
   },
-  "phone": "072-88140416",
-  "cell": "0980-764-9314",
+  "phone": "C55 J07-5568",
+  "cell": "G33 P83-2125",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "093490316"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
+    "large": "https://randomuser.me/api/portraits/women/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
   },
-  "nat": "IR"
+  "nat": "CA"
 }

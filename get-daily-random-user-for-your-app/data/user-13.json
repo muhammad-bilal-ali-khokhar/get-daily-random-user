@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Yavdoha",
-    "last": "Stobenskiy"
+    "title": "Mr",
+    "first": "Želimir",
+    "last": "Nenezić"
   },
   "location": {
     "street": {
-      "number": 8757,
-      "name": "Ploshcha Konstituciyi"
+      "number": 5977,
+      "name": "Dragiše Kašikovića"
     },
-    "city": "Yuzhnoukrayinsk",
-    "state": "Volinska",
-    "country": "Ukraine",
-    "postcode": 39585,
+    "city": "Nova Crnja",
+    "state": "Pomoravlje",
+    "country": "Serbia",
+    "postcode": 86316,
     "coordinates": {
-      "latitude": "78.8336",
-      "longitude": "86.9229"
+      "latitude": "59.2511",
+      "longitude": "-31.0452"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "yavdoha.stobenskiy@example.com",
+  "email": "zelimir.nenezic@example.com",
   "login": {
-    "uuid": "fda0e7f1-5ea8-4d42-8f3f-e3433caacb90",
-    "username": "whitewolf308",
-    "password": "chiquita",
-    "salt": "3PF1qjt7",
-    "md5": "3caf1638203dd479d0505c795abc987c",
-    "sha1": "05a9c87d676831090c6be4d53ff44f5d600ec374",
-    "sha256": "f1b6362471471ab07b89331acf680538d42f9978709fe6b89b645a6065b2cdb9"
+    "uuid": "f799289d-c9ec-457b-a770-fd4639c6a564",
+    "username": "lazybear968",
+    "password": "jimbo1",
+    "salt": "YJ6XtCSy",
+    "md5": "9d499f33412b6fc9213c91f28f1e9208",
+    "sha1": "2de5293132eda318224e4f57b38b74d3683f5ac5",
+    "sha256": "a0dd807dd35ab2f80f35836415cb70bcae0a76df7aa35510e18525c6fe0ab419"
   },
   "dob": {
-    "date": "1962-03-06T10:49:55.349Z",
-    "age": 63
+    "date": "1994-03-20T11:18:49.456Z",
+    "age": 31
   },
   "registered": {
-    "date": "2006-11-15T02:23:05.545Z",
-    "age": 18
+    "date": "2007-07-28T18:03:37.711Z",
+    "age": 17
   },
-  "phone": "(098) Q67-6600",
-  "cell": "(066) I64-0505",
+  "phone": "015-7363-331",
+  "cell": "060-1733-809",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SID",
+    "value": "426056805"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/40.jpg"
   },
-  "nat": "UA"
+  "nat": "RS"
 }

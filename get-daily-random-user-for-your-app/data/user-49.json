@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Luukas",
-    "last": "Halko"
+    "first": "Daryl",
+    "last": "Clarke"
   },
   "location": {
     "street": {
-      "number": 2955,
-      "name": "Pyynikintie"
+      "number": 989,
+      "name": "North Street"
     },
-    "city": "Kiikoinen",
-    "state": "Central Finland",
-    "country": "Finland",
-    "postcode": 45647,
+    "city": "Monaghan",
+    "state": "Kildare",
+    "country": "Ireland",
+    "postcode": 99214,
     "coordinates": {
-      "latitude": "-25.1425",
-      "longitude": "-7.4716"
+      "latitude": "-3.5396",
+      "longitude": "-6.9195"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "luukas.halko@example.com",
+  "email": "daryl.clarke@example.com",
   "login": {
-    "uuid": "81d49406-ec9d-4792-811b-b7e22d5a596f",
-    "username": "beautifulpeacock746",
-    "password": "armada",
-    "salt": "4WJYDJid",
-    "md5": "52e60f818aed251daf8fe53e7fd0c321",
-    "sha1": "547f689a6f7aaacc957ffcefda691cdf0b60544b",
-    "sha256": "22c7b173f903bd3879bb7b0691c437e9ec69f031458a65c33175bafbfbac03af"
+    "uuid": "32318a6f-d3aa-4f9d-94c9-cfbdd8ef5eda",
+    "username": "smallmeercat828",
+    "password": "darrel",
+    "salt": "ZmMQ8MYg",
+    "md5": "965df35730797d54de09187ed469272e",
+    "sha1": "e6dbfb3137fcea7d9c072bcb866f2e162a5fc2e0",
+    "sha256": "c3136a2706630cc185ff0201b2b715259d96868a46861f6ddde621dca85c6f2f"
   },
   "dob": {
-    "date": "1971-04-26T12:36:29.060Z",
-    "age": 53
+    "date": "2000-05-16T17:26:52.006Z",
+    "age": 24
   },
   "registered": {
-    "date": "2020-03-05T17:04:11.034Z",
-    "age": 5
+    "date": "2017-02-17T04:21:55.498Z",
+    "age": 8
   },
-  "phone": "03-836-363",
-  "cell": "049-531-76-84",
+  "phone": "071-599-3886",
+  "cell": "081-458-3863",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA211undefined"
+    "name": "PPS",
+    "value": "7893458T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
   },
-  "nat": "FI"
+  "nat": "IE"
 }
