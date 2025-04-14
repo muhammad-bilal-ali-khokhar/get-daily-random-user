@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Nova",
-    "last": "Van Kekem"
+    "title": "Mr",
+    "first": "Radivoje",
+    "last": "Todorović"
   },
   "location": {
     "street": {
-      "number": 5901,
-      "name": "De Acht Schepel"
+      "number": 3790,
+      "name": "Sofije Dražić "
     },
-    "city": "Bourtange",
-    "state": "Drenthe",
-    "country": "Netherlands",
-    "postcode": "3832 ZO",
+    "city": "Mali Zvornik",
+    "state": "Central Banat",
+    "country": "Serbia",
+    "postcode": 48288,
     "coordinates": {
-      "latitude": "34.9266",
-      "longitude": "150.8123"
+      "latitude": "58.7975",
+      "longitude": "-32.9236"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "nova.vankekem@example.com",
+  "email": "radivoje.todorovic@example.com",
   "login": {
-    "uuid": "bd399511-0d29-4473-ba86-64fc23503efd",
-    "username": "happygorilla372",
-    "password": "lovely",
-    "salt": "ZkKrCpSN",
-    "md5": "30f8e09f3824b85c342aafe4eb7be1c3",
-    "sha1": "718cec6f05d32bbe6783b59e48c1f96f4932c00c",
-    "sha256": "7060236f80c3eda79cad8d5fad86d43ecb06b0b268389e858d87660ec1cb9511"
+    "uuid": "ad66c716-376f-4a12-822a-cd678740bd00",
+    "username": "bluemouse809",
+    "password": "beng",
+    "salt": "nEz7Pgjc",
+    "md5": "3ddfb06df282e9b90b913ed8e7db8650",
+    "sha1": "9474969aba14ccefb71f81943f5f3a0571d1a8f6",
+    "sha256": "e08df37cc89b0f4e06d83345a786f62cb3563e7c707b2fc822bd28ce72f17d37"
   },
   "dob": {
-    "date": "1998-10-29T12:48:48.801Z",
-    "age": 26
+    "date": "1990-11-04T16:05:40.279Z",
+    "age": 34
   },
   "registered": {
-    "date": "2018-05-12T04:53:57.515Z",
-    "age": 6
+    "date": "2010-08-15T12:07:09.120Z",
+    "age": 14
   },
-  "phone": "(0104) 900707",
-  "cell": "(06) 52376534",
+  "phone": "024-2078-006",
+  "cell": "060-3505-782",
   "id": {
-    "name": "BSN",
-    "value": "41813864"
+    "name": "SID",
+    "value": "433753657"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/17.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "NL"
+  "nat": "RS"
 }

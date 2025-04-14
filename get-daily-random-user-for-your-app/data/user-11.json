@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Tom",
-    "last": "Ruiz"
+    "first": "Alex",
+    "last": "King"
   },
   "location": {
     "street": {
-      "number": 2096,
-      "name": "South Street"
+      "number": 2698,
+      "name": "Hillside Road"
     },
-    "city": "Winchester",
-    "state": "Tyne and Wear",
-    "country": "United Kingdom",
-    "postcode": "YF9T 3HZ",
+    "city": "Whangarei",
+    "state": "Gisborne",
+    "country": "New Zealand",
+    "postcode": 24957,
     "coordinates": {
-      "latitude": "-12.4289",
-      "longitude": "-61.4747"
+      "latitude": "49.7809",
+      "longitude": "-161.1455"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "tom.ruiz@example.com",
+  "email": "alex.king@example.com",
   "login": {
-    "uuid": "ec43bfe3-08b0-473b-83a8-eeae20092adb",
-    "username": "redlion942",
-    "password": "cable",
-    "salt": "cIRaDmRs",
-    "md5": "1805faa5d66bfa99e4bf7710b1350dba",
-    "sha1": "6f8f8445a794bb8da2ae6105978a8a76760dbe23",
-    "sha256": "38727b47693b49a23bd6d588b00eed4b8f4e44b9a050e4ed35907df27b9da2d6"
+    "uuid": "05046f32-a1e9-47d3-89a3-e6459534342f",
+    "username": "purpleduck938",
+    "password": "meagan",
+    "salt": "Ph4LEYoH",
+    "md5": "ec167b0ce0a2a2f4468e1882bd277ffd",
+    "sha1": "0cd707d43134a075b92e0a577fb0f061b2457ca3",
+    "sha256": "727528716d6054b453e6b9ec6b64db3fa18dca054b11a207d76c6216a9dd3c79"
   },
   "dob": {
-    "date": "1994-06-24T08:47:52.093Z",
-    "age": 30
+    "date": "1966-05-22T17:19:10.861Z",
+    "age": 58
   },
   "registered": {
-    "date": "2015-12-01T13:34:04.862Z",
-    "age": 9
+    "date": "2008-03-07T09:23:04.145Z",
+    "age": 17
   },
-  "phone": "016973 59512",
-  "cell": "07682 863972",
+  "phone": "(632)-222-1931",
+  "cell": "(710)-658-5610",
   "id": {
-    "name": "NINO",
-    "value": "RH 15 03 59 V"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/36.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
   },
-  "nat": "GB"
+  "nat": "NZ"
 }

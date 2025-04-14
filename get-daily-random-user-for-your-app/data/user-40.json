@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Isaac",
-    "last": "Lee"
+    "title": "Monsieur",
+    "first": "Jens",
+    "last": "Dumont"
   },
   "location": {
     "street": {
-      "number": 7842,
-      "name": "Richmond Road"
+      "number": 7425,
+      "name": "Rue de L'Abbé-Gillet"
     },
-    "city": "Manchester",
-    "state": "West Sussex",
-    "country": "United Kingdom",
-    "postcode": "XJ3 0HH",
+    "city": "Chavannes-le-Chêne",
+    "state": "St. Gallen",
+    "country": "Switzerland",
+    "postcode": 4922,
     "coordinates": {
-      "latitude": "-11.0872",
-      "longitude": "-53.4595"
+      "latitude": "-58.7724",
+      "longitude": "-174.8542"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "isaac.lee@example.com",
+  "email": "jens.dumont@example.com",
   "login": {
-    "uuid": "68cca8f9-38d7-430a-9791-85827d4b1643",
-    "username": "organicbutterfly564",
-    "password": "jazzy",
-    "salt": "pHYDpcQZ",
-    "md5": "be3edc8c0c9c7e28cf7a7d41a1bd1db9",
-    "sha1": "4dd4146672a54cefe2fe1429c1e1bfff154dd6f2",
-    "sha256": "1c2de4696fc35c5ca752617edde1a0c9d419a3216fc9f3943eabb52e51b7a84c"
+    "uuid": "735b82b4-19a4-4948-ba08-83cb616889f3",
+    "username": "angryleopard583",
+    "password": "pacific",
+    "salt": "hMMrJqIC",
+    "md5": "7f690e7a7a38673dc0faa7e9763b5b83",
+    "sha1": "9bcfb8f771e70ecadcdcc2dd9278b1b0179ba211",
+    "sha256": "7e516085810462e3d0f6bd4bbb6253772691d3bcd49ef73e0c4ff248e7403d71"
   },
   "dob": {
-    "date": "1963-02-23T18:51:57.803Z",
-    "age": 62
+    "date": "1955-09-07T05:38:57.226Z",
+    "age": 69
   },
   "registered": {
-    "date": "2013-06-29T16:54:17.601Z",
-    "age": 11
+    "date": "2017-07-14T14:00:36.632Z",
+    "age": 7
   },
-  "phone": "01113 455993",
-  "cell": "07740 896886",
+  "phone": "075 455 59 26",
+  "cell": "078 180 27 75",
   "id": {
-    "name": "NINO",
-    "value": "KN 03 10 99 H"
+    "name": "AVS",
+    "value": "756.3054.1221.58"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
   },
-  "nat": "GB"
+  "nat": "CH"
 }

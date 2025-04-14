@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Venla",
-    "last": "Tuominen"
+    "title": "Mr",
+    "first": "Justin",
+    "last": "Fortin"
   },
   "location": {
     "street": {
-      "number": 6957,
-      "name": "Korkeavuorenkatu"
+      "number": 822,
+      "name": "Dundas Rd"
     },
-    "city": "Larsmo",
-    "state": "Satakunta",
-    "country": "Finland",
-    "postcode": 44875,
+    "city": "Shelbourne",
+    "state": "Prince Edward Island",
+    "country": "Canada",
+    "postcode": "N9H 8B5",
     "coordinates": {
-      "latitude": "-28.1263",
-      "longitude": "63.1663"
+      "latitude": "-69.2076",
+      "longitude": "-18.2307"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "venla.tuominen@example.com",
+  "email": "justin.fortin@example.com",
   "login": {
-    "uuid": "fee7b56a-6772-49c9-bc9e-a62a2b875dfd",
-    "username": "tinymouse449",
-    "password": "monday",
-    "salt": "BBlJUMSV",
-    "md5": "dbf11b030d4cd5fa164a22f4f7e77d4b",
-    "sha1": "dfd13fe5acbcecbfbd20a7d91c16ad8e053b04e8",
-    "sha256": "38fd38855d7835050bb97ab8b4e664d6585f52f8a634458bdace29b7c21458a0"
+    "uuid": "84817bb5-5c6e-432a-8749-a2149e17b125",
+    "username": "crazylion707",
+    "password": "jesus1",
+    "salt": "wVA4lkPV",
+    "md5": "8ccb32d5e22a594b4d51781b378f5f6f",
+    "sha1": "f8df80ee9ac96c8f16e7a9551c06566f70b2a714",
+    "sha256": "50ada91176c03091a11dce134f7e179caa3959aeff20d4cab2aeff807e5a4e0d"
   },
   "dob": {
-    "date": "1952-04-03T14:39:19.282Z",
-    "age": 73
+    "date": "1953-05-06T07:18:29.032Z",
+    "age": 71
   },
   "registered": {
-    "date": "2015-03-08T15:04:03.929Z",
-    "age": 10
+    "date": "2004-06-06T18:41:22.797Z",
+    "age": 20
   },
-  "phone": "07-543-898",
-  "cell": "042-887-73-37",
+  "phone": "P81 L60-1350",
+  "cell": "R04 W54-8191",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA384undefined"
+    "name": "SIN",
+    "value": "600751200"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/15.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
   },
-  "nat": "FI"
+  "nat": "CA"
 }

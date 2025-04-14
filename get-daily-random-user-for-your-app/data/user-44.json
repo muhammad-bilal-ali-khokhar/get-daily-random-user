@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Ana",
-    "last": "Simmons"
+    "title": "Mr",
+    "first": "Nihal",
+    "last": "Kurutluoğlu"
   },
   "location": {
     "street": {
-      "number": 2566,
-      "name": "Valwood Pkwy"
+      "number": 8017,
+      "name": "Filistin Cd"
     },
-    "city": "Naperville",
-    "state": "New Jersey",
-    "country": "United States",
-    "postcode": 38736,
+    "city": "Giresun",
+    "state": "Manisa",
+    "country": "Turkey",
+    "postcode": 68877,
     "coordinates": {
-      "latitude": "85.1811",
-      "longitude": "139.7423"
+      "latitude": "70.1062",
+      "longitude": "-174.4287"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "ana.simmons@example.com",
+  "email": "nihal.kurutluoglu@example.com",
   "login": {
-    "uuid": "0d884d99-576f-41f9-8e2b-23ae4140cf03",
-    "username": "saddog276",
-    "password": "bubble",
-    "salt": "CA7f7MF5",
-    "md5": "33aed517dfd18f2151511167f761a67b",
-    "sha1": "b12c89a6f5b4576a6d28eacaf9582dcd82ec4a3e",
-    "sha256": "503deb43cdb1d23cd903972c642e102335cffea31dc4105d650109782d1348f2"
+    "uuid": "c9fc958a-d827-4bfb-8464-1470a5e38f9d",
+    "username": "happyfish203",
+    "password": "corey",
+    "salt": "YFlBS7Qr",
+    "md5": "848d7d8fd51bfd4785a328a341792d7b",
+    "sha1": "643345d9dedfa49fc069fa59e8c163d0fec1e643",
+    "sha256": "c0747a7f297dbbb42882ea2833d38d73f0fa874a8d141b913e1ea4d65fcc77e5"
   },
   "dob": {
-    "date": "1983-03-04T17:41:21.672Z",
-    "age": 42
+    "date": "1959-01-30T15:36:26.052Z",
+    "age": 66
   },
   "registered": {
-    "date": "2019-11-26T19:23:39.662Z",
-    "age": 5
+    "date": "2011-10-11T04:04:19.439Z",
+    "age": 13
   },
-  "phone": "(220) 890-2770",
-  "cell": "(411) 404-6246",
+  "phone": "(638)-259-5883",
+  "cell": "(477)-937-6510",
   "id": {
-    "name": "SSN",
-    "value": "314-28-1846"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    "large": "https://randomuser.me/api/portraits/men/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
   },
-  "nat": "US"
+  "nat": "TR"
 }

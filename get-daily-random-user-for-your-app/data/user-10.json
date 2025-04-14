@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Billie",
-    "last": "Ferguson"
+    "title": "Mr",
+    "first": "Mark",
+    "last": "Wallace"
   },
   "location": {
     "street": {
-      "number": 4306,
-      "name": "White Oak Dr"
+      "number": 8776,
+      "name": "Chester Road"
     },
-    "city": "Bowral",
-    "state": "South Australia",
-    "country": "Australia",
-    "postcode": 4942,
+    "city": "Cardiff",
+    "state": "Mid Glamorgan",
+    "country": "United Kingdom",
+    "postcode": "L8Y 0EB",
     "coordinates": {
-      "latitude": "-82.3043",
-      "longitude": "157.8261"
+      "latitude": "-12.0337",
+      "longitude": "-42.0709"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "billie.ferguson@example.com",
+  "email": "mark.wallace@example.com",
   "login": {
-    "uuid": "13926f29-c02d-4ffb-9282-fc1b28d0a330",
-    "username": "bluewolf785",
-    "password": "live",
-    "salt": "bkZ70Sxk",
-    "md5": "54fc890597b9b6d1b7cb41e691fa3232",
-    "sha1": "98ef1c0efc7dc00cb1106e7ab9c039670da451b8",
-    "sha256": "fb49fe56b25f749dea9e9d641de8131e54d154ed6bb0525cbc011f2f5343a5ce"
+    "uuid": "ae7e12a8-06d8-4e8b-bc64-b20ee1c18428",
+    "username": "heavyfish738",
+    "password": "shannon1",
+    "salt": "czYG4IQC",
+    "md5": "573acc021634951927443594f3c39467",
+    "sha1": "aac4001f83efa9c39cb45e18108a120b908e382b",
+    "sha256": "633e2dcbfedc64e379a424cda0406d479af7f146c66e6ba5b14b76970b85d799"
   },
   "dob": {
-    "date": "1949-08-21T18:42:46.512Z",
-    "age": 75
+    "date": "1954-04-03T20:45:01.914Z",
+    "age": 71
   },
   "registered": {
-    "date": "2016-10-31T03:33:15.856Z",
-    "age": 8
+    "date": "2002-12-24T00:10:34.270Z",
+    "age": 22
   },
-  "phone": "05-8061-2066",
-  "cell": "0427-956-524",
+  "phone": "01918 15215",
+  "cell": "07873 753294",
   "id": {
-    "name": "TFN",
-    "value": "747652038"
+    "name": "NINO",
+    "value": "ZK 14 03 60 D"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    "large": "https://randomuser.me/api/portraits/men/91.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
   },
-  "nat": "AU"
+  "nat": "GB"
 }

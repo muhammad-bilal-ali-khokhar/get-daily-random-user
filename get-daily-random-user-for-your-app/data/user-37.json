@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Anel",
-    "last": "Lomeli"
+    "title": "Mr",
+    "first": "Marvão",
+    "last": "Sales"
   },
   "location": {
     "street": {
-      "number": 1685,
-      "name": "Retorno Salcido"
+      "number": 4756,
+      "name": "Rua São João "
     },
-    "city": "Tilzapotla",
-    "state": "Nuevo Leon",
-    "country": "Mexico",
-    "postcode": 15213,
+    "city": "Cametá",
+    "state": "Roraima",
+    "country": "Brazil",
+    "postcode": 37040,
     "coordinates": {
-      "latitude": "23.5005",
-      "longitude": "99.6407"
+      "latitude": "-76.2896",
+      "longitude": "-64.8159"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "anel.lomeli@example.com",
+  "email": "marvao.sales@example.com",
   "login": {
-    "uuid": "17362ee9-0d05-4732-b966-55a7f326bdbc",
-    "username": "happygoose422",
-    "password": "gesperrt",
-    "salt": "YcvBol0L",
-    "md5": "aa4f8121166ef636fd075f41afd40326",
-    "sha1": "a7a082812cb97013e808691d7c9597844e7a5ff3",
-    "sha256": "a21bcd55c76549a987fed7dfa68543fc93e1c673e390b2b6f635da1bbcacac01"
+    "uuid": "aea7c2d4-fa82-48da-9b79-98d927199fe8",
+    "username": "heavylion657",
+    "password": "racers",
+    "salt": "7PGhF2Nv",
+    "md5": "54dd06e5c20b390a0ef736a1f4e66934",
+    "sha1": "7c89dca5dcf7ba799e40d8a1b0b0c94acf6b8f34",
+    "sha256": "87859cbcec2267ea6b578089d2c44ad184650d9e3c6fc6e5906614c52d3fd05b"
   },
   "dob": {
-    "date": "1981-03-08T18:21:35.605Z",
-    "age": 44
+    "date": "1973-12-21T17:18:55.745Z",
+    "age": 51
   },
   "registered": {
-    "date": "2011-11-12T12:29:15.753Z",
-    "age": 13
+    "date": "2018-09-25T16:02:38.242Z",
+    "age": 6
   },
-  "phone": "(611) 378 7723",
-  "cell": "(607) 081 8073",
+  "phone": "(14) 1659-9515",
+  "cell": "(62) 7457-3506",
   "id": {
-    "name": "NSS",
-    "value": "63 19 09 1868 8"
+    "name": "CPF",
+    "value": "990.795.857-10"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
   },
-  "nat": "MX"
+  "nat": "BR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Monsieur",
-    "first": "Malik",
-    "last": "Noel"
+    "title": "Ms",
+    "first": "Keira",
+    "last": "Chen"
   },
   "location": {
     "street": {
-      "number": 9951,
-      "name": "Rue de L'Abbé-Gillet"
+      "number": 4615,
+      "name": "Andersons Bay Road"
     },
-    "city": "Veyrier",
-    "state": "Zürich",
-    "country": "Switzerland",
-    "postcode": 7617,
+    "city": "Whanganui",
+    "state": "Otago",
+    "country": "New Zealand",
+    "postcode": 88643,
     "coordinates": {
-      "latitude": "-61.8250",
-      "longitude": "-1.1198"
+      "latitude": "50.4747",
+      "longitude": "146.6515"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "malik.noel@example.com",
+  "email": "keira.chen@example.com",
   "login": {
-    "uuid": "9c4f8ef5-3c3c-4b9a-9a38-ea1eba2abdca",
-    "username": "blueleopard898",
-    "password": "ning",
-    "salt": "nVoURLOJ",
-    "md5": "e6cb34d1b350800d7729e40461ffeff4",
-    "sha1": "926c9997f42605c80ea2dc1e2500722bf3138e22",
-    "sha256": "013d7e7251d1edf17c7a069d14ae4b557882dd5ab84bbc83406a74582bca756b"
+    "uuid": "80c770e9-db2f-4c13-a2a5-5a5f7520ab2a",
+    "username": "goldengoose685",
+    "password": "october",
+    "salt": "Qi8XgmNj",
+    "md5": "3582423803117a5e1cf074e1ace16e1a",
+    "sha1": "15737a16ed60275d6080d4d290f54558e6fea0d7",
+    "sha256": "4f161edfce14081db538ebfdc6ea8682ab592cf1140e201af88073dcd29f9552"
   },
   "dob": {
-    "date": "1982-01-26T15:40:52.035Z",
-    "age": 43
+    "date": "1964-07-14T10:55:27.886Z",
+    "age": 60
   },
   "registered": {
-    "date": "2003-09-10T18:09:44.892Z",
-    "age": 21
+    "date": "2021-07-31T05:20:50.208Z",
+    "age": 3
   },
-  "phone": "078 167 87 66",
-  "cell": "076 532 75 91",
+  "phone": "(310)-671-6893",
+  "cell": "(277)-236-4862",
   "id": {
-    "name": "AVS",
-    "value": "756.8059.1365.63"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/90.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
   },
-  "nat": "CH"
+  "nat": "NZ"
 }

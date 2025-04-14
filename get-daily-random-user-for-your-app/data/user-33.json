@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Isaac",
-    "last": "Mccoy"
+    "first": "Valdir",
+    "last": "Duarte"
   },
   "location": {
     "street": {
-      "number": 6079,
-      "name": "First Street"
+      "number": 5593,
+      "name": "Rua Santa Luzia "
     },
-    "city": "Launceston",
-    "state": "Queensland",
-    "country": "Australia",
-    "postcode": 1119,
+    "city": "Carapicuíba",
+    "state": "Rio Grande do Sul",
+    "country": "Brazil",
+    "postcode": 20838,
     "coordinates": {
-      "latitude": "-88.5986",
-      "longitude": "-70.2412"
+      "latitude": "-80.0577",
+      "longitude": "-10.2610"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "isaac.mccoy@example.com",
+  "email": "valdir.duarte@example.com",
   "login": {
-    "uuid": "6959486c-ec10-4485-8dbe-a65f0ef12418",
-    "username": "sadtiger683",
-    "password": "susan1",
-    "salt": "4WhasGuc",
-    "md5": "0f15fe0a8cbe4b3f0e9225c2a61c98e6",
-    "sha1": "5be2058366ab1823f007476d04d970e20f66441d",
-    "sha256": "cc1bcf574bd4469a83b876f62ae42304789701c18ab926f696cf1dcb25ebb75e"
+    "uuid": "e648a3c1-4fdf-409d-96f4-3a81eb06d082",
+    "username": "whitefish318",
+    "password": "giggles",
+    "salt": "s0Z7cL2L",
+    "md5": "087360efff8865e055d21f5f0b125e79",
+    "sha1": "f8f3e80af70e581804bce606162060f9574d0bc0",
+    "sha256": "ec7006193858fa6f89d3aedf76207453aa2357607d061746a020af6814f22ca9"
   },
   "dob": {
-    "date": "1968-07-08T00:03:36.121Z",
-    "age": 56
+    "date": "1982-05-10T03:45:01.102Z",
+    "age": 42
   },
   "registered": {
-    "date": "2009-04-29T00:52:47.631Z",
-    "age": 15
+    "date": "2013-03-06T02:16:14.057Z",
+    "age": 12
   },
-  "phone": "00-8911-2052",
-  "cell": "0461-759-862",
+  "phone": "(97) 0480-5122",
+  "cell": "(94) 6838-1138",
   "id": {
-    "name": "TFN",
-    "value": "465940892"
+    "name": "CPF",
+    "value": "491.528.021-23"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/97.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
   },
-  "nat": "AU"
+  "nat": "BR"
 }

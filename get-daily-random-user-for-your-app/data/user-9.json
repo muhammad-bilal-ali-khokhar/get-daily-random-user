@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Peter",
-    "last": "Bentsen"
+    "first": "Robert",
+    "last": "Kennedy"
   },
   "location": {
     "street": {
-      "number": 5879,
-      "name": "Agdergata"
+      "number": 3457,
+      "name": "Rectory Lane"
     },
-    "city": "Gladstad",
-    "state": "Sogn og Fjordane",
-    "country": "Norway",
-    "postcode": "9603",
+    "city": "Portsmouth",
+    "state": "Surrey",
+    "country": "United Kingdom",
+    "postcode": "FB63 2BD",
     "coordinates": {
-      "latitude": "45.4667",
-      "longitude": "-13.9856"
+      "latitude": "-5.8670",
+      "longitude": "-154.9599"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "peter.bentsen@example.com",
+  "email": "robert.kennedy@example.com",
   "login": {
-    "uuid": "c05903b4-baed-4e3f-b964-5e8552c4d81f",
-    "username": "greenfish390",
-    "password": "mozart",
-    "salt": "UQ5Z6o0S",
-    "md5": "c6bb1a768470e1c50b9f03cc73106142",
-    "sha1": "402e5e2a06926ab128fd90e77103f943ec38c625",
-    "sha256": "9beeb150d141a395dd5dca4381f401c336ce5fe29e9297c36e7c2cd4dc03b00a"
+    "uuid": "c785bad6-2f7d-4e73-977c-6ef882df4f7c",
+    "username": "heavyrabbit480",
+    "password": "jessie",
+    "salt": "h9BZ5Emg",
+    "md5": "cebbfe728e725716b15b0971eed59086",
+    "sha1": "6461cbda64111adde0e41b287bf7455620d064eb",
+    "sha256": "40e11bee8c74b8e2235ca519724ce370009bc48831aa9bcb97e2a9ed09154e3d"
   },
   "dob": {
-    "date": "1997-08-28T16:32:40.018Z",
-    "age": 27
+    "date": "1996-05-12T04:16:33.746Z",
+    "age": 28
   },
   "registered": {
-    "date": "2012-08-25T19:37:13.300Z",
-    "age": 12
+    "date": "2021-08-25T16:16:30.387Z",
+    "age": 3
   },
-  "phone": "51828519",
-  "cell": "96342167",
+  "phone": "016977 7495",
+  "cell": "07449 947782",
   "id": {
-    "name": "FN",
-    "value": "28089719188"
+    "name": "NINO",
+    "value": "WW 92 74 80 B"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/32.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
+    "large": "https://randomuser.me/api/portraits/men/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/55.jpg"
   },
-  "nat": "NO"
+  "nat": "GB"
 }

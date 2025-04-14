@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "نازنین",
-    "last": "قاسمی"
+    "first": "Terumi",
+    "last": "Lopes"
   },
   "location": {
     "street": {
-      "number": 5199,
-      "name": "میدان صادقیه"
+      "number": 2266,
+      "name": "Rua Das Flores "
     },
-    "city": "قم",
-    "state": "آذربایجان شرقی",
-    "country": "Iran",
-    "postcode": 69839,
+    "city": "Ferraz de Vasconcelos",
+    "state": "Maranhão",
+    "country": "Brazil",
+    "postcode": 27221,
     "coordinates": {
-      "latitude": "16.3698",
-      "longitude": "12.0371"
+      "latitude": "-76.8056",
+      "longitude": "145.2802"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "nznyn.qsmy@example.com",
+  "email": "terumi.lopes@example.com",
   "login": {
-    "uuid": "c8618cb0-aad4-4157-8eef-9ba11646b855",
-    "username": "yellowlion760",
-    "password": "tracey",
-    "salt": "Q2sfvBb4",
-    "md5": "36bdbb082d286847068960d83062c5e2",
-    "sha1": "1b3f8d386ea8c1f711f84e02acdb5139991efffb",
-    "sha256": "d1607af0e0acd13f8cf239487618577c8bb317eded8413b5e959154d8a23f843"
+    "uuid": "e87b3355-3f78-4719-8a55-8c516ecfb76e",
+    "username": "goldenlion805",
+    "password": "extreme",
+    "salt": "9EIEgJcQ",
+    "md5": "f736c4c13b0af6a2770d4e385a1bf740",
+    "sha1": "1b74409bf6eafd38e15646aec0b1fe47705d5283",
+    "sha256": "4c77dff94f02d89334df97ebaa4d42b2a69b2047af2b99d96c94b3b7d99ea9c5"
   },
   "dob": {
-    "date": "1983-02-01T14:37:55.764Z",
-    "age": 42
+    "date": "1964-11-24T22:22:24.221Z",
+    "age": 60
   },
   "registered": {
-    "date": "2003-12-16T20:46:03.001Z",
+    "date": "2004-02-22T09:09:44.278Z",
     "age": 21
   },
-  "phone": "032-47533439",
-  "cell": "0980-462-2594",
+  "phone": "(98) 9643-9049",
+  "cell": "(44) 7598-3073",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "220.048.212-74"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/9.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+    "large": "https://randomuser.me/api/portraits/women/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
   },
-  "nat": "IR"
+  "nat": "BR"
 }

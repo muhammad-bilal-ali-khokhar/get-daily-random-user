@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Carolyn",
-    "last": "Vargas"
+    "title": "Miss",
+    "first": "Rusudana",
+    "last": "Kolosovskiy"
   },
   "location": {
     "street": {
-      "number": 1189,
-      "name": "Washington Ave"
+      "number": 1145,
+      "name": "Zemskogo likarya Lukashevicha"
     },
-    "city": "Inglewood",
-    "state": "Pennsylvania",
-    "country": "United States",
-    "postcode": 85077,
+    "city": "Svitlovodsk",
+    "state": "Zhitomirska",
+    "country": "Ukraine",
+    "postcode": 20523,
     "coordinates": {
-      "latitude": "84.6712",
-      "longitude": "5.9424"
+      "latitude": "73.3823",
+      "longitude": "36.1413"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "carolyn.vargas@example.com",
+  "email": "rusudana.kolosovskiy@example.com",
   "login": {
-    "uuid": "2edc1f6b-dba7-4602-b80d-b7967bf0b43a",
-    "username": "ticklishpanda539",
-    "password": "484848",
-    "salt": "UODAcimF",
-    "md5": "2fa2e6b25f7f7a3abd39c51843dc113d",
-    "sha1": "01b24b1a8cb1e3a6f3191fba2d551a744ad7e959",
-    "sha256": "51e69d4fe58e8a1b4f4a120bb574ff7f9dca8f4782af3fbed92319fc2530e7ab"
+    "uuid": "c62613c3-1192-43e2-8eae-e8b021b7cfac",
+    "username": "tinytiger550",
+    "password": "peter1",
+    "salt": "fMko3iV6",
+    "md5": "482df8dec3f9001b37ac58ff7f93c7ad",
+    "sha1": "5fb55caa64c529dd65f17cf0e77dae9e71190acd",
+    "sha256": "613d58a813383cfd5b2c8c03cea6de9a8381410af750114c5aa980e5894fe13f"
   },
   "dob": {
-    "date": "1977-11-23T23:16:07.980Z",
-    "age": 47
+    "date": "1987-02-04T21:33:05.024Z",
+    "age": 38
   },
   "registered": {
-    "date": "2010-07-19T20:48:32.997Z",
-    "age": 14
+    "date": "2003-02-12T01:19:35.683Z",
+    "age": 22
   },
-  "phone": "(790) 722-6062",
-  "cell": "(747) 840-6103",
+  "phone": "(066) T47-9677",
+  "cell": "(068) B93-1551",
   "id": {
-    "name": "SSN",
-    "value": "858-89-0493"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/45.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/45.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
+    "large": "https://randomuser.me/api/portraits/women/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
   },
-  "nat": "US"
+  "nat": "UA"
 }

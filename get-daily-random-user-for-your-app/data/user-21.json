@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Bertram",
-    "last": "Larsen"
+    "title": "Ms",
+    "first": "Nikola",
+    "last": "Grimnes"
   },
   "location": {
     "street": {
-      "number": 8361,
-      "name": "Vadgårdsvej"
+      "number": 9710,
+      "name": "Kranveien"
     },
-    "city": "Sundby/Erslev",
-    "state": "Syddanmark",
-    "country": "Denmark",
-    "postcode": 32783,
+    "city": "Sortland",
+    "state": "Vest-Agder",
+    "country": "Norway",
+    "postcode": "1900",
     "coordinates": {
-      "latitude": "-38.8204",
-      "longitude": "-39.0312"
+      "latitude": "41.6054",
+      "longitude": "9.4068"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "bertram.larsen@example.com",
+  "email": "nikola.grimnes@example.com",
   "login": {
-    "uuid": "263dedf4-bcc5-4985-adcf-6bf62210ce62",
-    "username": "silverzebra453",
-    "password": "start",
-    "salt": "SXVtJIv4",
-    "md5": "d9c31083e1356d1e7b7d1106748e56fc",
-    "sha1": "098bef5c80130e406fdd7e899f8464c34b7a8f1d",
-    "sha256": "ab3c3522a2408f6f67e85559cbd0a7c7de279621d198d18f6e10f21e296c3930"
+    "uuid": "b4b9f7cf-91f0-48df-92ad-b8e92a55d31e",
+    "username": "ticklishpeacock550",
+    "password": "nittany",
+    "salt": "e9cH28vj",
+    "md5": "c6c27502faf5ad9b8b5efa563b4cb289",
+    "sha1": "fdecec92bfe4acfe31a80de6e467dc403b62079c",
+    "sha256": "cf2ef7b16187deb650ad239c2ea33e0dab480aae79305030763ee5af374283e0"
   },
   "dob": {
-    "date": "1986-04-15T08:30:25.684Z",
-    "age": 38
+    "date": "1996-10-01T08:38:30.211Z",
+    "age": 28
   },
   "registered": {
-    "date": "2022-03-12T11:55:39.578Z",
-    "age": 3
+    "date": "2013-07-28T19:20:10.762Z",
+    "age": 11
   },
-  "phone": "11007831",
-  "cell": "61682951",
+  "phone": "63382189",
+  "cell": "98624855",
   "id": {
-    "name": "CPR",
-    "value": "150486-4049"
+    "name": "FN",
+    "value": "01109649259"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    "large": "https://randomuser.me/api/portraits/women/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
   },
-  "nat": "DK"
+  "nat": "NO"
 }

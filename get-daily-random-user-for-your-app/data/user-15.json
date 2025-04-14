@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Aglayida",
-    "last": "Shlemkevich"
+    "first": "Pallavi",
+    "last": "Kamath"
   },
   "location": {
     "street": {
-      "number": 3513,
-      "name": "Centralniy prospekt"
+      "number": 1628,
+      "name": "Lamington Rd"
     },
-    "city": "Ostrog",
-    "state": "Avtonomna Respublika Krim",
-    "country": "Ukraine",
-    "postcode": 45905,
+    "city": "Eluru",
+    "state": "Goa",
+    "country": "India",
+    "postcode": 29962,
     "coordinates": {
-      "latitude": "81.3401",
-      "longitude": "52.4018"
+      "latitude": "6.3548",
+      "longitude": "50.5567"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "aglayida.shlemkevich@example.com",
+  "email": "pallavi.kamath@example.com",
   "login": {
-    "uuid": "0f9b5fa0-6491-41b2-adc0-05395eee3535",
-    "username": "angrybear424",
-    "password": "rolltide",
-    "salt": "rJfgUlP1",
-    "md5": "bcae51fb38a95f9af28868a9c4124c36",
-    "sha1": "fb1b4124a0716363614a655b37911fa35609a155",
-    "sha256": "ff6f9bd35f5d0be68446f2dde5c252ff2fe86c1c037c6f17dfcc458c65218753"
+    "uuid": "868a2644-35ba-438c-bff8-ec3c43bbeaaf",
+    "username": "lazywolf792",
+    "password": "venus",
+    "salt": "uTQoFV80",
+    "md5": "f0359b18058e32d6e73ad5717818f915",
+    "sha1": "a7b44f57fb01686cfd733574c7b18cd274f8371c",
+    "sha256": "e89e08c005cfb57b48aef65e4ddb7ff51dcadf4d3c791fcfad0c9f33c7049ff4"
   },
   "dob": {
-    "date": "1955-12-07T13:02:53.875Z",
-    "age": 69
+    "date": "1958-09-03T16:06:55.047Z",
+    "age": 66
   },
   "registered": {
-    "date": "2014-05-04T08:55:47.170Z",
-    "age": 10
+    "date": "2017-10-19T01:16:58.418Z",
+    "age": 7
   },
-  "phone": "(099) X82-3138",
-  "cell": "(098) K40-1826",
+  "phone": "7778669752",
+  "cell": "7376286684",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "020116134570"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/33.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/33.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/33.jpg"
+    "large": "https://randomuser.me/api/portraits/women/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
   },
-  "nat": "UA"
+  "nat": "IN"
 }

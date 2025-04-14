@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Leo",
-    "last": "Liu"
+    "first": "Byron",
+    "last": "Ramirez"
   },
   "location": {
     "street": {
-      "number": 6489,
-      "name": "9th St"
+      "number": 7006,
+      "name": "Hunters Creek Dr"
     },
-    "city": "Keswick",
-    "state": "Nova Scotia",
-    "country": "Canada",
-    "postcode": "M5L 1B7",
+    "city": "Concord",
+    "state": "Wisconsin",
+    "country": "United States",
+    "postcode": 17385,
     "coordinates": {
-      "latitude": "-64.4421",
-      "longitude": "-132.0276"
+      "latitude": "83.3209",
+      "longitude": "-118.4553"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "leo.liu@example.com",
+  "email": "byron.ramirez@example.com",
   "login": {
-    "uuid": "887a177e-5a68-4e01-8116-af74ac13d2ab",
-    "username": "beautifulgorilla698",
-    "password": "another",
-    "salt": "vNxH4chI",
-    "md5": "77e7fb598183b6e78861f010e1c6862c",
-    "sha1": "b1f42d0b612cd787975efd90c5846a11097be1ef",
-    "sha256": "b4b8f898886997bcb33102dac5ce6384b66e110727be8564e200a6f0c35916d2"
+    "uuid": "2b9b63f1-cd27-4901-b20e-693469548e99",
+    "username": "angrytiger456",
+    "password": "border",
+    "salt": "XYiELbgR",
+    "md5": "7b231b6867a81492697be38fa24498a6",
+    "sha1": "d4ee844fbd7ad875a29dc6b041051a31d711b76d",
+    "sha256": "59a0e22891923a621ba115e91ffb7acce2668868d879fdbcaee9da5904444e04"
   },
   "dob": {
-    "date": "1999-01-27T12:56:19.166Z",
-    "age": 26
+    "date": "1978-11-07T21:36:17.085Z",
+    "age": 46
   },
   "registered": {
-    "date": "2012-03-06T06:27:21.172Z",
-    "age": 13
+    "date": "2006-12-02T15:42:05.233Z",
+    "age": 18
   },
-  "phone": "R70 G81-6733",
-  "cell": "G57 L76-3705",
+  "phone": "(553) 459-5615",
+  "cell": "(409) 270-7736",
   "id": {
-    "name": "SIN",
-    "value": "848558011"
+    "name": "SSN",
+    "value": "874-51-2429"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "CA"
+  "nat": "US"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Montserrat",
-    "last": "Torres"
+    "title": "Mr",
+    "first": "Ege",
+    "last": "Özkök"
   },
   "location": {
     "street": {
-      "number": 9428,
-      "name": "Calle de Alcalá"
+      "number": 6925,
+      "name": "Abanoz Sk"
     },
-    "city": "Lorca",
-    "state": "La Rioja",
-    "country": "Spain",
-    "postcode": 95168,
+    "city": "Iğdır",
+    "state": "Rize",
+    "country": "Turkey",
+    "postcode": 86578,
     "coordinates": {
-      "latitude": "-32.3052",
-      "longitude": "31.1023"
+      "latitude": "67.1670",
+      "longitude": "-69.6513"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "montserrat.torres@example.com",
+  "email": "ege.ozkok@example.com",
   "login": {
-    "uuid": "be1ff47b-ff53-4c39-bd16-5f5326341228",
-    "username": "happyfrog947",
-    "password": "archer",
-    "salt": "9wpXoKmZ",
-    "md5": "e6742e7a84bbfa913731109ccdd4b179",
-    "sha1": "346fa6bb628bfc3df295ebd0b6d9e369ddcd428f",
-    "sha256": "78847a396afbca9f0831533555046c3e6704357867c52402509469f77cf422bc"
+    "uuid": "5f2b6fad-1097-45c1-a376-8de018583af0",
+    "username": "heavygorilla602",
+    "password": "butts",
+    "salt": "ebMCwWfB",
+    "md5": "3e4eb378781accc634012241ac0fc9a1",
+    "sha1": "a5603b0f5799004a2f8f13d4dd50892214761b2b",
+    "sha256": "edeebcee4551bd76521c103fdd70d9974d49112d56bdfdd6b44fdaf37ac08c93"
   },
   "dob": {
-    "date": "1962-10-13T09:59:44.338Z",
-    "age": 62
+    "date": "1994-03-13T14:04:37.225Z",
+    "age": 31
   },
   "registered": {
-    "date": "2006-10-11T01:08:55.713Z",
-    "age": 18
+    "date": "2020-01-15T17:05:43.896Z",
+    "age": 5
   },
-  "phone": "932-201-153",
-  "cell": "675-983-556",
+  "phone": "(053)-516-9080",
+  "cell": "(852)-216-2762",
   "id": {
-    "name": "DNI",
-    "value": "82227891-Y"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+    "large": "https://randomuser.me/api/portraits/men/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
   },
-  "nat": "ES"
+  "nat": "TR"
 }

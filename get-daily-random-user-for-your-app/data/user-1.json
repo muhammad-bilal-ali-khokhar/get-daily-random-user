@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Eládio",
-    "last": "Campos"
+    "first": "Daryl",
+    "last": "Parker"
   },
   "location": {
     "street": {
-      "number": 8912,
-      "name": "Rua Santa Rita "
+      "number": 7264,
+      "name": "South Street"
     },
-    "city": "Vespasiano",
-    "state": "Rio Grande do Norte",
-    "country": "Brazil",
-    "postcode": 56710,
+    "city": "Listowel",
+    "state": "Monaghan",
+    "country": "Ireland",
+    "postcode": 36077,
     "coordinates": {
-      "latitude": "-76.7160",
-      "longitude": "-101.0731"
+      "latitude": "-3.7436",
+      "longitude": "-71.9185"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "eladio.campos@example.com",
+  "email": "daryl.parker@example.com",
   "login": {
-    "uuid": "51aeafb8-ed91-4ccd-823b-982e34cf85ec",
-    "username": "bluepanda660",
-    "password": "buffalo1",
-    "salt": "51MgVVYX",
-    "md5": "61f7224a05da68210b64c832e79e3078",
-    "sha1": "a288f0f42270bea2ea0f79cced38a324427fdd69",
-    "sha256": "5161a49e3f8ab5d6a4ebe99ecf7d8666db6f13cc037d7124724466647a4675e3"
+    "uuid": "3b6bc9a4-9ddd-4be8-950f-a48bd0956a79",
+    "username": "angrywolf696",
+    "password": "extensa",
+    "salt": "M3Z2Q5Fw",
+    "md5": "be9e2cebfebcbd0789d0d1f612246570",
+    "sha1": "c2f181f5d46c5a3824d9a186e529eebc02afd1a1",
+    "sha256": "8af497d9d454f7382788c7b308934da3f06680d9b6499fd82e9759aa52c98a61"
   },
   "dob": {
-    "date": "1973-09-25T13:28:13.776Z",
-    "age": 51
+    "date": "1961-12-17T21:59:32.259Z",
+    "age": 63
   },
   "registered": {
-    "date": "2005-04-03T06:06:58.076Z",
-    "age": 20
+    "date": "2013-07-06T11:17:30.607Z",
+    "age": 11
   },
-  "phone": "(22) 7953-9748",
-  "cell": "(65) 1745-2579",
+  "phone": "061-053-4645",
+  "cell": "081-762-6930",
   "id": {
-    "name": "CPF",
-    "value": "513.496.669-02"
+    "name": "PPS",
+    "value": "4371310T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
   },
-  "nat": "BR"
+  "nat": "IE"
 }

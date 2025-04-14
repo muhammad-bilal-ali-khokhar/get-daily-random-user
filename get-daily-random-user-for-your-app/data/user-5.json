@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Alexandra",
-    "last": "Lewis"
+    "title": "Ms",
+    "first": "Vildan",
+    "last": "Sözeri"
   },
   "location": {
     "street": {
-      "number": 7850,
-      "name": "Maraekakaho Road"
+      "number": 1410,
+      "name": "Maçka Cd"
     },
-    "city": "Christchurch",
-    "state": "Gisborne",
-    "country": "New Zealand",
-    "postcode": 24941,
+    "city": "Afyonkarahisar",
+    "state": "Aksaray",
+    "country": "Turkey",
+    "postcode": 95204,
     "coordinates": {
-      "latitude": "52.9671",
-      "longitude": "162.8075"
+      "latitude": "68.7228",
+      "longitude": "25.1507"
     },
     "timezone": {
       "offset": "+3:00",
       "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "alexandra.lewis@example.com",
+  "email": "vildan.sozeri@example.com",
   "login": {
-    "uuid": "0749c813-2a7d-4a68-8b49-9d9bd889e0de",
-    "username": "organicmeercat865",
-    "password": "donovan",
-    "salt": "NC2PxIFS",
-    "md5": "26553c973a35f42fbea45c71b31175b8",
-    "sha1": "6c04ebb58aecb557ba6caa5ea731bd24f4d24eb2",
-    "sha256": "b1328cfcb429b8733fc9017be4b85c5192c793dd6eb58f4fa398d26444b0ad8e"
+    "uuid": "fbf82b0d-fcd0-4659-a8eb-f6cc347f8f6f",
+    "username": "sadzebra483",
+    "password": "tracker",
+    "salt": "YZaAvKOI",
+    "md5": "f3dbeae5436179653a5ea1e114abfa76",
+    "sha1": "9ac91c192a7a9f2d990ccd70435bf5888e995893",
+    "sha256": "3fa412d2a4740b351bdd955fa3d3a8cd42fa6effbd0680478bd4d4aa217e67d5"
   },
   "dob": {
-    "date": "1979-03-23T08:01:06.760Z",
-    "age": 46
+    "date": "1989-10-10T14:16:45.645Z",
+    "age": 35
   },
   "registered": {
-    "date": "2016-03-17T07:29:02.689Z",
-    "age": 9
+    "date": "2018-06-23T18:14:43.675Z",
+    "age": 6
   },
-  "phone": "(555)-808-8493",
-  "cell": "(993)-159-5550",
+  "phone": "(249)-594-9894",
+  "cell": "(406)-080-1343",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/81.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/81.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/81.jpg"
+    "large": "https://randomuser.me/api/portraits/women/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
   },
-  "nat": "NZ"
+  "nat": "TR"
 }

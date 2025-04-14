@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Vanessa",
-    "last": "Hanson"
+    "title": "Monsieur",
+    "first": "Lukas",
+    "last": "Masson"
   },
   "location": {
     "street": {
-      "number": 6870,
-      "name": "Broadway"
+      "number": 4656,
+      "name": "Rue Bataille"
     },
-    "city": "Plymouth",
-    "state": "Isle of Wight",
-    "country": "United Kingdom",
-    "postcode": "KZ8G 7ED",
+    "city": "Grangettes",
+    "state": "Glarus",
+    "country": "Switzerland",
+    "postcode": 9854,
     "coordinates": {
-      "latitude": "-6.8055",
-      "longitude": "67.4369"
+      "latitude": "-63.5455",
+      "longitude": "-51.9311"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "vanessa.hanson@example.com",
+  "email": "lukas.masson@example.com",
   "login": {
-    "uuid": "f598a0a8-2c96-495d-88e1-22357d401c87",
-    "username": "bigcat217",
-    "password": "thethe",
-    "salt": "XKxJu2rI",
-    "md5": "211938c52011793cd3980604361b21be",
-    "sha1": "c6a1d66fbda03f8a5736163ffa45153cb2a4cc82",
-    "sha256": "7780341d6f4be542b5b22c6babf5f07ad0c97ffb7a4203dc9ccfbc8a2c8f2584"
+    "uuid": "9a076558-55f4-492c-b544-9ac0f036e618",
+    "username": "crazyelephant617",
+    "password": "force",
+    "salt": "vt8qMlW9",
+    "md5": "69f0189f1019e0ede6b4e8a70deea9cf",
+    "sha1": "27ea7380dc8759404fbb5208a9d419d6121dd7fe",
+    "sha256": "649b47d675952f238d9be64659a427c531716fdebfe985ae314b39fd4270e56b"
   },
   "dob": {
-    "date": "1955-12-19T07:40:59.831Z",
-    "age": 69
+    "date": "1982-01-11T04:48:46.367Z",
+    "age": 43
   },
   "registered": {
-    "date": "2009-09-21T04:49:06.288Z",
-    "age": 15
+    "date": "2018-01-30T22:46:35.900Z",
+    "age": 7
   },
-  "phone": "016974 63651",
-  "cell": "07777 377768",
+  "phone": "075 248 40 57",
+  "cell": "076 830 85 62",
   "id": {
-    "name": "NINO",
-    "value": "KP 77 00 68 M"
+    "name": "AVS",
+    "value": "756.2964.0603.91"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/46.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "GB"
+  "nat": "CH"
 }

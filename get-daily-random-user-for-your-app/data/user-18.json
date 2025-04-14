@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Siert",
-    "last": "Smeekes"
+    "first": "Stoyan",
+    "last": "Lyubeneckiy"
   },
   "location": {
     "street": {
-      "number": 9998,
-      "name": "Annerstreek"
+      "number": 493,
+      "name": "Ploshcha Petra Krivonosa"
     },
-    "city": "Egmondermeer",
-    "state": "Flevoland",
-    "country": "Netherlands",
-    "postcode": "4773 SR",
+    "city": "Pershotravensk",
+    "state": "Mikolayivska",
+    "country": "Ukraine",
+    "postcode": 42909,
     "coordinates": {
-      "latitude": "35.4879",
-      "longitude": "-175.6070"
+      "latitude": "81.2725",
+      "longitude": "-179.5916"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "siert.smeekes@example.com",
+  "email": "stoyan.lyubeneckiy@example.com",
   "login": {
-    "uuid": "da0f131a-794f-4aba-b3fc-25dd6323d7cc",
-    "username": "yellowrabbit263",
-    "password": "christine",
-    "salt": "BJq9PTO8",
-    "md5": "866c43c62cb29682f293fe02e3927948",
-    "sha1": "d3df8558759117c405fb8fb8b0dfd6fc40998067",
-    "sha256": "8eba1bef7fa79121f186c42ff92f72d0c50cf6c51a3e0b3081fac5ded138ac34"
+    "uuid": "d8c07a85-7f91-4dd0-9c11-74f2ba6bd0b7",
+    "username": "beautifulbird515",
+    "password": "roadrunn",
+    "salt": "D7KeYYdZ",
+    "md5": "13894138ce9b663ace9c1e0d0c6bad7d",
+    "sha1": "7c5c9c8acf7d82ffaca06bf4e014bb1fc46841fe",
+    "sha256": "3a263daa2013e2433cf9b2ba1fc7907433ee729cea7ccfd7cc1d5c36ee5d2b58"
   },
   "dob": {
-    "date": "1964-11-23T12:18:30.669Z",
-    "age": 60
+    "date": "1961-08-05T14:55:46.478Z",
+    "age": 63
   },
   "registered": {
-    "date": "2019-06-16T16:06:59.783Z",
-    "age": 5
+    "date": "2021-08-27T23:58:21.707Z",
+    "age": 3
   },
-  "phone": "(0344) 561270",
-  "cell": "(06) 65838493",
+  "phone": "(097) R36-8074",
+  "cell": "(067) S28-7244",
   "id": {
-    "name": "BSN",
-    "value": "79819815"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/81.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/81.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/81.jpg"
+    "large": "https://randomuser.me/api/portraits/men/17.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
   },
-  "nat": "NL"
+  "nat": "UA"
 }

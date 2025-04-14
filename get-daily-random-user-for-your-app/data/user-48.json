@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Anja",
-    "last": "Lazović"
+    "title": "Mr",
+    "first": "Vebjørn",
+    "last": "Stenberg"
   },
   "location": {
     "street": {
-      "number": 7146,
-      "name": "Mojsija Žarkovića"
+      "number": 9577,
+      "name": "Martin Borrebekkens vei"
     },
-    "city": "Ražanj",
-    "state": "Raška",
-    "country": "Serbia",
-    "postcode": 83394,
+    "city": "Preststranda",
+    "state": "Sogn og Fjordane",
+    "country": "Norway",
+    "postcode": "1924",
     "coordinates": {
-      "latitude": "60.4144",
-      "longitude": "51.7395"
+      "latitude": "39.2908",
+      "longitude": "-115.8972"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "anja.lazovic@example.com",
+  "email": "vebjorn.stenberg@example.com",
   "login": {
-    "uuid": "159db9bb-d094-4368-9010-d08e373328e0",
-    "username": "beautifulsnake105",
-    "password": "ashton",
-    "salt": "cMsnzFvb",
-    "md5": "964525d424c9db30e371ea5ca8099644",
-    "sha1": "bd6899884440028aa3150a477170cd5e10f9dc1d",
-    "sha256": "b59faeb8618d79ac8f82d695114fd82f85b0181d1c764739f4c106ae8d0616ad"
+    "uuid": "fcaf89a2-3ed9-453d-baec-dcf43ca6bd64",
+    "username": "tinypeacock855",
+    "password": "operator",
+    "salt": "l3ZKtoZn",
+    "md5": "df31d42b972e34354a333c487053c736",
+    "sha1": "f13ec37ad336e851cd8a3c2275f5558369a5dd68",
+    "sha256": "0b5adee7f4f40d5856e8e664f5e33098f40091cf8a77bba6d4e6d32684545cff"
   },
   "dob": {
-    "date": "1975-11-23T11:55:50.679Z",
-    "age": 49
+    "date": "1987-08-30T06:17:20.737Z",
+    "age": 37
   },
   "registered": {
-    "date": "2021-01-11T14:33:10.375Z",
-    "age": 4
+    "date": "2021-12-01T19:04:11.507Z",
+    "age": 3
   },
-  "phone": "022-2159-025",
-  "cell": "065-3937-580",
+  "phone": "37637843",
+  "cell": "90341942",
   "id": {
-    "name": "SID",
-    "value": "724716603"
+    "name": "FN",
+    "value": "30088702944"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+    "large": "https://randomuser.me/api/portraits/men/29.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
   },
-  "nat": "RS"
+  "nat": "NO"
 }

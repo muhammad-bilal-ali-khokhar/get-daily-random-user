@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Arthur",
-    "last": "Holland"
+    "title": "Ms",
+    "first": "Clesisniara",
+    "last": "Barbosa"
   },
   "location": {
     "street": {
-      "number": 8108,
-      "name": "Smokey Ln"
+      "number": 2090,
+      "name": "Rua Espirito Santo "
     },
-    "city": "Kalgoorlie",
-    "state": "New South Wales",
-    "country": "Australia",
-    "postcode": 4049,
+    "city": "Foz do Iguaçu",
+    "state": "Maranhão",
+    "country": "Brazil",
+    "postcode": 19917,
     "coordinates": {
-      "latitude": "-83.9213",
-      "longitude": "-144.7850"
+      "latitude": "-78.8120",
+      "longitude": "69.3036"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "arthur.holland@example.com",
+  "email": "clesisniara.barbosa@example.com",
   "login": {
-    "uuid": "167cc721-5533-4d08-b3dc-20b43b6e7dad",
-    "username": "smallrabbit216",
-    "password": "coming",
-    "salt": "xullYdG8",
-    "md5": "83dc8b4694afb094222bec2a135223ad",
-    "sha1": "d3a98d49060c61d4c419f77aabbc63c1bd545b75",
-    "sha256": "518ce5744c97e0cad125e42d1d2e8f6dc016f020f0945af3251c29097fa6b14c"
+    "uuid": "20bd3555-1c26-4506-897f-23f4a60f5455",
+    "username": "yellowdog278",
+    "password": "jacob",
+    "salt": "UkBwdxFL",
+    "md5": "67dd6bfc321d1cf1d8ec0969f8e12abb",
+    "sha1": "fcc9b7de607fd6efa88ba038aee1f90a2a40c612",
+    "sha256": "0edad9e4ed5bd0626ed0b14cfba3e56819e217fab8c0ec8f052cecef6137e8e7"
   },
   "dob": {
-    "date": "1947-05-05T00:23:44.013Z",
-    "age": 77
+    "date": "2000-03-14T22:30:15.200Z",
+    "age": 25
   },
   "registered": {
-    "date": "2017-02-08T12:37:55.160Z",
-    "age": 8
+    "date": "2007-04-07T15:41:50.121Z",
+    "age": 18
   },
-  "phone": "02-7484-8689",
-  "cell": "0426-840-335",
+  "phone": "(40) 9323-3809",
+  "cell": "(07) 2277-2958",
   "id": {
-    "name": "TFN",
-    "value": "257283310"
+    "name": "CPF",
+    "value": "270.176.246-23"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/29.jpg"
+    "large": "https://randomuser.me/api/portraits/women/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
   },
-  "nat": "AU"
+  "nat": "BR"
 }

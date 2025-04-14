@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Dragutin",
-    "last": "Šerbedžija"
+    "title": "Mrs",
+    "first": "Izzie",
+    "last": "Bennett"
   },
   "location": {
     "street": {
-      "number": 6718,
-      "name": "Veroljuba Atanasijevića"
+      "number": 4310,
+      "name": "Chester Road"
     },
-    "city": "Stara Pazova",
-    "state": "Central Banat",
-    "country": "Serbia",
-    "postcode": 16923,
+    "city": "Stoke-on-Trent",
+    "state": "Dumfries and Galloway",
+    "country": "United Kingdom",
+    "postcode": "C27 8SQ",
     "coordinates": {
-      "latitude": "58.1364",
-      "longitude": "-110.0108"
+      "latitude": "-6.0997",
+      "longitude": "29.0154"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "dragutin.serbedzija@example.com",
+  "email": "izzie.bennett@example.com",
   "login": {
-    "uuid": "4a9aec11-59a2-4d36-b044-6e39057b7d13",
-    "username": "crazyfish455",
-    "password": "987987",
-    "salt": "uKMk2mxS",
-    "md5": "f58947457198bca400fa1cd62c65a20a",
-    "sha1": "402b6e220cdcd0b1219c31c4a8de60aa6ebb82ab",
-    "sha256": "2f115902048a864901e55f2ce3639c5e44f2eca2c7aa289e48b25b4b8ce05e09"
+    "uuid": "606761d4-52fb-4e51-a60d-4b4ff541069d",
+    "username": "ticklishelephant725",
+    "password": "5683",
+    "salt": "j0U6vfiB",
+    "md5": "48c3774c7d767cddab256230b25fa544",
+    "sha1": "ec2356a6e6b0650929c1be7439408eab69891833",
+    "sha256": "966a6d8dc32b43015e250d6c1a15d004877f2679b44295c798ccc66aefd2d8fb"
   },
   "dob": {
-    "date": "1995-08-06T13:22:27.401Z",
-    "age": 29
+    "date": "1960-01-11T07:34:05.535Z",
+    "age": 65
   },
   "registered": {
-    "date": "2007-03-20T04:12:55.146Z",
-    "age": 18
+    "date": "2022-01-15T04:08:32.773Z",
+    "age": 3
   },
-  "phone": "013-4748-116",
-  "cell": "069-9679-751",
+  "phone": "0191 136 2341",
+  "cell": "07518 414812",
   "id": {
-    "name": "SID",
-    "value": "161920996"
+    "name": "NINO",
+    "value": "XX 92 16 64 G"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/women/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
   },
-  "nat": "RS"
+  "nat": "GB"
 }

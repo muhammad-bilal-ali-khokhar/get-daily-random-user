@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Vedat",
-    "last": "Çevik"
+    "title": "Madame",
+    "first": "Violeta",
+    "last": "Giraud"
   },
   "location": {
     "street": {
-      "number": 2151,
-      "name": "Fatih Sultan Mehmet Cd"
+      "number": 9881,
+      "name": "Rue Paul-Duvivier"
     },
-    "city": "Zonguldak",
-    "state": "Rize",
-    "country": "Turkey",
-    "postcode": 57375,
+    "city": "Chexbres",
+    "state": "Ticino",
+    "country": "Switzerland",
+    "postcode": 2609,
     "coordinates": {
-      "latitude": "72.4461",
-      "longitude": "-103.6919"
+      "latitude": "-63.2085",
+      "longitude": "136.0283"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "vedat.cevik@example.com",
+  "email": "violeta.giraud@example.com",
   "login": {
-    "uuid": "fe13cda8-2949-4cb8-b321-74a5faf70be3",
-    "username": "blackbutterfly544",
-    "password": "chopper",
-    "salt": "jMrJWRIT",
-    "md5": "6fb089b9bb1179051c4a6d4da1252889",
-    "sha1": "0867f43f3518d13268bc9f635f97116ab3e8395e",
-    "sha256": "56dd154d1ead5aac4843ca3c63a67cff76940beee9dcbb92c88a77c1869d6bd1"
+    "uuid": "f616ff2c-33f7-4209-9af9-3a0ebd2fffef",
+    "username": "organicduck682",
+    "password": "vsegda",
+    "salt": "o8DicJhQ",
+    "md5": "0cdcf8016cf08e5dedca266a0728759f",
+    "sha1": "32889da572c17eb770294a6b01576f7141fd39ed",
+    "sha256": "dcf636d1ba031474c408975a962b228a7873f654bd5aca2205f929187211c6a6"
   },
   "dob": {
-    "date": "1959-01-22T20:45:21.184Z",
-    "age": 66
+    "date": "1944-12-17T10:54:51.614Z",
+    "age": 80
   },
   "registered": {
-    "date": "2015-12-29T21:04:16.813Z",
-    "age": 9
+    "date": "2020-12-28T23:55:00.972Z",
+    "age": 4
   },
-  "phone": "(969)-407-8238",
-  "cell": "(222)-149-5083",
+  "phone": "079 999 93 70",
+  "cell": "077 798 98 68",
   "id": {
-    "name": "",
-    "value": null
+    "name": "AVS",
+    "value": "756.1952.3392.07"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    "large": "https://randomuser.me/api/portraits/women/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
   },
-  "nat": "TR"
+  "nat": "CH"
 }
