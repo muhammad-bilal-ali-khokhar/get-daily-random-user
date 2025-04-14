@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mark",
-    "last": "Wallace"
+    "first": "Akshay",
+    "last": "Mendonsa"
   },
   "location": {
     "street": {
-      "number": 8776,
-      "name": "Chester Road"
+      "number": 4717,
+      "name": "Dadabhai Naoroji Rd"
     },
-    "city": "Cardiff",
-    "state": "Mid Glamorgan",
-    "country": "United Kingdom",
-    "postcode": "L8Y 0EB",
+    "city": "Bokaro",
+    "state": "Karnataka",
+    "country": "India",
+    "postcode": 26694,
     "coordinates": {
-      "latitude": "-12.0337",
-      "longitude": "-42.0709"
+      "latitude": "4.8604",
+      "longitude": "-162.5197"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "mark.wallace@example.com",
+  "email": "akshay.mendonsa@example.com",
   "login": {
-    "uuid": "ae7e12a8-06d8-4e8b-bc64-b20ee1c18428",
-    "username": "heavyfish738",
-    "password": "shannon1",
-    "salt": "czYG4IQC",
-    "md5": "573acc021634951927443594f3c39467",
-    "sha1": "aac4001f83efa9c39cb45e18108a120b908e382b",
-    "sha256": "633e2dcbfedc64e379a424cda0406d479af7f146c66e6ba5b14b76970b85d799"
+    "uuid": "18274372-608b-48eb-b0a5-45011e138b2a",
+    "username": "purplefrog338",
+    "password": "6666666",
+    "salt": "zcHTH6SS",
+    "md5": "823b6eefd4d259929e595848b5957387",
+    "sha1": "57827d8bc2c159e7316ac8adb29d0e70df50f020",
+    "sha256": "82cf31932a6b30d7b4752a3342eaccbcb9619408f0befce53ad62edc8a9d05fc"
   },
   "dob": {
-    "date": "1954-04-03T20:45:01.914Z",
-    "age": 71
+    "date": "1963-05-10T21:51:07.652Z",
+    "age": 61
   },
   "registered": {
-    "date": "2002-12-24T00:10:34.270Z",
+    "date": "2002-08-27T06:18:49.547Z",
     "age": 22
   },
-  "phone": "01918 15215",
-  "cell": "07873 753294",
+  "phone": "7902571672",
+  "cell": "9833871248",
   "id": {
-    "name": "NINO",
-    "value": "ZK 14 03 60 D"
+    "name": "UIDAI",
+    "value": "807129321743"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/10.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
   },
-  "nat": "GB"
+  "nat": "IN"
 }

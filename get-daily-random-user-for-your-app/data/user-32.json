@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Lukas",
-    "last": "Masson"
+    "title": "Mr",
+    "first": "Ratibor",
+    "last": "Chekman"
   },
   "location": {
     "street": {
-      "number": 4656,
-      "name": "Rue Bataille"
+      "number": 742,
+      "name": "Lipskiy provulok"
     },
-    "city": "Grangettes",
-    "state": "Glarus",
-    "country": "Switzerland",
-    "postcode": 9854,
+    "city": "Slavuta",
+    "state": "Kirovogradska",
+    "country": "Ukraine",
+    "postcode": 24915,
     "coordinates": {
-      "latitude": "-63.5455",
-      "longitude": "-51.9311"
+      "latitude": "78.8016",
+      "longitude": "-65.7470"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "lukas.masson@example.com",
+  "email": "ratibor.chekman@example.com",
   "login": {
-    "uuid": "9a076558-55f4-492c-b544-9ac0f036e618",
-    "username": "crazyelephant617",
-    "password": "force",
-    "salt": "vt8qMlW9",
-    "md5": "69f0189f1019e0ede6b4e8a70deea9cf",
-    "sha1": "27ea7380dc8759404fbb5208a9d419d6121dd7fe",
-    "sha256": "649b47d675952f238d9be64659a427c531716fdebfe985ae314b39fd4270e56b"
+    "uuid": "beb18c72-383c-4dde-bbb8-5a834f0958b1",
+    "username": "redleopard418",
+    "password": "redleg",
+    "salt": "mHoUZZ47",
+    "md5": "edbb5a859a51bc50f979b804c07cc3ca",
+    "sha1": "44c09e86e3afb936bcf537347b35f3e89e2da78b",
+    "sha256": "3d35dc373b1a0a862f10c5cb44a6c5f5c81b334d2d397c64f654b2138272d822"
   },
   "dob": {
-    "date": "1982-01-11T04:48:46.367Z",
+    "date": "1981-08-04T15:30:59.482Z",
     "age": 43
   },
   "registered": {
-    "date": "2018-01-30T22:46:35.900Z",
-    "age": 7
+    "date": "2013-07-07T03:08:47.561Z",
+    "age": 11
   },
-  "phone": "075 248 40 57",
-  "cell": "076 830 85 62",
+  "phone": "(067) Y05-3570",
+  "cell": "(098) L90-5431",
   "id": {
-    "name": "AVS",
-    "value": "756.2964.0603.91"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/2.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
   },
-  "nat": "CH"
+  "nat": "UA"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Sophia",
-    "last": "Kuhn"
+    "title": "Mr",
+    "first": "William",
+    "last": "Gordon"
   },
   "location": {
     "street": {
-      "number": 9789,
-      "name": "Brick Kiln Road"
+      "number": 396,
+      "name": "Westheimer Rd"
     },
-    "city": "Newcastle upon Tyne",
-    "state": "Rutland",
-    "country": "United Kingdom",
-    "postcode": "M6 5TP",
+    "city": "Hobart",
+    "state": "Western Australia",
+    "country": "Australia",
+    "postcode": 3093,
     "coordinates": {
-      "latitude": "-11.0013",
-      "longitude": "141.3111"
+      "latitude": "-84.4244",
+      "longitude": "-98.8415"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "sophia.kuhn@example.com",
+  "email": "william.gordon@example.com",
   "login": {
-    "uuid": "d859f08b-c852-43b9-834b-0b9484a8a28b",
-    "username": "redbird768",
-    "password": "contortionist",
-    "salt": "HwjpSMso",
-    "md5": "6eec7f9f5feb37a88b36330f2ede7d82",
-    "sha1": "30c32f936bfa79790d8adc59902ed676282b4976",
-    "sha256": "854dd8730ad5a8eaace075490f8701da24c7b7098b757f487d3b58b39202a01d"
+    "uuid": "f540f7fd-0656-4d37-a0c3-4a39a35a2a51",
+    "username": "smallduck335",
+    "password": "1986",
+    "salt": "byuy2nBA",
+    "md5": "1ebeddbe05bef31762b6fc5088d9fe40",
+    "sha1": "b73dce1a2adb883c3c721f350fa8aac86fb0ecbc",
+    "sha256": "4186734de9ec1f1979af1a9bfa0f436e6bb6467114881a6d453f122aa9883094"
   },
   "dob": {
-    "date": "1978-05-12T23:02:02.231Z",
-    "age": 46
+    "date": "1982-09-15T12:14:02.554Z",
+    "age": 42
   },
   "registered": {
-    "date": "2008-05-25T09:50:26.800Z",
-    "age": 16
+    "date": "2006-02-13T02:49:16.668Z",
+    "age": 19
   },
-  "phone": "015242 33184",
-  "cell": "07515 398205",
+  "phone": "06-2361-6310",
+  "cell": "0445-496-464",
   "id": {
-    "name": "NINO",
-    "value": "YJ 80 00 94 B"
+    "name": "TFN",
+    "value": "924875199"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
   },
-  "nat": "GB"
+  "nat": "AU"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Lutske",
-    "last": "Sellis"
+    "title": "Miss",
+    "first": "Shubhangi",
+    "last": "Sheikh"
   },
   "location": {
     "street": {
-      "number": 9742,
-      "name": "Boelenspark"
+      "number": 5498,
+      "name": "NAD X Rd"
     },
-    "city": "'t Zandt Gn",
-    "state": "Limburg",
-    "country": "Netherlands",
-    "postcode": "5179 FD",
+    "city": "Alappuzha",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postcode": 44818,
     "coordinates": {
-      "latitude": "37.7076",
-      "longitude": "25.8293"
+      "latitude": "12.7912",
+      "longitude": "137.5927"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "lutske.sellis@example.com",
+  "email": "shubhangi.sheikh@example.com",
   "login": {
-    "uuid": "9aaef206-3c91-40d1-9032-fdf11a2559ed",
-    "username": "blackzebra859",
-    "password": "cola",
-    "salt": "XJfb2gKa",
-    "md5": "7489d1caf2555b0a827e79feefab44be",
-    "sha1": "1d20cf9ef04b0f9958d91c67887bb2bcfe747f56",
-    "sha256": "e0d8b8ae23cc0b63f3457d71e621ac888e332b71656a7c3b469b25991bc477d2"
+    "uuid": "cd11890f-6e43-4c7d-9992-fdcfb3a2245e",
+    "username": "bluewolf882",
+    "password": "michele",
+    "salt": "6poWD1KL",
+    "md5": "710c84dec03c0ac05813aac846c15ec5",
+    "sha1": "90db123476212e33476da7d8cb35a33cd8fc1c49",
+    "sha256": "4af44edec584d316de1cc8b1ece350c2cfd54b8fc4cc0ade4eb85aa17478d088"
   },
   "dob": {
-    "date": "1998-09-09T20:24:14.477Z",
-    "age": 26
+    "date": "1990-07-19T03:11:06.148Z",
+    "age": 34
   },
   "registered": {
-    "date": "2003-11-21T01:08:32.907Z",
-    "age": 21
+    "date": "2021-02-26T19:55:30.149Z",
+    "age": 4
   },
-  "phone": "(061) 3358813",
-  "cell": "(06) 65931053",
+  "phone": "7611239264",
+  "cell": "9691146802",
   "id": {
-    "name": "BSN",
-    "value": "95756834"
+    "name": "UIDAI",
+    "value": "398402567461"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/9.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+    "large": "https://randomuser.me/api/portraits/women/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/71.jpg"
   },
-  "nat": "NL"
+  "nat": "IN"
 }

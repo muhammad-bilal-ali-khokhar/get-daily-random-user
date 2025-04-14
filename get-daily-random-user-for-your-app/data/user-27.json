@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Clémentine",
-    "last": "Gaillard"
+    "title": "Madame",
+    "first": "Leona",
+    "last": "David"
   },
   "location": {
     "street": {
-      "number": 6853,
-      "name": "Rue des Écoles"
+      "number": 1779,
+      "name": "Rue Barrier"
     },
-    "city": "Paris",
-    "state": "Vosges",
-    "country": "France",
-    "postcode": 57804,
+    "city": "Diemerswil",
+    "state": "Ticino",
+    "country": "Switzerland",
+    "postcode": 8237,
     "coordinates": {
-      "latitude": "-13.0682",
-      "longitude": "168.3004"
+      "latitude": "-60.1564",
+      "longitude": "84.9115"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "clementine.gaillard@example.com",
+  "email": "leona.david@example.com",
   "login": {
-    "uuid": "358fabaf-8e37-4d33-8684-fa1b81d2ec28",
-    "username": "goldenwolf683",
-    "password": "kong",
-    "salt": "5lD1ooHy",
-    "md5": "05cbd4626964bcf8481cbdbcfc8cb494",
-    "sha1": "7c74b486483a43413c100572ef10d1c93e7c580d",
-    "sha256": "6ccecb36e120b50dda772ba08a092e7a357e73899b66ef7c2553a924ea5a477e"
+    "uuid": "826f263c-c152-4c0e-808d-13da1ec26528",
+    "username": "smallbutterfly272",
+    "password": "lick",
+    "salt": "guiUd4Ia",
+    "md5": "8fef2af90dbf49bb78496069bb984856",
+    "sha1": "967e18c371469fe7d7c2cb15afe03afc06a26c81",
+    "sha256": "20427178253e08f13f6efe2a81607f0335f4f1e8c732d7dcacfd5914d46414bf"
   },
   "dob": {
-    "date": "1950-09-29T00:37:45.076Z",
-    "age": 74
+    "date": "1990-12-10T10:09:31.239Z",
+    "age": 34
   },
   "registered": {
-    "date": "2017-02-04T08:21:26.093Z",
-    "age": 8
+    "date": "2015-08-03T13:23:44.670Z",
+    "age": 9
   },
-  "phone": "01-81-87-15-60",
-  "cell": "06-39-12-04-43",
+  "phone": "075 331 55 48",
+  "cell": "078 424 93 98",
   "id": {
-    "name": "INSEE",
-    "value": "2500853593827 34"
+    "name": "AVS",
+    "value": "756.8937.9725.03"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/53.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/53.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/53.jpg"
+    "large": "https://randomuser.me/api/portraits/women/7.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/7.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/7.jpg"
   },
-  "nat": "FR"
+  "nat": "CH"
 }

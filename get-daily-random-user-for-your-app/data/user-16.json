@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Landon",
-    "last": "Simmmons"
+    "first": "Yagnesh",
+    "last": "Bansal"
   },
   "location": {
     "street": {
-      "number": 2642,
-      "name": "Elgin St"
+      "number": 7854,
+      "name": "Ratha Bheedi"
     },
-    "city": "Devonport",
-    "state": "South Australia",
-    "country": "Australia",
-    "postcode": 1978,
+    "city": "Kishanganj",
+    "state": "Assam",
+    "country": "India",
+    "postcode": 46474,
     "coordinates": {
-      "latitude": "-85.9282",
-      "longitude": "-43.8322"
+      "latitude": "11.2244",
+      "longitude": "-112.7981"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "landon.simmmons@example.com",
+  "email": "yagnesh.bansal@example.com",
   "login": {
-    "uuid": "9df44599-6c15-4466-bc8c-7c2f7fce6fb0",
-    "username": "lazypeacock536",
-    "password": "roger",
-    "salt": "zUhvrAx7",
-    "md5": "f6eb306696632e1dced37a7d48b6fa31",
-    "sha1": "e537b03a3fa52c1eaeab773132db1cc36907268c",
-    "sha256": "86ead6bbc68c0a7164dd35d79c36e4e53fc1e3f84d07f0e8557b8f7f433283da"
+    "uuid": "f10cc816-fe1e-4f55-93f2-c5abe49cd010",
+    "username": "yellowcat787",
+    "password": "chong",
+    "salt": "73e58vwZ",
+    "md5": "83a65d2193e4433040c838241d8ced5a",
+    "sha1": "863ab12da7d872ac29e0872429d39a390ce8c2d9",
+    "sha256": "7f79d58724e8c29f13ba9f4fad3c479b90d742c962a17f46270022ab83130685"
   },
   "dob": {
-    "date": "1990-03-03T00:23:57.505Z",
-    "age": 35
+    "date": "1965-11-19T15:48:02.009Z",
+    "age": 59
   },
   "registered": {
-    "date": "2005-11-30T05:25:52.442Z",
-    "age": 19
+    "date": "2015-04-04T03:03:13.946Z",
+    "age": 10
   },
-  "phone": "04-9793-9708",
-  "cell": "0415-072-448",
+  "phone": "9258800040",
+  "cell": "7440999847",
   "id": {
-    "name": "TFN",
-    "value": "239745121"
+    "name": "UIDAI",
+    "value": "977940993555"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/97.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    "large": "https://randomuser.me/api/portraits/men/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
   },
-  "nat": "AU"
+  "nat": "IN"
 }

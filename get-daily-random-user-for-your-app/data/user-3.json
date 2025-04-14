@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Isobel",
-    "last": "Wood"
+    "title": "Mr",
+    "first": "Rigoberto",
+    "last": "Nascimento"
   },
   "location": {
     "street": {
-      "number": 1565,
-      "name": "Cambridge Terrace"
+      "number": 4024,
+      "name": "Rua Quinze de Novembro "
     },
-    "city": "Taupo",
-    "state": "Wellington",
-    "country": "New Zealand",
-    "postcode": 92866,
+    "city": "Marília",
+    "state": "Goiás",
+    "country": "Brazil",
+    "postcode": 76625,
     "coordinates": {
-      "latitude": "51.0353",
-      "longitude": "64.0947"
+      "latitude": "-76.9967",
+      "longitude": "-157.2901"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "isobel.wood@example.com",
+  "email": "rigoberto.nascimento@example.com",
   "login": {
-    "uuid": "7e4121be-ef74-4989-8a2a-92fa6c96b9a2",
-    "username": "redmeercat224",
-    "password": "br549",
-    "salt": "8CqJFJHN",
-    "md5": "d12e70cd76d9ff7f25693c269f8adba2",
-    "sha1": "3ad155900b63a57086c7027f56cf561fc3735c8b",
-    "sha256": "e1832a06253f08bb7c30146787672070584b52bc129f3d4545024b81ad0d3017"
+    "uuid": "cac6984b-df90-430e-838c-dc6f0ff8f420",
+    "username": "lazysnake848",
+    "password": "camelot",
+    "salt": "29Lcnb5X",
+    "md5": "71d1005c2af628f58146aa3d52ba5413",
+    "sha1": "7bace7850560841dd67f72d9e41b02c7bbed9f1f",
+    "sha256": "9490c836992520a20e5440f8638af1e1f572bf2450e689a7ab53324d70e64b23"
   },
   "dob": {
-    "date": "1998-09-05T19:13:23.290Z",
-    "age": 26
+    "date": "1989-07-29T03:46:35.937Z",
+    "age": 35
   },
   "registered": {
-    "date": "2015-05-29T08:21:03.968Z",
-    "age": 9
+    "date": "2010-11-14T01:16:25.575Z",
+    "age": 14
   },
-  "phone": "(753)-666-1120",
-  "cell": "(041)-689-7105",
+  "phone": "(09) 9592-1027",
+  "cell": "(75) 1676-5686",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "026.205.658-06"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
   },
-  "nat": "NZ"
+  "nat": "BR"
 }

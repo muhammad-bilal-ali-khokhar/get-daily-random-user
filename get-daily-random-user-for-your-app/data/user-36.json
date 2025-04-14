@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Johanne",
-    "last": "Pedersen"
+    "title": "Monsieur",
+    "first": "Danijel",
+    "last": "Simon"
   },
   "location": {
     "street": {
-      "number": 9282,
-      "name": "Kærgårdsvej"
+      "number": 778,
+      "name": "Rue de L'Église"
     },
-    "city": "København V",
-    "state": "Sjælland",
-    "country": "Denmark",
-    "postcode": 62388,
+    "city": "Saillon",
+    "state": "Uri",
+    "country": "Switzerland",
+    "postcode": 3357,
     "coordinates": {
-      "latitude": "-39.6327",
-      "longitude": "143.1650"
+      "latitude": "-58.3130",
+      "longitude": "-164.0869"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "johanne.pedersen@example.com",
+  "email": "danijel.simon@example.com",
   "login": {
-    "uuid": "6bdce77c-90b5-4bfc-a363-cd859efcb204",
-    "username": "brownpeacock853",
-    "password": "golden",
-    "salt": "aTuT7VPp",
-    "md5": "92c5c904e795b1e5daf39d6029c1ff17",
-    "sha1": "8c16c9d54f106ebc2789aa43fa9d1a3d331b0bd1",
-    "sha256": "e8604ada7ea95bf3e32a364bf9ecff6c5ce14d8c8c9d152df6fff659c01ce464"
+    "uuid": "3f519cd0-8efb-4bbd-9c25-47d5469ec273",
+    "username": "blackgoose368",
+    "password": "rick",
+    "salt": "H49TRR1e",
+    "md5": "cdb14f6421b1f9040793f44e9fd57bcf",
+    "sha1": "e435ea364f62c00cab8995fe13fa92b38b975be4",
+    "sha256": "36e5fc13f99e5c3aeeff493cd30b95a885fe5e29f23bdcfac9583f8a20338077"
   },
   "dob": {
-    "date": "1975-05-19T18:53:05.939Z",
-    "age": 49
+    "date": "1972-01-10T20:45:56.909Z",
+    "age": 53
   },
   "registered": {
-    "date": "2009-04-04T08:25:38.249Z",
-    "age": 16
+    "date": "2019-05-18T00:47:30.878Z",
+    "age": 5
   },
-  "phone": "99771029",
-  "cell": "32154682",
+  "phone": "077 597 14 19",
+  "cell": "077 741 60 94",
   "id": {
-    "name": "CPR",
-    "value": "190575-4698"
+    "name": "AVS",
+    "value": "756.7270.6156.03"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/59.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
   },
-  "nat": "DK"
+  "nat": "CH"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Valdir",
-    "last": "Duarte"
+    "first": "Kurt",
+    "last": "Howell"
   },
   "location": {
     "street": {
-      "number": 5593,
-      "name": "Rua Santa Luzia "
+      "number": 8548,
+      "name": "Crockett St"
     },
-    "city": "Carapicuíba",
-    "state": "Rio Grande do Sul",
-    "country": "Brazil",
-    "postcode": 20838,
+    "city": "Ballarat",
+    "state": "Northern Territory",
+    "country": "Australia",
+    "postcode": 5613,
     "coordinates": {
-      "latitude": "-80.0577",
-      "longitude": "-10.2610"
+      "latitude": "-88.0543",
+      "longitude": "-101.3165"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "valdir.duarte@example.com",
+  "email": "kurt.howell@example.com",
   "login": {
-    "uuid": "e648a3c1-4fdf-409d-96f4-3a81eb06d082",
-    "username": "whitefish318",
-    "password": "giggles",
-    "salt": "s0Z7cL2L",
-    "md5": "087360efff8865e055d21f5f0b125e79",
-    "sha1": "f8f3e80af70e581804bce606162060f9574d0bc0",
-    "sha256": "ec7006193858fa6f89d3aedf76207453aa2357607d061746a020af6814f22ca9"
+    "uuid": "968d2151-9871-4950-b2a3-27d63146f623",
+    "username": "redduck237",
+    "password": "blink182",
+    "salt": "MHCfJvbn",
+    "md5": "8a682f4609d567f1d57f03df82cfa2e3",
+    "sha1": "52823f69a2dc58a5a9de4ade208df8309d22fafa",
+    "sha256": "9719ac70e2278c9e03deef68f61abd53dd1a0a475ff19b5f2987319e5a9b0c7f"
   },
   "dob": {
-    "date": "1982-05-10T03:45:01.102Z",
-    "age": 42
+    "date": "1971-11-28T18:21:20.645Z",
+    "age": 53
   },
   "registered": {
-    "date": "2013-03-06T02:16:14.057Z",
-    "age": 12
+    "date": "2018-11-26T16:14:10.466Z",
+    "age": 6
   },
-  "phone": "(97) 0480-5122",
-  "cell": "(94) 6838-1138",
+  "phone": "02-0249-3124",
+  "cell": "0446-040-587",
   "id": {
-    "name": "CPF",
-    "value": "491.528.021-23"
+    "name": "TFN",
+    "value": "037602398"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/10.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/10.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/10.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "BR"
+  "nat": "AU"
 }

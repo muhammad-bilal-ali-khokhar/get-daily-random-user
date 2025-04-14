@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Angelina",
-    "last": "Teodosić"
+    "title": "Miss",
+    "first": "Emily",
+    "last": "Park"
   },
   "location": {
     "street": {
-      "number": 3871,
-      "name": "Batlavska"
+      "number": 6234,
+      "name": "Simcoe St"
     },
-    "city": "Kosjerić",
-    "state": "North Banat",
-    "country": "Serbia",
-    "postcode": 73992,
+    "city": "Jasper",
+    "state": "Manitoba",
+    "country": "Canada",
+    "postcode": "W2L 5M1",
     "coordinates": {
-      "latitude": "60.3900",
-      "longitude": "27.0271"
+      "latitude": "-69.9919",
+      "longitude": "65.2202"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "angelina.teodosic@example.com",
+  "email": "emily.park@example.com",
   "login": {
-    "uuid": "1d826056-b8d6-4fb3-ab4d-766d0856a112",
-    "username": "ticklishladybug484",
-    "password": "drifter",
-    "salt": "FZx7TlxU",
-    "md5": "00000598b9aadb6140cd080a2fc09eb0",
-    "sha1": "3187d7d9cdb2f62bd34705fd1e67d16d4c29c6a6",
-    "sha256": "e45f2a08835109eb2c00c2914f9c36bcd2af672a9eaaca2f3017472f2c5ea8b5"
+    "uuid": "6b1a9d72-cd29-40d7-918b-617fd256df4c",
+    "username": "silvergorilla205",
+    "password": "loretta",
+    "salt": "1kMd1Dwg",
+    "md5": "d6507bd83f71703f873bdeb1d1e5db58",
+    "sha1": "9595041480782bb01545090eec0c0e1d82b0f61b",
+    "sha256": "44f4f357cd49e1b7172ce97c7a42c35048f6fd917ed324cd085a0466bb3ac316"
   },
   "dob": {
-    "date": "1966-08-05T06:45:11.514Z",
-    "age": 58
+    "date": "1972-05-20T06:34:43.918Z",
+    "age": 52
   },
   "registered": {
-    "date": "2019-10-14T01:59:59.579Z",
-    "age": 5
+    "date": "2021-02-27T13:56:15.104Z",
+    "age": 4
   },
-  "phone": "023-4600-176",
-  "cell": "060-3610-358",
+  "phone": "D34 V93-7257",
+  "cell": "B51 O86-8571",
   "id": {
-    "name": "SID",
-    "value": "967493933"
+    "name": "SIN",
+    "value": "032945198"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/1.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/1.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/1.jpg"
+    "large": "https://randomuser.me/api/portraits/women/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
   },
-  "nat": "RS"
+  "nat": "CA"
 }

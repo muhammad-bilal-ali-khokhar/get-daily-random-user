@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Terumi",
-    "last": "Lopes"
+    "title": "Mr",
+    "first": "Emilio",
+    "last": "Morales"
   },
   "location": {
     "street": {
-      "number": 2266,
-      "name": "Rua Das Flores "
+      "number": 8320,
+      "name": "Avenida de Burgos"
     },
-    "city": "Ferraz de Vasconcelos",
-    "state": "Maranhão",
-    "country": "Brazil",
-    "postcode": 27221,
+    "city": "Orense",
+    "state": "Melilla",
+    "country": "Spain",
+    "postcode": 12161,
     "coordinates": {
-      "latitude": "-76.8056",
-      "longitude": "145.2802"
+      "latitude": "-36.8247",
+      "longitude": "-63.0317"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "terumi.lopes@example.com",
+  "email": "emilio.morales@example.com",
   "login": {
-    "uuid": "e87b3355-3f78-4719-8a55-8c516ecfb76e",
-    "username": "goldenlion805",
-    "password": "extreme",
-    "salt": "9EIEgJcQ",
-    "md5": "f736c4c13b0af6a2770d4e385a1bf740",
-    "sha1": "1b74409bf6eafd38e15646aec0b1fe47705d5283",
-    "sha256": "4c77dff94f02d89334df97ebaa4d42b2a69b2047af2b99d96c94b3b7d99ea9c5"
+    "uuid": "49ed19c0-2153-4d66-bcc9-c82ad6664231",
+    "username": "silvermeercat807",
+    "password": "seviyi",
+    "salt": "ihvnYxAD",
+    "md5": "9ae7b36e9c04e652da761ab707fed039",
+    "sha1": "5bbd7d388cda49d45130dbc9531a33753d6adc7b",
+    "sha256": "94af4846912b868a3f215f66410cf59b4c632c40334a43b7953cabb83f5384b2"
   },
   "dob": {
-    "date": "1964-11-24T22:22:24.221Z",
-    "age": 60
+    "date": "1973-07-06T13:12:48.924Z",
+    "age": 51
   },
   "registered": {
-    "date": "2004-02-22T09:09:44.278Z",
-    "age": 21
+    "date": "2005-06-16T18:16:32.177Z",
+    "age": 19
   },
-  "phone": "(98) 9643-9049",
-  "cell": "(44) 7598-3073",
+  "phone": "983-442-120",
+  "cell": "606-954-678",
   "id": {
-    "name": "CPF",
-    "value": "220.048.212-74"
+    "name": "DNI",
+    "value": "17261376-Y"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/67.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
   },
-  "nat": "BR"
+  "nat": "ES"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Jens",
-    "last": "Dumont"
+    "title": "Mr",
+    "first": "Jovanny",
+    "last": "Verver"
   },
   "location": {
     "street": {
-      "number": 7425,
-      "name": "Rue de L'Abbé-Gillet"
+      "number": 1549,
+      "name": "Arkelsedijk"
     },
-    "city": "Chavannes-le-Chêne",
-    "state": "St. Gallen",
-    "country": "Switzerland",
-    "postcode": 4922,
+    "city": "Bernheze",
+    "state": "Flevoland",
+    "country": "Netherlands",
+    "postcode": "3958 AT",
     "coordinates": {
-      "latitude": "-58.7724",
-      "longitude": "-174.8542"
+      "latitude": "33.1510",
+      "longitude": "-50.2759"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "jens.dumont@example.com",
+  "email": "jovanny.verver@example.com",
   "login": {
-    "uuid": "735b82b4-19a4-4948-ba08-83cb616889f3",
-    "username": "angryleopard583",
-    "password": "pacific",
-    "salt": "hMMrJqIC",
-    "md5": "7f690e7a7a38673dc0faa7e9763b5b83",
-    "sha1": "9bcfb8f771e70ecadcdcc2dd9278b1b0179ba211",
-    "sha256": "7e516085810462e3d0f6bd4bbb6253772691d3bcd49ef73e0c4ff248e7403d71"
+    "uuid": "7e021128-93ba-453b-b390-7ac2445b3a15",
+    "username": "organicbird494",
+    "password": "christina",
+    "salt": "JmRPwmTp",
+    "md5": "7e7201b6b29ca8b04af0d003336607b6",
+    "sha1": "28330952965ac08406f4f4b18cf8f033e8592cc3",
+    "sha256": "6368c0cbbd4d00a695864d0ed6562df01bd76809c2d167711dce4beef82f4d6e"
   },
   "dob": {
-    "date": "1955-09-07T05:38:57.226Z",
-    "age": 69
+    "date": "1982-03-24T07:34:22.111Z",
+    "age": 43
   },
   "registered": {
-    "date": "2017-07-14T14:00:36.632Z",
+    "date": "2018-03-31T04:10:45.659Z",
     "age": 7
   },
-  "phone": "075 455 59 26",
-  "cell": "078 180 27 75",
+  "phone": "(0359) 153877",
+  "cell": "(06) 67881214",
   "id": {
-    "name": "AVS",
-    "value": "756.3054.1221.58"
+    "name": "BSN",
+    "value": "85010290"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "CH"
+  "nat": "NL"
 }

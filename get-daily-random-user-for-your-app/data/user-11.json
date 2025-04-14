@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Alex",
-    "last": "King"
+    "first": "Nikolaj",
+    "last": "Hansen"
   },
   "location": {
     "street": {
-      "number": 2698,
-      "name": "Hillside Road"
+      "number": 5841,
+      "name": "Birkemosevej"
     },
-    "city": "Whangarei",
-    "state": "Gisborne",
-    "country": "New Zealand",
-    "postcode": 24957,
+    "city": "Kongens  Lyngby",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 20201,
     "coordinates": {
-      "latitude": "49.7809",
-      "longitude": "-161.1455"
+      "latitude": "-43.4754",
+      "longitude": "-26.1606"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "alex.king@example.com",
+  "email": "nikolaj.hansen@example.com",
   "login": {
-    "uuid": "05046f32-a1e9-47d3-89a3-e6459534342f",
-    "username": "purpleduck938",
-    "password": "meagan",
-    "salt": "Ph4LEYoH",
-    "md5": "ec167b0ce0a2a2f4468e1882bd277ffd",
-    "sha1": "0cd707d43134a075b92e0a577fb0f061b2457ca3",
-    "sha256": "727528716d6054b453e6b9ec6b64db3fa18dca054b11a207d76c6216a9dd3c79"
+    "uuid": "a2690611-bf5d-4cb5-9e99-4c40e0677971",
+    "username": "purplemeercat365",
+    "password": "training",
+    "salt": "T9u1WStf",
+    "md5": "7178da85d76ff34524ca338a90ecd8d6",
+    "sha1": "a08d0d80ffb387466983aad1d4bd9f671433ecaa",
+    "sha256": "96fc33844dc47484ed3b82f4f2b2084bd96121da072e0d7f99910283cc8a1f20"
   },
   "dob": {
-    "date": "1966-05-22T17:19:10.861Z",
-    "age": 58
+    "date": "1988-03-31T13:59:59.314Z",
+    "age": 37
   },
   "registered": {
-    "date": "2008-03-07T09:23:04.145Z",
+    "date": "2008-01-05T05:44:33.409Z",
     "age": 17
   },
-  "phone": "(632)-222-1931",
-  "cell": "(710)-658-5610",
+  "phone": "80444640",
+  "cell": "18346609",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "310388-8951"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/36.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/36.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/36.jpg"
+    "large": "https://randomuser.me/api/portraits/men/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
   },
-  "nat": "NZ"
+  "nat": "DK"
 }

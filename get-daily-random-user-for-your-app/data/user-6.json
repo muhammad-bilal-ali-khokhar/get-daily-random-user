@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Zhivosil",
-    "last": "Krohmalyuk"
+    "title": "Mrs",
+    "first": "Gonca",
+    "last": "Adal"
   },
   "location": {
     "street": {
-      "number": 6856,
-      "name": "Kravsa"
+      "number": 6157,
+      "name": "Abanoz Sk"
     },
-    "city": "Dolina",
-    "state": "Zaporizka",
-    "country": "Ukraine",
-    "postcode": 50220,
+    "city": "Gümüşhane",
+    "state": "Siirt",
+    "country": "Turkey",
+    "postcode": 49424,
     "coordinates": {
-      "latitude": "76.8336",
-      "longitude": "-176.0338"
+      "latitude": "66.8864",
+      "longitude": "120.9792"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "zhivosil.krohmalyuk@example.com",
+  "email": "gonca.adal@example.com",
   "login": {
-    "uuid": "675a7447-4237-4c6e-8835-82f68c1ae113",
-    "username": "bluefrog589",
-    "password": "list",
-    "salt": "rjmEWA6a",
-    "md5": "90a0d11e4d6488d5e86dc1f483d4fcb6",
-    "sha1": "ef73f0131f2b7a30586d9f876558b8066bad568a",
-    "sha256": "195b0e25114a1e412e1f64511dfbfc4bee2a348852633620caecfddfbbc657ea"
+    "uuid": "7070965b-7388-4f9c-a736-a1e898894621",
+    "username": "greenostrich167",
+    "password": "center",
+    "salt": "oHG9JUND",
+    "md5": "cfd9d06384004d2d51c4bf002b136c98",
+    "sha1": "a91b83559038b6d548ebfb02b0cfc487838ef7ca",
+    "sha256": "0a343c70f24e086d40fca50e7e8c289d459af07439bdd5828d474782533ec876"
   },
   "dob": {
-    "date": "1953-08-21T08:34:12.281Z",
-    "age": 71
+    "date": "1995-03-07T00:09:56.866Z",
+    "age": 30
   },
   "registered": {
-    "date": "2021-12-09T05:31:47.103Z",
-    "age": 3
+    "date": "2012-04-22T06:11:16.245Z",
+    "age": 12
   },
-  "phone": "(096) U06-9002",
-  "cell": "(098) J15-9741",
+  "phone": "(555)-331-1889",
+  "cell": "(995)-812-4513",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    "large": "https://randomuser.me/api/portraits/women/58.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
   },
-  "nat": "UA"
+  "nat": "TR"
 }

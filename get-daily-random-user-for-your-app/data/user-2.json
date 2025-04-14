@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Luisa",
-    "last": "Rosado"
+    "title": "Mr",
+    "first": "Bhuv",
+    "last": "Kouser"
   },
   "location": {
     "street": {
-      "number": 6815,
-      "name": "Avenida Sur Barreto"
+      "number": 2292,
+      "name": "Mirza Ismail Rd"
     },
-    "city": "Pozo de Ibarra",
-    "state": "Puebla",
-    "country": "Mexico",
-    "postcode": 83449,
+    "city": "Bongaigaon",
+    "state": "Assam",
+    "country": "India",
+    "postcode": 16639,
     "coordinates": {
-      "latitude": "24.4452",
-      "longitude": "156.5727"
+      "latitude": "4.7125",
+      "longitude": "-163.4740"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "luisa.rosado@example.com",
+  "email": "bhuv.kouser@example.com",
   "login": {
-    "uuid": "9ceea19a-de2c-433b-a8f4-9ce3a31ac355",
-    "username": "crazylion778",
-    "password": "whale",
-    "salt": "6jVnmSzG",
-    "md5": "fd43cdb33c1948d27801be0a8e0c838f",
-    "sha1": "595a535aa14c6221d012169712ccde493112cfbe",
-    "sha256": "2d1ae98f4fb35248d6d4936bb6ba656dab92ca0e9a85dad0e7d02bacde175aea"
+    "uuid": "37239311-803c-4011-941e-1872f1f62b86",
+    "username": "bigtiger175",
+    "password": "danny",
+    "salt": "HcoXbfeZ",
+    "md5": "674c24b13fcb5be05d1cd9e591e6f828",
+    "sha1": "bd39ac036fd528d2d7d1d2752e62ca65287f5603",
+    "sha256": "4b16ccd95215f94c089e80875014bd7959ea75ec2531b923db36003aa6520ea7"
   },
   "dob": {
-    "date": "1997-09-09T19:47:32.262Z",
-    "age": 27
+    "date": "1974-09-01T08:45:04.642Z",
+    "age": 50
   },
   "registered": {
-    "date": "2006-06-14T03:08:57.432Z",
-    "age": 18
+    "date": "2012-02-27T02:07:09.050Z",
+    "age": 13
   },
-  "phone": "(620) 672 3386",
-  "cell": "(631) 456 7886",
+  "phone": "9193175428",
+  "cell": "8530325972",
   "id": {
-    "name": "NSS",
-    "value": "73 89 10 3473 6"
+    "name": "UIDAI",
+    "value": "442989330921"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/62.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/62.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/62.jpg"
+    "large": "https://randomuser.me/api/portraits/men/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
   },
-  "nat": "MX"
+  "nat": "IN"
 }

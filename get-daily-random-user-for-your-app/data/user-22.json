@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Emilia",
-    "last": "Aro"
+    "title": "Monsieur",
+    "first": "Meinrad",
+    "last": "Caron"
   },
   "location": {
     "street": {
-      "number": 9888,
-      "name": "Reijolankatu"
+      "number": 4885,
+      "name": "Place de L'Abbé-Jean-Lebeuf"
     },
-    "city": "Punkaharju",
-    "state": "Lapland",
-    "country": "Finland",
-    "postcode": 20602,
+    "city": "Terre Di Pedemonte",
+    "state": "Appenzell Innerrhoden",
+    "country": "Switzerland",
+    "postcode": 6879,
     "coordinates": {
-      "latitude": "-21.8217",
-      "longitude": "41.2690"
+      "latitude": "-58.8542",
+      "longitude": "-58.4045"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "emilia.aro@example.com",
+  "email": "meinrad.caron@example.com",
   "login": {
-    "uuid": "302afba4-1909-4fbb-a8f5-48042f16f5e6",
-    "username": "greenfish583",
-    "password": "vegitto",
-    "salt": "MdK0SQPH",
-    "md5": "f452709138493624b3c4324c6ee06876",
-    "sha1": "00bdcb492ff690697186eb082e4eb587a4007cdc",
-    "sha256": "a126ee46f7adab29913023f809c14360ff3de1a566ea50ebed122d7652f5349e"
+    "uuid": "a2c73d16-021b-4caf-856f-0d53a80399ae",
+    "username": "happyzebra120",
+    "password": "exotic",
+    "salt": "bjfTYQ0I",
+    "md5": "185dc37f1aa3d56a0b4de05a805051e0",
+    "sha1": "c0defcdb73acf9ea73ffa045da83ceca488e6ce2",
+    "sha256": "4b17aeea05eb206144a594113727b9431e7aa1f35ac0ae4dd5a4792529280a6e"
   },
   "dob": {
-    "date": "1944-11-18T00:11:18.800Z",
-    "age": 80
+    "date": "1991-02-20T18:29:47.340Z",
+    "age": 34
   },
   "registered": {
-    "date": "2008-01-12T21:04:43.345Z",
-    "age": 17
+    "date": "2009-06-01T19:56:15.746Z",
+    "age": 15
   },
-  "phone": "09-049-393",
-  "cell": "043-304-42-35",
+  "phone": "077 026 66 95",
+  "cell": "079 112 95 07",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA072undefined"
+    "name": "AVS",
+    "value": "756.6952.8035.23"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    "large": "https://randomuser.me/api/portraits/men/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
   },
-  "nat": "FI"
+  "nat": "CH"
 }

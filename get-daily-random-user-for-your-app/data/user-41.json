@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Lina",
-    "last": "Gerega"
+    "title": "Mr",
+    "first": "Marien",
+    "last": "Norbart"
   },
   "location": {
     "street": {
-      "number": 5507,
-      "name": "V'yizd Chervona Aleya"
+      "number": 7929,
+      "name": "Chatelainplein"
     },
-    "city": "Doneck",
-    "state": "Ivano-Frankivska",
-    "country": "Ukraine",
-    "postcode": 20440,
+    "city": "Pijnacker",
+    "state": "Noord-Holland",
+    "country": "Netherlands",
+    "postcode": "0055 NP",
     "coordinates": {
-      "latitude": "79.6658",
-      "longitude": "81.9025"
+      "latitude": "31.2782",
+      "longitude": "-104.5428"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "lina.gerega@example.com",
+  "email": "marien.norbart@example.com",
   "login": {
-    "uuid": "72988f45-18a9-4f1f-b1b9-b32f5e44d1b4",
-    "username": "organicpeacock300",
-    "password": "promise",
-    "salt": "FOJ0g77e",
-    "md5": "d1170c1741c3f37baa10d1e51fce2561",
-    "sha1": "5b186e80d973f93d825fc32d538e9266f1364003",
-    "sha256": "44788db5713c039f77edd6d6c98a2b4756b6d2b96e0509566a6f611584e85885"
+    "uuid": "982c4a9d-755d-4927-9d9a-cfdcd7a22ad5",
+    "username": "organicostrich810",
+    "password": "site",
+    "salt": "BvvZKkEg",
+    "md5": "bd1912064a6b8beba743a576972135d8",
+    "sha1": "f5a1d3a964d6dd9455ab427a85b6cea4f729338d",
+    "sha256": "a07b8b55204643b7980c298686a093f05db34d10e2ebabdda5342cd765af200c"
   },
   "dob": {
-    "date": "1951-12-20T03:33:01.658Z",
-    "age": 73
+    "date": "2001-04-23T09:40:53.488Z",
+    "age": 23
   },
   "registered": {
-    "date": "2022-05-20T14:51:49.428Z",
-    "age": 2
+    "date": "2018-12-17T00:36:24.421Z",
+    "age": 6
   },
-  "phone": "(099) I28-0621",
-  "cell": "(096) L41-5101",
+  "phone": "(084) 6116830",
+  "cell": "(06) 79656166",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "57401264"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/35.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "UA"
+  "nat": "NL"
 }

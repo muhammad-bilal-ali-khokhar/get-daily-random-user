@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "اميرحسين",
-    "last": "مرادی"
+    "first": "Radoslav",
+    "last": "Graboveckiy"
   },
   "location": {
     "street": {
-      "number": 7871,
-      "name": "دکتر چمران"
+      "number": 4198,
+      "name": "Keramichniy provulok"
     },
-    "city": "شیراز",
-    "state": "آذربایجان شرقی",
-    "country": "Iran",
-    "postcode": 24040,
+    "city": "Molochansk",
+    "state": "Kiyivska",
+    "country": "Ukraine",
+    "postcode": 91486,
     "coordinates": {
-      "latitude": "20.2784",
-      "longitude": "-17.8523"
+      "latitude": "79.1290",
+      "longitude": "-22.0353"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "myrhsyn.mrdy@example.com",
+  "email": "radoslav.graboveckiy@example.com",
   "login": {
-    "uuid": "2a1c4902-a032-4845-8813-f66cbded4bd4",
-    "username": "bigelephant986",
-    "password": "kimmie",
-    "salt": "NapjFqwV",
-    "md5": "7e9b2884158b15834e1715dafc27ae8e",
-    "sha1": "12f220132fccb6bfcaadbe5773e6681ec6172c34",
-    "sha256": "efc646676b6cd9286c8089bdd67c8dc4c0045cb719738f85cde3ebd7baec7ba1"
+    "uuid": "b3f6686e-884d-4dd5-8bc8-91d912771c94",
+    "username": "silverleopard609",
+    "password": "ranger",
+    "salt": "HFqZ3YwI",
+    "md5": "be3c7cff78162323b6966281c7b500ca",
+    "sha1": "01828d5aa2e18c64e3746a0b34fc826a606cb4c9",
+    "sha256": "0d300d20436c19a56b921503c8132452608beab2066d3da84cf8f2210a10e7b9"
   },
   "dob": {
-    "date": "1967-01-14T19:04:58.949Z",
-    "age": 58
+    "date": "1950-01-22T18:50:59.067Z",
+    "age": 75
   },
   "registered": {
-    "date": "2010-06-05T11:34:15.094Z",
-    "age": 14
+    "date": "2019-03-24T00:18:10.019Z",
+    "age": 6
   },
-  "phone": "078-98278246",
-  "cell": "0941-930-9707",
+  "phone": "(066) D44-0752",
+  "cell": "(098) K20-3111",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/78.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
   },
-  "nat": "IR"
+  "nat": "UA"
 }

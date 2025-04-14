@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Ege",
-    "last": "Özkök"
+    "first": "Teófilo",
+    "last": "Santos"
   },
   "location": {
     "street": {
-      "number": 6925,
-      "name": "Abanoz Sk"
+      "number": 8268,
+      "name": "Rua Vinte E Quatro de Outubro"
     },
-    "city": "Iğdır",
-    "state": "Rize",
-    "country": "Turkey",
-    "postcode": 86578,
+    "city": "São Carlos",
+    "state": "São Paulo",
+    "country": "Brazil",
+    "postcode": 36185,
     "coordinates": {
-      "latitude": "67.1670",
-      "longitude": "-69.6513"
+      "latitude": "-74.7400",
+      "longitude": "-53.6656"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "ege.ozkok@example.com",
+  "email": "teofilo.santos@example.com",
   "login": {
-    "uuid": "5f2b6fad-1097-45c1-a376-8de018583af0",
-    "username": "heavygorilla602",
-    "password": "butts",
-    "salt": "ebMCwWfB",
-    "md5": "3e4eb378781accc634012241ac0fc9a1",
-    "sha1": "a5603b0f5799004a2f8f13d4dd50892214761b2b",
-    "sha256": "edeebcee4551bd76521c103fdd70d9974d49112d56bdfdd6b44fdaf37ac08c93"
+    "uuid": "eeadfdf4-7aec-47ea-bf1b-91bc7e9a355a",
+    "username": "bigpanda661",
+    "password": "yessir",
+    "salt": "BN3WE3Nm",
+    "md5": "6468846cbca779d5097479fd501f9b36",
+    "sha1": "4e49b8bb0c96eb53424126626a24d9369a5d508d",
+    "sha256": "a842f41bf399d4a3ef99e641f5c47e7dbe10021d977adcc491ec465923bf4642"
   },
   "dob": {
-    "date": "1994-03-13T14:04:37.225Z",
-    "age": 31
+    "date": "1949-04-10T15:34:11.360Z",
+    "age": 76
   },
   "registered": {
-    "date": "2020-01-15T17:05:43.896Z",
-    "age": 5
+    "date": "2016-05-27T09:49:49.307Z",
+    "age": 8
   },
-  "phone": "(053)-516-9080",
-  "cell": "(852)-216-2762",
+  "phone": "(48) 5623-3687",
+  "cell": "(03) 0724-7010",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "199.124.249-36"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/0.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    "large": "https://randomuser.me/api/portraits/men/77.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
   },
-  "nat": "TR"
+  "nat": "BR"
 }

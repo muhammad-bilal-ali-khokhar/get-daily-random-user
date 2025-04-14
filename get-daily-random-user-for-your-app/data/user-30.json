@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "آراد",
-    "last": "كامياران"
+    "first": "Harshil",
+    "last": "Almeida"
   },
   "location": {
     "street": {
-      "number": 383,
-      "name": "شهید استاد حسن بنا"
+      "number": 1766,
+      "name": "Dadabhai Naoroji Rd"
     },
-    "city": "کرمانشاه",
-    "state": "زنجان",
-    "country": "Iran",
-    "postcode": 78115,
+    "city": "Dewas",
+    "state": "Uttar Pradesh",
+    "country": "India",
+    "postcode": 71914,
     "coordinates": {
-      "latitude": "17.8198",
-      "longitude": "-128.5975"
+      "latitude": "7.9363",
+      "longitude": "-56.9584"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "ard.kmyrn@example.com",
+  "email": "harshil.almeida@example.com",
   "login": {
-    "uuid": "08f06e6c-4638-4ce2-97e0-e1b7c945b843",
-    "username": "tinybird927",
-    "password": "idunno",
-    "salt": "qypGW6k1",
-    "md5": "d37ca51fa484c2fec6111864c52de735",
-    "sha1": "ee4897c8ae009146cd311a272808f9008479a33d",
-    "sha256": "88a1c61d99c207564920e4eec200398801a307f4311d91c87992959f7da6831b"
+    "uuid": "70a244fb-a175-4c4a-88ba-4675424771ce",
+    "username": "redostrich344",
+    "password": "lauren",
+    "salt": "NeEuVsQX",
+    "md5": "1f6544c6f3be2a1aac9db651c5868bb9",
+    "sha1": "ec0036a5397e48d750c1698918c5fd691ce5c99f",
+    "sha256": "5a9045ecc7826c497818006a4be1dad88bc66877da2bd2f58e066cf6025736f5"
   },
   "dob": {
-    "date": "1950-06-03T20:24:30.299Z",
-    "age": 74
+    "date": "1967-08-22T00:56:44.801Z",
+    "age": 57
   },
   "registered": {
-    "date": "2017-03-17T20:21:48.353Z",
-    "age": 8
+    "date": "2012-03-16T22:33:12.094Z",
+    "age": 13
   },
-  "phone": "085-23752265",
-  "cell": "0931-657-7654",
+  "phone": "7124408877",
+  "cell": "9111284100",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "653201720741"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "IR"
+  "nat": "IN"
 }

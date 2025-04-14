@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Clesisniara",
-    "last": "Barbosa"
+    "title": "Mr",
+    "first": "Levi",
+    "last": "Gardner"
   },
   "location": {
     "street": {
-      "number": 2090,
-      "name": "Rua Espirito Santo "
+      "number": 1863,
+      "name": "E Center St"
     },
-    "city": "Foz do Iguaçu",
-    "state": "Maranhão",
-    "country": "Brazil",
-    "postcode": 19917,
+    "city": "Waxahachie",
+    "state": "Wyoming",
+    "country": "United States",
+    "postcode": 38824,
     "coordinates": {
-      "latitude": "-78.8120",
-      "longitude": "69.3036"
+      "latitude": "87.9576",
+      "longitude": "-80.4509"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "clesisniara.barbosa@example.com",
+  "email": "levi.gardner@example.com",
   "login": {
-    "uuid": "20bd3555-1c26-4506-897f-23f4a60f5455",
-    "username": "yellowdog278",
-    "password": "jacob",
-    "salt": "UkBwdxFL",
-    "md5": "67dd6bfc321d1cf1d8ec0969f8e12abb",
-    "sha1": "fcc9b7de607fd6efa88ba038aee1f90a2a40c612",
-    "sha256": "0edad9e4ed5bd0626ed0b14cfba3e56819e217fab8c0ec8f052cecef6137e8e7"
+    "uuid": "a4222ff5-7c64-4fb3-bffc-ff9004da3a69",
+    "username": "yellowrabbit962",
+    "password": "yahooo",
+    "salt": "EXyr7Ro7",
+    "md5": "4b251dd6cb48cbcb3c331b0be457a321",
+    "sha1": "e4da7e3037cb7d1c0909cf6011d877aca8cd5bca",
+    "sha256": "2a5316df297c5d3abaeef7d625a7778e1d1e635f3e5abfaae25dd1d92995c6d7"
   },
   "dob": {
-    "date": "2000-03-14T22:30:15.200Z",
-    "age": 25
+    "date": "1999-03-20T13:44:41.867Z",
+    "age": 26
   },
   "registered": {
-    "date": "2007-04-07T15:41:50.121Z",
-    "age": 18
+    "date": "2013-11-24T11:00:27.120Z",
+    "age": 11
   },
-  "phone": "(40) 9323-3809",
-  "cell": "(07) 2277-2958",
+  "phone": "(228) 726-4672",
+  "cell": "(999) 535-0283",
   "id": {
-    "name": "CPF",
-    "value": "270.176.246-23"
+    "name": "SSN",
+    "value": "670-48-6393"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "BR"
+  "nat": "US"
 }

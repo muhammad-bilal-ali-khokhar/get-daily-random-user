@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Stoyan",
-    "last": "Lyubeneckiy"
+    "title": "Miss",
+    "first": "Rosa",
+    "last": "Simmons"
   },
   "location": {
     "street": {
-      "number": 493,
-      "name": "Ploshcha Petra Krivonosa"
+      "number": 960,
+      "name": "Photinia Ave"
     },
-    "city": "Pershotravensk",
-    "state": "Mikolayivska",
-    "country": "Ukraine",
-    "postcode": 42909,
+    "city": "Escondido",
+    "state": "Colorado",
+    "country": "United States",
+    "postcode": 55805,
     "coordinates": {
-      "latitude": "81.2725",
-      "longitude": "-179.5916"
+      "latitude": "89.5640",
+      "longitude": "78.2104"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "stoyan.lyubeneckiy@example.com",
+  "email": "rosa.simmons@example.com",
   "login": {
-    "uuid": "d8c07a85-7f91-4dd0-9c11-74f2ba6bd0b7",
-    "username": "beautifulbird515",
-    "password": "roadrunn",
-    "salt": "D7KeYYdZ",
-    "md5": "13894138ce9b663ace9c1e0d0c6bad7d",
-    "sha1": "7c5c9c8acf7d82ffaca06bf4e014bb1fc46841fe",
-    "sha256": "3a263daa2013e2433cf9b2ba1fc7907433ee729cea7ccfd7cc1d5c36ee5d2b58"
+    "uuid": "cd411941-8b0c-411a-ae77-82e33f234884",
+    "username": "heavyleopard223",
+    "password": "john1",
+    "salt": "RdWehQ44",
+    "md5": "41501702e2beb6f9f2577ec067420a1c",
+    "sha1": "98d203ba4412fd174960ee329107a537fa256622",
+    "sha256": "09e937c7af5f1a8c78c66d8a0dd290bc8088da3d2777122560c4857e1dfd9b1e"
   },
   "dob": {
-    "date": "1961-08-05T14:55:46.478Z",
-    "age": 63
+    "date": "1995-01-01T20:58:04.951Z",
+    "age": 30
   },
   "registered": {
-    "date": "2021-08-27T23:58:21.707Z",
-    "age": 3
+    "date": "2007-01-07T22:31:00.438Z",
+    "age": 18
   },
-  "phone": "(097) R36-8074",
-  "cell": "(067) S28-7244",
+  "phone": "(912) 455-2517",
+  "cell": "(303) 751-6663",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SSN",
+    "value": "850-51-1296"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/17.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+    "large": "https://randomuser.me/api/portraits/women/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
   },
-  "nat": "UA"
+  "nat": "US"
 }

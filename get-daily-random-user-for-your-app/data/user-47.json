@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Željka",
-    "last": "Šerbedžija"
+    "first": "Ceylan",
+    "last": "Çevik"
   },
   "location": {
     "street": {
-      "number": 5296,
-      "name": "Porodice Milovanović"
+      "number": 7451,
+      "name": "Mevlana Cd"
     },
-    "city": "Trgovište",
-    "state": "Pomoravlje",
-    "country": "Serbia",
-    "postcode": 16444,
+    "city": "Ankara",
+    "state": "Tokat",
+    "country": "Turkey",
+    "postcode": 53537,
     "coordinates": {
-      "latitude": "59.3692",
-      "longitude": "107.9931"
+      "latitude": "70.4703",
+      "longitude": "159.1931"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "zeljka.serbedzija@example.com",
+  "email": "ceylan.cevik@example.com",
   "login": {
-    "uuid": "fa7e8ad9-18bf-40b9-89e0-becf267e7460",
-    "username": "angrypanda919",
-    "password": "truck1",
-    "salt": "GR8bSLYJ",
-    "md5": "1cdc613882d0382d4da1878f19cf64e4",
-    "sha1": "c6af8ad2fe4cd71b44cade6c13a53c29f19963da",
-    "sha256": "97a6188a3f8bfc4d5809928f7d82e6a7cb5a09281756fc6e9d135e55586ce150"
+    "uuid": "3e58be1b-7829-41be-838a-002f6f252096",
+    "username": "redbird110",
+    "password": "lady",
+    "salt": "IiMhS5Wn",
+    "md5": "6adb1afc4b6f515d96a5eeda097e7dba",
+    "sha1": "8fcab4cef0cd512fda6fcf1b6f1d70dd2de818fd",
+    "sha256": "e8120035b613a8026ea1fa46d204c159f004122525532f000597c9af4f1ff9b2"
   },
   "dob": {
-    "date": "1988-09-03T21:23:50.112Z",
-    "age": 36
+    "date": "1954-11-27T11:20:23.731Z",
+    "age": 70
   },
   "registered": {
-    "date": "2021-06-21T04:25:51.486Z",
+    "date": "2021-04-21T10:51:51.086Z",
     "age": 3
   },
-  "phone": "024-9423-098",
-  "cell": "063-8199-315",
+  "phone": "(913)-106-3675",
+  "cell": "(876)-034-2404",
   "id": {
-    "name": "SID",
-    "value": "666922605"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+    "large": "https://randomuser.me/api/portraits/women/40.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/40.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/40.jpg"
   },
-  "nat": "RS"
+  "nat": "TR"
 }

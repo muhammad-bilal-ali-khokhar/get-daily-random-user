@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Vildan",
-    "last": "Sözeri"
+    "title": "Mr",
+    "first": "Amaury",
+    "last": "David"
   },
   "location": {
     "street": {
-      "number": 1410,
-      "name": "Maçka Cd"
+      "number": 138,
+      "name": "Rue Bataille"
     },
-    "city": "Afyonkarahisar",
-    "state": "Aksaray",
-    "country": "Turkey",
-    "postcode": 95204,
+    "city": "Toulon",
+    "state": "Morbihan",
+    "country": "France",
+    "postcode": 86948,
     "coordinates": {
-      "latitude": "68.7228",
-      "longitude": "25.1507"
+      "latitude": "-17.5619",
+      "longitude": "-102.7112"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "vildan.sozeri@example.com",
+  "email": "amaury.david@example.com",
   "login": {
-    "uuid": "fbf82b0d-fcd0-4659-a8eb-f6cc347f8f6f",
-    "username": "sadzebra483",
-    "password": "tracker",
-    "salt": "YZaAvKOI",
-    "md5": "f3dbeae5436179653a5ea1e114abfa76",
-    "sha1": "9ac91c192a7a9f2d990ccd70435bf5888e995893",
-    "sha256": "3fa412d2a4740b351bdd955fa3d3a8cd42fa6effbd0680478bd4d4aa217e67d5"
+    "uuid": "02406ebd-9ffb-4786-abf6-50c42f6ebb4a",
+    "username": "whitegorilla402",
+    "password": "pornographic",
+    "salt": "K87SDHzj",
+    "md5": "0a5b3b2e9271bf074fd2fbf8f84f24f6",
+    "sha1": "835d0556d3ced2aa869f3c25b70b0953dc48b4bf",
+    "sha256": "f59da23f0c76b7ce7af0ab83f1a66c38f40cc7d34c43502bc247bdab02ff3d43"
   },
   "dob": {
-    "date": "1989-10-10T14:16:45.645Z",
-    "age": 35
+    "date": "1947-03-19T08:36:32.590Z",
+    "age": 78
   },
   "registered": {
-    "date": "2018-06-23T18:14:43.675Z",
-    "age": 6
+    "date": "2017-10-16T11:14:59.530Z",
+    "age": 7
   },
-  "phone": "(249)-594-9894",
-  "cell": "(406)-080-1343",
+  "phone": "01-94-97-72-66",
+  "cell": "06-68-85-48-66",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "1470238701784 59"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "TR"
+  "nat": "FR"
 }

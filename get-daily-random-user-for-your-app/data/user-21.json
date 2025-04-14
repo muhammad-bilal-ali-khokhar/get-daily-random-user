@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Nikola",
-    "last": "Grimnes"
+    "title": "Mr",
+    "first": "Alexandre",
+    "last": "Muller"
   },
   "location": {
     "street": {
-      "number": 9710,
-      "name": "Kranveien"
+      "number": 3397,
+      "name": "Place de L'Abbé-Franz-Stock"
     },
-    "city": "Sortland",
-    "state": "Vest-Agder",
-    "country": "Norway",
-    "postcode": "1900",
+    "city": "Toulon",
+    "state": "Lozère",
+    "country": "France",
+    "postcode": 97402,
     "coordinates": {
-      "latitude": "41.6054",
-      "longitude": "9.4068"
+      "latitude": "-19.5723",
+      "longitude": "-142.9607"
     },
     "timezone": {
       "offset": "+3:30",
       "description": "Tehran"
     }
   },
-  "email": "nikola.grimnes@example.com",
+  "email": "alexandre.muller@example.com",
   "login": {
-    "uuid": "b4b9f7cf-91f0-48df-92ad-b8e92a55d31e",
-    "username": "ticklishpeacock550",
-    "password": "nittany",
-    "salt": "e9cH28vj",
-    "md5": "c6c27502faf5ad9b8b5efa563b4cb289",
-    "sha1": "fdecec92bfe4acfe31a80de6e467dc403b62079c",
-    "sha256": "cf2ef7b16187deb650ad239c2ea33e0dab480aae79305030763ee5af374283e0"
+    "uuid": "0b953e9f-fd03-4562-88ad-d89d2333fa67",
+    "username": "purplesnake855",
+    "password": "lakeside",
+    "salt": "71blwzjU",
+    "md5": "04a1714846c6d7cae195f655e2f5ac11",
+    "sha1": "965268e1648cf0bb2fce62aa3f862600ab6c1b25",
+    "sha256": "82faab1825e2505ab08fc7b654151ce18e62bd5d578633b3c33e087c42f4b07f"
   },
   "dob": {
-    "date": "1996-10-01T08:38:30.211Z",
-    "age": 28
+    "date": "1975-09-25T16:42:44.367Z",
+    "age": 49
   },
   "registered": {
-    "date": "2013-07-28T19:20:10.762Z",
+    "date": "2013-12-27T06:46:08.285Z",
     "age": 11
   },
-  "phone": "63382189",
-  "cell": "98624855",
+  "phone": "01-21-19-63-48",
+  "cell": "06-31-56-29-47",
   "id": {
-    "name": "FN",
-    "value": "01109649259"
+    "name": "INSEE",
+    "value": "1750836932527 21"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/17.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+    "large": "https://randomuser.me/api/portraits/men/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
   },
-  "nat": "NO"
+  "nat": "FR"
 }
