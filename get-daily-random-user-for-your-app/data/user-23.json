@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Tarak",
-    "last": "Chavare"
+    "first": "Julián",
+    "last": "Domínguez"
   },
   "location": {
     "street": {
-      "number": 2316,
-      "name": "Altamount Rd"
+      "number": 9061,
+      "name": "Calle Covadonga"
     },
-    "city": "Nizamabad",
-    "state": "Telangana",
-    "country": "India",
-    "postcode": 22978,
+    "city": "Albacete",
+    "state": "País Vasco",
+    "country": "Spain",
+    "postcode": 91964,
     "coordinates": {
-      "latitude": "10.4543",
-      "longitude": "-145.5359"
+      "latitude": "-34.2887",
+      "longitude": "-85.9845"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "tarak.chavare@example.com",
+  "email": "julian.dominguez@example.com",
   "login": {
-    "uuid": "e3e30ae2-c434-47aa-bc00-f2326760cbf7",
-    "username": "beautifulbird990",
-    "password": "shei",
-    "salt": "XsmqCNPS",
-    "md5": "99b2691d36c7179f4c720354120a7ccd",
-    "sha1": "27aca3dfdb58ffd49b97740100cc7249d8e46b56",
-    "sha256": "49ad7d126153bed402720281db0c3f995e4a4f1fd059d28aaf623b459de7da65"
+    "uuid": "a30e30ee-6ef9-40b4-b35b-03cf2262ab89",
+    "username": "greenpanda115",
+    "password": "chopper",
+    "salt": "z60KaTsS",
+    "md5": "af749fa8c747ff79f57f93b6361a9bb2",
+    "sha1": "43667484bce373fa5113dfbef5e5f5d71c7591b1",
+    "sha256": "1defb32928203d291cd666c5dbeca12c4745e02aa4860ddd44c68efdcde731c4"
   },
   "dob": {
-    "date": "1953-01-19T00:19:17.896Z",
-    "age": 72
+    "date": "1956-09-22T17:00:44.669Z",
+    "age": 68
   },
   "registered": {
-    "date": "2007-03-04T08:16:44.101Z",
-    "age": 18
+    "date": "2018-04-18T15:31:21.978Z",
+    "age": 6
   },
-  "phone": "8440769418",
-  "cell": "9026017246",
+  "phone": "911-416-756",
+  "cell": "680-323-481",
   "id": {
-    "name": "UIDAI",
-    "value": "735117322400"
+    "name": "DNI",
+    "value": "27605773-G"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    "large": "https://randomuser.me/api/portraits/men/98.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
   },
-  "nat": "IN"
+  "nat": "ES"
 }

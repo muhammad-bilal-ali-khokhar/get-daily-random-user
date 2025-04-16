@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Iida",
-    "last": "Paavola"
+    "title": "Mr",
+    "first": "Rolf-Peter",
+    "last": "Franke"
   },
   "location": {
     "street": {
-      "number": 1110,
-      "name": "Hermiankatu"
+      "number": 1771,
+      "name": "Brunnenstraße"
     },
-    "city": "Ilmajoki",
-    "state": "South Karelia",
-    "country": "Finland",
-    "postcode": 12022,
+    "city": "Bergstraße",
+    "state": "Hamburg",
+    "country": "Germany",
+    "postcode": 45474,
     "coordinates": {
-      "latitude": "-22.9809",
-      "longitude": "106.9758"
+      "latitude": "-51.0319",
+      "longitude": "-169.6778"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "iida.paavola@example.com",
+  "email": "rolf-peter.franke@example.com",
   "login": {
-    "uuid": "5ab1132b-009e-4e66-82f7-57b4f7680862",
-    "username": "heavyfrog498",
-    "password": "vaughn",
-    "salt": "dL55yzpi",
-    "md5": "07f27668a817886ae833610cdcf1f0d2",
-    "sha1": "3bc93ce909a2b92f599709aa68547b093d3cd75c",
-    "sha256": "6ff3e38a85d4738b3165430efb00e83ac63c4b5a70f9fcddbae39f99638154f2"
+    "uuid": "d3222156-797b-4213-83a7-3acee70ba8d1",
+    "username": "redkoala314",
+    "password": "cheers",
+    "salt": "EMCSjhoX",
+    "md5": "37eec20b1ef0a96e3f872865bd4cee0f",
+    "sha1": "5dd4880bc58d95c731f59db9eb607991de47d8e8",
+    "sha256": "ba2942631b9c92140ab024205b869b8ecf798242116244872a9d897f6ffd1405"
   },
   "dob": {
-    "date": "1984-01-26T07:20:48.544Z",
-    "age": 41
+    "date": "1982-06-10T14:04:02.501Z",
+    "age": 42
   },
   "registered": {
-    "date": "2007-10-17T23:25:18.230Z",
-    "age": 17
+    "date": "2018-06-26T22:54:45.299Z",
+    "age": 6
   },
-  "phone": "05-450-531",
-  "cell": "041-174-11-41",
+  "phone": "0940-7658046",
+  "cell": "0179-4872865",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA940undefined"
+    "name": "SVNR",
+    "value": "43 100682 F 076"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/90.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
   },
-  "nat": "FI"
+  "nat": "DE"
 }

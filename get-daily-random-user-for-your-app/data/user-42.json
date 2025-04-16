@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Patricia",
-    "last": "Legrand"
+    "title": "Mr",
+    "first": "Noah",
+    "last": "Poulsen"
   },
   "location": {
     "street": {
-      "number": 99,
-      "name": "Rue Bony"
+      "number": 5251,
+      "name": "Danmarksgade"
     },
-    "city": "Fahy",
-    "state": "Schaffhausen",
-    "country": "Switzerland",
-    "postcode": 1553,
+    "city": "Klitmøller",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 69639,
     "coordinates": {
-      "latitude": "-61.0998",
-      "longitude": "146.1257"
+      "latitude": "-45.9064",
+      "longitude": "-27.8621"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "patricia.legrand@example.com",
+  "email": "noah.poulsen@example.com",
   "login": {
-    "uuid": "c8f70649-b589-49c7-8bdd-52f71a0ae87f",
-    "username": "smallfrog243",
-    "password": "stinger",
-    "salt": "vFMJYCFU",
-    "md5": "aa2bd303f2f46c5b3bc3442d687d42f3",
-    "sha1": "0db86c1db42be7f730a5e5a949cac0b9d6136e96",
-    "sha256": "16c5828eedf594c9bc5930bc354c63032d1f2a28d99320f4afad47c5c789727e"
+    "uuid": "bd58160a-4644-4753-a953-a7ba88b7b0e7",
+    "username": "greendog689",
+    "password": "maynard",
+    "salt": "rzrrEuoP",
+    "md5": "668d42ccd3ed50450e2f97867942b903",
+    "sha1": "f9d6630b1d60d5adf80a9c883e88e92dd09a077d",
+    "sha256": "c239e42ee9019490a20adde3707944182583f57b37162257c348339b5d0e7030"
   },
   "dob": {
-    "date": "2000-12-16T12:17:14.215Z",
-    "age": 24
+    "date": "1972-08-11T04:19:09.673Z",
+    "age": 52
   },
   "registered": {
-    "date": "2011-02-24T19:10:08.283Z",
-    "age": 14
+    "date": "2016-12-08T08:05:20.493Z",
+    "age": 8
   },
-  "phone": "078 954 95 34",
-  "cell": "079 069 67 54",
+  "phone": "55747084",
+  "cell": "85979624",
   "id": {
-    "name": "AVS",
-    "value": "756.0657.1100.45"
+    "name": "CPR",
+    "value": "100872-1919"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    "large": "https://randomuser.me/api/portraits/men/67.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/67.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/67.jpg"
   },
-  "nat": "CH"
+  "nat": "DK"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Rosa",
-    "last": "Simmons"
+    "title": "Mr",
+    "first": "Kasper",
+    "last": "Lakso"
   },
   "location": {
     "street": {
-      "number": 960,
-      "name": "Photinia Ave"
+      "number": 5145,
+      "name": "Pirkankatu"
     },
-    "city": "Escondido",
-    "state": "Colorado",
-    "country": "United States",
-    "postcode": 55805,
+    "city": "Karjalohja",
+    "state": "Ostrobothnia",
+    "country": "Finland",
+    "postcode": 41198,
     "coordinates": {
-      "latitude": "89.5640",
-      "longitude": "78.2104"
+      "latitude": "-26.3062",
+      "longitude": "-21.0294"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "rosa.simmons@example.com",
+  "email": "kasper.lakso@example.com",
   "login": {
-    "uuid": "cd411941-8b0c-411a-ae77-82e33f234884",
-    "username": "heavyleopard223",
-    "password": "john1",
-    "salt": "RdWehQ44",
-    "md5": "41501702e2beb6f9f2577ec067420a1c",
-    "sha1": "98d203ba4412fd174960ee329107a537fa256622",
-    "sha256": "09e937c7af5f1a8c78c66d8a0dd290bc8088da3d2777122560c4857e1dfd9b1e"
+    "uuid": "66b89375-516a-49f2-8568-4db68a420153",
+    "username": "happyleopard338",
+    "password": "floyd",
+    "salt": "ueyOJ8iW",
+    "md5": "7ce17148b9b3aaa4879badc09618660b",
+    "sha1": "f5f4c5ad7f3e55bd6ffc222c6090899cf476cdc1",
+    "sha256": "e0c04fccb3c5bb01026f42d4585fd3130f9469be859033c8fe2c312ea3367820"
   },
   "dob": {
-    "date": "1995-01-01T20:58:04.951Z",
-    "age": 30
+    "date": "1990-12-28T13:26:47.687Z",
+    "age": 34
   },
   "registered": {
-    "date": "2007-01-07T22:31:00.438Z",
-    "age": 18
+    "date": "2017-02-23T17:53:36.421Z",
+    "age": 8
   },
-  "phone": "(912) 455-2517",
-  "cell": "(303) 751-6663",
+  "phone": "06-621-013",
+  "cell": "042-688-16-55",
   "id": {
-    "name": "SSN",
-    "value": "850-51-1296"
+    "name": "HETU",
+    "value": "NaNNA439undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "US"
+  "nat": "FI"
 }

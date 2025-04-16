@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Teófilo",
-    "last": "Santos"
+    "title": "Ms",
+    "first": "Clarice",
+    "last": "Barros"
   },
   "location": {
     "street": {
-      "number": 8268,
-      "name": "Rua Vinte E Quatro de Outubro"
+      "number": 9830,
+      "name": "Rua Castro Alves "
     },
-    "city": "São Carlos",
-    "state": "São Paulo",
+    "city": "Jacareí",
+    "state": "Rio Grande do Norte",
     "country": "Brazil",
-    "postcode": 36185,
+    "postcode": 57098,
     "coordinates": {
-      "latitude": "-74.7400",
-      "longitude": "-53.6656"
+      "latitude": "-77.9356",
+      "longitude": "106.6666"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "teofilo.santos@example.com",
+  "email": "clarice.barros@example.com",
   "login": {
-    "uuid": "eeadfdf4-7aec-47ea-bf1b-91bc7e9a355a",
-    "username": "bigpanda661",
-    "password": "yessir",
-    "salt": "BN3WE3Nm",
-    "md5": "6468846cbca779d5097479fd501f9b36",
-    "sha1": "4e49b8bb0c96eb53424126626a24d9369a5d508d",
-    "sha256": "a842f41bf399d4a3ef99e641f5c47e7dbe10021d977adcc491ec465923bf4642"
+    "uuid": "21e7f27b-8818-409c-b644-f78066336e00",
+    "username": "crazywolf530",
+    "password": "devo",
+    "salt": "FeGaJWBx",
+    "md5": "7d61e69fcc3a961cee3299de30e0a68f",
+    "sha1": "372d2506917483f6c0788a2d5e0fc74d0f1a31fa",
+    "sha256": "1af90a68f682d9e399671ad233e6a12d04efbff0bdb39916b64300fcbb15d102"
   },
   "dob": {
-    "date": "1949-04-10T15:34:11.360Z",
-    "age": 76
+    "date": "1976-07-23T13:53:49.718Z",
+    "age": 48
   },
   "registered": {
-    "date": "2016-05-27T09:49:49.307Z",
-    "age": 8
+    "date": "2003-04-18T07:27:59.872Z",
+    "age": 21
   },
-  "phone": "(48) 5623-3687",
-  "cell": "(03) 0724-7010",
+  "phone": "(41) 2390-0969",
+  "cell": "(93) 9626-5939",
   "id": {
     "name": "CPF",
-    "value": "199.124.249-36"
+    "value": "125.735.324-58"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    "large": "https://randomuser.me/api/portraits/women/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
   },
   "nat": "BR"
 }

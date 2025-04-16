@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Yagnesh",
-    "last": "Bansal"
+    "title": "Miss",
+    "first": "Maëva",
+    "last": "Nicolas"
   },
   "location": {
     "street": {
-      "number": 7854,
-      "name": "Ratha Bheedi"
+      "number": 6582,
+      "name": "Rue Paul Bert"
     },
-    "city": "Kishanganj",
-    "state": "Assam",
-    "country": "India",
-    "postcode": 46474,
+    "city": "Brest",
+    "state": "Ain",
+    "country": "France",
+    "postcode": 91681,
     "coordinates": {
-      "latitude": "11.2244",
-      "longitude": "-112.7981"
+      "latitude": "-15.5421",
+      "longitude": "175.8726"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "yagnesh.bansal@example.com",
+  "email": "maeva.nicolas@example.com",
   "login": {
-    "uuid": "f10cc816-fe1e-4f55-93f2-c5abe49cd010",
-    "username": "yellowcat787",
-    "password": "chong",
-    "salt": "73e58vwZ",
-    "md5": "83a65d2193e4433040c838241d8ced5a",
-    "sha1": "863ab12da7d872ac29e0872429d39a390ce8c2d9",
-    "sha256": "7f79d58724e8c29f13ba9f4fad3c479b90d742c962a17f46270022ab83130685"
+    "uuid": "cc3caf30-edc8-4d46-9a75-5d012c94e170",
+    "username": "goldengoose847",
+    "password": "hound",
+    "salt": "YXF1pxgO",
+    "md5": "c859623c80db065e68a9af81993798fa",
+    "sha1": "02f28e8b02ec52b11b76e771a5fb722554ededbc",
+    "sha256": "2a5bf1b7a63935ab730e3454e6d497b1ad18315e6f60d9d01dafa610a205f26b"
   },
   "dob": {
-    "date": "1965-11-19T15:48:02.009Z",
-    "age": 59
+    "date": "1945-10-10T14:40:53.306Z",
+    "age": 79
   },
   "registered": {
-    "date": "2015-04-04T03:03:13.946Z",
-    "age": 10
+    "date": "2004-01-23T12:10:57.799Z",
+    "age": 21
   },
-  "phone": "9258800040",
-  "cell": "7440999847",
+  "phone": "04-53-91-40-07",
+  "cell": "06-48-79-52-97",
   "id": {
-    "name": "UIDAI",
-    "value": "977940993555"
+    "name": "INSEE",
+    "value": "2450973201654 48"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/74.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
+    "large": "https://randomuser.me/api/portraits/women/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
   },
-  "nat": "IN"
+  "nat": "FR"
 }

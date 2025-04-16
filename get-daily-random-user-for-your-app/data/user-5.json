@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Amaury",
-    "last": "David"
+    "first": "Bertram",
+    "last": "Christiansen"
   },
   "location": {
     "street": {
-      "number": 138,
-      "name": "Rue Bataille"
+      "number": 2887,
+      "name": "Æblevænget"
     },
-    "city": "Toulon",
-    "state": "Morbihan",
-    "country": "France",
-    "postcode": 86948,
+    "city": "Stokkemarke",
+    "state": "Nordjylland",
+    "country": "Denmark",
+    "postcode": 45877,
     "coordinates": {
-      "latitude": "-17.5619",
-      "longitude": "-102.7112"
+      "latitude": "-44.5797",
+      "longitude": "-10.4005"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "amaury.david@example.com",
+  "email": "bertram.christiansen@example.com",
   "login": {
-    "uuid": "02406ebd-9ffb-4786-abf6-50c42f6ebb4a",
-    "username": "whitegorilla402",
-    "password": "pornographic",
-    "salt": "K87SDHzj",
-    "md5": "0a5b3b2e9271bf074fd2fbf8f84f24f6",
-    "sha1": "835d0556d3ced2aa869f3c25b70b0953dc48b4bf",
-    "sha256": "f59da23f0c76b7ce7af0ab83f1a66c38f40cc7d34c43502bc247bdab02ff3d43"
+    "uuid": "2224fd96-6c65-48ea-9c19-1ed57a0c4cf2",
+    "username": "beautifullion210",
+    "password": "rollins",
+    "salt": "AVxxF3Mw",
+    "md5": "b6c6ceda21bc41993d0ce1330e13b924",
+    "sha1": "ccdda0faa85096f49fa2d1f9297abca181daab49",
+    "sha256": "a82d85ee593881b7f862220e3390510dc8092e2364f3d05cfc9d69e7514f8c2c"
   },
   "dob": {
-    "date": "1947-03-19T08:36:32.590Z",
-    "age": 78
+    "date": "1997-01-20T23:55:05.898Z",
+    "age": 28
   },
   "registered": {
-    "date": "2017-10-16T11:14:59.530Z",
-    "age": 7
+    "date": "2019-02-06T19:32:50.285Z",
+    "age": 6
   },
-  "phone": "01-94-97-72-66",
-  "cell": "06-68-85-48-66",
+  "phone": "46072791",
+  "cell": "16524424",
   "id": {
-    "name": "INSEE",
-    "value": "1470238701784 59"
+    "name": "CPR",
+    "value": "200197-2877"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/27.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+    "large": "https://randomuser.me/api/portraits/men/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
   },
-  "nat": "FR"
+  "nat": "DK"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Ratibor",
-    "last": "Chekman"
+    "first": "Jannis",
+    "last": "Droste"
   },
   "location": {
     "street": {
-      "number": 742,
-      "name": "Lipskiy provulok"
+      "number": 6602,
+      "name": "Waldstraße"
     },
-    "city": "Slavuta",
-    "state": "Kirovogradska",
-    "country": "Ukraine",
-    "postcode": 24915,
+    "city": "Weener",
+    "state": "Hamburg",
+    "country": "Germany",
+    "postcode": 51549,
     "coordinates": {
-      "latitude": "78.8016",
-      "longitude": "-65.7470"
+      "latitude": "-50.4909",
+      "longitude": "-158.6088"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "ratibor.chekman@example.com",
+  "email": "jannis.droste@example.com",
   "login": {
-    "uuid": "beb18c72-383c-4dde-bbb8-5a834f0958b1",
-    "username": "redleopard418",
-    "password": "redleg",
-    "salt": "mHoUZZ47",
-    "md5": "edbb5a859a51bc50f979b804c07cc3ca",
-    "sha1": "44c09e86e3afb936bcf537347b35f3e89e2da78b",
-    "sha256": "3d35dc373b1a0a862f10c5cb44a6c5f5c81b334d2d397c64f654b2138272d822"
+    "uuid": "82bafe57-1362-4fd1-94ed-dc8871486eb2",
+    "username": "whiteswan844",
+    "password": "digital1",
+    "salt": "hnzl0Zg2",
+    "md5": "de91022828aaaaee7ca40bb6cd70c0c0",
+    "sha1": "604259d17ec0eb893d62d982d8ceb7e4048fd761",
+    "sha256": "04a5ab7ba2a62a59ee67c5caec37679c6e1007d8b82471cfcb27fb10062a0f8a"
   },
   "dob": {
-    "date": "1981-08-04T15:30:59.482Z",
-    "age": 43
+    "date": "1989-02-04T12:24:13.968Z",
+    "age": 36
   },
   "registered": {
-    "date": "2013-07-07T03:08:47.561Z",
-    "age": 11
+    "date": "2013-01-12T16:26:54.281Z",
+    "age": 12
   },
-  "phone": "(067) Y05-3570",
-  "cell": "(098) L90-5431",
+  "phone": "0402-5397125",
+  "cell": "0174-6387127",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SVNR",
+    "value": "23 040289 D 172"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/53.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
   },
-  "nat": "UA"
+  "nat": "DE"
 }

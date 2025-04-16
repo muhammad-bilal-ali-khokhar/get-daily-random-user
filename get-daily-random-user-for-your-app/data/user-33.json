@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Kurt",
-    "last": "Howell"
+    "first": "Atanasije",
+    "last": "Mitrović"
   },
   "location": {
     "street": {
-      "number": 8548,
-      "name": "Crockett St"
+      "number": 6838,
+      "name": "Milovana Čelebića"
     },
-    "city": "Ballarat",
-    "state": "Northern Territory",
-    "country": "Australia",
-    "postcode": 5613,
+    "city": "Gornji Milanovac",
+    "state": "Podunavlje",
+    "country": "Serbia",
+    "postcode": 48146,
     "coordinates": {
-      "latitude": "-88.0543",
-      "longitude": "-101.3165"
+      "latitude": "56.8255",
+      "longitude": "-9.6559"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "kurt.howell@example.com",
+  "email": "atanasije.mitrovic@example.com",
   "login": {
-    "uuid": "968d2151-9871-4950-b2a3-27d63146f623",
-    "username": "redduck237",
-    "password": "blink182",
-    "salt": "MHCfJvbn",
-    "md5": "8a682f4609d567f1d57f03df82cfa2e3",
-    "sha1": "52823f69a2dc58a5a9de4ade208df8309d22fafa",
-    "sha256": "9719ac70e2278c9e03deef68f61abd53dd1a0a475ff19b5f2987319e5a9b0c7f"
+    "uuid": "06ba8486-eb6a-4db8-9457-54f1194e349b",
+    "username": "goldenkoala415",
+    "password": "corona",
+    "salt": "4RzOYRGJ",
+    "md5": "53c36d5a9cb7530c6df164225c9f84ad",
+    "sha1": "6e3ab9866c093d21e316ecfb739d3209df844888",
+    "sha256": "6ca0e6195bac42f7f30cff3c54e6ef9724f912394430570f7139be4915cfaf2d"
   },
   "dob": {
-    "date": "1971-11-28T18:21:20.645Z",
-    "age": 53
+    "date": "1961-07-24T18:54:02.100Z",
+    "age": 63
   },
   "registered": {
-    "date": "2018-11-26T16:14:10.466Z",
-    "age": 6
+    "date": "2022-03-25T19:19:21.918Z",
+    "age": 3
   },
-  "phone": "02-0249-3124",
-  "cell": "0446-040-587",
+  "phone": "016-3922-562",
+  "cell": "064-2586-364",
   "id": {
-    "name": "TFN",
-    "value": "037602398"
+    "name": "SID",
+    "value": "532319723"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    "large": "https://randomuser.me/api/portraits/men/11.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
   },
-  "nat": "AU"
+  "nat": "RS"
 }

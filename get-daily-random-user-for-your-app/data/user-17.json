@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Mirna",
-    "last": "Jevtić"
+    "title": "Mr",
+    "first": "Roland",
+    "last": "Mendoza"
   },
   "location": {
     "street": {
-      "number": 8843,
-      "name": "Vašarska"
+      "number": 9458,
+      "name": "Oak Lawn Ave"
     },
-    "city": "Mali Zvornik",
-    "state": "Braničevo",
-    "country": "Serbia",
-    "postcode": 86692,
+    "city": "Australian Capital Territory",
+    "state": "South Australia",
+    "country": "Australia",
+    "postcode": 290,
     "coordinates": {
-      "latitude": "56.3593",
-      "longitude": "110.5995"
+      "latitude": "-88.1973",
+      "longitude": "-54.7222"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "mirna.jevtic@example.com",
+  "email": "roland.mendoza@example.com",
   "login": {
-    "uuid": "9445ee70-dab8-44d2-86bc-8c4bf4394fa0",
-    "username": "silverleopard777",
-    "password": "records",
-    "salt": "OSGs2jry",
-    "md5": "639fc6e7a9a89de0739525a6ff1a0edf",
-    "sha1": "d2dbb7c6899b57943af679363b3ee116ec62272f",
-    "sha256": "94807fc0c4074507c287d6cd54cdb193f8477ee8faed429f9edc9e9aec4447ea"
+    "uuid": "d9df919d-2f21-45e7-8c03-09a34ef7f60d",
+    "username": "angryduck107",
+    "password": "sam123",
+    "salt": "j8lgt5CW",
+    "md5": "74325cfbd8f261f42ae64c56c31a8215",
+    "sha1": "61170572d8f2cddf671a547e83c045e4a36eb8c3",
+    "sha256": "020e97cc43299d7a6169a47abf3bc2c085aee94ec7f593d200ff41d1e1024fa9"
   },
   "dob": {
-    "date": "1961-01-23T06:22:39.914Z",
-    "age": 64
+    "date": "1977-08-23T22:21:40.393Z",
+    "age": 47
   },
   "registered": {
-    "date": "2016-04-02T10:21:45.219Z",
+    "date": "2016-01-26T19:41:15.199Z",
     "age": 9
   },
-  "phone": "012-5396-072",
-  "cell": "066-9796-852",
+  "phone": "02-8949-3086",
+  "cell": "0456-243-339",
   "id": {
-    "name": "SID",
-    "value": "392224945"
+    "name": "TFN",
+    "value": "927407875"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/96.jpg"
+    "large": "https://randomuser.me/api/portraits/men/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
   },
-  "nat": "RS"
+  "nat": "AU"
 }

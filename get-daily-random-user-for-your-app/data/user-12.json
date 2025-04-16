@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Emily",
-    "last": "Park"
+    "title": "Mr",
+    "first": "Austin",
+    "last": "Roberts"
   },
   "location": {
     "street": {
-      "number": 6234,
-      "name": "Simcoe St"
+      "number": 9218,
+      "name": "Pah Road"
     },
-    "city": "Jasper",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "W2L 5M1",
+    "city": "Whangarei",
+    "state": "Canterbury",
+    "country": "New Zealand",
+    "postcode": 57112,
     "coordinates": {
-      "latitude": "-69.9919",
-      "longitude": "65.2202"
+      "latitude": "47.5759",
+      "longitude": "-20.7026"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "emily.park@example.com",
+  "email": "austin.roberts@example.com",
   "login": {
-    "uuid": "6b1a9d72-cd29-40d7-918b-617fd256df4c",
-    "username": "silvergorilla205",
-    "password": "loretta",
-    "salt": "1kMd1Dwg",
-    "md5": "d6507bd83f71703f873bdeb1d1e5db58",
-    "sha1": "9595041480782bb01545090eec0c0e1d82b0f61b",
-    "sha256": "44f4f357cd49e1b7172ce97c7a42c35048f6fd917ed324cd085a0466bb3ac316"
+    "uuid": "291eaf28-292b-4261-88d1-ec0b303950aa",
+    "username": "ticklishbutterfly921",
+    "password": "kramer",
+    "salt": "jMlSkAhr",
+    "md5": "0538dadd33ba8260b8325829c2b23c8d",
+    "sha1": "9c26f96b72dd727913150c7a9c64f1fdcc7ee6bc",
+    "sha256": "20a3c7a90ddd5dd9aecc7f4246f74241cd8d7b068df78468639cf4e3fbd5191b"
   },
   "dob": {
-    "date": "1972-05-20T06:34:43.918Z",
-    "age": 52
+    "date": "1989-04-28T14:49:21.501Z",
+    "age": 35
   },
   "registered": {
-    "date": "2021-02-27T13:56:15.104Z",
-    "age": 4
+    "date": "2003-02-28T11:49:56.886Z",
+    "age": 22
   },
-  "phone": "D34 V93-7257",
-  "cell": "B51 O86-8571",
+  "phone": "(202)-630-6666",
+  "cell": "(373)-110-6998",
   "id": {
-    "name": "SIN",
-    "value": "032945198"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
   },
-  "nat": "CA"
+  "nat": "NZ"
 }

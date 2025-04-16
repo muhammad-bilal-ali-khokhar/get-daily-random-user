@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Nikolaj",
-    "last": "Hansen"
+    "first": "Ceyhun",
+    "last": "Tekelioğlu"
   },
   "location": {
     "street": {
-      "number": 5841,
-      "name": "Birkemosevej"
+      "number": 2781,
+      "name": "Vatan Cd"
     },
-    "city": "Kongens  Lyngby",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 20201,
+    "city": "Erzincan",
+    "state": "Çorum",
+    "country": "Turkey",
+    "postcode": 60531,
     "coordinates": {
-      "latitude": "-43.4754",
-      "longitude": "-26.1606"
+      "latitude": "72.6949",
+      "longitude": "-128.1187"
     },
     "timezone": {
-      "offset": "-1:00",
-      "description": "Azores, Cape Verde Islands"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "nikolaj.hansen@example.com",
+  "email": "ceyhun.tekelioglu@example.com",
   "login": {
-    "uuid": "a2690611-bf5d-4cb5-9e99-4c40e0677971",
-    "username": "purplemeercat365",
-    "password": "training",
-    "salt": "T9u1WStf",
-    "md5": "7178da85d76ff34524ca338a90ecd8d6",
-    "sha1": "a08d0d80ffb387466983aad1d4bd9f671433ecaa",
-    "sha256": "96fc33844dc47484ed3b82f4f2b2084bd96121da072e0d7f99910283cc8a1f20"
+    "uuid": "2c64f438-07a0-425f-83f0-85458d68e61b",
+    "username": "whitebear588",
+    "password": "carpente",
+    "salt": "bEOajv7G",
+    "md5": "7533f59463fe187f67a9e056d0ea44fa",
+    "sha1": "35b23c220706a174560b3cbf868426975cd3b08f",
+    "sha256": "4c18d0f071fa65c25679f53117cba130decef2dddef16e942c46d7e7fb4f339d"
   },
   "dob": {
-    "date": "1988-03-31T13:59:59.314Z",
-    "age": 37
+    "date": "1963-08-13T16:13:44.639Z",
+    "age": 61
   },
   "registered": {
-    "date": "2008-01-05T05:44:33.409Z",
+    "date": "2007-11-17T03:36:20.140Z",
     "age": 17
   },
-  "phone": "80444640",
-  "cell": "18346609",
+  "phone": "(584)-593-0769",
+  "cell": "(739)-349-1971",
   "id": {
-    "name": "CPR",
-    "value": "310388-8951"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/0.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+    "large": "https://randomuser.me/api/portraits/men/31.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
   },
-  "nat": "DK"
+  "nat": "TR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Apolline",
-    "last": "Guerin"
+    "title": "Monsieur",
+    "first": "Alain",
+    "last": "Mathieu"
   },
   "location": {
     "street": {
-      "number": 7785,
-      "name": "Rue D'Abbeville"
+      "number": 3009,
+      "name": "Rue Docteur-Bonhomme"
     },
-    "city": "Aix-En-Provence",
-    "state": "Yonne",
-    "country": "France",
-    "postcode": 70778,
+    "city": "Mandach",
+    "state": "Glarus",
+    "country": "Switzerland",
+    "postcode": 9786,
     "coordinates": {
-      "latitude": "-14.8419",
-      "longitude": "137.0423"
+      "latitude": "-62.3709",
+      "longitude": "-7.8361"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "apolline.guerin@example.com",
+  "email": "alain.mathieu@example.com",
   "login": {
-    "uuid": "16bdc70f-ab30-4fa9-a625-c488b1f1e629",
-    "username": "greenrabbit352",
-    "password": "bigdog",
-    "salt": "Toc9OMOy",
-    "md5": "4bd89b2413ac8e92c378dc811a8637ee",
-    "sha1": "f179a4d15087f83bd9011d6e3aec45f186ffc795",
-    "sha256": "6f0c08e7039fb51441376a7245d7c428c5e280e26e8b59148069e136b362ec19"
+    "uuid": "0a24c85e-1c3a-4521-82b7-d62ff50e702b",
+    "username": "redkoala844",
+    "password": "bluejays",
+    "salt": "gXoPxihq",
+    "md5": "235453fd66897a245fa2ff000ce006b7",
+    "sha1": "0795147a7c31f1c337f5eb5a45727916e50f2a3a",
+    "sha256": "4b89fc8b015c632b2184eda04873c58760de36292dc5c103ea3c8f8be75a204a"
   },
   "dob": {
-    "date": "1976-01-18T18:52:10.096Z",
-    "age": 49
+    "date": "1968-06-28T10:21:39.228Z",
+    "age": 56
   },
   "registered": {
-    "date": "2012-05-07T07:40:52.561Z",
-    "age": 12
+    "date": "2005-01-18T22:33:05.883Z",
+    "age": 20
   },
-  "phone": "01-91-94-15-83",
-  "cell": "06-37-51-77-17",
+  "phone": "076 094 01 60",
+  "cell": "077 741 06 42",
   "id": {
-    "name": "INSEE",
-    "value": "2760075686624 10"
+    "name": "AVS",
+    "value": "756.8410.3356.64"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+    "large": "https://randomuser.me/api/portraits/men/94.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
   },
-  "nat": "FR"
+  "nat": "CH"
 }

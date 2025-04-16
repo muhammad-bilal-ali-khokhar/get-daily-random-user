@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Amy",
-    "last": "Lawson"
+    "title": "Mr",
+    "first": "Harun",
+    "last": "Sollien"
   },
   "location": {
     "street": {
-      "number": 2312,
-      "name": "Herbert Road"
+      "number": 8595,
+      "name": "Myntfunnveien"
     },
-    "city": "Mountmellick",
-    "state": "Kilkenny",
-    "country": "Ireland",
-    "postcode": 76968,
+    "city": "Haga",
+    "state": "Vest-Agder",
+    "country": "Norway",
+    "postcode": "2864",
     "coordinates": {
-      "latitude": "-2.6350",
-      "longitude": "164.2286"
+      "latitude": "42.0326",
+      "longitude": "-27.6026"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "amy.lawson@example.com",
+  "email": "harun.sollien@example.com",
   "login": {
-    "uuid": "18c834a7-be7f-4260-97af-17f95954157f",
-    "username": "yellowbutterfly516",
-    "password": "mushroom",
-    "salt": "6B8kybfE",
-    "md5": "0da3d3176690b2fda4a17f7b35cb7ceb",
-    "sha1": "3a99065c9f04e24af3f607e9e4aeff9b521c830b",
-    "sha256": "5d121e17247f6fd2771c83616459825388a6e41f7ae020ff1d9b62cf83386a72"
+    "uuid": "5cbd93e0-f2a4-4fbd-90b2-1df7adb284ac",
+    "username": "saddog177",
+    "password": "7779311",
+    "salt": "8lPq0U1e",
+    "md5": "b439f53f6470c1f651d2d57ddc604a79",
+    "sha1": "b7dd4b97ec859ebf46f421eadf2dba414ad9e051",
+    "sha256": "95255c7ebbf962d368704b9c498e696c6791325f6a1e57a709b77dcdce0ba581"
   },
   "dob": {
-    "date": "1998-07-04T13:42:52.573Z",
-    "age": 26
+    "date": "1990-10-28T18:51:36.805Z",
+    "age": 34
   },
   "registered": {
-    "date": "2014-08-22T18:53:21.758Z",
-    "age": 10
+    "date": "2021-12-12T11:58:24.090Z",
+    "age": 3
   },
-  "phone": "051-321-3495",
-  "cell": "081-757-7838",
+  "phone": "68715267",
+  "cell": "95392428",
   "id": {
-    "name": "PPS",
-    "value": "5616765T"
+    "name": "FN",
+    "value": "28109043992"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
   },
-  "nat": "IE"
+  "nat": "NO"
 }

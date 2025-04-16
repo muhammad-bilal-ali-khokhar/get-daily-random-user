@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Gonca",
-    "last": "Adal"
+    "title": "Miss",
+    "first": "Niva",
+    "last": "Jain"
   },
   "location": {
     "street": {
-      "number": 6157,
-      "name": "Abanoz Sk"
+      "number": 7736,
+      "name": "Swargate"
     },
-    "city": "Gümüşhane",
-    "state": "Siirt",
-    "country": "Turkey",
-    "postcode": 49424,
+    "city": "Thanjavur",
+    "state": "Daman and Diu",
+    "country": "India",
+    "postcode": 14058,
     "coordinates": {
-      "latitude": "66.8864",
-      "longitude": "120.9792"
+      "latitude": "11.7030",
+      "longitude": "147.1348"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "gonca.adal@example.com",
+  "email": "niva.jain@example.com",
   "login": {
-    "uuid": "7070965b-7388-4f9c-a736-a1e898894621",
-    "username": "greenostrich167",
-    "password": "center",
-    "salt": "oHG9JUND",
-    "md5": "cfd9d06384004d2d51c4bf002b136c98",
-    "sha1": "a91b83559038b6d548ebfb02b0cfc487838ef7ca",
-    "sha256": "0a343c70f24e086d40fca50e7e8c289d459af07439bdd5828d474782533ec876"
+    "uuid": "7501cee3-0ea5-479d-bd05-36a363ecb9a0",
+    "username": "goldenduck453",
+    "password": "3006",
+    "salt": "3QtBM2E1",
+    "md5": "60675bafa16b137a6d23d1b8bb807b4b",
+    "sha1": "665dcfffe53a36ae78449315d91763f0bff9224e",
+    "sha256": "d696fe0c6148c8ed9d68ff48db209119807a6b935d6773b4ddf0de3971f7e579"
   },
   "dob": {
-    "date": "1995-03-07T00:09:56.866Z",
-    "age": 30
+    "date": "1980-11-23T23:01:12.348Z",
+    "age": 44
   },
   "registered": {
-    "date": "2012-04-22T06:11:16.245Z",
-    "age": 12
+    "date": "2006-07-24T05:44:18.563Z",
+    "age": 18
   },
-  "phone": "(555)-331-1889",
-  "cell": "(995)-812-4513",
+  "phone": "7977560621",
+  "cell": "9309095934",
   "id": {
-    "name": "",
-    "value": null
+    "name": "UIDAI",
+    "value": "119416029100"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/58.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/58.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/58.jpg"
+    "large": "https://randomuser.me/api/portraits/women/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
   },
-  "nat": "TR"
+  "nat": "IN"
 }

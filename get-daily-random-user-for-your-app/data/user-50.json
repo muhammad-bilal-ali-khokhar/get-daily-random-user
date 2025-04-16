@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Inge",
-    "last": "Muller"
+    "title": "Mr",
+    "first": "Sebastian",
+    "last": "Robinson"
   },
   "location": {
     "street": {
-      "number": 8355,
-      "name": "Place du 22 Novembre 1943"
+      "number": 7115,
+      "name": "Walton Street"
     },
-    "city": "Wattenwil",
-    "state": "Valais",
-    "country": "Switzerland",
-    "postcode": 8243,
+    "city": "Palmerston North",
+    "state": "Hawke'S Bay",
+    "country": "New Zealand",
+    "postcode": 55074,
     "coordinates": {
-      "latitude": "-58.5660",
-      "longitude": "0.8930"
+      "latitude": "53.6686",
+      "longitude": "-15.7707"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "inge.muller@example.com",
+  "email": "sebastian.robinson@example.com",
   "login": {
-    "uuid": "6b20d4fd-db3b-4c6c-9097-59e02ac877de",
-    "username": "heavygoose611",
-    "password": "midori",
-    "salt": "UpTXxWva",
-    "md5": "3791e66d176deef1d754bdd1028cea66",
-    "sha1": "1ef26506ad668b9c05094b4bce2bd91759c2dc98",
-    "sha256": "d45013931de4450474c77619a08c0483a6f43cd39682d0f125ae5a1102cd218d"
+    "uuid": "e99bf948-0aeb-4f45-97d4-98a912a06323",
+    "username": "smallfish652",
+    "password": "jacob",
+    "salt": "bN5T0rvL",
+    "md5": "12b6c7705ad216f2ccd1ddbba9442f80",
+    "sha1": "f5c78b4e8ca426fd72a31bb767692a78a35678e3",
+    "sha256": "2828364ed120a0b296edab21c9813942724ef4de0b50ee1d2606d5a39e9938bf"
   },
   "dob": {
-    "date": "1996-11-17T19:55:39.481Z",
-    "age": 28
+    "date": "1976-02-16T04:32:48.960Z",
+    "age": 49
   },
   "registered": {
-    "date": "2003-04-16T15:35:44.856Z",
-    "age": 21
+    "date": "2015-02-25T00:56:15.920Z",
+    "age": 10
   },
-  "phone": "077 448 88 66",
-  "cell": "077 521 10 87",
+  "phone": "(016)-032-1238",
+  "cell": "(696)-098-2052",
   "id": {
-    "name": "AVS",
-    "value": "756.5962.3174.76"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
   },
-  "nat": "CH"
+  "nat": "NZ"
 }

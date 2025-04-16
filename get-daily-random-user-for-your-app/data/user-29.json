@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Stacey",
-    "last": "Reynolds"
+    "first": "Neila",
+    "last": "Cardoso"
   },
   "location": {
     "street": {
-      "number": 1991,
-      "name": "Daisy Dr"
+      "number": 1700,
+      "name": "Rua Santa Rita "
     },
-    "city": "Athens",
-    "state": "Utah",
-    "country": "United States",
-    "postcode": 69156,
+    "city": "Muriaé",
+    "state": "Pernambuco",
+    "country": "Brazil",
+    "postcode": 18694,
     "coordinates": {
-      "latitude": "86.1445",
-      "longitude": "119.2850"
+      "latitude": "-74.6831",
+      "longitude": "72.5037"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "stacey.reynolds@example.com",
+  "email": "neila.cardoso@example.com",
   "login": {
-    "uuid": "ebd8320d-ab5e-40de-9e6c-f8c4e12fc0de",
-    "username": "smallzebra586",
-    "password": "hanson",
-    "salt": "Rw5cY7K4",
-    "md5": "6008f0759b449ad6def570546abbb31e",
-    "sha1": "a752de99f452a6591b4a16927489f67a089ae9e6",
-    "sha256": "2f06cc8fcca9946bab31bf5f6ebcfb80c2ed3a4b085ea8acf0d39dd55a22b383"
+    "uuid": "b2e62a99-168d-4f58-ab8a-50a7d66b5355",
+    "username": "redfrog151",
+    "password": "lance",
+    "salt": "xGY8uFQR",
+    "md5": "e57dc1763f6866e641027807523b44d1",
+    "sha1": "ccf69a0082e369244e9ec0adacb3cedb4b842ba8",
+    "sha256": "2eb53d4ef3cb5f93d7c035a7f09fbf58eb482d89b4a3ee5fa6e62e0204cd456b"
   },
   "dob": {
-    "date": "1987-10-06T17:30:08.537Z",
-    "age": 37
+    "date": "1983-02-26T17:22:01.607Z",
+    "age": 42
   },
   "registered": {
-    "date": "2007-07-01T03:11:19.870Z",
-    "age": 17
+    "date": "2011-10-11T04:32:27.516Z",
+    "age": 13
   },
-  "phone": "(219) 808-9392",
-  "cell": "(401) 776-1262",
+  "phone": "(44) 7323-3033",
+  "cell": "(89) 2327-6522",
   "id": {
-    "name": "SSN",
-    "value": "388-40-0721"
+    "name": "CPF",
+    "value": "573.676.090-76"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/88.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/88.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/88.jpg"
+    "large": "https://randomuser.me/api/portraits/women/83.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
   },
-  "nat": "US"
+  "nat": "BR"
 }

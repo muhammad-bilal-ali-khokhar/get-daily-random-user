@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Jovanny",
-    "last": "Verver"
+    "title": "Miss",
+    "first": "Celine",
+    "last": "Tønsberg"
   },
   "location": {
     "street": {
-      "number": 1549,
-      "name": "Arkelsedijk"
+      "number": 3684,
+      "name": "Grågåsveien"
     },
-    "city": "Bernheze",
-    "state": "Flevoland",
-    "country": "Netherlands",
-    "postcode": "3958 AT",
+    "city": "Trondheim",
+    "state": "Oslo",
+    "country": "Norway",
+    "postcode": "5215",
     "coordinates": {
-      "latitude": "33.1510",
-      "longitude": "-50.2759"
+      "latitude": "41.9945",
+      "longitude": "63.7111"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "jovanny.verver@example.com",
+  "email": "celine.tonsberg@example.com",
   "login": {
-    "uuid": "7e021128-93ba-453b-b390-7ac2445b3a15",
-    "username": "organicbird494",
-    "password": "christina",
-    "salt": "JmRPwmTp",
-    "md5": "7e7201b6b29ca8b04af0d003336607b6",
-    "sha1": "28330952965ac08406f4f4b18cf8f033e8592cc3",
-    "sha256": "6368c0cbbd4d00a695864d0ed6562df01bd76809c2d167711dce4beef82f4d6e"
+    "uuid": "3e5f54d9-9357-4451-bc09-0b473d069264",
+    "username": "organicbear765",
+    "password": "1812",
+    "salt": "nwCqvgmW",
+    "md5": "ef5aa9368ad671cd79332e99c41f4084",
+    "sha1": "aad90ca9a74303a77e648628eb4e35afe3122829",
+    "sha256": "b5959abc48f89c2f49f5776f0481d9a74c5e4afbce17530a665bce118cb2c579"
   },
   "dob": {
-    "date": "1982-03-24T07:34:22.111Z",
-    "age": 43
+    "date": "1959-06-09T13:17:58.568Z",
+    "age": 65
   },
   "registered": {
-    "date": "2018-03-31T04:10:45.659Z",
-    "age": 7
+    "date": "2011-03-28T17:16:17.872Z",
+    "age": 14
   },
-  "phone": "(0359) 153877",
-  "cell": "(06) 67881214",
+  "phone": "70361420",
+  "cell": "42897590",
   "id": {
-    "name": "BSN",
-    "value": "85010290"
+    "name": "FN",
+    "value": "09065939069"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    "large": "https://randomuser.me/api/portraits/women/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
   },
-  "nat": "NL"
+  "nat": "NO"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Rigoberto",
-    "last": "Nascimento"
+    "title": "Mrs",
+    "first": "Elizabeth",
+    "last": "Andersen"
   },
   "location": {
     "street": {
-      "number": 4024,
-      "name": "Rua Quinze de Novembro "
+      "number": 3249,
+      "name": "Park Rd"
     },
-    "city": "Marília",
-    "state": "Goiás",
-    "country": "Brazil",
-    "postcode": 76625,
+    "city": "Burlington",
+    "state": "Prince Edward Island",
+    "country": "Canada",
+    "postcode": "Z7D 7Z3",
     "coordinates": {
-      "latitude": "-76.9967",
-      "longitude": "-157.2901"
+      "latitude": "-66.8006",
+      "longitude": "125.5138"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "rigoberto.nascimento@example.com",
+  "email": "elizabeth.andersen@example.com",
   "login": {
-    "uuid": "cac6984b-df90-430e-838c-dc6f0ff8f420",
-    "username": "lazysnake848",
-    "password": "camelot",
-    "salt": "29Lcnb5X",
-    "md5": "71d1005c2af628f58146aa3d52ba5413",
-    "sha1": "7bace7850560841dd67f72d9e41b02c7bbed9f1f",
-    "sha256": "9490c836992520a20e5440f8638af1e1f572bf2450e689a7ab53324d70e64b23"
+    "uuid": "50a95a1c-0cfb-40ad-9706-295b1690406b",
+    "username": "greendog619",
+    "password": "313131",
+    "salt": "X0TaMZfE",
+    "md5": "7da503ee6d858d539bb50b4aa4d4ea1e",
+    "sha1": "ba4ca381cf4ae5db6f250c89ea9eecc90023a049",
+    "sha256": "67ed944b6e39e8fadf2fa939e69da6e734dcafac24e5842b058a136456bb6faf"
   },
   "dob": {
-    "date": "1989-07-29T03:46:35.937Z",
-    "age": 35
+    "date": "1964-05-03T14:37:30.611Z",
+    "age": 60
   },
   "registered": {
-    "date": "2010-11-14T01:16:25.575Z",
-    "age": 14
+    "date": "2017-04-24T00:23:01.755Z",
+    "age": 7
   },
-  "phone": "(09) 9592-1027",
-  "cell": "(75) 1676-5686",
+  "phone": "L50 G04-7389",
+  "cell": "E59 K48-0211",
   "id": {
-    "name": "CPF",
-    "value": "026.205.658-06"
+    "name": "SIN",
+    "value": "555202506"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/93.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+    "large": "https://randomuser.me/api/portraits/women/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
   },
-  "nat": "BR"
+  "nat": "CA"
 }

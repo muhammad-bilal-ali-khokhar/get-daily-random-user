@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Gül",
-    "last": "Öymen"
+    "title": "Ms",
+    "first": "Custódia",
+    "last": "Pinto"
   },
   "location": {
     "street": {
-      "number": 8958,
-      "name": "Necatibey Cd"
+      "number": 3829,
+      "name": "Rua São Luiz "
     },
-    "city": "Kayseri",
-    "state": "Kayseri",
-    "country": "Turkey",
-    "postcode": 98860,
+    "city": "São José do Rio Preto",
+    "state": "Santa Catarina",
+    "country": "Brazil",
+    "postcode": 26089,
     "coordinates": {
-      "latitude": "65.0510",
-      "longitude": "101.1897"
+      "latitude": "-80.5388",
+      "longitude": "31.2231"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "gul.oymen@example.com",
+  "email": "custodia.pinto@example.com",
   "login": {
-    "uuid": "7f73e877-f864-4bcb-98f8-79aadb082751",
-    "username": "orangeladybug636",
-    "password": "violet",
-    "salt": "FAsTXRgF",
-    "md5": "5544421c0127a6c4df9db0d9f3f3982c",
-    "sha1": "740052478ab9bad2ae8e92bc533f788d30e5aeed",
-    "sha256": "d6cabee3ae972dcd29300a508817fe1d84a12f168af6af7d72166551211581aa"
+    "uuid": "3ce66cdd-2c1c-40ed-8d86-588f323f6e15",
+    "username": "happygoose598",
+    "password": "loveme",
+    "salt": "WgUc4ZF2",
+    "md5": "37acd13f2c3bd383684c984d0fb7d150",
+    "sha1": "a36f47e6f063e0e4d412b448bbfc515c4726f820",
+    "sha256": "321dd1dda56021d48b308767519c303536f9f96670029eb9aa5d81c51072abef"
   },
   "dob": {
-    "date": "1981-02-03T11:59:45.605Z",
-    "age": 44
+    "date": "1974-08-13T21:36:35.891Z",
+    "age": 50
   },
   "registered": {
-    "date": "2015-12-20T12:10:27.640Z",
-    "age": 9
+    "date": "2022-04-08T02:32:42.274Z",
+    "age": 3
   },
-  "phone": "(705)-143-0935",
-  "cell": "(023)-024-0264",
+  "phone": "(12) 9391-3182",
+  "cell": "(66) 2167-5556",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "084.809.665-80"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/83.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/83.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/83.jpg"
+    "large": "https://randomuser.me/api/portraits/women/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
   },
-  "nat": "TR"
+  "nat": "BR"
 }

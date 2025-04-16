@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Maya",
-    "last": "Hale"
+    "first": "Ege",
+    "last": "Kaya"
   },
   "location": {
     "street": {
-      "number": 100,
-      "name": "West Street"
+      "number": 6336,
+      "name": "Doktorlar Cd"
     },
-    "city": "Wakefield",
-    "state": "Shropshire",
-    "country": "United Kingdom",
-    "postcode": "W65 0ZE",
+    "city": "Kahramanmaraş",
+    "state": "Bayburt",
+    "country": "Turkey",
+    "postcode": 74549,
     "coordinates": {
-      "latitude": "-6.9324",
-      "longitude": "54.4206"
+      "latitude": "66.9764",
+      "longitude": "122.2969"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "maya.hale@example.com",
+  "email": "ege.kaya@example.com",
   "login": {
-    "uuid": "b5f20fec-e9b6-4a6b-bd67-7add41957516",
-    "username": "lazyladybug687",
-    "password": "gofast",
-    "salt": "LSyPyUnY",
-    "md5": "9b6f7d61d0f4a14e7e7fdb5abf816b6e",
-    "sha1": "be25c21447df3443972a411d4a492d20f209d6b5",
-    "sha256": "9ee118376bddf1dc7708377c86db16829d6662f7dffd820437c0a773fd95077f"
+    "uuid": "47dea29d-b512-492a-890b-5a09e95448f0",
+    "username": "sadfrog715",
+    "password": "55555",
+    "salt": "wejMjOYK",
+    "md5": "cdc37325130fa0a958081fbe2b99e3ac",
+    "sha1": "9ae103833be562037a92ed74d522c6a8289f397c",
+    "sha256": "5bf7fe63bb7672da8fec27ca1c52a8a8c039d8bd3127909b8aea242444cfc5ca"
   },
   "dob": {
-    "date": "1993-04-16T05:42:08.060Z",
-    "age": 31
+    "date": "1946-02-28T12:34:22.594Z",
+    "age": 79
   },
   "registered": {
-    "date": "2018-09-04T19:52:00.560Z",
-    "age": 6
+    "date": "2013-09-20T02:44:53.528Z",
+    "age": 11
   },
-  "phone": "016977 7189",
-  "cell": "07221 877302",
+  "phone": "(632)-259-0599",
+  "cell": "(131)-599-9161",
   "id": {
-    "name": "NINO",
-    "value": "LE 15 31 11 L"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    "large": "https://randomuser.me/api/portraits/women/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
   },
-  "nat": "GB"
+  "nat": "TR"
 }

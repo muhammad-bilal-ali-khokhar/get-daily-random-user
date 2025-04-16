@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Megan",
-    "last": "Harris"
+    "title": "Monsieur",
+    "first": "Uwe",
+    "last": "Marie"
   },
   "location": {
     "street": {
-      "number": 9536,
-      "name": "Victoria Ave"
+      "number": 7508,
+      "name": "Rue Louis-Garrand"
     },
-    "city": "Campbellton",
-    "state": "Québec",
-    "country": "Canada",
-    "postcode": "E7A 0K1",
+    "city": "Buchegg",
+    "state": "Appenzell Innerrhoden",
+    "country": "Switzerland",
+    "postcode": 5011,
     "coordinates": {
-      "latitude": "-65.4559",
-      "longitude": "145.4155"
+      "latitude": "-55.9435",
+      "longitude": "-17.5477"
     },
     "timezone": {
       "offset": "+4:00",
       "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "megan.harris@example.com",
+  "email": "uwe.marie@example.com",
   "login": {
-    "uuid": "c659fe1c-7355-46a1-bbe1-10f0677cb1b6",
-    "username": "bigbird127",
-    "password": "twenty",
-    "salt": "ntuAMgBS",
-    "md5": "3bd29ad7536ebdd9456fee5352248d44",
-    "sha1": "38517b762f2813ddf7c3891ae9b2710aba6ba4ad",
-    "sha256": "201bf0bf8b4b965c98eb2ebfa8189a85219f530b19b11bd5db63868e2674b917"
+    "uuid": "f99ce21c-c793-484c-aed6-651773a704b2",
+    "username": "ticklishgorilla453",
+    "password": "thedoors",
+    "salt": "XEKmIqXx",
+    "md5": "4e3f66e8c202d186c2da452ef8048b39",
+    "sha1": "3dd8666c938272e8fd72efa80f704560b629f90b",
+    "sha256": "aa8d52de3d523932bf4c0e38e85dc4ef4de7335f2667c7360a35ac0ff230c12d"
   },
   "dob": {
-    "date": "2000-03-04T21:50:10.664Z",
-    "age": 25
+    "date": "1964-06-27T10:51:52.874Z",
+    "age": 60
   },
   "registered": {
-    "date": "2003-05-13T19:45:52.503Z",
-    "age": 21
+    "date": "2004-05-18T20:55:23.972Z",
+    "age": 20
   },
-  "phone": "L48 S07-3528",
-  "cell": "W10 Y25-0353",
+  "phone": "076 640 26 17",
+  "cell": "077 735 65 62",
   "id": {
-    "name": "SIN",
-    "value": "828160010"
+    "name": "AVS",
+    "value": "756.1164.4988.52"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/49.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/49.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/49.jpg"
   },
-  "nat": "CA"
+  "nat": "CH"
 }

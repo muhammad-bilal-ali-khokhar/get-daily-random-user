@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Marien",
-    "last": "Norbart"
+    "title": "Ms",
+    "first": "Kenzi",
+    "last": "Ortiz"
   },
   "location": {
     "street": {
-      "number": 7929,
-      "name": "Chatelainplein"
+      "number": 9125,
+      "name": "E Center St"
     },
-    "city": "Pijnacker",
-    "state": "Noord-Holland",
-    "country": "Netherlands",
-    "postcode": "0055 NP",
+    "city": "Madison",
+    "state": "Nebraska",
+    "country": "United States",
+    "postcode": 85867,
     "coordinates": {
-      "latitude": "31.2782",
-      "longitude": "-104.5428"
+      "latitude": "86.2659",
+      "longitude": "56.9390"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "marien.norbart@example.com",
+  "email": "kenzi.ortiz@example.com",
   "login": {
-    "uuid": "982c4a9d-755d-4927-9d9a-cfdcd7a22ad5",
-    "username": "organicostrich810",
-    "password": "site",
-    "salt": "BvvZKkEg",
-    "md5": "bd1912064a6b8beba743a576972135d8",
-    "sha1": "f5a1d3a964d6dd9455ab427a85b6cea4f729338d",
-    "sha256": "a07b8b55204643b7980c298686a093f05db34d10e2ebabdda5342cd765af200c"
+    "uuid": "8abce388-d691-41db-b631-de86b11434b2",
+    "username": "bigsnake898",
+    "password": "cascade",
+    "salt": "AJhfZRoz",
+    "md5": "ab4bd2f964c20bc676b2e8bb892b4860",
+    "sha1": "5b8865c4ed7afb846dbb0b43e35f09f082faf2d9",
+    "sha256": "cea0d61211bef81972c6bebe9f4055e3d86d6bbb5782e3c11fd6dba6ed9f223a"
   },
   "dob": {
-    "date": "2001-04-23T09:40:53.488Z",
-    "age": 23
+    "date": "1973-03-18T19:28:08.870Z",
+    "age": 52
   },
   "registered": {
-    "date": "2018-12-17T00:36:24.421Z",
-    "age": 6
+    "date": "2010-08-21T06:37:42.127Z",
+    "age": 14
   },
-  "phone": "(084) 6116830",
-  "cell": "(06) 79656166",
+  "phone": "(202) 327-1675",
+  "cell": "(763) 844-3783",
   "id": {
-    "name": "BSN",
-    "value": "57401264"
+    "name": "SSN",
+    "value": "696-45-4434"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/77.jpg"
+    "large": "https://randomuser.me/api/portraits/women/68.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
   },
-  "nat": "NL"
+  "nat": "US"
 }

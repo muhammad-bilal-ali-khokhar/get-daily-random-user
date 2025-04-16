@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Berta",
-    "last": "Pires"
+    "title": "Mr",
+    "first": "Benne",
+    "last": "Kaagman"
   },
   "location": {
     "street": {
-      "number": 3215,
-      "name": "Rua São Pedro "
+      "number": 2527,
+      "name": "Kopjeskampen"
     },
-    "city": "Francisco Morato",
-    "state": "Amapá",
-    "country": "Brazil",
-    "postcode": 33263,
+    "city": "Lunteren",
+    "state": "Zuid-Holland",
+    "country": "Netherlands",
+    "postcode": "4827 DY",
     "coordinates": {
-      "latitude": "-78.7877",
-      "longitude": "22.9965"
+      "latitude": "30.2484",
+      "longitude": "-156.3376"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "berta.pires@example.com",
+  "email": "benne.kaagman@example.com",
   "login": {
-    "uuid": "1c235c51-4e37-4315-9a1e-b16a311bf65d",
-    "username": "tinypanda192",
-    "password": "asdzxc",
-    "salt": "4oCofw1O",
-    "md5": "a1c2943df09083247d4094b6e962737f",
-    "sha1": "61cc2221b3bd85dbfe84331b0818b3d1e5117e1b",
-    "sha256": "3ea21ef64959cccacf1e023a4a5b0f76ce82ebdc5e204ae0291161fe79e864ab"
+    "uuid": "1504f8fd-408f-47bc-8566-e74b0844a265",
+    "username": "happygoose906",
+    "password": "falcons",
+    "salt": "tdH0DRXX",
+    "md5": "d44a2030a2790a16f804e74dccae3395",
+    "sha1": "113464bf34ed97deea40440c26872cc144f996db",
+    "sha256": "a7300fd1eee85c1016c1d147b371ce7cda2a2983bb41081e2846c39361ba9fe0"
   },
   "dob": {
-    "date": "1969-04-10T17:02:00.290Z",
-    "age": 56
+    "date": "1970-01-24T01:15:17.161Z",
+    "age": 55
   },
   "registered": {
-    "date": "2014-11-17T06:21:06.170Z",
-    "age": 10
+    "date": "2007-04-08T23:40:36.289Z",
+    "age": 18
   },
-  "phone": "(00) 6933-8086",
-  "cell": "(42) 0273-9605",
+  "phone": "(005) 2261337",
+  "cell": "(06) 57309002",
   "id": {
-    "name": "CPF",
-    "value": "013.850.950-73"
+    "name": "BSN",
+    "value": "00770812"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+    "large": "https://randomuser.me/api/portraits/men/73.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
   },
-  "nat": "BR"
+  "nat": "NL"
 }
