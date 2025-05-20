@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Jarand",
-    "last": "Myking"
+    "first": "Zemislav",
+    "last": "Hudyak"
   },
   "location": {
     "street": {
-      "number": 8642,
-      "name": "Kjeld Stubs gate"
+      "number": 4376,
+      "name": "Grigorovicha"
     },
-    "city": "Nypan",
-    "state": "Troms - Romsa",
-    "country": "Norway",
-    "postcode": "4625",
+    "city": "Gayvoron",
+    "state": "Zaporizka",
+    "country": "Ukraine",
+    "postcode": 46619,
     "coordinates": {
-      "latitude": "43.2631",
-      "longitude": "-124.7390"
+      "latitude": "76.3004",
+      "longitude": "-148.4575"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "jarand.myking@example.com",
+  "email": "zemislav.hudyak@example.com",
   "login": {
-    "uuid": "692d79d7-e540-4238-a6e4-5cf5aec335e2",
-    "username": "whiteelephant397",
-    "password": "hilary",
-    "salt": "6vsalpGN",
-    "md5": "8974521c25e51aa0b7ffe66372a3f90f",
-    "sha1": "5fdb0c65b5779fe2d227f54d815ce6fed9127c3d",
-    "sha256": "ad4c8ffed0c8cb4dbd16c6582ee4246623f0dc8b46bacdcd2ff810c05ff5e649"
+    "uuid": "6ed74346-57f5-4ef8-9753-282844a2712c",
+    "username": "greendog258",
+    "password": "jess",
+    "salt": "vE8t30IJ",
+    "md5": "017658814266613f34e22a26510dca9a",
+    "sha1": "8d2dd329d58fc7f8fa4b79ae67ab038aba69af88",
+    "sha256": "87423338d5e4852bf91e55e9e42bc11db24e23f99b88f9cd21ed9fa18d109219"
   },
   "dob": {
-    "date": "1990-06-03T05:40:11.741Z",
-    "age": 34
+    "date": "1976-04-11T12:06:07.842Z",
+    "age": 49
   },
   "registered": {
-    "date": "2021-08-18T13:56:42.056Z",
-    "age": 3
+    "date": "2005-07-04T18:03:32.388Z",
+    "age": 19
   },
-  "phone": "69722391",
-  "cell": "97494987",
+  "phone": "(068) H61-4018",
+  "cell": "(067) E59-2028",
   "id": {
-    "name": "FN",
-    "value": "03069016501"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/35.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
+    "large": "https://randomuser.me/api/portraits/men/51.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
   },
-  "nat": "NO"
+  "nat": "UA"
 }

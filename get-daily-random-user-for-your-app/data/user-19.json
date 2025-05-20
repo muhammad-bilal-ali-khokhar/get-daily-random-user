@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Estelle",
-    "last": "Garcia"
+    "title": "Mr",
+    "first": "Arttu",
+    "last": "Neva"
   },
   "location": {
     "street": {
-      "number": 374,
-      "name": "Place de la Mairie"
+      "number": 5569,
+      "name": "Pyynikintie"
     },
-    "city": "Montpellier",
-    "state": "Gironde",
-    "country": "France",
-    "postcode": 35660,
+    "city": "Miehikkälä",
+    "state": "Ostrobothnia",
+    "country": "Finland",
+    "postcode": 70799,
     "coordinates": {
-      "latitude": "-18.5274",
-      "longitude": "73.6322"
+      "latitude": "-28.7171",
+      "longitude": "-106.1321"
     },
     "timezone": {
       "offset": "-3:00",
       "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "estelle.garcia@example.com",
+  "email": "arttu.neva@example.com",
   "login": {
-    "uuid": "55250485-4b7a-44ad-af61-8697ab79dc25",
-    "username": "bigleopard464",
-    "password": "generic",
-    "salt": "TDPpQ1z7",
-    "md5": "f9eabe4ad2b1790363fe1530ad949f1b",
-    "sha1": "5de864f3c7612a697e604814e08646850d67a14d",
-    "sha256": "ac73f4219aaa56b082a9bbfe1ea7a0a425ba7e19c6b54d5d96a7d5255544bad7"
+    "uuid": "1958988a-3dae-4c4d-9b83-d680a280fec2",
+    "username": "lazyelephant885",
+    "password": "reddwarf",
+    "salt": "m2O5VpYL",
+    "md5": "3c88bd6b3f60f1aa36d38b78a0ecc11c",
+    "sha1": "b7183d114c5eadfb0258191dc36bb15a4d4ebd44",
+    "sha256": "38b2cc3da284518cd2f782c892421b134d380c31b9e539a3159bb16d87ff4ad4"
   },
   "dob": {
-    "date": "1978-06-09T22:58:55.150Z",
-    "age": 46
+    "date": "1968-03-11T04:47:28.833Z",
+    "age": 57
   },
   "registered": {
-    "date": "2011-05-09T23:43:06.858Z",
-    "age": 14
+    "date": "2013-04-11T01:31:08.490Z",
+    "age": 12
   },
-  "phone": "04-45-87-13-02",
-  "cell": "06-36-27-01-69",
+  "phone": "07-150-997",
+  "cell": "041-328-48-94",
   "id": {
-    "name": "INSEE",
-    "value": "2780565265884 22"
+    "name": "HETU",
+    "value": "NaNNA729undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/63.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+    "large": "https://randomuser.me/api/portraits/men/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
   },
-  "nat": "FR"
+  "nat": "FI"
 }

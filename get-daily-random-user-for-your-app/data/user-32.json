@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Florence",
-    "last": "Kumar"
+    "title": "Mr",
+    "first": "Stanimir",
+    "last": "Simeonović"
   },
   "location": {
     "street": {
-      "number": 6114,
-      "name": "Ferry Road"
+      "number": 5772,
+      "name": "Stjepana Supanca"
     },
-    "city": "Lower Hutt",
-    "state": "Waikato",
-    "country": "New Zealand",
-    "postcode": 44082,
+    "city": "Žitorađa",
+    "state": "Peć",
+    "country": "Serbia",
+    "postcode": 57714,
     "coordinates": {
-      "latitude": "49.7380",
-      "longitude": "112.6515"
+      "latitude": "58.9064",
+      "longitude": "-170.6942"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "florence.kumar@example.com",
+  "email": "stanimir.simeonovic@example.com",
   "login": {
-    "uuid": "4679946d-68aa-4728-ba27-f496854ea74f",
-    "username": "heavyzebra328",
-    "password": "biguns",
-    "salt": "FMQBiF8N",
-    "md5": "17ce4812cc9dba4312e28dbec723474e",
-    "sha1": "5b642d5b120b799ba5d162746f5a8b5a3f97a02a",
-    "sha256": "dd38c4fa96a9b943e441fdd37881aabb5386c9f1bb79a81d01dbc24a908116da"
+    "uuid": "cb09df78-8528-4055-9464-53c152769c27",
+    "username": "greenfish418",
+    "password": "compact",
+    "salt": "FukHctvL",
+    "md5": "881f0efec290c3b51c6ef0b5a1b7d173",
+    "sha1": "a5a0876bf33ed549da6f5526ea1f7b6cb62e59ad",
+    "sha256": "8dc207d62ed2cdc65993b44a22fd663c61cd9e9621e63a05d31ab3fb25b5ac5a"
   },
   "dob": {
-    "date": "1979-05-14T15:49:08.725Z",
-    "age": 46
+    "date": "1957-08-15T20:11:11.629Z",
+    "age": 67
   },
   "registered": {
-    "date": "2010-05-08T04:31:03.625Z",
-    "age": 15
+    "date": "2017-08-19T22:10:05.268Z",
+    "age": 7
   },
-  "phone": "(329)-642-9951",
-  "cell": "(719)-053-9133",
+  "phone": "011-4367-147",
+  "cell": "066-7195-046",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SID",
+    "value": "102329458"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "NZ"
+  "nat": "RS"
 }

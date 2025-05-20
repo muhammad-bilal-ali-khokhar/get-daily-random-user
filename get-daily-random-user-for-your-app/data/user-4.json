@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Monsieur",
-    "first": "Patrick",
-    "last": "Leroy"
+    "title": "Miss",
+    "first": "Nalan",
+    "last": "Toraman"
   },
   "location": {
     "street": {
-      "number": 4865,
-      "name": "Rue du Château"
+      "number": 829,
+      "name": "Doktorlar Cd"
     },
-    "city": "Courgenay",
-    "state": "Schaffhausen",
-    "country": "Switzerland",
-    "postcode": 8632,
+    "city": "Manisa",
+    "state": "Osmaniye",
+    "country": "Turkey",
+    "postcode": 97617,
     "coordinates": {
-      "latitude": "-61.0760",
-      "longitude": "-106.4107"
+      "latitude": "64.3675",
+      "longitude": "56.4707"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "patrick.leroy@example.com",
+  "email": "nalan.toraman@example.com",
   "login": {
-    "uuid": "c9f7c39b-c307-4cda-9df8-171ddb62bdd3",
-    "username": "yellowlion203",
-    "password": "student",
-    "salt": "UldBX3O1",
-    "md5": "97a63233be92ac4fdbcb2ff9224b3ac2",
-    "sha1": "1f4903b4f0d28c488f61e43b2b57cfed894d40c0",
-    "sha256": "4314eedd0521e5e3e3833184a5aa23591aadad121acfdf897113cb0cee62ae69"
+    "uuid": "bc00128f-fa48-4242-9518-ceee22f40213",
+    "username": "lazypeacock894",
+    "password": "acid",
+    "salt": "MsHkri1t",
+    "md5": "8f492f81c8f8063e606adc2733cadeaa",
+    "sha1": "994043c228bb19cc8d78419b1afb142e238b0127",
+    "sha256": "aa7ca520de9960880cb67d0f92506b87c992480b5902180f61d4f4e861094c14"
   },
   "dob": {
-    "date": "1970-10-15T07:27:34.049Z",
-    "age": 54
+    "date": "1997-10-27T16:59:37.628Z",
+    "age": 27
   },
   "registered": {
-    "date": "2003-10-10T00:57:05.696Z",
-    "age": 21
+    "date": "2020-01-25T09:19:15.572Z",
+    "age": 5
   },
-  "phone": "078 417 88 20",
-  "cell": "079 587 44 47",
+  "phone": "(192)-011-2871",
+  "cell": "(883)-943-4435",
   "id": {
-    "name": "AVS",
-    "value": "756.3029.3718.54"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/85.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    "large": "https://randomuser.me/api/portraits/women/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
   },
-  "nat": "CH"
+  "nat": "TR"
 }

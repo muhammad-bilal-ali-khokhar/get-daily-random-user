@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Yashodha",
-    "last": "Sheikh"
+    "title": "Mr",
+    "first": "Landon",
+    "last": "Foster"
   },
   "location": {
     "street": {
-      "number": 6093,
-      "name": "Vellala St"
+      "number": 8281,
+      "name": "Bruce St"
     },
-    "city": "Thrissur",
-    "state": "Manipur",
-    "country": "India",
-    "postcode": 93519,
+    "city": "Wichita Falls",
+    "state": "Illinois",
+    "country": "United States",
+    "postcode": 30190,
     "coordinates": {
-      "latitude": "12.6146",
-      "longitude": "123.1539"
+      "latitude": "85.3412",
+      "longitude": "-28.8040"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "yashodha.sheikh@example.com",
+  "email": "landon.foster@example.com",
   "login": {
-    "uuid": "fda49fe9-e7b0-4311-bb52-d7499f03cca6",
-    "username": "blueswan529",
-    "password": "easter",
-    "salt": "DScpegRS",
-    "md5": "f66df2294edc64a089da993e7e50bfb8",
-    "sha1": "1a6cfbe72e23f0498157d3ef25f00bf40d8af2a8",
-    "sha256": "76a2a275e2eb003c291e96490ffeaf897dc86f091cabdfaf48b534253ed4a528"
+    "uuid": "948d0f33-26e7-494d-bea1-368ec7a672ef",
+    "username": "redbutterfly303",
+    "password": "unreal",
+    "salt": "hx4BLp2S",
+    "md5": "de21d8fa7983ae4d56f359513808c020",
+    "sha1": "11d2a72cfbe5220616c34a047b607fa7dddf8521",
+    "sha256": "9b371e6467db6c26019718fa3ce23cb1f7db409ed4dcb1a665c7609dc33f1d11"
   },
   "dob": {
-    "date": "1960-06-26T03:57:06.383Z",
-    "age": 64
+    "date": "1968-08-02T16:46:25.044Z",
+    "age": 56
   },
   "registered": {
-    "date": "2013-12-13T10:15:29.743Z",
-    "age": 11
+    "date": "2012-09-06T00:05:44.089Z",
+    "age": 12
   },
-  "phone": "9017764298",
-  "cell": "7261275493",
+  "phone": "(846) 541-9973",
+  "cell": "(439) 522-6714",
   "id": {
-    "name": "UIDAI",
-    "value": "614919728068"
+    "name": "SSN",
+    "value": "693-27-0481"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/59.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+    "large": "https://randomuser.me/api/portraits/men/92.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/92.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/92.jpg"
   },
-  "nat": "IN"
+  "nat": "US"
 }

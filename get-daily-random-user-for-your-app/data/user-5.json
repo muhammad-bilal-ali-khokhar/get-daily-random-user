@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Stephan",
-    "last": "Roy"
+    "title": "Mr",
+    "first": "Stephen",
+    "last": "Reid"
   },
   "location": {
     "street": {
-      "number": 913,
-      "name": "Place des 44 Enfants D'Izieu"
+      "number": 9979,
+      "name": "The Crescent"
     },
-    "city": "Malters",
-    "state": "Uri",
-    "country": "Switzerland",
-    "postcode": 6668,
+    "city": "Winchester",
+    "state": "Clwyd",
+    "country": "United Kingdom",
+    "postcode": "W6 9ZE",
     "coordinates": {
-      "latitude": "-63.2202",
-      "longitude": "-104.7495"
+      "latitude": "-6.5260",
+      "longitude": "-46.7985"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "stephan.roy@example.com",
+  "email": "stephen.reid@example.com",
   "login": {
-    "uuid": "ef4148df-1381-4c60-a730-7a6fa816b99c",
-    "username": "brownbear538",
-    "password": "john",
-    "salt": "gnHhVza5",
-    "md5": "ce64ac34363f50bc311a2e33d53d368c",
-    "sha1": "e53dee228401fc6d5387af08a8b51c80b108c0ff",
-    "sha256": "e35a97c4038c94076f3a1eb84e1512bbd296f2f982d5950c8e695b2624a18a8c"
+    "uuid": "eb8fdf27-9a97-4fce-a97b-28ae767d49af",
+    "username": "heavyostrich259",
+    "password": "miriam",
+    "salt": "JOKB0V3P",
+    "md5": "9a336e15e63d2cf371516faf268e0f3e",
+    "sha1": "8fc502b141d5c5726cca9e1aa186d0d419b779ba",
+    "sha256": "c97b023216f60a852e8a6e835d1004237ca1b8853fae37f7b7e925b5f89e8e74"
   },
   "dob": {
-    "date": "1983-01-18T11:14:58.276Z",
-    "age": 42
+    "date": "1973-09-19T05:26:37.696Z",
+    "age": 51
   },
   "registered": {
-    "date": "2010-07-27T10:02:59.357Z",
-    "age": 14
+    "date": "2015-03-30T06:06:21.795Z",
+    "age": 10
   },
-  "phone": "077 137 55 78",
-  "cell": "076 851 52 12",
+  "phone": "015394 76473",
+  "cell": "07362 653383",
   "id": {
-    "name": "AVS",
-    "value": "756.4074.5909.56"
+    "name": "NINO",
+    "value": "XH 86 45 88 K"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/97.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    "large": "https://randomuser.me/api/portraits/men/88.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/88.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/88.jpg"
   },
-  "nat": "CH"
+  "nat": "GB"
 }

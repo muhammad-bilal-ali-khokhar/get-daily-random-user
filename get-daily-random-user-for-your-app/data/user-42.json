@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Miko",
-    "last": "Nooij"
+    "title": "Miss",
+    "first": "Zoe",
+    "last": "Scott"
   },
   "location": {
     "street": {
-      "number": 8320,
-      "name": "Gelderpolder"
+      "number": 1407,
+      "name": "Regent Ave"
     },
-    "city": "Kockengen",
-    "state": "Limburg",
-    "country": "Netherlands",
-    "postcode": "1822 VT",
+    "city": "Flatrock",
+    "state": "Ontario",
+    "country": "Canada",
+    "postcode": "J5R 1S4",
     "coordinates": {
-      "latitude": "33.4517",
-      "longitude": "-153.0846"
+      "latitude": "-65.1375",
+      "longitude": "69.8167"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "miko.nooij@example.com",
+  "email": "zoe.scott@example.com",
   "login": {
-    "uuid": "a8ad967c-dd07-4ca7-bd15-3c17a5e59c6e",
-    "username": "biggoose317",
-    "password": "skyler",
-    "salt": "1ZbDVPEo",
-    "md5": "6b3f5d6c0f567a0ab74b605c1c546f62",
-    "sha1": "f090da1515c444e11e877f0d2d53acbb837b757c",
-    "sha256": "414b0bae85bbbae3a9d7cdfa43501e3e10dac1d52d2e6ee8395a0a75bc8c5299"
+    "uuid": "fd482c5a-bf0f-46b8-b4d0-17e8d0382898",
+    "username": "beautifulbird523",
+    "password": "stefano",
+    "salt": "7d0xRGBq",
+    "md5": "8711e1e553158a9b8fe54dae1fa6a88d",
+    "sha1": "0b5acf391007d55b50b49d368bb9ef9d5f24d44d",
+    "sha256": "54ccc411d32f8f13f5246b6d396a320633e6738c1bb700e6fdb57aaa66034aed"
   },
   "dob": {
-    "date": "1988-02-28T11:49:10.332Z",
-    "age": 37
+    "date": "1997-02-04T09:26:28.794Z",
+    "age": 28
   },
   "registered": {
-    "date": "2003-10-18T09:05:30.245Z",
-    "age": 21
+    "date": "2013-01-04T07:34:52.975Z",
+    "age": 12
   },
-  "phone": "(063) 9358387",
-  "cell": "(06) 45241739",
+  "phone": "B25 E56-5290",
+  "cell": "W90 W39-1696",
   "id": {
-    "name": "BSN",
-    "value": "81977487"
+    "name": "SIN",
+    "value": "177234358"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/47.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    "large": "https://randomuser.me/api/portraits/women/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
   },
-  "nat": "NL"
+  "nat": "CA"
 }

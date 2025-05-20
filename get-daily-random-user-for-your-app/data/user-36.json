@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Viivi",
-    "last": "Kalm"
+    "title": "Mr",
+    "first": "Sam",
+    "last": "Ramirez"
   },
   "location": {
     "street": {
-      "number": 8969,
-      "name": "Satakennankatu"
+      "number": 1560,
+      "name": "Park Lane"
     },
-    "city": "Oulainen",
-    "state": "Southern Savonia",
-    "country": "Finland",
-    "postcode": 77630,
+    "city": "Coventry",
+    "state": "Worcestershire",
+    "country": "United Kingdom",
+    "postcode": "SE9K 2UT",
     "coordinates": {
-      "latitude": "-25.8103",
-      "longitude": "120.7824"
+      "latitude": "-12.6809",
+      "longitude": "-51.0216"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "viivi.kalm@example.com",
+  "email": "sam.ramirez@example.com",
   "login": {
-    "uuid": "f34dec9d-c82d-4262-a49f-b841d1a33e03",
-    "username": "whitepeacock587",
-    "password": "malcolm",
-    "salt": "HkYiAjPq",
-    "md5": "3efa59489b68fadc2a794da575b5fec8",
-    "sha1": "976d41276ce0c73012060455f6ce767cf78a11dc",
-    "sha256": "2f9d389f22c644c8d020c4778791f42d19ae0c79730d8d20f9e48c8df28df394"
+    "uuid": "db3294f2-6947-4e8c-b98d-d25390d57f7c",
+    "username": "lazysnake867",
+    "password": "market",
+    "salt": "zMpE6FXo",
+    "md5": "47bc185c7ee5a1b627eba0a2dbd9bad5",
+    "sha1": "a57cdfd331895bcb8f5640305692c5b4a4159094",
+    "sha256": "54a59804c18e0dacd8e38a82af5ea1bc182b7ef2906cd1f981ee57c33963c996"
   },
   "dob": {
-    "date": "1960-08-14T10:46:38.122Z",
-    "age": 64
+    "date": "1955-03-12T05:31:45.977Z",
+    "age": 70
   },
   "registered": {
-    "date": "2003-08-21T23:30:22.890Z",
-    "age": 21
+    "date": "2008-09-30T15:19:50.024Z",
+    "age": 16
   },
-  "phone": "02-621-801",
-  "cell": "046-548-71-67",
+  "phone": "016973 40422",
+  "cell": "07225 356037",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA304undefined"
+    "name": "NINO",
+    "value": "NR 28 14 19 O"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/82.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
   },
-  "nat": "FI"
+  "nat": "GB"
 }

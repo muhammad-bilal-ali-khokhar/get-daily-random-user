@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Emma",
-    "last": "Li"
+    "title": "Mr",
+    "first": "Bogoljub",
+    "last": "Rukavina"
   },
   "location": {
     "street": {
-      "number": 4433,
-      "name": "Manukau Road"
+      "number": 3888,
+      "name": "Leštarska"
     },
-    "city": "Napier",
-    "state": "Wellington",
-    "country": "New Zealand",
-    "postcode": 32048,
+    "city": "Svrljig",
+    "state": "Braničevo",
+    "country": "Serbia",
+    "postcode": 48959,
     "coordinates": {
-      "latitude": "55.6987",
-      "longitude": "29.3128"
+      "latitude": "62.1735",
+      "longitude": "-173.8721"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "emma.li@example.com",
+  "email": "bogoljub.rukavina@example.com",
   "login": {
-    "uuid": "477c787e-3266-4a68-a5ca-dcbe950e6dc0",
-    "username": "purpleswan825",
-    "password": "shepherd",
-    "salt": "jyzOxFjv",
-    "md5": "cc88e9de6378b38c209d82040a849d0a",
-    "sha1": "9aec408016c520940cff6ba3a1abe374c9342ced",
-    "sha256": "085d054cc1d731c09f4f4290e46d897466624b3918c85b38ea181aac002737f9"
+    "uuid": "1a966d06-ab4f-426e-8f3c-34ffa77811b2",
+    "username": "brownrabbit276",
+    "password": "yummy",
+    "salt": "PTq8hA3H",
+    "md5": "af40e5d27ad76789f00b869d2adafbdb",
+    "sha1": "a2b5c38fc650f0312e555fd699e8c5207beff701",
+    "sha256": "2224c142e5dc224430a3a4f07dfe87dd0413fc6f8ccc021369d772909d138972"
   },
   "dob": {
-    "date": "1985-01-25T17:14:29.926Z",
-    "age": 40
+    "date": "1959-08-07T15:11:33.168Z",
+    "age": 65
   },
   "registered": {
-    "date": "2020-06-25T08:27:59.443Z",
-    "age": 4
+    "date": "2021-09-30T08:20:20.243Z",
+    "age": 3
   },
-  "phone": "(308)-487-0856",
-  "cell": "(582)-433-5217",
+  "phone": "024-4510-713",
+  "cell": "068-2071-225",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SID",
+    "value": "676077215"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/60.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+    "large": "https://randomuser.me/api/portraits/men/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
   },
-  "nat": "NZ"
+  "nat": "RS"
 }

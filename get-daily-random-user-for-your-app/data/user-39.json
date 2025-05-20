@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Carel",
-    "last": "Brockhoff"
+    "first": "Adam",
+    "last": "Wood"
   },
   "location": {
     "street": {
-      "number": 6127,
-      "name": "Gat van West Noord Westen"
+      "number": 6816,
+      "name": "Lambton Quay"
     },
-    "city": "Weerselo",
-    "state": "Limburg",
-    "country": "Netherlands",
-    "postcode": "4196 WU",
+    "city": "Christchurch",
+    "state": "Taranaki",
+    "country": "New Zealand",
+    "postcode": 83025,
     "coordinates": {
-      "latitude": "30.0798",
-      "longitude": "-34.9281"
+      "latitude": "49.6944",
+      "longitude": "-32.0326"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "carel.brockhoff@example.com",
+  "email": "adam.wood@example.com",
   "login": {
-    "uuid": "21099e77-30fd-471b-875a-97f383a613b0",
-    "username": "goldenmouse627",
-    "password": "jasmin",
-    "salt": "oc0ZDeTG",
-    "md5": "e122deb8c6b8ad7012ea5f83daeaad60",
-    "sha1": "16bf4d964b2c338f08e156f1fc39481f87aa7415",
-    "sha256": "33dd4ab6e24c2fc8f1d3f322c11c8f45c90212e99e13935b50e5b39b2f8596d5"
+    "uuid": "0ffa71bc-b469-4bef-a84e-5a0757b2b0e3",
+    "username": "crazytiger404",
+    "password": "loretta",
+    "salt": "SqzKT673",
+    "md5": "66c90215295d1728a631f07b0ac39111",
+    "sha1": "54d01b1eb40d816bbeb14a22c252703a7956cd46",
+    "sha256": "685f40d4ace4b067b9b4afba7fee527e0153d33ef420abdcc015fb2c1b49660e"
   },
   "dob": {
-    "date": "1972-07-31T14:20:56.203Z",
-    "age": 52
+    "date": "1980-02-18T04:09:25.162Z",
+    "age": 45
   },
   "registered": {
-    "date": "2021-09-20T11:28:09.816Z",
-    "age": 3
+    "date": "2003-01-31T11:32:03.332Z",
+    "age": 22
   },
-  "phone": "(052) 6302704",
-  "cell": "(06) 28253968",
+  "phone": "(347)-170-9196",
+  "cell": "(754)-379-1107",
   "id": {
-    "name": "BSN",
-    "value": "76602407"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
   },
-  "nat": "NL"
+  "nat": "NZ"
 }

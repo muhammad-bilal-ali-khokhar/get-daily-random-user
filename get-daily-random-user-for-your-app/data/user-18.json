@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Kelya",
+    "title": "Monsieur",
+    "first": "Bernd",
     "last": "Bertrand"
   },
   "location": {
     "street": {
-      "number": 8892,
-      "name": "Rue de L'Abbé-Rousselot"
+      "number": 2657,
+      "name": "Rue de L'Abbé-Groult"
     },
-    "city": "Vitry-sur-Seine",
-    "state": "Haute-Corse",
-    "country": "France",
-    "postcode": 72222,
+    "city": "Zwischbergen",
+    "state": "Obwalden",
+    "country": "Switzerland",
+    "postcode": 8690,
     "coordinates": {
-      "latitude": "-18.9090",
-      "longitude": "145.0188"
+      "latitude": "-57.2625",
+      "longitude": "-38.8106"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "kelya.bertrand@example.com",
+  "email": "bernd.bertrand@example.com",
   "login": {
-    "uuid": "713fe9f5-bb08-4a51-9188-02d42a5bb86d",
-    "username": "lazybird217",
-    "password": "losers",
-    "salt": "TcGPtdwe",
-    "md5": "d36c7edc38e3a99eedefb80c9902c217",
-    "sha1": "010184a24dd4276b906882a1e9129285eea3a4d3",
-    "sha256": "a9af282b70694ab3206acb0247c6cec615f43840d98ed84a6439bb1b6ae5ac70"
+    "uuid": "10d48f9a-4d5f-4158-adf3-31afd28f6e45",
+    "username": "yellowduck300",
+    "password": "spike",
+    "salt": "s1t8evIx",
+    "md5": "f37a94a929120410d0f3920b2c1f5ad5",
+    "sha1": "bad74230ed6a6f86165ef7bf782fd6938c2ab70d",
+    "sha256": "3dd38e74616fe43a65b5ed4490e4f9248ecfa0f5103cd43e15c6b61803ed5e34"
   },
   "dob": {
-    "date": "1994-04-14T14:27:13.619Z",
-    "age": 31
+    "date": "1950-09-01T01:43:07.407Z",
+    "age": 74
   },
   "registered": {
-    "date": "2007-12-31T03:00:50.240Z",
-    "age": 17
+    "date": "2015-08-26T16:42:10.280Z",
+    "age": 9
   },
-  "phone": "04-37-75-38-36",
-  "cell": "06-04-81-11-79",
+  "phone": "075 593 92 30",
+  "cell": "076 285 73 35",
   "id": {
-    "name": "INSEE",
-    "value": "2940387496705 09"
+    "name": "AVS",
+    "value": "756.0822.7627.17"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/98.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
   },
-  "nat": "FR"
+  "nat": "CH"
 }

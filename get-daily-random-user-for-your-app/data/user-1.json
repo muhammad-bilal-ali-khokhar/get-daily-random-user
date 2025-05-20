@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Benito",
-    "last": "Rosas"
+    "first": "Gagan",
+    "last": "Shroff"
   },
   "location": {
     "street": {
-      "number": 7123,
-      "name": "Corredor Barrios"
+      "number": 6545,
+      "name": "Raviwar Peth"
     },
-    "city": "Villa Manuel",
-    "state": "Puebla",
-    "country": "Mexico",
-    "postcode": 80907,
+    "city": "Nashik",
+    "state": "Bihar",
+    "country": "India",
+    "postcode": 43501,
     "coordinates": {
-      "latitude": "22.5797",
-      "longitude": "-161.5101"
+      "latitude": "11.2230",
+      "longitude": "-55.4428"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "benito.rosas@example.com",
+  "email": "gagan.shroff@example.com",
   "login": {
-    "uuid": "2c5b8fac-5ec2-4793-8bac-9ea66537f218",
-    "username": "redpeacock636",
-    "password": "redsox",
-    "salt": "v4ViEMmH",
-    "md5": "3cbe56be26b693938d56f99de5835f8d",
-    "sha1": "292695c774758cd03e6f2448ceaed817cbf4bba1",
-    "sha256": "6ccb9d496f59a9e096d4104bedb7f416997285b9e5c0ba4772038ba54cb31fa3"
+    "uuid": "6e7aca15-3895-45dd-8436-6b330fea35b1",
+    "username": "browngorilla487",
+    "password": "deadspin",
+    "salt": "oFLvu21c",
+    "md5": "b4fb4e6ab433ab6f4c54059a4637c1c4",
+    "sha1": "9f20db921eec85a2b5f33d35d39ae66a5964d196",
+    "sha256": "2108df8fe3b3612026b598791e621afa16a24452e87ee2483d999f155bc6a184"
   },
   "dob": {
-    "date": "1996-11-10T07:34:52.800Z",
-    "age": 28
+    "date": "1983-09-13T14:07:41.350Z",
+    "age": 41
   },
   "registered": {
-    "date": "2015-09-07T09:39:27.367Z",
-    "age": 9
+    "date": "2006-09-06T03:16:09.536Z",
+    "age": 18
   },
-  "phone": "(633) 249 1151",
-  "cell": "(678) 404 6196",
+  "phone": "7996237063",
+  "cell": "9391604733",
   "id": {
-    "name": "NSS",
-    "value": "16 53 00 5637 6"
+    "name": "UIDAI",
+    "value": "696435235229"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/23.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/23.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/23.jpg"
   },
-  "nat": "MX"
+  "nat": "IN"
 }

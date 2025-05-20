@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mahamed",
-    "last": "Liland"
+    "first": "Matthew",
+    "last": "Gauthier"
   },
   "location": {
     "street": {
-      "number": 9386,
-      "name": "Emil Korsmos vei"
+      "number": 6416,
+      "name": "King St"
     },
-    "city": "Geilo",
-    "state": "Nord-Trøndelag",
-    "country": "Norway",
-    "postcode": "4316",
+    "city": "St. Antoine",
+    "state": "Yukon",
+    "country": "Canada",
+    "postcode": "I7J 0Z3",
     "coordinates": {
-      "latitude": "46.2539",
-      "longitude": "-118.0694"
+      "latitude": "-69.3238",
+      "longitude": "-131.2545"
     },
     "timezone": {
-      "offset": "0:00",
-      "description": "Western Europe Time, London, Lisbon, Casablanca"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "mahamed.liland@example.com",
+  "email": "matthew.gauthier@example.com",
   "login": {
-    "uuid": "977f2374-fb39-49cf-9e57-fa37f4ff3354",
-    "username": "goldenladybug994",
-    "password": "utopia",
-    "salt": "0TnMKW8v",
-    "md5": "b55c279e286f96eacfeefc8a3c3b4378",
-    "sha1": "1e004a789745ac778775897ccc1dae8628783677",
-    "sha256": "939c2b92f1c2145ff0be14155fde0ead3b81c493b13b936395784d5153944bc0"
+    "uuid": "a55a8df1-ae9f-4581-8039-b2f9aecb139f",
+    "username": "bluemeercat757",
+    "password": "131313",
+    "salt": "Q3L9uFfp",
+    "md5": "300f243b20599a6a0a84d4fc9e1011ab",
+    "sha1": "20ba254aa346710e973cc52b390fdc39d23f2bec",
+    "sha256": "3e6b59e15b6c38c30ac1b8aa4b5aa8cdbdd41855807e07b5954fd891e7ca7f19"
   },
   "dob": {
-    "date": "1982-06-06T17:25:44.762Z",
-    "age": 42
+    "date": "1955-01-12T10:43:31.347Z",
+    "age": 70
   },
   "registered": {
-    "date": "2006-01-07T06:55:27.259Z",
-    "age": 19
+    "date": "2021-02-25T12:42:15.470Z",
+    "age": 4
   },
-  "phone": "82992132",
-  "cell": "41893360",
+  "phone": "R97 S12-5936",
+  "cell": "Y56 Z50-8894",
   "id": {
-    "name": "FN",
-    "value": "06068245727"
+    "name": "SIN",
+    "value": "937483667"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/47.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    "large": "https://randomuser.me/api/portraits/men/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
   },
-  "nat": "NO"
+  "nat": "CA"
 }

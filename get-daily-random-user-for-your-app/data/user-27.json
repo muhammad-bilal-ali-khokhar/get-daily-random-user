@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Mona",
-    "last": "Bertrand"
+    "title": "Mr",
+    "first": "Eemil",
+    "last": "Peura"
   },
   "location": {
     "street": {
-      "number": 4511,
-      "name": "Place de L'Abbé-Franz-Stock"
+      "number": 3295,
+      "name": "Hermiankatu"
     },
-    "city": "Fürstenau",
-    "state": "Schaffhausen",
-    "country": "Switzerland",
-    "postcode": 6630,
+    "city": "Iisalmi",
+    "state": "Northern Ostrobothnia",
+    "country": "Finland",
+    "postcode": 10568,
     "coordinates": {
-      "latitude": "-57.7680",
-      "longitude": "126.1283"
+      "latitude": "-26.2599",
+      "longitude": "-57.2080"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "-1:00",
+      "description": "Azores, Cape Verde Islands"
     }
   },
-  "email": "mona.bertrand@example.com",
+  "email": "eemil.peura@example.com",
   "login": {
-    "uuid": "b0657359-49d2-43f5-8dd8-24be21acc666",
-    "username": "orangecat351",
-    "password": "",
-    "salt": "M2il7tF1",
-    "md5": "c8045631da73f541f8e31af58c188020",
-    "sha1": "009f89d809fc4abbcbcea4a5ef7cd57f2ba397d2",
-    "sha256": "a31eab4ccfd6ec259bcb1ab5597ea0be34f20571f6295c8ceed19ffd84c24d0d"
+    "uuid": "3b653260-1c79-488f-91dd-4eb006c41298",
+    "username": "ticklishswan352",
+    "password": "aaaaa",
+    "salt": "fVCMIG01",
+    "md5": "abc59e9746171704b372b5588e4abc15",
+    "sha1": "b5f6ae71f275a88c599c977c074a9e25dda3377a",
+    "sha256": "8c655b80e599f2d70126166a488390c7210ec4f7393a617251cea171fc9126e2"
   },
   "dob": {
-    "date": "1986-05-30T03:53:57.862Z",
-    "age": 38
+    "date": "1995-09-28T02:13:13.515Z",
+    "age": 29
   },
   "registered": {
-    "date": "2019-12-07T01:48:41.459Z",
-    "age": 5
+    "date": "2016-12-27T19:34:51.739Z",
+    "age": 8
   },
-  "phone": "078 744 42 67",
-  "cell": "079 383 96 15",
+  "phone": "02-373-115",
+  "cell": "045-991-60-43",
   "id": {
-    "name": "AVS",
-    "value": "756.0980.3542.00"
+    "name": "HETU",
+    "value": "NaNNA115undefined"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/14.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/14.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/14.jpg"
+    "large": "https://randomuser.me/api/portraits/men/5.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/5.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/5.jpg"
   },
-  "nat": "CH"
+  "nat": "FI"
 }

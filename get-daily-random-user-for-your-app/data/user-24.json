@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Miss",
-    "first": "Nurdan",
-    "last": "Orbay"
+    "first": "Samantha",
+    "last": "Walker"
   },
   "location": {
     "street": {
-      "number": 6216,
-      "name": "Abanoz Sk"
+      "number": 6456,
+      "name": "Pakowhai Road"
     },
-    "city": "Bitlis",
-    "state": "Nevşehir",
-    "country": "Turkey",
-    "postcode": 86608,
+    "city": "Auckland",
+    "state": "Tasman",
+    "country": "New Zealand",
+    "postcode": 53066,
     "coordinates": {
-      "latitude": "69.0739",
-      "longitude": "56.3974"
+      "latitude": "47.4651",
+      "longitude": "155.4313"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "nurdan.orbay@example.com",
+  "email": "samantha.walker@example.com",
   "login": {
-    "uuid": "ba409629-d4d4-4548-80b0-271787c80840",
-    "username": "angrycat547",
-    "password": "place",
-    "salt": "q2rxqIFb",
-    "md5": "dee17073ef030d5bd458912df77d92c5",
-    "sha1": "44d0ee03bf612c2a0af78a7a7017b8c92eafc2fc",
-    "sha256": "386285d01e26440017946f9629293ba71edbb28da1c964c0607f11c442435581"
+    "uuid": "dc02aa0c-7201-423d-be35-53bca44a8f0b",
+    "username": "greenfrog283",
+    "password": "catcher",
+    "salt": "kchjnYQ7",
+    "md5": "fa21b62b6a319bbe36ab210a8047c089",
+    "sha1": "4008262b6354dafbdf75a69dab385dc6ffbd767f",
+    "sha256": "82181763d7aef77879d23027d847de041f260f4cb668aec81f98d8b3872ba6e9"
   },
   "dob": {
-    "date": "1950-05-20T07:10:56.518Z",
-    "age": 75
+    "date": "1986-12-13T22:59:29.262Z",
+    "age": 38
   },
   "registered": {
-    "date": "2011-02-26T17:12:51.573Z",
-    "age": 14
+    "date": "2017-12-02T23:56:27.963Z",
+    "age": 7
   },
-  "phone": "(475)-052-0544",
-  "cell": "(797)-248-2995",
+  "phone": "(326)-590-7849",
+  "cell": "(969)-729-5019",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/54.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    "large": "https://randomuser.me/api/portraits/women/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
   },
-  "nat": "TR"
+  "nat": "NZ"
 }

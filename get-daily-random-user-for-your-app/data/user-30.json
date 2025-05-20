@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Madame",
-    "first": "Ariana",
-    "last": "Fabre"
+    "title": "Ms",
+    "first": "Patsy",
+    "last": "Elliott"
   },
   "location": {
     "street": {
-      "number": 7215,
-      "name": "Rue du Bât-D'Argent"
+      "number": 8357,
+      "name": "Lovers Ln"
     },
-    "city": "Saxon",
-    "state": "Neuchâtel",
-    "country": "Switzerland",
-    "postcode": 1864,
+    "city": "Santa Ana",
+    "state": "Rhode Island",
+    "country": "United States",
+    "postcode": 64784,
     "coordinates": {
-      "latitude": "-62.9671",
-      "longitude": "61.8517"
+      "latitude": "89.6574",
+      "longitude": "121.1695"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "ariana.fabre@example.com",
+  "email": "patsy.elliott@example.com",
   "login": {
-    "uuid": "1424bcc7-3e2a-4a8f-a074-909a0a154471",
-    "username": "crazylion104",
-    "password": "jayson",
-    "salt": "3jPNG7Ob",
-    "md5": "7d1303ee12a3b37de4db0388df8a4297",
-    "sha1": "6f987a1e8e5056f1db7bb2c12ec342ee87c746b9",
-    "sha256": "10c8b1012d908330b524f539d68840406aeb76b211a45583025aaa862e1cee80"
+    "uuid": "c3cbd7cc-9b37-473d-ba9e-e89f37a1b6bc",
+    "username": "tinytiger567",
+    "password": "melvin",
+    "salt": "UpEDm2mN",
+    "md5": "dbc642fca05834feb4c51fc28c525504",
+    "sha1": "9a990537c3923a5961dc47219ea6480e03b47c43",
+    "sha256": "d01eb7455ec2f702096d3f76db921d471c67cf0fead402ffedbef87dcf74012e"
   },
   "dob": {
-    "date": "1977-03-19T01:40:34.958Z",
-    "age": 48
+    "date": "1979-08-26T13:53:47.087Z",
+    "age": 45
   },
   "registered": {
-    "date": "2014-12-04T05:18:17.902Z",
-    "age": 10
+    "date": "2021-11-28T01:33:21.051Z",
+    "age": 3
   },
-  "phone": "076 224 14 39",
-  "cell": "079 130 86 96",
+  "phone": "(560) 737-7006",
+  "cell": "(941) 672-6992",
   "id": {
-    "name": "AVS",
-    "value": "756.4060.2366.43"
+    "name": "SSN",
+    "value": "693-67-2399"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/4.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
+    "large": "https://randomuser.me/api/portraits/women/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
   },
-  "nat": "CH"
+  "nat": "US"
 }

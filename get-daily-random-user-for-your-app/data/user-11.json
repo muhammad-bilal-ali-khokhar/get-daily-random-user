@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Riekelt",
-    "last": "Zwerus"
+    "first": "Klaus-Ulrich",
+    "last": "Kley"
   },
   "location": {
     "street": {
-      "number": 7570,
-      "name": "C.A. Thiemestraat"
+      "number": 6478,
+      "name": "Am Sportplatz"
     },
-    "city": "Groet",
-    "state": "Limburg",
-    "country": "Netherlands",
-    "postcode": "9790 HF",
+    "city": "Dillingen an der Donau",
+    "state": "Niedersachsen",
+    "country": "Germany",
+    "postcode": 91448,
     "coordinates": {
-      "latitude": "32.6368",
-      "longitude": "-16.1724"
+      "latitude": "-55.0607",
+      "longitude": "-173.9558"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "riekelt.zwerus@example.com",
+  "email": "klaus-ulrich.kley@example.com",
   "login": {
-    "uuid": "cfec4474-f5f2-4a57-8275-01c1a41e3e8a",
-    "username": "heavyfrog137",
-    "password": "bigblock",
-    "salt": "9t0kOuEW",
-    "md5": "98b9554b9a16d0222e7af55d5074a78f",
-    "sha1": "6513017b144cec626f9e268c62083905bf63732f",
-    "sha256": "dd8b2d95fdcef9e7115dd545d6e874b56bea7d88983adca6664c0b2d01227f3c"
+    "uuid": "97aa038e-705c-4a39-9246-52fe08b1b7f4",
+    "username": "browngorilla412",
+    "password": "browning",
+    "salt": "EcwVQnMJ",
+    "md5": "b28b8e06c6eb9362d91ff8b102734566",
+    "sha1": "fa1fc9e07babec4fa226d0f8e588ff637e8e515b",
+    "sha256": "253e87cf66ed3d7091bf14c454b6996c7d660f0b809a0bab36e9065d675ea941"
   },
   "dob": {
-    "date": "1951-01-31T17:19:22.754Z",
-    "age": 74
+    "date": "1952-11-09T20:38:04.156Z",
+    "age": 72
   },
   "registered": {
-    "date": "2017-10-04T09:44:52.986Z",
-    "age": 7
+    "date": "2022-03-18T17:40:27.436Z",
+    "age": 3
   },
-  "phone": "(062) 0928562",
-  "cell": "(06) 08905772",
+  "phone": "0057-0749304",
+  "cell": "0170-3600015",
   "id": {
-    "name": "BSN",
-    "value": "94022420"
+    "name": "SVNR",
+    "value": "13 091152 K 485"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    "large": "https://randomuser.me/api/portraits/men/93.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
   },
-  "nat": "NL"
+  "nat": "DE"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "R",
-    "last": "Verveer"
+    "first": "Mehmet",
+    "last": "Keseroğlu"
   },
   "location": {
     "street": {
-      "number": 9905,
-      "name": "Bommersheufsestraat"
+      "number": 2675,
+      "name": "Mevlana Cd"
     },
-    "city": "Veeningen",
-    "state": "Overijssel",
-    "country": "Netherlands",
-    "postcode": "4456 QK",
+    "city": "Karabük",
+    "state": "Muğla",
+    "country": "Turkey",
+    "postcode": 73974,
     "coordinates": {
-      "latitude": "34.2578",
-      "longitude": "-167.8179"
+      "latitude": "71.6357",
+      "longitude": "-126.6172"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "r.verveer@example.com",
+  "email": "mehmet.keseroglu@example.com",
   "login": {
-    "uuid": "beef2dba-1327-42c3-845d-5ee21a087e31",
-    "username": "greensnake435",
-    "password": "connor",
-    "salt": "dplCiXot",
-    "md5": "1177b0f6a16e2c6daedd09012acabc1f",
-    "sha1": "b59956030eee621e61b9ad651b35c7c24f01c7ee",
-    "sha256": "703810f87599b68a5d6a9206b2d77e762b4e6e553622bf151c16a8e914a5c7ea"
+    "uuid": "a7a4ef9b-e78f-4f87-8fc2-7f97aacbb8e0",
+    "username": "silvercat520",
+    "password": "wrestlin",
+    "salt": "5DF07HCa",
+    "md5": "db6d847ff34f39ef5a4e0f12d9c4acec",
+    "sha1": "7d8a01327eaff14e883f4c94f90d51472b52ca5d",
+    "sha256": "d687df65f628a785b7e75a2ee621ae7d30cfddcbc82badf6613705f707485319"
   },
   "dob": {
-    "date": "1997-01-03T04:42:59.546Z",
-    "age": 28
+    "date": "2001-02-17T15:28:06.162Z",
+    "age": 24
   },
   "registered": {
-    "date": "2020-03-17T02:24:16.129Z",
-    "age": 5
+    "date": "2013-11-11T21:31:19.447Z",
+    "age": 11
   },
-  "phone": "(0751) 269765",
-  "cell": "(06) 76411889",
+  "phone": "(667)-765-8010",
+  "cell": "(707)-288-7382",
   "id": {
-    "name": "BSN",
-    "value": "72818170"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/13.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
+    "large": "https://randomuser.me/api/portraits/men/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
   },
-  "nat": "NL"
+  "nat": "TR"
 }

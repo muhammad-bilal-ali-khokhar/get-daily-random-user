@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Mila",
-    "last": "Dupuis"
+    "title": "Mr",
+    "first": "Rodney",
+    "last": "Craig"
   },
   "location": {
     "street": {
-      "number": 6621,
-      "name": "Rue du Bon-Pasteur"
+      "number": 3312,
+      "name": "Avondale Ave"
     },
-    "city": "Fisibach",
-    "state": "Graubünden",
-    "country": "Switzerland",
-    "postcode": 5172,
+    "city": "El Monte",
+    "state": "Arizona",
+    "country": "United States",
+    "postcode": 74478,
     "coordinates": {
-      "latitude": "-57.1032",
-      "longitude": "179.6740"
+      "latitude": "88.5610",
+      "longitude": "-171.1466"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "mila.dupuis@example.com",
+  "email": "rodney.craig@example.com",
   "login": {
-    "uuid": "b415ac45-4551-4013-a74d-41e56879d2a9",
-    "username": "smallfish196",
-    "password": "dima",
-    "salt": "vwebfmzC",
-    "md5": "4e882bd3abafcd677616123008b88aa8",
-    "sha1": "e30fdfb0f3a7ab8ccd1a139bf1b67c0e9b217d6f",
-    "sha256": "6887e3f9ec2d70fa57f818a6e832fd87ee7a868b0cd466689ebe53d41f72f99b"
+    "uuid": "d245040b-dee1-4f24-8790-837e53e9a37a",
+    "username": "organicbear587",
+    "password": "journey",
+    "salt": "255g9jsH",
+    "md5": "b1ba8e921eecb5200ba963b428060174",
+    "sha1": "d88304c1aec467ec488373be831b39522083390d",
+    "sha256": "1e0f8eff9c3f28952975fb06445fa5a668c0b66f9187b7a45bdb8a202c6a94cd"
   },
   "dob": {
-    "date": "1994-09-14T06:03:11.451Z",
-    "age": 30
+    "date": "1956-11-11T05:41:39.699Z",
+    "age": 68
   },
   "registered": {
-    "date": "2008-09-30T02:28:24.133Z",
-    "age": 16
+    "date": "2012-04-04T02:38:16.424Z",
+    "age": 13
   },
-  "phone": "078 816 63 08",
-  "cell": "079 777 17 38",
+  "phone": "(429) 661-4681",
+  "cell": "(517) 226-3763",
   "id": {
-    "name": "AVS",
-    "value": "756.5297.5352.03"
+    "name": "SSN",
+    "value": "730-63-8043"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
   },
-  "nat": "CH"
+  "nat": "US"
 }

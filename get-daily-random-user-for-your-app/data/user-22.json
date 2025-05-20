@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Karolina",
-    "last": "Fredheim"
+    "title": "Miss",
+    "first": "Samantha",
+    "last": "Harvey"
   },
   "location": {
     "street": {
-      "number": 2134,
-      "name": "Østhornveien"
+      "number": 5499,
+      "name": "Grange Road"
     },
-    "city": "Byrknes",
-    "state": "Hordaland",
-    "country": "Norway",
-    "postcode": "3601",
+    "city": "Wolverhampton",
+    "state": "West Yorkshire",
+    "country": "United Kingdom",
+    "postcode": "LV5I 1ZD",
     "coordinates": {
-      "latitude": "39.5558",
-      "longitude": "43.8464"
+      "latitude": "-9.7236",
+      "longitude": "163.3794"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "karolina.fredheim@example.com",
+  "email": "samantha.harvey@example.com",
   "login": {
-    "uuid": "73773f15-1ad5-4dec-b374-e94ead803f5f",
-    "username": "goldenswan634",
-    "password": "janice",
-    "salt": "P3wY5UCm",
-    "md5": "af6d44e9e8f04888a2e9de8e91de61ae",
-    "sha1": "afc636f51a472729924668d64ed5c1657a24cefc",
-    "sha256": "a0a4d1cad270ffe99102aebd451db71a91cdd257e52176cae9688d1063a4a79e"
+    "uuid": "d64683ff-5b1e-424a-92b6-05900c77a877",
+    "username": "greenbird387",
+    "password": "premier",
+    "salt": "Uh5kpQwj",
+    "md5": "6539ea90a56ca4f5c5831fd71fcec5fa",
+    "sha1": "3e5802a25ab34652fe4cd012f5c9c7f068a8d11d",
+    "sha256": "a177de3bb5c6d04e5c0c48a4a39130a59fea63185d7f32dc3c7eede4b2db5ebb"
   },
   "dob": {
-    "date": "1960-12-04T10:29:47.494Z",
-    "age": 64
+    "date": "1980-01-08T00:31:01.644Z",
+    "age": 45
   },
   "registered": {
-    "date": "2020-08-29T20:08:35.481Z",
-    "age": 4
+    "date": "2002-05-18T16:26:06.873Z",
+    "age": 23
   },
-  "phone": "85029390",
-  "cell": "45955837",
+  "phone": "015242 07549",
+  "cell": "07327 007077",
   "id": {
-    "name": "FN",
-    "value": "04126015831"
+    "name": "NINO",
+    "value": "RJ 65 76 65 I"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+    "large": "https://randomuser.me/api/portraits/women/0.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
   },
-  "nat": "NO"
+  "nat": "GB"
 }

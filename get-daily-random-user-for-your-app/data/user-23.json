@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Kay-Uwe",
-    "last": "Wiedmann"
+    "title": "Ms",
+    "first": "Jasmine",
+    "last": "Brar"
   },
   "location": {
     "street": {
-      "number": 4723,
-      "name": "Danziger Straße"
+      "number": 6350,
+      "name": "Tecumseh Rd"
     },
-    "city": "Kölleda",
-    "state": "Thüringen",
-    "country": "Germany",
-    "postcode": 68430,
+    "city": "Beaumont",
+    "state": "New Brunswick",
+    "country": "Canada",
+    "postcode": "E1X 2T8",
     "coordinates": {
-      "latitude": "-50.2904",
-      "longitude": "-105.2069"
+      "latitude": "-70.5093",
+      "longitude": "19.9546"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "kay-uwe.wiedmann@example.com",
+  "email": "jasmine.brar@example.com",
   "login": {
-    "uuid": "9f7737fa-9a5a-4cac-9f33-3c7f2828ebcb",
-    "username": "brownelephant295",
-    "password": "volley",
-    "salt": "JNxPUOUw",
-    "md5": "8e1e669930a47063622915760aba4488",
-    "sha1": "6894338939ade538015f73858e3f2e0411b7847e",
-    "sha256": "a024c4070aade19c03c54c4681b8574b3ae4318dd7eb48ccbd398647306cba8e"
+    "uuid": "91d1ae03-3e2d-4354-82d0-ab567b5e01cc",
+    "username": "angryostrich758",
+    "password": "stories",
+    "salt": "3lZmutUh",
+    "md5": "5670ddc76c88958ee30cfbbffb239f7e",
+    "sha1": "df42aa1349d9c6ac88697021b10033ba00993c47",
+    "sha256": "88f622798b960c612e967f73973a8be3848ffdbef591a49da6b07a768d8622d3"
   },
   "dob": {
-    "date": "1988-05-26T17:09:08.842Z",
-    "age": 36
+    "date": "1964-02-06T22:54:04.804Z",
+    "age": 61
   },
   "registered": {
-    "date": "2011-02-18T06:24:18.118Z",
-    "age": 14
+    "date": "2010-03-12T16:49:56.787Z",
+    "age": 15
   },
-  "phone": "0151-5877738",
-  "cell": "0176-7904703",
+  "phone": "T38 B17-7383",
+  "cell": "K30 K90-8264",
   "id": {
-    "name": "SVNR",
-    "value": "02 260588 W 004"
+    "name": "SIN",
+    "value": "895333714"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/99.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
+    "large": "https://randomuser.me/api/portraits/women/45.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/45.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
   },
-  "nat": "DE"
+  "nat": "CA"
 }

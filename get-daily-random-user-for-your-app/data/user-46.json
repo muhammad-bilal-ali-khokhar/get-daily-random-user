@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Magnus",
-    "last": "Christiansen"
+    "title": "Miss",
+    "first": "Filicitata",
+    "last": "Shepitko"
   },
   "location": {
     "street": {
-      "number": 4971,
-      "name": "Søparken"
+      "number": 1652,
+      "name": "Maydan Sheptickogo"
     },
-    "city": "Aaborg Øst",
-    "state": "Midtjylland",
-    "country": "Denmark",
-    "postcode": 75413,
+    "city": "Nova Kahovka",
+    "state": "Hersonska",
+    "country": "Ukraine",
+    "postcode": 75396,
     "coordinates": {
-      "latitude": "-45.7521",
-      "longitude": "-35.8899"
+      "latitude": "79.3663",
+      "longitude": "66.8145"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "magnus.christiansen@example.com",
+  "email": "filicitata.shepitko@example.com",
   "login": {
-    "uuid": "8277d05b-0fdd-4600-b5fb-a4fd97056cfa",
-    "username": "yellowpanda676",
-    "password": "enterme",
-    "salt": "b9Z2zddm",
-    "md5": "a45f01fd544b9f120271812d4a797dcf",
-    "sha1": "d3c70e737519d1e9bf6937732606a32c9bcacb21",
-    "sha256": "4edebd6b1edb40fc370b84dbcb6739ee42d3f17c6ab0c4343a1714653e366367"
+    "uuid": "ef02289d-b1fb-48b5-a395-bd6515d166b9",
+    "username": "goldenpeacock864",
+    "password": "mahler",
+    "salt": "g0UFStAo",
+    "md5": "957e2ec2c62a1437379dad5079649852",
+    "sha1": "b60b60302ae0cc6d47a219a0a19c0c01ec1d7c1d",
+    "sha256": "e7e308e8f7963282e78ab8e82d8658794cfa68bb44bc0f4baa42d0db526fc7b5"
   },
   "dob": {
-    "date": "1959-11-16T08:49:20.290Z",
-    "age": 65
+    "date": "1966-02-07T20:10:41.188Z",
+    "age": 59
   },
   "registered": {
-    "date": "2021-02-25T18:53:05.830Z",
-    "age": 4
+    "date": "2009-03-11T20:50:57.972Z",
+    "age": 16
   },
-  "phone": "64034796",
-  "cell": "84518147",
+  "phone": "(068) W04-3760",
+  "cell": "(098) X28-0579",
   "id": {
-    "name": "CPR",
-    "value": "161159-7013"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/85.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
+    "large": "https://randomuser.me/api/portraits/women/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/8.jpg"
   },
-  "nat": "DK"
+  "nat": "UA"
 }
