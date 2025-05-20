@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Roland",
-    "last": "Mendoza"
+    "first": "Bratko",
+    "last": "Sacyuk"
   },
   "location": {
     "street": {
-      "number": 9458,
-      "name": "Oak Lawn Ave"
+      "number": 8209,
+      "name": "Taganchanska"
     },
-    "city": "Australian Capital Territory",
-    "state": "South Australia",
-    "country": "Australia",
-    "postcode": 290,
+    "city": "Zastavna",
+    "state": "Sumska",
+    "country": "Ukraine",
+    "postcode": 72318,
     "coordinates": {
-      "latitude": "-88.1973",
-      "longitude": "-54.7222"
+      "latitude": "76.6081",
+      "longitude": "-169.2207"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "roland.mendoza@example.com",
+  "email": "bratko.sacyuk@example.com",
   "login": {
-    "uuid": "d9df919d-2f21-45e7-8c03-09a34ef7f60d",
-    "username": "angryduck107",
-    "password": "sam123",
-    "salt": "j8lgt5CW",
-    "md5": "74325cfbd8f261f42ae64c56c31a8215",
-    "sha1": "61170572d8f2cddf671a547e83c045e4a36eb8c3",
-    "sha256": "020e97cc43299d7a6169a47abf3bc2c085aee94ec7f593d200ff41d1e1024fa9"
+    "uuid": "1cfdd5bb-3aa7-4a18-bd0e-e0627192d1ee",
+    "username": "angrytiger900",
+    "password": "spanker",
+    "salt": "mNPEPfHn",
+    "md5": "e4ca8d06bee2257ba9ade0ef1097200c",
+    "sha1": "b73415b7ad8f53c5091c5477c02924f666d5a636",
+    "sha256": "451da263f8f2dde111b3d5ca9d581c3526b404d31a4dbbdbd39c0ea7c5a09e95"
   },
   "dob": {
-    "date": "1977-08-23T22:21:40.393Z",
-    "age": 47
+    "date": "1946-05-07T17:37:36.506Z",
+    "age": 79
   },
   "registered": {
-    "date": "2016-01-26T19:41:15.199Z",
-    "age": 9
+    "date": "2009-10-17T11:20:56.031Z",
+    "age": 15
   },
-  "phone": "02-8949-3086",
-  "cell": "0456-243-339",
+  "phone": "(096) D51-8098",
+  "cell": "(098) N64-1728",
   "id": {
-    "name": "TFN",
-    "value": "927407875"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
+    "large": "https://randomuser.me/api/portraits/men/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
   },
-  "nat": "AU"
+  "nat": "UA"
 }

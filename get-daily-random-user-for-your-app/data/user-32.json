@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Jannis",
-    "last": "Droste"
+    "title": "Mrs",
+    "first": "Florence",
+    "last": "Kumar"
   },
   "location": {
     "street": {
-      "number": 6602,
-      "name": "Waldstraße"
+      "number": 6114,
+      "name": "Ferry Road"
     },
-    "city": "Weener",
-    "state": "Hamburg",
-    "country": "Germany",
-    "postcode": 51549,
+    "city": "Lower Hutt",
+    "state": "Waikato",
+    "country": "New Zealand",
+    "postcode": 44082,
     "coordinates": {
-      "latitude": "-50.4909",
-      "longitude": "-158.6088"
+      "latitude": "49.7380",
+      "longitude": "112.6515"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "jannis.droste@example.com",
+  "email": "florence.kumar@example.com",
   "login": {
-    "uuid": "82bafe57-1362-4fd1-94ed-dc8871486eb2",
-    "username": "whiteswan844",
-    "password": "digital1",
-    "salt": "hnzl0Zg2",
-    "md5": "de91022828aaaaee7ca40bb6cd70c0c0",
-    "sha1": "604259d17ec0eb893d62d982d8ceb7e4048fd761",
-    "sha256": "04a5ab7ba2a62a59ee67c5caec37679c6e1007d8b82471cfcb27fb10062a0f8a"
+    "uuid": "4679946d-68aa-4728-ba27-f496854ea74f",
+    "username": "heavyzebra328",
+    "password": "biguns",
+    "salt": "FMQBiF8N",
+    "md5": "17ce4812cc9dba4312e28dbec723474e",
+    "sha1": "5b642d5b120b799ba5d162746f5a8b5a3f97a02a",
+    "sha256": "dd38c4fa96a9b943e441fdd37881aabb5386c9f1bb79a81d01dbc24a908116da"
   },
   "dob": {
-    "date": "1989-02-04T12:24:13.968Z",
-    "age": 36
+    "date": "1979-05-14T15:49:08.725Z",
+    "age": 46
   },
   "registered": {
-    "date": "2013-01-12T16:26:54.281Z",
-    "age": 12
+    "date": "2010-05-08T04:31:03.625Z",
+    "age": 15
   },
-  "phone": "0402-5397125",
-  "cell": "0174-6387127",
+  "phone": "(329)-642-9951",
+  "cell": "(719)-053-9133",
   "id": {
-    "name": "SVNR",
-    "value": "23 040289 D 172"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/53.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    "large": "https://randomuser.me/api/portraits/women/52.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
   },
-  "nat": "DE"
+  "nat": "NZ"
 }

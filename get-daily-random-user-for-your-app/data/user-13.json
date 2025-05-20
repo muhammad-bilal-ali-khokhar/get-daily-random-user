@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Custódia",
-    "last": "Pinto"
+    "title": "Mr",
+    "first": "Radivoy",
+    "last": "Neporozhniy"
   },
   "location": {
     "street": {
-      "number": 3829,
-      "name": "Rua São Luiz "
+      "number": 8804,
+      "name": "Provulok Pavlenka"
     },
-    "city": "São José do Rio Preto",
-    "state": "Santa Catarina",
-    "country": "Brazil",
-    "postcode": 26089,
+    "city": "Bilogirsk",
+    "state": "Cherkaska",
+    "country": "Ukraine",
+    "postcode": 70704,
     "coordinates": {
-      "latitude": "-80.5388",
-      "longitude": "31.2231"
+      "latitude": "77.9171",
+      "longitude": "-135.5667"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "custodia.pinto@example.com",
+  "email": "radivoy.neporozhniy@example.com",
   "login": {
-    "uuid": "3ce66cdd-2c1c-40ed-8d86-588f323f6e15",
-    "username": "happygoose598",
-    "password": "loveme",
-    "salt": "WgUc4ZF2",
-    "md5": "37acd13f2c3bd383684c984d0fb7d150",
-    "sha1": "a36f47e6f063e0e4d412b448bbfc515c4726f820",
-    "sha256": "321dd1dda56021d48b308767519c303536f9f96670029eb9aa5d81c51072abef"
+    "uuid": "b94ea1fa-da6c-4904-90ea-38dcf7df85ff",
+    "username": "whitemouse308",
+    "password": "10101010",
+    "salt": "1OzXJbqM",
+    "md5": "bb1eef43abe49f164937520759355a6c",
+    "sha1": "47eb5e3d886cc5ac55537d547f4b4ff1d49bdf91",
+    "sha256": "d4d3cc9cea6dfc79a42b79500ec25608a953e6941f74f1e4eb5443156f4f9d06"
   },
   "dob": {
-    "date": "1974-08-13T21:36:35.891Z",
+    "date": "1975-04-19T07:48:37.561Z",
     "age": 50
   },
   "registered": {
-    "date": "2022-04-08T02:32:42.274Z",
-    "age": 3
+    "date": "2019-04-30T09:06:30.166Z",
+    "age": 6
   },
-  "phone": "(12) 9391-3182",
-  "cell": "(66) 2167-5556",
+  "phone": "(099) M89-5399",
+  "cell": "(068) Y81-6221",
   "id": {
-    "name": "CPF",
-    "value": "084.809.665-80"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/21.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/21.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/21.jpg"
+    "large": "https://randomuser.me/api/portraits/men/79.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/79.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/79.jpg"
   },
-  "nat": "BR"
+  "nat": "UA"
 }

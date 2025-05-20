@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Lila",
-    "last": "Caron"
+    "title": "Mr",
+    "first": "Magnus",
+    "last": "Christiansen"
   },
   "location": {
     "street": {
-      "number": 2705,
-      "name": "Rue Bataille"
+      "number": 4971,
+      "name": "Søparken"
     },
-    "city": "Reims",
-    "state": "Oise",
-    "country": "France",
-    "postcode": 55768,
+    "city": "Aaborg Øst",
+    "state": "Midtjylland",
+    "country": "Denmark",
+    "postcode": 75413,
     "coordinates": {
-      "latitude": "-13.5318",
-      "longitude": "164.4939"
+      "latitude": "-45.7521",
+      "longitude": "-35.8899"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "lila.caron@example.com",
+  "email": "magnus.christiansen@example.com",
   "login": {
-    "uuid": "826e46bb-8107-4a7a-be3c-f08ef59f3c11",
-    "username": "silverwolf128",
-    "password": "claymore",
-    "salt": "ecCOEP76",
-    "md5": "89c9968d2ba9a0d617ccad533714e827",
-    "sha1": "e847e5d1f1d76e4fdef35ba8736986bec5db211b",
-    "sha256": "69a7f1f272a7274a3cd596eb6aa5ea44f30ee5517e737ae0d253fe9f9b01bb57"
+    "uuid": "8277d05b-0fdd-4600-b5fb-a4fd97056cfa",
+    "username": "yellowpanda676",
+    "password": "enterme",
+    "salt": "b9Z2zddm",
+    "md5": "a45f01fd544b9f120271812d4a797dcf",
+    "sha1": "d3c70e737519d1e9bf6937732606a32c9bcacb21",
+    "sha256": "4edebd6b1edb40fc370b84dbcb6739ee42d3f17c6ab0c4343a1714653e366367"
   },
   "dob": {
-    "date": "1973-05-20T12:12:51.466Z",
-    "age": 51
+    "date": "1959-11-16T08:49:20.290Z",
+    "age": 65
   },
   "registered": {
-    "date": "2020-04-05T04:18:23.917Z",
-    "age": 5
+    "date": "2021-02-25T18:53:05.830Z",
+    "age": 4
   },
-  "phone": "02-69-17-11-59",
-  "cell": "06-60-58-34-41",
+  "phone": "64034796",
+  "cell": "84518147",
   "id": {
-    "name": "INSEE",
-    "value": "2730490151782 91"
+    "name": "CPR",
+    "value": "161159-7013"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/92.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/92.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/92.jpg"
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
   },
-  "nat": "FR"
+  "nat": "DK"
 }

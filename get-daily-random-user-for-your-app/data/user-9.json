@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Betina",
-    "last": "Reiser"
+    "title": "Mr",
+    "first": "Enrique",
+    "last": "Brown"
   },
   "location": {
     "street": {
-      "number": 8657,
-      "name": "Fliederweg"
+      "number": 4202,
+      "name": "Mockingbird Hill"
     },
-    "city": "Schönsee",
-    "state": "Rheinland-Pfalz",
-    "country": "Germany",
-    "postcode": 80714,
+    "city": "Palmdale",
+    "state": "Tennessee",
+    "country": "United States",
+    "postcode": 49197,
     "coordinates": {
-      "latitude": "-50.6038",
-      "longitude": "67.9243"
+      "latitude": "84.1761",
+      "longitude": "-99.9752"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "betina.reiser@example.com",
+  "email": "enrique.brown@example.com",
   "login": {
-    "uuid": "1b93d5ca-c361-4612-b01b-bfeb86e53e4d",
-    "username": "sadpeacock987",
-    "password": "arturo",
-    "salt": "lyexhjUc",
-    "md5": "8afa203033089e0876396b929df9a792",
-    "sha1": "276401647858c28e596da9ca7ef47b619ea6d19c",
-    "sha256": "80503555932c0992c0d42c9af92347c1def42b348f1f145a588f7094c8c4af2e"
+    "uuid": "41168ad6-c11a-465d-b661-0d3fbbf36ca3",
+    "username": "heavybird149",
+    "password": "guess",
+    "salt": "VfeQAu1T",
+    "md5": "2b09893652dc623550e127619e4b2b86",
+    "sha1": "2b2c507d64991f2a463ae09f881ae51d23af5681",
+    "sha256": "eed05c6a110b26499a50272197a8fcaffcbecdc74b4a0cd3c3aca11bc3b266fe"
   },
   "dob": {
-    "date": "1996-11-01T15:29:19.352Z",
-    "age": 28
+    "date": "1993-10-27T22:08:25.777Z",
+    "age": 31
   },
   "registered": {
-    "date": "2017-01-22T02:10:09.350Z",
-    "age": 8
+    "date": "2006-09-26T06:28:27.962Z",
+    "age": 18
   },
-  "phone": "0483-2928976",
-  "cell": "0178-0241540",
+  "phone": "(769) 347-6295",
+  "cell": "(252) 522-5473",
   "id": {
-    "name": "SVNR",
-    "value": "89 011196 R 822"
+    "name": "SSN",
+    "value": "290-42-3337"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "DE"
+  "nat": "US"
 }

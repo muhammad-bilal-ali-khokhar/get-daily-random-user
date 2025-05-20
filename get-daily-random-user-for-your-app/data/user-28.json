@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Teodora",
-    "last": "Paunović"
+    "title": "Mr",
+    "first": "Jarand",
+    "last": "Myking"
   },
   "location": {
     "street": {
-      "number": 6493,
-      "name": "Trgovačka"
+      "number": 8642,
+      "name": "Kjeld Stubs gate"
     },
-    "city": "Aranđelovac",
-    "state": "Srem",
-    "country": "Serbia",
-    "postcode": 61295,
+    "city": "Nypan",
+    "state": "Troms - Romsa",
+    "country": "Norway",
+    "postcode": "4625",
     "coordinates": {
-      "latitude": "58.3198",
-      "longitude": "91.4342"
+      "latitude": "43.2631",
+      "longitude": "-124.7390"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "teodora.paunovic@example.com",
+  "email": "jarand.myking@example.com",
   "login": {
-    "uuid": "d82aad0d-9d2b-4e21-a8c5-93c9c621a038",
-    "username": "greenlion282",
-    "password": "shelley",
-    "salt": "1kT3ifAI",
-    "md5": "f4006c01491bacf28b5273428cf9cd21",
-    "sha1": "6a984bb9c8eb191bad2a77ff4d204a1ef1bce0bd",
-    "sha256": "5ee99736776f12cf9de969e7fb5848d4e6672c7028ca5bfc49f52c9ed6671dac"
+    "uuid": "692d79d7-e540-4238-a6e4-5cf5aec335e2",
+    "username": "whiteelephant397",
+    "password": "hilary",
+    "salt": "6vsalpGN",
+    "md5": "8974521c25e51aa0b7ffe66372a3f90f",
+    "sha1": "5fdb0c65b5779fe2d227f54d815ce6fed9127c3d",
+    "sha256": "ad4c8ffed0c8cb4dbd16c6582ee4246623f0dc8b46bacdcd2ff810c05ff5e649"
   },
   "dob": {
-    "date": "1988-11-25T02:22:35.961Z",
-    "age": 36
+    "date": "1990-06-03T05:40:11.741Z",
+    "age": 34
   },
   "registered": {
-    "date": "2014-04-29T17:27:54.313Z",
-    "age": 10
+    "date": "2021-08-18T13:56:42.056Z",
+    "age": 3
   },
-  "phone": "021-1601-549",
-  "cell": "066-2844-919",
+  "phone": "69722391",
+  "cell": "97494987",
   "id": {
-    "name": "SID",
-    "value": "514154222"
+    "name": "FN",
+    "value": "03069016501"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/78.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/78.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/78.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "RS"
+  "nat": "NO"
 }

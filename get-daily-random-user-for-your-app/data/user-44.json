@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Elfi",
-    "last": "Lang"
+    "title": "Mr",
+    "first": "Christoffer",
+    "last": "Johansen"
   },
   "location": {
     "street": {
-      "number": 8391,
-      "name": "Amselweg"
+      "number": 542,
+      "name": "Solvangsvej"
     },
-    "city": "Bad Liebenzell",
-    "state": "Nordrhein-Westfalen",
-    "country": "Germany",
-    "postcode": 57156,
+    "city": "Kongens  Lyngby",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 64588,
     "coordinates": {
-      "latitude": "-52.6004",
-      "longitude": "104.6389"
+      "latitude": "-44.6432",
+      "longitude": "-166.2699"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "elfi.lang@example.com",
+  "email": "christoffer.johansen@example.com",
   "login": {
-    "uuid": "4882d009-80a1-4cf1-bf59-5b609bfe7ac6",
-    "username": "organicfrog766",
-    "password": "fffffff",
-    "salt": "dNeV9fp0",
-    "md5": "23108debe12a61e9420160927cf8fc60",
-    "sha1": "cc7c73f585b3a2456ce7b06d38409cdcf52e8819",
-    "sha256": "1ef1ab1019c11a2402926b24f8db04cda4f094bfa31597cf7fb394f511ed4b4f"
+    "uuid": "34c0c609-5bc8-4f2e-a6cf-4a314c5bfe3a",
+    "username": "smallwolf377",
+    "password": "george1",
+    "salt": "uSXG8j53",
+    "md5": "02d602583145480dd158a4f71dcc72f0",
+    "sha1": "4a56ff60d3286597f13ae3182f6d37f2f6a830f9",
+    "sha256": "883c35f557e45822dc2f9d7f8b5b8138c6b94896c46ba394f8f3c622b6fe5bb0"
   },
   "dob": {
-    "date": "1969-01-08T12:34:27.698Z",
-    "age": 56
+    "date": "1982-02-23T09:19:19.455Z",
+    "age": 43
   },
   "registered": {
-    "date": "2002-06-03T18:28:21.893Z",
-    "age": 22
+    "date": "2006-09-01T18:02:55.615Z",
+    "age": 18
   },
-  "phone": "0699-4673303",
-  "cell": "0172-5271402",
+  "phone": "27379826",
+  "cell": "14865755",
   "id": {
-    "name": "SVNR",
-    "value": "75 080169 L 746"
+    "name": "CPR",
+    "value": "230282-8825"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/55.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+    "large": "https://randomuser.me/api/portraits/men/7.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/7.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/7.jpg"
   },
-  "nat": "DE"
+  "nat": "DK"
 }

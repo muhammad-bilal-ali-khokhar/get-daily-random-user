@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Esfir",
-    "last": "Danilyuk"
+    "title": "Mr",
+    "first": "Carel",
+    "last": "Brockhoff"
   },
   "location": {
     "street": {
-      "number": 9511,
-      "name": "Starokiyivska"
+      "number": 6127,
+      "name": "Gat van West Noord Westen"
     },
-    "city": "Tatarbunari",
-    "state": "Kirovogradska",
-    "country": "Ukraine",
-    "postcode": 84924,
+    "city": "Weerselo",
+    "state": "Limburg",
+    "country": "Netherlands",
+    "postcode": "4196 WU",
     "coordinates": {
-      "latitude": "73.9942",
-      "longitude": "82.2247"
+      "latitude": "30.0798",
+      "longitude": "-34.9281"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "esfir.danilyuk@example.com",
+  "email": "carel.brockhoff@example.com",
   "login": {
-    "uuid": "444dfdd6-d82d-45f6-aa51-6324c90c9f57",
-    "username": "beautifulgorilla294",
-    "password": "enrique",
-    "salt": "GjZt7zOO",
-    "md5": "61fc27838f732d244a0941a269e65b04",
-    "sha1": "bec71e8eac864e2fcb5bfa69e0c73ce5f5ac532c",
-    "sha256": "606294ad0660513f29b01792b2ddcde78d8e53cd320702c8d10e1e05225915f9"
+    "uuid": "21099e77-30fd-471b-875a-97f383a613b0",
+    "username": "goldenmouse627",
+    "password": "jasmin",
+    "salt": "oc0ZDeTG",
+    "md5": "e122deb8c6b8ad7012ea5f83daeaad60",
+    "sha1": "16bf4d964b2c338f08e156f1fc39481f87aa7415",
+    "sha256": "33dd4ab6e24c2fc8f1d3f322c11c8f45c90212e99e13935b50e5b39b2f8596d5"
   },
   "dob": {
-    "date": "1952-07-28T23:26:47.258Z",
-    "age": 72
+    "date": "1972-07-31T14:20:56.203Z",
+    "age": 52
   },
   "registered": {
-    "date": "2008-02-19T05:55:32.318Z",
-    "age": 17
+    "date": "2021-09-20T11:28:09.816Z",
+    "age": 3
   },
-  "phone": "(097) B85-9347",
-  "cell": "(097) F13-5852",
+  "phone": "(052) 6302704",
+  "cell": "(06) 28253968",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "76602407"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/76.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/76.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/76.jpg"
+    "large": "https://randomuser.me/api/portraits/men/19.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
   },
-  "nat": "UA"
+  "nat": "NL"
 }

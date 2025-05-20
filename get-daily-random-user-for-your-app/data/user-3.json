@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Elizabeth",
-    "last": "Andersen"
+    "first": "Elsa",
+    "last": "Guillaume"
   },
   "location": {
     "street": {
-      "number": 3249,
-      "name": "Park Rd"
+      "number": 7361,
+      "name": "Rue de L'Abbé-Gillet"
     },
-    "city": "Burlington",
-    "state": "Prince Edward Island",
-    "country": "Canada",
-    "postcode": "Z7D 7Z3",
+    "city": "Fort-de-France",
+    "state": "Cantal",
+    "country": "France",
+    "postcode": 86960,
     "coordinates": {
-      "latitude": "-66.8006",
-      "longitude": "125.5138"
+      "latitude": "-18.4797",
+      "longitude": "47.9787"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "elizabeth.andersen@example.com",
+  "email": "elsa.guillaume@example.com",
   "login": {
-    "uuid": "50a95a1c-0cfb-40ad-9706-295b1690406b",
-    "username": "greendog619",
-    "password": "313131",
-    "salt": "X0TaMZfE",
-    "md5": "7da503ee6d858d539bb50b4aa4d4ea1e",
-    "sha1": "ba4ca381cf4ae5db6f250c89ea9eecc90023a049",
-    "sha256": "67ed944b6e39e8fadf2fa939e69da6e734dcafac24e5842b058a136456bb6faf"
+    "uuid": "4693b852-d6f8-4c03-9f94-46dfa05d7830",
+    "username": "crazyfish457",
+    "password": "michaela",
+    "salt": "x8GXcn18",
+    "md5": "ead46e0348fcc33cdd88fad5872adef7",
+    "sha1": "e7c07e5a1ece1d4f682a72c6fd719f34d650c4ac",
+    "sha256": "3f779f9250503096d829bd117050db366bf5393c011ed2d2d1215810be1c0c77"
   },
   "dob": {
-    "date": "1964-05-03T14:37:30.611Z",
-    "age": 60
+    "date": "1991-06-28T08:50:33.017Z",
+    "age": 33
   },
   "registered": {
-    "date": "2017-04-24T00:23:01.755Z",
-    "age": 7
+    "date": "2022-04-13T02:57:57.282Z",
+    "age": 3
   },
-  "phone": "L50 G04-7389",
-  "cell": "E59 K48-0211",
+  "phone": "01-38-45-20-75",
+  "cell": "06-11-20-82-03",
   "id": {
-    "name": "SIN",
-    "value": "555202506"
+    "name": "INSEE",
+    "value": "2910535327490 87"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    "large": "https://randomuser.me/api/portraits/women/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
   },
-  "nat": "CA"
+  "nat": "FR"
 }

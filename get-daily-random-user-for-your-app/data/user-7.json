@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Jade",
-    "last": "Scott"
+    "first": "Eléa",
+    "last": "Lefevre"
   },
   "location": {
     "street": {
-      "number": 9809,
-      "name": "George St"
+      "number": 2726,
+      "name": "Rue de L'Abbé-Migne"
     },
-    "city": "Sutton",
-    "state": "Nunavut",
-    "country": "Canada",
-    "postcode": "O2J 7L2",
+    "city": "Poitiers",
+    "state": "Finistère",
+    "country": "France",
+    "postcode": 37907,
     "coordinates": {
-      "latitude": "-69.1890",
-      "longitude": "63.8329"
+      "latitude": "-13.9612",
+      "longitude": "36.2462"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "jade.scott@example.com",
+  "email": "elea.lefevre@example.com",
   "login": {
-    "uuid": "9da1f8e9-ff0a-4469-9019-1e3db2b2f5d4",
-    "username": "organicbutterfly934",
-    "password": "alfredo",
-    "salt": "0cNqzL1b",
-    "md5": "6f047f27ae9d5477f529724afc1bc41c",
-    "sha1": "d3debfafd28545fa1994d26952d36271ff6cd472",
-    "sha256": "f3a9e64297614d8e5a1a11382ff9e8910b5d528a0f363472f2df6b0e128961db"
+    "uuid": "48f349b4-4290-44d1-855a-344b10fc361f",
+    "username": "redelephant361",
+    "password": "frankie",
+    "salt": "lKarZgHu",
+    "md5": "94639f43fe4b3c05bef4df60fc1e00a8",
+    "sha1": "1a8143f2e14cff77735175e85af762415099ef06",
+    "sha256": "d5d40de9b71364b0933971c165e6007d43c287699eea645b431bf716d4ee2848"
   },
   "dob": {
-    "date": "1957-06-11T02:15:22.333Z",
-    "age": 67
+    "date": "1962-02-16T18:49:22.908Z",
+    "age": 63
   },
   "registered": {
-    "date": "2019-05-01T11:32:48.328Z",
-    "age": 5
+    "date": "2016-06-22T18:52:20.667Z",
+    "age": 8
   },
-  "phone": "D71 Y38-3520",
-  "cell": "W47 X78-4992",
+  "phone": "01-97-24-09-02",
+  "cell": "06-30-50-43-98",
   "id": {
-    "name": "SIN",
-    "value": "975044371"
+    "name": "INSEE",
+    "value": "2620176083730 45"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+    "large": "https://randomuser.me/api/portraits/women/9.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
   },
-  "nat": "CA"
+  "nat": "FR"
 }

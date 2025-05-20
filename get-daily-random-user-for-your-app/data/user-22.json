@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Jacob",
-    "last": "Lévesque"
+    "title": "Mrs",
+    "first": "Karolina",
+    "last": "Fredheim"
   },
   "location": {
     "street": {
-      "number": 1441,
-      "name": "15th St"
+      "number": 2134,
+      "name": "Østhornveien"
     },
-    "city": "Kingston",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "J6W 9S0",
+    "city": "Byrknes",
+    "state": "Hordaland",
+    "country": "Norway",
+    "postcode": "3601",
     "coordinates": {
-      "latitude": "-64.4818",
-      "longitude": "-24.1649"
+      "latitude": "39.5558",
+      "longitude": "43.8464"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "jacob.levesque@example.com",
+  "email": "karolina.fredheim@example.com",
   "login": {
-    "uuid": "69d20824-c798-44fb-99f5-da6763bf5801",
-    "username": "yellowfrog874",
-    "password": "metro",
-    "salt": "XEKFs9Tw",
-    "md5": "dd0717ad53b65f3f86ad8e929fad1fca",
-    "sha1": "1c13cde2229f385ca775318ad599d234a543394c",
-    "sha256": "e203d8a6307703bf7461935f2b06f08d3fcea027db4f746709b6693e0101d1d9"
+    "uuid": "73773f15-1ad5-4dec-b374-e94ead803f5f",
+    "username": "goldenswan634",
+    "password": "janice",
+    "salt": "P3wY5UCm",
+    "md5": "af6d44e9e8f04888a2e9de8e91de61ae",
+    "sha1": "afc636f51a472729924668d64ed5c1657a24cefc",
+    "sha256": "a0a4d1cad270ffe99102aebd451db71a91cdd257e52176cae9688d1063a4a79e"
   },
   "dob": {
-    "date": "1982-03-04T05:41:11.774Z",
-    "age": 43
+    "date": "1960-12-04T10:29:47.494Z",
+    "age": 64
   },
   "registered": {
-    "date": "2009-12-24T05:41:30.746Z",
-    "age": 15
+    "date": "2020-08-29T20:08:35.481Z",
+    "age": 4
   },
-  "phone": "J16 Z35-0095",
-  "cell": "T13 O93-6293",
+  "phone": "85029390",
+  "cell": "45955837",
   "id": {
-    "name": "SIN",
-    "value": "028696391"
+    "name": "FN",
+    "value": "04126015831"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/47.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    "large": "https://randomuser.me/api/portraits/women/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
   },
-  "nat": "CA"
+  "nat": "NO"
 }

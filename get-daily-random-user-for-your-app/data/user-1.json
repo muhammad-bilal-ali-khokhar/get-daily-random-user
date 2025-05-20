@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Cecilie",
-    "last": "Petersen"
+    "title": "Mr",
+    "first": "Benito",
+    "last": "Rosas"
   },
   "location": {
     "street": {
-      "number": 1626,
-      "name": "Grønlandsparken"
+      "number": 7123,
+      "name": "Corredor Barrios"
     },
-    "city": "Nykøbing F",
-    "state": "Midtjylland",
-    "country": "Denmark",
-    "postcode": 30230,
+    "city": "Villa Manuel",
+    "state": "Puebla",
+    "country": "Mexico",
+    "postcode": 80907,
     "coordinates": {
-      "latitude": "-41.3873",
-      "longitude": "66.4483"
+      "latitude": "22.5797",
+      "longitude": "-161.5101"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "cecilie.petersen@example.com",
+  "email": "benito.rosas@example.com",
   "login": {
-    "uuid": "2c6e2485-3456-4a09-8455-fcd0cb76ab43",
-    "username": "goldenzebra822",
-    "password": "enterpri",
-    "salt": "stzNdJar",
-    "md5": "f8bf4f7ac1af45572125b99521ad63ec",
-    "sha1": "ef09808c342301c1cc8cd4c5a07dc3b8af0b6381",
-    "sha256": "ede974e70c56ba6861e1e45bbdc9fbb774111509633a3557c2aa5765a10c0300"
+    "uuid": "2c5b8fac-5ec2-4793-8bac-9ea66537f218",
+    "username": "redpeacock636",
+    "password": "redsox",
+    "salt": "v4ViEMmH",
+    "md5": "3cbe56be26b693938d56f99de5835f8d",
+    "sha1": "292695c774758cd03e6f2448ceaed817cbf4bba1",
+    "sha256": "6ccb9d496f59a9e096d4104bedb7f416997285b9e5c0ba4772038ba54cb31fa3"
   },
   "dob": {
-    "date": "1993-06-01T07:50:04.893Z",
-    "age": 31
+    "date": "1996-11-10T07:34:52.800Z",
+    "age": 28
   },
   "registered": {
-    "date": "2003-05-30T21:15:11.828Z",
-    "age": 21
+    "date": "2015-09-07T09:39:27.367Z",
+    "age": 9
   },
-  "phone": "74367224",
-  "cell": "30742074",
+  "phone": "(633) 249 1151",
+  "cell": "(678) 404 6196",
   "id": {
-    "name": "CPR",
-    "value": "010693-6446"
+    "name": "NSS",
+    "value": "16 53 00 5637 6"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/75.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/75.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/75.jpg"
+    "large": "https://randomuser.me/api/portraits/men/41.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/41.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/41.jpg"
   },
-  "nat": "DK"
+  "nat": "MX"
 }

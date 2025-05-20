@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Aleksander",
-    "last": "Buraas"
+    "title": "Mrs",
+    "first": "Lily",
+    "last": "James"
   },
   "location": {
     "street": {
-      "number": 9528,
-      "name": "Lerdalsveien"
+      "number": 5655,
+      "name": "Albert Road"
     },
-    "city": "Harstad",
-    "state": "Nord-Trøndelag",
-    "country": "Norway",
-    "postcode": "2910",
+    "city": "Wells",
+    "state": "Merseyside",
+    "country": "United Kingdom",
+    "postcode": "UU18 7NT",
     "coordinates": {
-      "latitude": "39.8592",
-      "longitude": "-16.9386"
+      "latitude": "-9.9095",
+      "longitude": "130.0046"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "aleksander.buraas@example.com",
+  "email": "lily.james@example.com",
   "login": {
-    "uuid": "01af7475-1b90-4ff2-8f79-2080ff3c55a4",
-    "username": "heavylion250",
-    "password": "warrior",
-    "salt": "dRKb88jF",
-    "md5": "e47359dcb451b4ecdd6fbc191d104540",
-    "sha1": "7c014d2df89d7b11bff220ab65716bfc6b8a3810",
-    "sha256": "89aa791fedf5e8d0285110b56ea5389b231ff3b33961fe8b077518068a7ab974"
+    "uuid": "976b90e9-cf69-453a-9f0d-8a44ed2178c4",
+    "username": "ticklishleopard684",
+    "password": "0.0.000",
+    "salt": "8xLwnOe0",
+    "md5": "3b39e997ff635b2cd2770920e082db8a",
+    "sha1": "e678302165190f1457fa3ef1685da27fab1a19b3",
+    "sha256": "e1210330fa8a9c37431b94c63ec855e14fb9f6f1c8e50cff4ce36e0625b768c1"
   },
   "dob": {
-    "date": "1946-11-26T11:15:35.118Z",
-    "age": 78
+    "date": "1960-07-18T00:11:12.638Z",
+    "age": 64
   },
   "registered": {
-    "date": "2013-06-27T10:45:01.756Z",
-    "age": 11
+    "date": "2007-08-09T12:47:10.001Z",
+    "age": 17
   },
-  "phone": "89283363",
-  "cell": "41979440",
+  "phone": "017684 66696",
+  "cell": "07630 126611",
   "id": {
-    "name": "FN",
-    "value": "26114633754"
+    "name": "NINO",
+    "value": "GE 12 90 46 H"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+    "large": "https://randomuser.me/api/portraits/women/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/89.jpg"
   },
-  "nat": "NO"
+  "nat": "GB"
 }

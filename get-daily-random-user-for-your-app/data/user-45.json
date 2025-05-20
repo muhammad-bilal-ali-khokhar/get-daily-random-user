@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Mostafa",
-    "last": "Pham"
+    "first": "Stanley",
+    "last": "Silva"
   },
   "location": {
     "street": {
-      "number": 3640,
-      "name": "Langlia"
+      "number": 1021,
+      "name": "W Campbell Ave"
     },
-    "city": "Åneby",
-    "state": "Hordaland",
-    "country": "Norway",
-    "postcode": "7286",
+    "city": "Bundaberg",
+    "state": "Queensland",
+    "country": "Australia",
+    "postcode": 9286,
     "coordinates": {
-      "latitude": "45.3102",
-      "longitude": "-2.7791"
+      "latitude": "-84.7598",
+      "longitude": "-154.3419"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "mostafa.pham@example.com",
+  "email": "stanley.silva@example.com",
   "login": {
-    "uuid": "aa757f5e-eacf-4f38-9faf-185e96bece1b",
-    "username": "purplewolf205",
-    "password": "vixen",
-    "salt": "4PW88mFv",
-    "md5": "f6060080f1ab092cc1763efddce97433",
-    "sha1": "886dcc5ce5f3919ffb43f5c095773276f6cddfb3",
-    "sha256": "d5ed9a1b26e86a28819d6aa6e3cfc4aa186207411f73f5a680a41ca9575cb676"
+    "uuid": "edf1e377-358f-44c6-b57d-8d3374b91275",
+    "username": "heavyswan595",
+    "password": "feng",
+    "salt": "nuH9sXzB",
+    "md5": "8fb219284390fd1d449aa02f4a5193f8",
+    "sha1": "262c920d12b2bb81a1a479a283c5112de565cb42",
+    "sha256": "18ff2b1c41d4d123a5d0ed0f1929b4385374309be6fc20de985a8780da63f585"
   },
   "dob": {
-    "date": "1974-11-24T01:40:22.273Z",
-    "age": 50
+    "date": "1993-06-18T04:35:18.148Z",
+    "age": 31
   },
   "registered": {
-    "date": "2009-01-26T16:48:55.233Z",
-    "age": 16
+    "date": "2006-07-26T17:52:11.163Z",
+    "age": 18
   },
-  "phone": "64787907",
-  "cell": "94579178",
+  "phone": "04-2751-1433",
+  "cell": "0484-362-016",
   "id": {
-    "name": "FN",
-    "value": "24117404362"
+    "name": "TFN",
+    "value": "145800047"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/91.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/91.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/91.jpg"
+    "large": "https://randomuser.me/api/portraits/men/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
   },
-  "nat": "NO"
+  "nat": "AU"
 }

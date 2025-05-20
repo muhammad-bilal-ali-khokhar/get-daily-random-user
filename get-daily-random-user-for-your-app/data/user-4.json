@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Krasun",
-    "last": "Zinchenko"
+    "title": "Monsieur",
+    "first": "Patrick",
+    "last": "Leroy"
   },
   "location": {
     "street": {
-      "number": 3057,
-      "name": "Chervona"
+      "number": 4865,
+      "name": "Rue du Château"
     },
-    "city": "Shepetivka",
-    "state": "Harkivska",
-    "country": "Ukraine",
-    "postcode": 34736,
+    "city": "Courgenay",
+    "state": "Schaffhausen",
+    "country": "Switzerland",
+    "postcode": 8632,
     "coordinates": {
-      "latitude": "76.4737",
-      "longitude": "-61.7603"
+      "latitude": "-61.0760",
+      "longitude": "-106.4107"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "krasun.zinchenko@example.com",
+  "email": "patrick.leroy@example.com",
   "login": {
-    "uuid": "75c4ffd4-56a6-4bdd-baee-636f913dc11c",
-    "username": "tinywolf439",
-    "password": "outkast",
-    "salt": "tAMAT129",
-    "md5": "aa585a4f74f050b2916ee8999f75a45e",
-    "sha1": "4d93641056f7deb0c55ce837ed0b630383a12079",
-    "sha256": "5b817eb627b2eebfbdf1c77140980b137e8a8f0de829154b555aa693d6b9d3ab"
+    "uuid": "c9f7c39b-c307-4cda-9df8-171ddb62bdd3",
+    "username": "yellowlion203",
+    "password": "student",
+    "salt": "UldBX3O1",
+    "md5": "97a63233be92ac4fdbcb2ff9224b3ac2",
+    "sha1": "1f4903b4f0d28c488f61e43b2b57cfed894d40c0",
+    "sha256": "4314eedd0521e5e3e3833184a5aa23591aadad121acfdf897113cb0cee62ae69"
   },
   "dob": {
-    "date": "1957-04-26T00:55:50.045Z",
-    "age": 67
+    "date": "1970-10-15T07:27:34.049Z",
+    "age": 54
   },
   "registered": {
-    "date": "2010-07-06T21:28:32.446Z",
-    "age": 14
+    "date": "2003-10-10T00:57:05.696Z",
+    "age": 21
   },
-  "phone": "(097) B28-7007",
-  "cell": "(097) N48-6013",
+  "phone": "078 417 88 20",
+  "cell": "079 587 44 47",
   "id": {
-    "name": "",
-    "value": null
+    "name": "AVS",
+    "value": "756.3029.3718.54"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    "large": "https://randomuser.me/api/portraits/men/85.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/85.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/85.jpg"
   },
-  "nat": "UA"
+  "nat": "CH"
 }

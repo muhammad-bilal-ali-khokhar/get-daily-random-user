@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Julián",
-    "last": "Domínguez"
+    "first": "Kay-Uwe",
+    "last": "Wiedmann"
   },
   "location": {
     "street": {
-      "number": 9061,
-      "name": "Calle Covadonga"
+      "number": 4723,
+      "name": "Danziger Straße"
     },
-    "city": "Albacete",
-    "state": "País Vasco",
-    "country": "Spain",
-    "postcode": 91964,
+    "city": "Kölleda",
+    "state": "Thüringen",
+    "country": "Germany",
+    "postcode": 68430,
     "coordinates": {
-      "latitude": "-34.2887",
-      "longitude": "-85.9845"
+      "latitude": "-50.2904",
+      "longitude": "-105.2069"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+1:00",
+      "description": "Brussels, Copenhagen, Madrid, Paris"
     }
   },
-  "email": "julian.dominguez@example.com",
+  "email": "kay-uwe.wiedmann@example.com",
   "login": {
-    "uuid": "a30e30ee-6ef9-40b4-b35b-03cf2262ab89",
-    "username": "greenpanda115",
-    "password": "chopper",
-    "salt": "z60KaTsS",
-    "md5": "af749fa8c747ff79f57f93b6361a9bb2",
-    "sha1": "43667484bce373fa5113dfbef5e5f5d71c7591b1",
-    "sha256": "1defb32928203d291cd666c5dbeca12c4745e02aa4860ddd44c68efdcde731c4"
+    "uuid": "9f7737fa-9a5a-4cac-9f33-3c7f2828ebcb",
+    "username": "brownelephant295",
+    "password": "volley",
+    "salt": "JNxPUOUw",
+    "md5": "8e1e669930a47063622915760aba4488",
+    "sha1": "6894338939ade538015f73858e3f2e0411b7847e",
+    "sha256": "a024c4070aade19c03c54c4681b8574b3ae4318dd7eb48ccbd398647306cba8e"
   },
   "dob": {
-    "date": "1956-09-22T17:00:44.669Z",
-    "age": 68
+    "date": "1988-05-26T17:09:08.842Z",
+    "age": 36
   },
   "registered": {
-    "date": "2018-04-18T15:31:21.978Z",
-    "age": 6
+    "date": "2011-02-18T06:24:18.118Z",
+    "age": 14
   },
-  "phone": "911-416-756",
-  "cell": "680-323-481",
+  "phone": "0151-5877738",
+  "cell": "0176-7904703",
   "id": {
-    "name": "DNI",
-    "value": "27605773-G"
+    "name": "SVNR",
+    "value": "02 260588 W 004"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/98.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
   },
-  "nat": "ES"
+  "nat": "DE"
 }

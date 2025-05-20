@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Austin",
-    "last": "Roberts"
+    "first": "Augusto",
+    "last": "Trujillo"
   },
   "location": {
     "street": {
-      "number": 9218,
-      "name": "Pah Road"
+      "number": 2455,
+      "name": "Periférico Norte Beltrán"
     },
-    "city": "Whangarei",
-    "state": "Canterbury",
-    "country": "New Zealand",
-    "postcode": 57112,
+    "city": "San Salvador",
+    "state": "Yucatan",
+    "country": "Mexico",
+    "postcode": 19536,
     "coordinates": {
-      "latitude": "47.5759",
-      "longitude": "-20.7026"
+      "latitude": "28.9002",
+      "longitude": "-154.5854"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "austin.roberts@example.com",
+  "email": "augusto.trujillo@example.com",
   "login": {
-    "uuid": "291eaf28-292b-4261-88d1-ec0b303950aa",
-    "username": "ticklishbutterfly921",
-    "password": "kramer",
-    "salt": "jMlSkAhr",
-    "md5": "0538dadd33ba8260b8325829c2b23c8d",
-    "sha1": "9c26f96b72dd727913150c7a9c64f1fdcc7ee6bc",
-    "sha256": "20a3c7a90ddd5dd9aecc7f4246f74241cd8d7b068df78468639cf4e3fbd5191b"
+    "uuid": "1e73ccf1-4fc3-4017-a668-afdfdb421cf7",
+    "username": "heavyleopard680",
+    "password": "harmony",
+    "salt": "q9WldfCM",
+    "md5": "6d9061a0579de2fb684d9cb969580772",
+    "sha1": "5541a704c8d885e1b925b7ce70a7ff8e8d4ee84b",
+    "sha256": "e2a09136a92fae065125f7c66f7268f324ab7e80bace2b43075b14d1a9de42db"
   },
   "dob": {
-    "date": "1989-04-28T14:49:21.501Z",
-    "age": 35
+    "date": "2000-11-24T06:29:50.465Z",
+    "age": 24
   },
   "registered": {
-    "date": "2003-02-28T11:49:56.886Z",
-    "age": 22
+    "date": "2018-08-23T09:31:53.450Z",
+    "age": 6
   },
-  "phone": "(202)-630-6666",
-  "cell": "(373)-110-6998",
+  "phone": "(687) 210 7944",
+  "cell": "(686) 377 7140",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NSS",
+    "value": "01 95 65 9238 2"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/73.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
   },
-  "nat": "NZ"
+  "nat": "MX"
 }

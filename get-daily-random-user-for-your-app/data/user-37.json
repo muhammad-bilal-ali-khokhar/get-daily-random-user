@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Ege",
-    "last": "Kaya"
+    "title": "Mr",
+    "first": "Arn",
+    "last": "Sylte"
   },
   "location": {
     "street": {
-      "number": 6336,
-      "name": "Doktorlar Cd"
+      "number": 4499,
+      "name": "Sinsenveien"
     },
-    "city": "Kahramanmaraş",
-    "state": "Bayburt",
-    "country": "Turkey",
-    "postcode": 74549,
+    "city": "Smestad",
+    "state": "Telemark",
+    "country": "Norway",
+    "postcode": "3182",
     "coordinates": {
-      "latitude": "66.9764",
-      "longitude": "122.2969"
+      "latitude": "39.5098",
+      "longitude": "-82.8484"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "ege.kaya@example.com",
+  "email": "arn.sylte@example.com",
   "login": {
-    "uuid": "47dea29d-b512-492a-890b-5a09e95448f0",
-    "username": "sadfrog715",
-    "password": "55555",
-    "salt": "wejMjOYK",
-    "md5": "cdc37325130fa0a958081fbe2b99e3ac",
-    "sha1": "9ae103833be562037a92ed74d522c6a8289f397c",
-    "sha256": "5bf7fe63bb7672da8fec27ca1c52a8a8c039d8bd3127909b8aea242444cfc5ca"
+    "uuid": "1d47cbc5-ea44-4157-84e4-e9e7dad93792",
+    "username": "tinyfrog896",
+    "password": "dalejr",
+    "salt": "3PrrfuCG",
+    "md5": "bc03ee230726fc867eb193b03ad33336",
+    "sha1": "4cd360b29604974f2b0be37c0a018966aba14bd7",
+    "sha256": "4299018b59805974f69b8f53bb9e1741b61e5cc47c1afd89e24ac33cce73ea29"
   },
   "dob": {
-    "date": "1946-02-28T12:34:22.594Z",
-    "age": 79
+    "date": "1977-03-27T12:23:50.344Z",
+    "age": 48
   },
   "registered": {
-    "date": "2013-09-20T02:44:53.528Z",
-    "age": 11
+    "date": "2020-04-08T10:39:56.582Z",
+    "age": 5
   },
-  "phone": "(632)-259-0599",
-  "cell": "(131)-599-9161",
+  "phone": "86862451",
+  "cell": "40167129",
   "id": {
-    "name": "",
-    "value": null
+    "name": "FN",
+    "value": "27037711956"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/85.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/85.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/85.jpg"
+    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
   },
-  "nat": "TR"
+  "nat": "NO"
 }

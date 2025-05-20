@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Clarice",
-    "last": "Barros"
+    "title": "Mrs",
+    "first": "Emma",
+    "last": "Li"
   },
   "location": {
     "street": {
-      "number": 9830,
-      "name": "Rua Castro Alves "
+      "number": 4433,
+      "name": "Manukau Road"
     },
-    "city": "Jacareí",
-    "state": "Rio Grande do Norte",
-    "country": "Brazil",
-    "postcode": 57098,
+    "city": "Napier",
+    "state": "Wellington",
+    "country": "New Zealand",
+    "postcode": 32048,
     "coordinates": {
-      "latitude": "-77.9356",
-      "longitude": "106.6666"
+      "latitude": "55.6987",
+      "longitude": "29.3128"
     },
     "timezone": {
-      "offset": "+1:00",
-      "description": "Brussels, Copenhagen, Madrid, Paris"
+      "offset": "+6:00",
+      "description": "Almaty, Dhaka, Colombo"
     }
   },
-  "email": "clarice.barros@example.com",
+  "email": "emma.li@example.com",
   "login": {
-    "uuid": "21e7f27b-8818-409c-b644-f78066336e00",
-    "username": "crazywolf530",
-    "password": "devo",
-    "salt": "FeGaJWBx",
-    "md5": "7d61e69fcc3a961cee3299de30e0a68f",
-    "sha1": "372d2506917483f6c0788a2d5e0fc74d0f1a31fa",
-    "sha256": "1af90a68f682d9e399671ad233e6a12d04efbff0bdb39916b64300fcbb15d102"
+    "uuid": "477c787e-3266-4a68-a5ca-dcbe950e6dc0",
+    "username": "purpleswan825",
+    "password": "shepherd",
+    "salt": "jyzOxFjv",
+    "md5": "cc88e9de6378b38c209d82040a849d0a",
+    "sha1": "9aec408016c520940cff6ba3a1abe374c9342ced",
+    "sha256": "085d054cc1d731c09f4f4290e46d897466624b3918c85b38ea181aac002737f9"
   },
   "dob": {
-    "date": "1976-07-23T13:53:49.718Z",
-    "age": 48
+    "date": "1985-01-25T17:14:29.926Z",
+    "age": 40
   },
   "registered": {
-    "date": "2003-04-18T07:27:59.872Z",
-    "age": 21
+    "date": "2020-06-25T08:27:59.443Z",
+    "age": 4
   },
-  "phone": "(41) 2390-0969",
-  "cell": "(93) 9626-5939",
+  "phone": "(308)-487-0856",
+  "cell": "(582)-433-5217",
   "id": {
-    "name": "CPF",
-    "value": "125.735.324-58"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+    "large": "https://randomuser.me/api/portraits/women/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
   },
-  "nat": "BR"
+  "nat": "NZ"
 }

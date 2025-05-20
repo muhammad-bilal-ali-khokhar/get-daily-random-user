@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Niva",
-    "last": "Jain"
+    "title": "Mr",
+    "first": "Allen",
+    "last": "Meyer"
   },
   "location": {
     "street": {
-      "number": 7736,
-      "name": "Swargate"
+      "number": 3670,
+      "name": "Cork Street"
     },
-    "city": "Thanjavur",
-    "state": "Daman and Diu",
-    "country": "India",
-    "postcode": 14058,
+    "city": "Carlow",
+    "state": "Kilkenny",
+    "country": "Ireland",
+    "postcode": 85782,
     "coordinates": {
-      "latitude": "11.7030",
-      "longitude": "147.1348"
+      "latitude": "-0.4108",
+      "longitude": "-84.8854"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "niva.jain@example.com",
+  "email": "allen.meyer@example.com",
   "login": {
-    "uuid": "7501cee3-0ea5-479d-bd05-36a363ecb9a0",
-    "username": "goldenduck453",
-    "password": "3006",
-    "salt": "3QtBM2E1",
-    "md5": "60675bafa16b137a6d23d1b8bb807b4b",
-    "sha1": "665dcfffe53a36ae78449315d91763f0bff9224e",
-    "sha256": "d696fe0c6148c8ed9d68ff48db209119807a6b935d6773b4ddf0de3971f7e579"
+    "uuid": "0965126d-777e-41d9-9a7d-8d1368b13860",
+    "username": "lazysnake569",
+    "password": "papers",
+    "salt": "CBE5e1J1",
+    "md5": "7848949c61247044444f2d8767469670",
+    "sha1": "1c80b23f7268e413dbdbe474e5c2f7a38090de3c",
+    "sha256": "205f64032b193cdca48b14b835d5284cdd43ca8f1bd3aad31f59c349c4aabb19"
   },
   "dob": {
-    "date": "1980-11-23T23:01:12.348Z",
-    "age": 44
+    "date": "1993-01-11T03:29:56.770Z",
+    "age": 32
   },
   "registered": {
-    "date": "2006-07-24T05:44:18.563Z",
-    "age": 18
+    "date": "2004-05-24T19:42:28.453Z",
+    "age": 20
   },
-  "phone": "7977560621",
-  "cell": "9309095934",
+  "phone": "031-570-2540",
+  "cell": "081-207-4922",
   "id": {
-    "name": "UIDAI",
-    "value": "119416029100"
+    "name": "PPS",
+    "value": "6054714T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/41.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/41.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/41.jpg"
+    "large": "https://randomuser.me/api/portraits/men/21.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/21.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/21.jpg"
   },
-  "nat": "IN"
+  "nat": "IE"
 }

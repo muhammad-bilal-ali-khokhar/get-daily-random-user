@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Monsieur",
-    "first": "Alain",
-    "last": "Mathieu"
+    "title": "Mr",
+    "first": "Velizar",
+    "last": "Borjan"
   },
   "location": {
     "street": {
-      "number": 3009,
-      "name": "Rue Docteur-Bonhomme"
+      "number": 9669,
+      "name": "Dobrile živanov Stakić"
     },
-    "city": "Mandach",
-    "state": "Glarus",
-    "country": "Switzerland",
-    "postcode": 9786,
+    "city": "Beočin",
+    "state": "Toplica",
+    "country": "Serbia",
+    "postcode": 21237,
     "coordinates": {
-      "latitude": "-62.3709",
-      "longitude": "-7.8361"
+      "latitude": "57.8327",
+      "longitude": "-62.6475"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-5:00",
+      "description": "Eastern Time (US & Canada), Bogota, Lima"
     }
   },
-  "email": "alain.mathieu@example.com",
+  "email": "velizar.borjan@example.com",
   "login": {
-    "uuid": "0a24c85e-1c3a-4521-82b7-d62ff50e702b",
-    "username": "redkoala844",
-    "password": "bluejays",
-    "salt": "gXoPxihq",
-    "md5": "235453fd66897a245fa2ff000ce006b7",
-    "sha1": "0795147a7c31f1c337f5eb5a45727916e50f2a3a",
-    "sha256": "4b89fc8b015c632b2184eda04873c58760de36292dc5c103ea3c8f8be75a204a"
+    "uuid": "d13f21e1-99b3-4075-9be0-4823866def05",
+    "username": "tinybear372",
+    "password": "pokemon",
+    "salt": "LJTnbDuh",
+    "md5": "7cc48c6b2f529fbbf963ce398166db9f",
+    "sha1": "2805fe28c5bed3f998d17952ef35a6564989a321",
+    "sha256": "da50c2983ad06792a82956a4c8bc99f7e7f564f09483c27d35ab515340582a10"
   },
   "dob": {
-    "date": "1968-06-28T10:21:39.228Z",
-    "age": 56
+    "date": "1973-05-13T10:47:14.779Z",
+    "age": 52
   },
   "registered": {
-    "date": "2005-01-18T22:33:05.883Z",
+    "date": "2005-02-03T13:49:15.760Z",
     "age": 20
   },
-  "phone": "076 094 01 60",
-  "cell": "077 741 06 42",
+  "phone": "024-3899-039",
+  "cell": "064-9458-906",
   "id": {
-    "name": "AVS",
-    "value": "756.8410.3356.64"
+    "name": "SID",
+    "value": "676154276"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/94.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/94.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/94.jpg"
+    "large": "https://randomuser.me/api/portraits/men/20.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/20.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/20.jpg"
   },
-  "nat": "CH"
+  "nat": "RS"
 }

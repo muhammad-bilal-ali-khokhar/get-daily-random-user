@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Lucas",
-    "last": "Larsen"
+    "first": "Nathanaël",
+    "last": "Laurent"
   },
   "location": {
     "street": {
-      "number": 4996,
-      "name": "Humlehaven"
+      "number": 6894,
+      "name": "Place de la Mairie"
     },
-    "city": "Stenderup",
-    "state": "Hovedstaden",
-    "country": "Denmark",
-    "postcode": 61298,
+    "city": "Marseille",
+    "state": "Landes",
+    "country": "France",
+    "postcode": 95861,
     "coordinates": {
-      "latitude": "-44.1889",
-      "longitude": "-10.1968"
+      "latitude": "-16.1904",
+      "longitude": "-167.9656"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "lucas.larsen@example.com",
+  "email": "nathanael.laurent@example.com",
   "login": {
-    "uuid": "76d75c49-4363-4d2e-803d-01b956b34bf0",
-    "username": "bluesnake111",
-    "password": "123aaa",
-    "salt": "qmxoZi5W",
-    "md5": "d608e6907e9d54a41bb285cba83f4115",
-    "sha1": "aebc79dbc635422c30845402a91e6409becbedef",
-    "sha256": "0283f91d3d0faec83818044ecee7c03655b24265e771db7a1a6ae3a22633bfe4"
+    "uuid": "b76b478f-12e3-4852-833e-0154cd1bf194",
+    "username": "blueswan109",
+    "password": "cameron1",
+    "salt": "gk6pGuks",
+    "md5": "9db7c7b7d03e5696e85485a12f663bf5",
+    "sha1": "51b9a8fc81faed09b28a70b91e09a75a75355dba",
+    "sha256": "82d69f6dfa3a00277df69d3ac50ac14bf8e88fba0185d7830dc8be91af51ab09"
   },
   "dob": {
-    "date": "1949-07-11T04:32:44.613Z",
+    "date": "1950-03-28T14:32:18.813Z",
     "age": 75
   },
   "registered": {
-    "date": "2016-03-26T06:33:43.489Z",
-    "age": 9
+    "date": "2009-03-23T17:36:10.736Z",
+    "age": 16
   },
-  "phone": "33722790",
-  "cell": "66588833",
+  "phone": "04-80-79-06-32",
+  "cell": "06-57-46-99-11",
   "id": {
-    "name": "CPR",
-    "value": "100749-9038"
+    "name": "INSEE",
+    "value": "1500261407924 17"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/60.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
+    "large": "https://randomuser.me/api/portraits/men/28.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/28.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/28.jpg"
   },
-  "nat": "DK"
+  "nat": "FR"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Celine",
-    "last": "Tønsberg"
+    "title": "Mr",
+    "first": "Mahamed",
+    "last": "Liland"
   },
   "location": {
     "street": {
-      "number": 3684,
-      "name": "Grågåsveien"
+      "number": 9386,
+      "name": "Emil Korsmos vei"
     },
-    "city": "Trondheim",
-    "state": "Oslo",
+    "city": "Geilo",
+    "state": "Nord-Trøndelag",
     "country": "Norway",
-    "postcode": "5215",
+    "postcode": "4316",
     "coordinates": {
-      "latitude": "41.9945",
-      "longitude": "63.7111"
+      "latitude": "46.2539",
+      "longitude": "-118.0694"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "celine.tonsberg@example.com",
+  "email": "mahamed.liland@example.com",
   "login": {
-    "uuid": "3e5f54d9-9357-4451-bc09-0b473d069264",
-    "username": "organicbear765",
-    "password": "1812",
-    "salt": "nwCqvgmW",
-    "md5": "ef5aa9368ad671cd79332e99c41f4084",
-    "sha1": "aad90ca9a74303a77e648628eb4e35afe3122829",
-    "sha256": "b5959abc48f89c2f49f5776f0481d9a74c5e4afbce17530a665bce118cb2c579"
+    "uuid": "977f2374-fb39-49cf-9e57-fa37f4ff3354",
+    "username": "goldenladybug994",
+    "password": "utopia",
+    "salt": "0TnMKW8v",
+    "md5": "b55c279e286f96eacfeefc8a3c3b4378",
+    "sha1": "1e004a789745ac778775897ccc1dae8628783677",
+    "sha256": "939c2b92f1c2145ff0be14155fde0ead3b81c493b13b936395784d5153944bc0"
   },
   "dob": {
-    "date": "1959-06-09T13:17:58.568Z",
-    "age": 65
+    "date": "1982-06-06T17:25:44.762Z",
+    "age": 42
   },
   "registered": {
-    "date": "2011-03-28T17:16:17.872Z",
-    "age": 14
+    "date": "2006-01-07T06:55:27.259Z",
+    "age": 19
   },
-  "phone": "70361420",
-  "cell": "42897590",
+  "phone": "82992132",
+  "cell": "41893360",
   "id": {
     "name": "FN",
-    "value": "09065939069"
+    "value": "06068245727"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
+    "large": "https://randomuser.me/api/portraits/men/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
   },
   "nat": "NO"
 }

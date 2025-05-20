@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Harun",
-    "last": "Sollien"
+    "first": "Rémi",
+    "last": "Gonzalez"
   },
   "location": {
     "street": {
-      "number": 8595,
-      "name": "Myntfunnveien"
+      "number": 8349,
+      "name": "Avenue du Fort-Caire"
     },
-    "city": "Haga",
-    "state": "Vest-Agder",
-    "country": "Norway",
-    "postcode": "2864",
+    "city": "Montpellier",
+    "state": "Haute-Vienne",
+    "country": "France",
+    "postcode": 71531,
     "coordinates": {
-      "latitude": "42.0326",
-      "longitude": "-27.6026"
+      "latitude": "-21.1821",
+      "longitude": "-18.4017"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "harun.sollien@example.com",
+  "email": "remi.gonzalez@example.com",
   "login": {
-    "uuid": "5cbd93e0-f2a4-4fbd-90b2-1df7adb284ac",
-    "username": "saddog177",
-    "password": "7779311",
-    "salt": "8lPq0U1e",
-    "md5": "b439f53f6470c1f651d2d57ddc604a79",
-    "sha1": "b7dd4b97ec859ebf46f421eadf2dba414ad9e051",
-    "sha256": "95255c7ebbf962d368704b9c498e696c6791325f6a1e57a709b77dcdce0ba581"
+    "uuid": "d6dd186a-7f2a-4e6e-bfc7-7c1aad5b7260",
+    "username": "smallladybug539",
+    "password": "working",
+    "salt": "E7kP6y3E",
+    "md5": "8ae361571f11111f5153b395bbd08aff",
+    "sha1": "d3a81d3695d9cefde37e409819f103f7f2c868f3",
+    "sha256": "b2b2af894e2850ff4be2cd90b38d9d3184fa3d5978cf785f565a3ad23ab2a27d"
   },
   "dob": {
-    "date": "1990-10-28T18:51:36.805Z",
-    "age": 34
+    "date": "1989-01-03T22:08:03.005Z",
+    "age": 36
   },
   "registered": {
-    "date": "2021-12-12T11:58:24.090Z",
-    "age": 3
+    "date": "2004-03-09T02:32:51.105Z",
+    "age": 21
   },
-  "phone": "68715267",
-  "cell": "95392428",
+  "phone": "04-83-74-14-08",
+  "cell": "06-08-45-07-99",
   "id": {
-    "name": "FN",
-    "value": "28109043992"
+    "name": "INSEE",
+    "value": "1890011589914 85"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/47.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/47.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/47.jpg"
+    "large": "https://randomuser.me/api/portraits/men/66.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/66.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/66.jpg"
   },
-  "nat": "NO"
+  "nat": "FR"
 }

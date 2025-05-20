@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Goran",
-    "last": "Žigić"
+    "title": "Madame",
+    "first": "Ariana",
+    "last": "Fabre"
   },
   "location": {
     "street": {
-      "number": 7488,
-      "name": "Jelene Kon "
+      "number": 7215,
+      "name": "Rue du Bât-D'Argent"
     },
-    "city": "Vršac",
-    "state": "Moravica",
-    "country": "Serbia",
-    "postcode": 33488,
+    "city": "Saxon",
+    "state": "Neuchâtel",
+    "country": "Switzerland",
+    "postcode": 1864,
     "coordinates": {
-      "latitude": "55.7634",
-      "longitude": "-119.8481"
+      "latitude": "-62.9671",
+      "longitude": "61.8517"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "goran.zigic@example.com",
+  "email": "ariana.fabre@example.com",
   "login": {
-    "uuid": "4fdb5f54-5aeb-4a78-ba8c-f919600c8ccd",
-    "username": "orangerabbit989",
-    "password": "nnnnnn",
-    "salt": "uO5SNBF7",
-    "md5": "4a3dcc72bbe0a856f8d5bc38dfc9fc12",
-    "sha1": "6e1a4adb40f1aadd45f608ceac73506886cb0546",
-    "sha256": "f7874d7d32844db0c6526bdaf8b39f3d44f7894cf27371d7b5bb8a3f85900ec5"
+    "uuid": "1424bcc7-3e2a-4a8f-a074-909a0a154471",
+    "username": "crazylion104",
+    "password": "jayson",
+    "salt": "3jPNG7Ob",
+    "md5": "7d1303ee12a3b37de4db0388df8a4297",
+    "sha1": "6f987a1e8e5056f1db7bb2c12ec342ee87c746b9",
+    "sha256": "10c8b1012d908330b524f539d68840406aeb76b211a45583025aaa862e1cee80"
   },
   "dob": {
-    "date": "1977-01-25T20:10:13.747Z",
+    "date": "1977-03-19T01:40:34.958Z",
     "age": 48
   },
   "registered": {
-    "date": "2004-03-19T17:08:50.646Z",
-    "age": 21
+    "date": "2014-12-04T05:18:17.902Z",
+    "age": 10
   },
-  "phone": "020-0858-789",
-  "cell": "065-8753-795",
+  "phone": "076 224 14 39",
+  "cell": "079 130 86 96",
   "id": {
-    "name": "SID",
-    "value": "058226037"
+    "name": "AVS",
+    "value": "756.4060.2366.43"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/58.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+    "large": "https://randomuser.me/api/portraits/women/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
   },
-  "nat": "RS"
+  "nat": "CH"
 }

@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Miss",
-    "first": "Vilma",
-    "last": "Shala"
+    "first": "Lea",
+    "last": "Lo"
   },
   "location": {
     "street": {
-      "number": 493,
-      "name": "Skoleveien"
+      "number": 1181,
+      "name": "Grand Marais Ave"
     },
-    "city": "Vardø",
-    "state": "Hedmark",
-    "country": "Norway",
-    "postcode": "1376",
+    "city": "Hampstead",
+    "state": "New Brunswick",
+    "country": "Canada",
+    "postcode": "T9U 4F5",
     "coordinates": {
-      "latitude": "46.4896",
-      "longitude": "70.2726"
+      "latitude": "-65.5695",
+      "longitude": "116.5228"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "vilma.shala@example.com",
+  "email": "lea.lo@example.com",
   "login": {
-    "uuid": "fb100ce5-01c9-46b5-9bd9-71cd4e05964f",
-    "username": "purpleladybug158",
-    "password": "steven1",
-    "salt": "hWJzUwZQ",
-    "md5": "0e667c5f3979c6af7b698e08e2e8c985",
-    "sha1": "e44a865845fe8ba7d09c491f5e83b1f9978bedc3",
-    "sha256": "d13fffdd73fc6f0c424d8c274f75a9e227900327aaed87fd0fca7eaf42d41eea"
+    "uuid": "a92f1863-3985-4433-9c68-31a75d3ae9dc",
+    "username": "orangeduck176",
+    "password": "gizmo",
+    "salt": "LFtsom1V",
+    "md5": "96ad49eaa0c1f1c4c07e97a9e66bfb8e",
+    "sha1": "a158657a447c246dff3b585eca72e759ee66ffe9",
+    "sha256": "6da140317e1c15ab6d25fd0ec9e33b289d604550633290b0fcff7602027b3d42"
   },
   "dob": {
-    "date": "1990-08-09T08:00:59.974Z",
-    "age": 34
+    "date": "1982-10-01T19:52:12.440Z",
+    "age": 42
   },
   "registered": {
-    "date": "2018-12-14T21:48:14.888Z",
-    "age": 6
+    "date": "2011-02-10T07:13:04.900Z",
+    "age": 14
   },
-  "phone": "80353293",
-  "cell": "45396663",
+  "phone": "V26 X68-7845",
+  "cell": "U97 U42-4117",
   "id": {
-    "name": "FN",
-    "value": "09089012403"
+    "name": "SIN",
+    "value": "136159456"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    "large": "https://randomuser.me/api/portraits/women/34.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
   },
-  "nat": "NO"
+  "nat": "CA"
 }

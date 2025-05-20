@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Bertram",
-    "last": "Christiansen"
+    "title": "Monsieur",
+    "first": "Stephan",
+    "last": "Roy"
   },
   "location": {
     "street": {
-      "number": 2887,
-      "name": "Æblevænget"
+      "number": 913,
+      "name": "Place des 44 Enfants D'Izieu"
     },
-    "city": "Stokkemarke",
-    "state": "Nordjylland",
-    "country": "Denmark",
-    "postcode": 45877,
+    "city": "Malters",
+    "state": "Uri",
+    "country": "Switzerland",
+    "postcode": 6668,
     "coordinates": {
-      "latitude": "-44.5797",
-      "longitude": "-10.4005"
+      "latitude": "-63.2202",
+      "longitude": "-104.7495"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "bertram.christiansen@example.com",
+  "email": "stephan.roy@example.com",
   "login": {
-    "uuid": "2224fd96-6c65-48ea-9c19-1ed57a0c4cf2",
-    "username": "beautifullion210",
-    "password": "rollins",
-    "salt": "AVxxF3Mw",
-    "md5": "b6c6ceda21bc41993d0ce1330e13b924",
-    "sha1": "ccdda0faa85096f49fa2d1f9297abca181daab49",
-    "sha256": "a82d85ee593881b7f862220e3390510dc8092e2364f3d05cfc9d69e7514f8c2c"
+    "uuid": "ef4148df-1381-4c60-a730-7a6fa816b99c",
+    "username": "brownbear538",
+    "password": "john",
+    "salt": "gnHhVza5",
+    "md5": "ce64ac34363f50bc311a2e33d53d368c",
+    "sha1": "e53dee228401fc6d5387af08a8b51c80b108c0ff",
+    "sha256": "e35a97c4038c94076f3a1eb84e1512bbd296f2f982d5950c8e695b2624a18a8c"
   },
   "dob": {
-    "date": "1997-01-20T23:55:05.898Z",
-    "age": 28
+    "date": "1983-01-18T11:14:58.276Z",
+    "age": 42
   },
   "registered": {
-    "date": "2019-02-06T19:32:50.285Z",
-    "age": 6
+    "date": "2010-07-27T10:02:59.357Z",
+    "age": 14
   },
-  "phone": "46072791",
-  "cell": "16524424",
+  "phone": "077 137 55 78",
+  "cell": "076 851 52 12",
   "id": {
-    "name": "CPR",
-    "value": "200197-2877"
+    "name": "AVS",
+    "value": "756.4074.5909.56"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/34.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/34.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/34.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "DK"
+  "nat": "CH"
 }

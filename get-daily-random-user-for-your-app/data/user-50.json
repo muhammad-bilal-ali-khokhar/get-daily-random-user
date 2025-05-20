@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Sebastian",
-    "last": "Robinson"
+    "first": "R",
+    "last": "Verveer"
   },
   "location": {
     "street": {
-      "number": 7115,
-      "name": "Walton Street"
+      "number": 9905,
+      "name": "Bommersheufsestraat"
     },
-    "city": "Palmerston North",
-    "state": "Hawke'S Bay",
-    "country": "New Zealand",
-    "postcode": 55074,
+    "city": "Veeningen",
+    "state": "Overijssel",
+    "country": "Netherlands",
+    "postcode": "4456 QK",
     "coordinates": {
-      "latitude": "53.6686",
-      "longitude": "-15.7707"
+      "latitude": "34.2578",
+      "longitude": "-167.8179"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "sebastian.robinson@example.com",
+  "email": "r.verveer@example.com",
   "login": {
-    "uuid": "e99bf948-0aeb-4f45-97d4-98a912a06323",
-    "username": "smallfish652",
-    "password": "jacob",
-    "salt": "bN5T0rvL",
-    "md5": "12b6c7705ad216f2ccd1ddbba9442f80",
-    "sha1": "f5c78b4e8ca426fd72a31bb767692a78a35678e3",
-    "sha256": "2828364ed120a0b296edab21c9813942724ef4de0b50ee1d2606d5a39e9938bf"
+    "uuid": "beef2dba-1327-42c3-845d-5ee21a087e31",
+    "username": "greensnake435",
+    "password": "connor",
+    "salt": "dplCiXot",
+    "md5": "1177b0f6a16e2c6daedd09012acabc1f",
+    "sha1": "b59956030eee621e61b9ad651b35c7c24f01c7ee",
+    "sha256": "703810f87599b68a5d6a9206b2d77e762b4e6e553622bf151c16a8e914a5c7ea"
   },
   "dob": {
-    "date": "1976-02-16T04:32:48.960Z",
-    "age": 49
+    "date": "1997-01-03T04:42:59.546Z",
+    "age": 28
   },
   "registered": {
-    "date": "2015-02-25T00:56:15.920Z",
-    "age": 10
+    "date": "2020-03-17T02:24:16.129Z",
+    "age": 5
   },
-  "phone": "(016)-032-1238",
-  "cell": "(696)-098-2052",
+  "phone": "(0751) 269765",
+  "cell": "(06) 76411889",
   "id": {
-    "name": "",
-    "value": null
+    "name": "BSN",
+    "value": "72818170"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/56.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/56.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/56.jpg"
+    "large": "https://randomuser.me/api/portraits/men/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/13.jpg"
   },
-  "nat": "NZ"
+  "nat": "NL"
 }

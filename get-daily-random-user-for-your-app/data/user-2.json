@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Karina",
-    "last": "Escalante"
+    "title": "Mr",
+    "first": "Philippe",
+    "last": "Walker"
   },
   "location": {
     "street": {
-      "number": 2255,
-      "name": "Andador Jamaica"
+      "number": 6695,
+      "name": "King St"
     },
-    "city": "San Miguel El Alto",
-    "state": "Sinaloa",
-    "country": "Mexico",
-    "postcode": 39955,
+    "city": "Trenton",
+    "state": "Québec",
+    "country": "Canada",
+    "postcode": "W2J 4U0",
     "coordinates": {
-      "latitude": "23.9735",
-      "longitude": "66.0213"
+      "latitude": "-71.0041",
+      "longitude": "-25.2909"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "karina.escalante@example.com",
+  "email": "philippe.walker@example.com",
   "login": {
-    "uuid": "946d31bc-5b86-46f6-9e38-852eb1a84307",
-    "username": "lazyleopard387",
-    "password": "chelsea",
-    "salt": "QHAx7AM4",
-    "md5": "613d0cc98aa2b44f25d0f89f7dd5bcf7",
-    "sha1": "b70f1454d71c47e45a68aa6fd8636a5d762de50d",
-    "sha256": "f7af407ddb6d3ccd98a17a825961ab835b26c07c6c8a266028328bf0522829be"
+    "uuid": "ceca8ed9-bdbd-46cb-890d-2d6ca308fb74",
+    "username": "angrysnake241",
+    "password": "matthew",
+    "salt": "S3Q1yXTr",
+    "md5": "c22bf6b3c8f42ea4feeabdc3613f78f2",
+    "sha1": "5e7c20628423ef71d2ef8d462e644e0df39c0ef7",
+    "sha256": "711b81a69228904d91e48c86075a3f9507b2ce8c54595c6eaf4f73c3a192ddb0"
   },
   "dob": {
-    "date": "1954-12-10T17:22:44.827Z",
-    "age": 70
+    "date": "1990-11-02T05:54:31.858Z",
+    "age": 34
   },
   "registered": {
-    "date": "2020-09-28T23:07:58.043Z",
-    "age": 4
+    "date": "2010-06-16T11:34:55.502Z",
+    "age": 14
   },
-  "phone": "(606) 522 0493",
-  "cell": "(628) 401 2559",
+  "phone": "R20 O97-4265",
+  "cell": "W49 K87-5849",
   "id": {
-    "name": "NSS",
-    "value": "64 48 45 5282 9"
+    "name": "SIN",
+    "value": "388632275"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    "large": "https://randomuser.me/api/portraits/men/80.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/80.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/80.jpg"
   },
-  "nat": "MX"
+  "nat": "CA"
 }
