@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Ava",
-    "last": "Roy"
+    "title": "Mr",
+    "first": "Braxton",
+    "last": "Cooper"
   },
   "location": {
     "street": {
-      "number": 5849,
-      "name": "Main St"
+      "number": 7263,
+      "name": "Grey Street"
     },
-    "city": "Hudson",
-    "state": "Ontario",
-    "country": "Canada",
-    "postcode": "D2B 3P4",
+    "city": "Greymouth",
+    "state": "Auckland",
+    "country": "New Zealand",
+    "postcode": 50951,
     "coordinates": {
-      "latitude": "-71.5534",
-      "longitude": "44.6050"
+      "latitude": "50.2254",
+      "longitude": "-17.8067"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "ava.roy@example.com",
+  "email": "braxton.cooper@example.com",
   "login": {
-    "uuid": "2cc4997a-c2d6-4027-8a22-c933cd7cdea6",
-    "username": "blackrabbit608",
-    "password": "browning",
-    "salt": "iZzbjCcO",
-    "md5": "74c04e7cbee8d3ccdc15266c9650ace4",
-    "sha1": "1bfac393aae6ec3631441feaec8730cfc33c4539",
-    "sha256": "76f9ed1cf68db0e33ac10698e983920cd87d18f4a6a76a97384a83d77e1afba0"
+    "uuid": "21eb5307-1eba-4ecc-bf8b-230ec9e05260",
+    "username": "orangepanda229",
+    "password": "warthog",
+    "salt": "f4SO6XV0",
+    "md5": "da8f6d0c602ee4a97b9ecbae8d2b1aeb",
+    "sha1": "fb6c3351b383788a88472a044c4dfcce5271ba92",
+    "sha256": "eb8460e55c21d51b5e3b8ca9edc8736522b4f3ac61aa96e74e973440fc17b27b"
   },
   "dob": {
-    "date": "1956-08-28T11:01:56.839Z",
-    "age": 68
+    "date": "1956-04-24T17:40:10.953Z",
+    "age": 69
   },
   "registered": {
-    "date": "2007-03-23T20:59:00.363Z",
-    "age": 18
+    "date": "2003-04-13T02:48:46.663Z",
+    "age": 22
   },
-  "phone": "V47 V86-3592",
-  "cell": "J01 G59-6879",
+  "phone": "(769)-031-3032",
+  "cell": "(183)-403-7459",
   "id": {
-    "name": "SIN",
-    "value": "088845516"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/77.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+    "large": "https://randomuser.me/api/portraits/men/89.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
   },
-  "nat": "CA"
+  "nat": "NZ"
 }

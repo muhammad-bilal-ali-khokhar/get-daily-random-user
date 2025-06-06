@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Mila",
-    "last": "Moore"
+    "title": "Mr",
+    "first": "Carlos",
+    "last": "Delgado"
   },
   "location": {
     "street": {
-      "number": 7603,
-      "name": "Victoria Road"
+      "number": 9177,
+      "name": "Cerrada Madrigal"
     },
-    "city": "Hamilton",
-    "state": "Taranaki",
-    "country": "New Zealand",
-    "postcode": 22065,
+    "city": "Alfredo V. Bonfil",
+    "state": "Nayarit",
+    "country": "Mexico",
+    "postcode": 31954,
     "coordinates": {
-      "latitude": "48.6212",
-      "longitude": "157.5953"
+      "latitude": "26.6133",
+      "longitude": "-2.4822"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "mila.moore@example.com",
+  "email": "carlos.delgado@example.com",
   "login": {
-    "uuid": "a8cece4b-226f-4ef4-9d96-9f5547c57c98",
-    "username": "greenlion987",
-    "password": "mulder",
-    "salt": "lA759tf2",
-    "md5": "cd716b7ed2fd0e8567f7d9983a7d05d2",
-    "sha1": "76f3623f50b2a7cfce9498628a484b70cc38d824",
-    "sha256": "454b1f066c16ee7654ff0902a2a7318e3bad7311d87a4c3ce9b391aa67e90120"
+    "uuid": "24fe5083-4f02-478b-bfbf-87829a6b991e",
+    "username": "sadwolf596",
+    "password": "wishbone",
+    "salt": "p9biEGRm",
+    "md5": "dd7798498db8ca09fc028d3c9a996744",
+    "sha1": "11025fb5980aed81fd61cc2256529d721de19851",
+    "sha256": "99ed5c65656e0147d93f40a652624b9dafb41525c9dee8e8f085c3315b28c95a"
   },
   "dob": {
-    "date": "1964-05-10T20:56:49.321Z",
-    "age": 61
+    "date": "1971-12-06T02:16:04.209Z",
+    "age": 53
   },
   "registered": {
-    "date": "2008-11-09T07:55:28.344Z",
-    "age": 16
+    "date": "2013-07-21T18:26:39.764Z",
+    "age": 11
   },
-  "phone": "(473)-476-5814",
-  "cell": "(974)-003-6107",
+  "phone": "(656) 476 6099",
+  "cell": "(698) 279 8166",
   "id": {
-    "name": "",
-    "value": null
+    "name": "NSS",
+    "value": "13 33 47 4532 0"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/24.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+    "large": "https://randomuser.me/api/portraits/men/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
   },
-  "nat": "NZ"
+  "nat": "MX"
 }

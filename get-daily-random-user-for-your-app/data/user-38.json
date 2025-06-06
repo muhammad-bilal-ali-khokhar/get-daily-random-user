@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Julia",
-    "last": "French"
+    "first": "Nika",
+    "last": "Kostenko"
   },
   "location": {
     "street": {
-      "number": 8384,
-      "name": "Park Rd"
+      "number": 7451,
+      "name": "Salskiy provulok"
     },
-    "city": "Sutton",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "M8V 2L8",
+    "city": "Mikolayiv",
+    "state": "Donecka",
+    "country": "Ukraine",
+    "postcode": 82347,
     "coordinates": {
-      "latitude": "-69.8663",
-      "longitude": "148.1272"
+      "latitude": "73.2651",
+      "longitude": "67.8914"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "julia.french@example.com",
+  "email": "nika.kostenko@example.com",
   "login": {
-    "uuid": "9475dad3-b8de-4e2b-b68b-80f3a0351afc",
-    "username": "silverlion147",
-    "password": "kenworth",
-    "salt": "I136iSQz",
-    "md5": "e7becba5e1873dd8a8d8c3e3a739c2d4",
-    "sha1": "aae9a0396705f915ad3314cfc4c4f3587e46a7ca",
-    "sha256": "422574abe00abf1eeca5267ca5ff08d7fb600b9e5a0ebc8fb08f5b9c31412245"
+    "uuid": "96aabc82-c2b2-4985-aae7-ed828ea34b90",
+    "username": "heavyswan868",
+    "password": "threesom",
+    "salt": "hTlJIwAP",
+    "md5": "3fc0a5b2485795cd5d2d202f9514d7fd",
+    "sha1": "f6d12736741809279f0ad5a5cb7ab75c1461905f",
+    "sha256": "b62873caf93edcee11e4d35f8f0f47fcd50fd6463e7f07c3a80e3ae428a6d5f3"
   },
   "dob": {
-    "date": "1998-09-30T11:30:19.314Z",
-    "age": 26
+    "date": "1975-06-20T09:32:52.269Z",
+    "age": 49
   },
   "registered": {
-    "date": "2007-02-01T01:40:07.164Z",
-    "age": 18
+    "date": "2004-11-24T11:38:58.390Z",
+    "age": 20
   },
-  "phone": "A13 C69-7706",
-  "cell": "D61 Y38-9997",
+  "phone": "(099) Q22-6508",
+  "cell": "(096) K26-1324",
   "id": {
-    "name": "SIN",
-    "value": "200623783"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/66.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/66.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/66.jpg"
+    "large": "https://randomuser.me/api/portraits/women/54.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
   },
-  "nat": "CA"
+  "nat": "UA"
 }

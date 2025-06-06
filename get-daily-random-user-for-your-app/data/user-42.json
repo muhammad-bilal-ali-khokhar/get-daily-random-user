@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Zoe",
-    "last": "Scott"
+    "title": "Mr",
+    "first": "Justin",
+    "last": "Côté"
   },
   "location": {
     "street": {
-      "number": 1407,
+      "number": 66,
       "name": "Regent Ave"
     },
-    "city": "Flatrock",
-    "state": "Ontario",
+    "city": "Notre Dame de Lourdes",
+    "state": "Prince Edward Island",
     "country": "Canada",
-    "postcode": "J5R 1S4",
+    "postcode": "K5A 9N4",
     "coordinates": {
-      "latitude": "-65.1375",
-      "longitude": "69.8167"
+      "latitude": "-66.3103",
+      "longitude": "-31.3801"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "zoe.scott@example.com",
+  "email": "justin.cote@example.com",
   "login": {
-    "uuid": "fd482c5a-bf0f-46b8-b4d0-17e8d0382898",
-    "username": "beautifulbird523",
-    "password": "stefano",
-    "salt": "7d0xRGBq",
-    "md5": "8711e1e553158a9b8fe54dae1fa6a88d",
-    "sha1": "0b5acf391007d55b50b49d368bb9ef9d5f24d44d",
-    "sha256": "54ccc411d32f8f13f5246b6d396a320633e6738c1bb700e6fdb57aaa66034aed"
+    "uuid": "8380c9be-f74c-4e6a-b7a5-562521766769",
+    "username": "purplefrog405",
+    "password": "jamesbond",
+    "salt": "7CsW6yN7",
+    "md5": "1c6f46a2fe433f798a4f0d1831c39285",
+    "sha1": "23c4a32455f30a5db51fda042f9c88e58aa283ce",
+    "sha256": "8556c4a3cc1e17a1d2eeeb684e2f0d5ecc33298a79c481da8d80002011728a6f"
   },
   "dob": {
-    "date": "1997-02-04T09:26:28.794Z",
-    "age": 28
+    "date": "1968-05-27T20:59:34.768Z",
+    "age": 57
   },
   "registered": {
-    "date": "2013-01-04T07:34:52.975Z",
-    "age": 12
+    "date": "2005-11-02T21:20:32.276Z",
+    "age": 19
   },
-  "phone": "B25 E56-5290",
-  "cell": "W90 W39-1696",
+  "phone": "D14 L44-4607",
+  "cell": "M76 O53-5337",
   "id": {
     "name": "SIN",
-    "value": "177234358"
+    "value": "113621254"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/79.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/79.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/79.jpg"
+    "large": "https://randomuser.me/api/portraits/men/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/32.jpg"
   },
   "nat": "CA"
 }

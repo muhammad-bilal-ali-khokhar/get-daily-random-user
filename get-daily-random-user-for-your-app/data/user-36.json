@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Sam",
-    "last": "Ramirez"
+    "first": "Eduartino",
+    "last": "das Neves"
   },
   "location": {
     "street": {
-      "number": 1560,
-      "name": "Park Lane"
+      "number": 4777,
+      "name": "Rua Pernambuco "
     },
-    "city": "Coventry",
-    "state": "Worcestershire",
-    "country": "United Kingdom",
-    "postcode": "SE9K 2UT",
+    "city": "Araguaína",
+    "state": "Espírito Santo",
+    "country": "Brazil",
+    "postcode": 44798,
     "coordinates": {
-      "latitude": "-12.6809",
-      "longitude": "-51.0216"
+      "latitude": "-77.7269",
+      "longitude": "-172.5651"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "sam.ramirez@example.com",
+  "email": "eduartino.dasneves@example.com",
   "login": {
-    "uuid": "db3294f2-6947-4e8c-b98d-d25390d57f7c",
-    "username": "lazysnake867",
-    "password": "market",
-    "salt": "zMpE6FXo",
-    "md5": "47bc185c7ee5a1b627eba0a2dbd9bad5",
-    "sha1": "a57cdfd331895bcb8f5640305692c5b4a4159094",
-    "sha256": "54a59804c18e0dacd8e38a82af5ea1bc182b7ef2906cd1f981ee57c33963c996"
+    "uuid": "55d78046-a9e6-4a7f-8ca9-45099d71ee7d",
+    "username": "purplemeercat341",
+    "password": "roger",
+    "salt": "PJ5ANB0b",
+    "md5": "375f86083dd821e2262c622898d55935",
+    "sha1": "32bcdc137cc4f0ff80c30b32b0c8b45ffeb45fdc",
+    "sha256": "c53e457b0ff871d0e0cec5c18954a1132225b5bf0cd4a35d4381b6c8f66afe42"
   },
   "dob": {
-    "date": "1955-03-12T05:31:45.977Z",
-    "age": 70
+    "date": "1965-10-25T10:53:14.101Z",
+    "age": 59
   },
   "registered": {
-    "date": "2008-09-30T15:19:50.024Z",
-    "age": 16
+    "date": "2002-11-10T12:08:59.467Z",
+    "age": 22
   },
-  "phone": "016973 40422",
-  "cell": "07225 356037",
+  "phone": "(68) 4099-4852",
+  "cell": "(98) 3165-2724",
   "id": {
-    "name": "NINO",
-    "value": "NR 28 14 19 O"
+    "name": "CPF",
+    "value": "334.910.590-05"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/19.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/19.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/19.jpg"
+    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
   },
-  "nat": "GB"
+  "nat": "BR"
 }

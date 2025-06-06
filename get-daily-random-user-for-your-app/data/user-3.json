@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "مهرسا",
-    "last": "نكو نظر"
+    "title": "Mr",
+    "first": "Hudson",
+    "last": "Margaret"
   },
   "location": {
     "street": {
-      "number": 5227,
-      "name": "میدان قیام"
+      "number": 3999,
+      "name": "George St"
     },
-    "city": "زاهدان",
-    "state": "اصفهان",
-    "country": "Iran",
-    "postcode": 21555,
+    "city": "Red Rock",
+    "state": "Northwest Territories",
+    "country": "Canada",
+    "postcode": "A6C 6N7",
     "coordinates": {
-      "latitude": "18.9849",
-      "longitude": "6.1760"
+      "latitude": "-68.3752",
+      "longitude": "-39.8206"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "mhrs.nkwnzr@example.com",
+  "email": "hudson.margaret@example.com",
   "login": {
-    "uuid": "bc3a8c71-2a0a-46e5-922e-d48588215b17",
-    "username": "tinysnake361",
-    "password": "binladen",
-    "salt": "QbNx3vtj",
-    "md5": "b3ca45f8c8fa4dbb704faf20bb97229b",
-    "sha1": "f452c6f2167c7ce9dbf81ef13a753e5e9022e5db",
-    "sha256": "7a8f4a8648b633584f84e034c5e40f069a2e1ded0c5094a95725ef85c38ec8af"
+    "uuid": "6a467a6f-3c20-40e9-b14b-b73454942cd2",
+    "username": "crazypanda747",
+    "password": "andersen",
+    "salt": "mXicd4KB",
+    "md5": "f3c4082bd949f3a9321bc91711f7aba4",
+    "sha1": "77de3e9c8871b0b93bf78e8354a48307ab395ae7",
+    "sha256": "31b0df874cc53c65f4b4ee322254c6d3e0e6cbe995b995994e688ba11165c597"
   },
   "dob": {
-    "date": "1973-04-21T16:59:59.327Z",
-    "age": 52
+    "date": "1970-04-08T19:49:16.397Z",
+    "age": 55
   },
   "registered": {
-    "date": "2008-08-10T11:31:45.715Z",
-    "age": 16
+    "date": "2007-03-15T03:15:02.573Z",
+    "age": 18
   },
-  "phone": "051-03714702",
-  "cell": "0959-925-0697",
+  "phone": "J25 G17-8181",
+  "cell": "P02 W20-3126",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "294801956"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/52.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
   },
-  "nat": "IR"
+  "nat": "CA"
 }

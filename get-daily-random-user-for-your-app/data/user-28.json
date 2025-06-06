@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Zemislav",
-    "last": "Hudyak"
+    "first": "Davide",
+    "last": "Araújo"
   },
   "location": {
     "street": {
-      "number": 4376,
-      "name": "Grigorovicha"
+      "number": 10,
+      "name": "Rua Santa Maria "
     },
-    "city": "Gayvoron",
-    "state": "Zaporizka",
-    "country": "Ukraine",
-    "postcode": 46619,
+    "city": "Birigüi",
+    "state": "São Paulo",
+    "country": "Brazil",
+    "postcode": 90165,
     "coordinates": {
-      "latitude": "76.3004",
-      "longitude": "-148.4575"
+      "latitude": "-78.1529",
+      "longitude": "-179.5841"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "zemislav.hudyak@example.com",
+  "email": "davide.araujo@example.com",
   "login": {
-    "uuid": "6ed74346-57f5-4ef8-9753-282844a2712c",
-    "username": "greendog258",
-    "password": "jess",
-    "salt": "vE8t30IJ",
-    "md5": "017658814266613f34e22a26510dca9a",
-    "sha1": "8d2dd329d58fc7f8fa4b79ae67ab038aba69af88",
-    "sha256": "87423338d5e4852bf91e55e9e42bc11db24e23f99b88f9cd21ed9fa18d109219"
+    "uuid": "4090a2fe-1cf0-49dc-8f1b-c73f41fbc8bd",
+    "username": "bigpeacock810",
+    "password": "vince",
+    "salt": "fX9bK3XG",
+    "md5": "13dfb8fbc189b9a8cbf54001422639fe",
+    "sha1": "3a6874f5830a81e78109781756eb10ae0cd24083",
+    "sha256": "5ff4b8cf07581aae5691161d210083340e011cb756eace8482bbcdd5c7f67a9f"
   },
   "dob": {
-    "date": "1976-04-11T12:06:07.842Z",
-    "age": 49
+    "date": "1970-12-19T17:06:02.629Z",
+    "age": 54
   },
   "registered": {
-    "date": "2005-07-04T18:03:32.388Z",
+    "date": "2006-01-14T20:21:22.754Z",
     "age": 19
   },
-  "phone": "(068) H61-4018",
-  "cell": "(067) E59-2028",
+  "phone": "(21) 9785-7833",
+  "cell": "(02) 3200-9002",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "117.934.637-55"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/51.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/51.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/51.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "UA"
+  "nat": "BR"
 }

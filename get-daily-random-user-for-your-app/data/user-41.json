@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Sofija",
-    "last": "Tešić"
+    "title": "Mr",
+    "first": "Shaun",
+    "last": "Lopez"
   },
   "location": {
     "street": {
-      "number": 8251,
-      "name": "Belopoljska"
+      "number": 9081,
+      "name": "High Street"
     },
-    "city": "Bogatić",
-    "state": "North Bačka",
-    "country": "Serbia",
-    "postcode": 12257,
+    "city": "Portsmouth",
+    "state": "North Yorkshire",
+    "country": "United Kingdom",
+    "postcode": "H46 8XB",
     "coordinates": {
-      "latitude": "62.5137",
-      "longitude": "33.3615"
+      "latitude": "-6.1841",
+      "longitude": "-65.6601"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "sofija.tesic@example.com",
+  "email": "shaun.lopez@example.com",
   "login": {
-    "uuid": "cd3dd127-017a-48ae-bc7d-cea05c797d9b",
-    "username": "smallrabbit915",
-    "password": "hogtied",
-    "salt": "gCPFN6EX",
-    "md5": "e5b587987a09342fd347a14f4984270e",
-    "sha1": "10fabac11fb2b86ad46b98fbef2287ba69555102",
-    "sha256": "f3ad27aa481212e1ae293c7a76e7108598f96245075b8c448651700ed30b6249"
+    "uuid": "d89e4aa9-4183-4d11-85f1-7c56c5c0d75d",
+    "username": "yellowbutterfly501",
+    "password": "esther",
+    "salt": "qgFnZfes",
+    "md5": "1d571857fbf1b3fd07864a61cfffd3fe",
+    "sha1": "1a86acfd37d079d1a0c59c9af9d1234f4040eda5",
+    "sha256": "50087089054344ba1a73b6fc847f8232081f8a851f1e4fcf60990e819939e574"
   },
   "dob": {
-    "date": "1980-03-03T14:00:37.399Z",
-    "age": 45
+    "date": "1989-12-25T09:45:05.895Z",
+    "age": 35
   },
   "registered": {
-    "date": "2002-11-23T08:15:30.560Z",
-    "age": 22
+    "date": "2009-02-12T06:50:33.320Z",
+    "age": 16
   },
-  "phone": "034-6485-776",
-  "cell": "062-0105-979",
+  "phone": "015395 89162",
+  "cell": "07798 349628",
   "id": {
-    "name": "SID",
-    "value": "271174165"
+    "name": "NINO",
+    "value": "OX 34 08 71 I"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/35.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/35.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/35.jpg"
+    "large": "https://randomuser.me/api/portraits/men/37.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/37.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/37.jpg"
   },
-  "nat": "RS"
+  "nat": "GB"
 }

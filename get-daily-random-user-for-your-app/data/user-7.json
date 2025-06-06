@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "نیایش",
-    "last": "جعفری"
+    "title": "Mr",
+    "first": "Miron",
+    "last": "Kiriienko"
   },
   "location": {
     "street": {
-      "number": 3588,
-      "name": "استاد نجات‌اللهی"
+      "number": 6424,
+      "name": "Holodnoyarska"
     },
-    "city": "قائم‌شهر",
-    "state": "تهران",
-    "country": "Iran",
-    "postcode": 61746,
+    "city": "Verhnodniprovsk",
+    "state": "Luganska",
+    "country": "Ukraine",
+    "postcode": 60825,
     "coordinates": {
-      "latitude": "20.8203",
-      "longitude": "41.7035"
+      "latitude": "80.7563",
+      "longitude": "-170.5496"
     },
     "timezone": {
-      "offset": "-3:00",
-      "description": "Brazil, Buenos Aires, Georgetown"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "nyysh.jaafry@example.com",
+  "email": "miron.kiriienko@example.com",
   "login": {
-    "uuid": "c14551a3-9e0a-40e1-9a74-c031b086480d",
-    "username": "goldenpeacock112",
-    "password": "islander",
-    "salt": "4cNa5etM",
-    "md5": "917bf3ab63b30961dadb6ce33336490b",
-    "sha1": "da54bd0af4c415d767bd5c0bb9af10b00189333e",
-    "sha256": "790ca829b1c7d2cef6235ec03342af2f91229999ae238f82fee33bf096ef161a"
+    "uuid": "96aae279-1e8d-42aa-baef-e668b0aba4f9",
+    "username": "tinywolf917",
+    "password": "nomore",
+    "salt": "h6F2jPPC",
+    "md5": "c3b0fd171bd9ee3f2763c6578e12dccc",
+    "sha1": "08600f8d07ce5157257e05bf1ce8dde2ef6a227f",
+    "sha256": "eb66bd6d209c35ce52131a06cf703b0a984d16304cc2787290d453407b72eecd"
   },
   "dob": {
-    "date": "1956-09-22T21:38:20.456Z",
-    "age": 68
+    "date": "1967-08-05T08:09:28.650Z",
+    "age": 57
   },
   "registered": {
-    "date": "2003-12-15T21:51:53.751Z",
-    "age": 21
+    "date": "2009-11-12T04:50:17.577Z",
+    "age": 15
   },
-  "phone": "005-32508821",
-  "cell": "0987-412-4812",
+  "phone": "(097) B67-6295",
+  "cell": "(098) D99-0635",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/68.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/68.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/68.jpg"
+    "large": "https://randomuser.me/api/portraits/men/53.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
   },
-  "nat": "IR"
+  "nat": "UA"
 }

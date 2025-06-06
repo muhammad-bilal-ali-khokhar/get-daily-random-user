@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Stanimir",
-    "last": "Simeonović"
+    "title": "Miss",
+    "first": "Emma",
+    "last": "Bouchard"
   },
   "location": {
     "street": {
-      "number": 5772,
-      "name": "Stjepana Supanca"
+      "number": 1071,
+      "name": "Peel St"
     },
-    "city": "Žitorađa",
-    "state": "Peć",
-    "country": "Serbia",
-    "postcode": 57714,
+    "city": "Dorchester",
+    "state": "Québec",
+    "country": "Canada",
+    "postcode": "Y1Y 0E0",
     "coordinates": {
-      "latitude": "58.9064",
-      "longitude": "-170.6942"
+      "latitude": "-65.6567",
+      "longitude": "16.6854"
     },
     "timezone": {
-      "offset": "-11:00",
-      "description": "Midway Island, Samoa"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "stanimir.simeonovic@example.com",
+  "email": "emma.bouchard@example.com",
   "login": {
-    "uuid": "cb09df78-8528-4055-9464-53c152769c27",
-    "username": "greenfish418",
-    "password": "compact",
-    "salt": "FukHctvL",
-    "md5": "881f0efec290c3b51c6ef0b5a1b7d173",
-    "sha1": "a5a0876bf33ed549da6f5526ea1f7b6cb62e59ad",
-    "sha256": "8dc207d62ed2cdc65993b44a22fd663c61cd9e9621e63a05d31ab3fb25b5ac5a"
+    "uuid": "610b1b4c-7d9f-407f-9c61-9e1795ea1d80",
+    "username": "bigmeercat922",
+    "password": "gotribe",
+    "salt": "ZJ9bC0wW",
+    "md5": "ad8f4bb5909ea89355910dbb3c5987c8",
+    "sha1": "801620eff0fcfc00e8f821ed231afcf755599371",
+    "sha256": "96c62658a4f3427e7a75164b5fa27a33ec287e1bf3d3956fce1b93955414ec31"
   },
   "dob": {
-    "date": "1957-08-15T20:11:11.629Z",
-    "age": 67
+    "date": "1949-07-19T08:18:57.953Z",
+    "age": 75
   },
   "registered": {
-    "date": "2017-08-19T22:10:05.268Z",
-    "age": 7
+    "date": "2011-03-19T22:56:00.021Z",
+    "age": 14
   },
-  "phone": "011-4367-147",
-  "cell": "066-7195-046",
+  "phone": "I96 B85-0817",
+  "cell": "B13 D34-0073",
   "id": {
-    "name": "SID",
-    "value": "102329458"
+    "name": "SIN",
+    "value": "731926903"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    "large": "https://randomuser.me/api/portraits/women/55.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
   },
-  "nat": "RS"
+  "nat": "CA"
 }

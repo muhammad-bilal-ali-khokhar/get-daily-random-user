@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Diana",
-    "last": "Jenkins"
+    "title": "Mr",
+    "first": "Obrad",
+    "last": "Sekulić"
   },
   "location": {
     "street": {
-      "number": 1119,
-      "name": "The Avenue"
+      "number": 9675,
+      "name": "Porodice Simonović"
     },
-    "city": "Wolverhampton",
-    "state": "Greater Manchester",
-    "country": "United Kingdom",
-    "postcode": "J4 2EP",
+    "city": "Bela Crkva",
+    "state": "Pčinja",
+    "country": "Serbia",
+    "postcode": 38459,
     "coordinates": {
-      "latitude": "-8.0832",
-      "longitude": "39.8969"
+      "latitude": "56.1245",
+      "longitude": "-55.1291"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "diana.jenkins@example.com",
+  "email": "obrad.sekulic@example.com",
   "login": {
-    "uuid": "47211df6-f190-477d-9c47-d56aaeb01784",
-    "username": "lazysnake421",
-    "password": "dontknow",
-    "salt": "fJaCCZwV",
-    "md5": "c827847ec77c81afd38b66641160e877",
-    "sha1": "17c3039bff41d12b75fd91e45a17d59061e1fa7a",
-    "sha256": "1c18acd7c554a98616ad3f0812ac6c2dcab4fb03fe00f292de0c90a1d918ddc3"
+    "uuid": "9a8fb1a5-ccdc-40b9-9c55-053ce554c589",
+    "username": "goldenfrog151",
+    "password": "seadog",
+    "salt": "XW2VbTJw",
+    "md5": "f2d8ac0352ecd2e073bb9dfbf85973f4",
+    "sha1": "bff2fe0521a52feba4fca0d7a4d3cf919f9b39b7",
+    "sha256": "c4a98e287acc51f5dca33c2ecc502c134e4af78e89792cdeb91d56b3cfb5d2ab"
   },
   "dob": {
-    "date": "1967-03-24T06:16:25.341Z",
-    "age": 58
+    "date": "1963-03-26T04:05:23.866Z",
+    "age": 62
   },
   "registered": {
-    "date": "2015-08-04T02:56:45.766Z",
-    "age": 9
+    "date": "2006-11-18T15:57:49.081Z",
+    "age": 18
   },
-  "phone": "016977 7685",
-  "cell": "07015 334056",
+  "phone": "033-3373-558",
+  "cell": "068-7366-443",
   "id": {
-    "name": "NINO",
-    "value": "GH 61 55 08 I"
+    "name": "SID",
+    "value": "407218245"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/63.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+    "large": "https://randomuser.me/api/portraits/men/78.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/78.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/78.jpg"
   },
-  "nat": "GB"
+  "nat": "RS"
 }

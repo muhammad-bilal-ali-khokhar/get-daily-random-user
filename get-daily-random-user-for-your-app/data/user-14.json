@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Bogoljub",
-    "last": "Rukavina"
+    "title": "Miss",
+    "first": "Dolores",
+    "last": "Angulo"
   },
   "location": {
     "street": {
-      "number": 3888,
-      "name": "Leštarska"
+      "number": 6966,
+      "name": "Eje vial Sur Romero"
     },
-    "city": "Svrljig",
-    "state": "Braničevo",
-    "country": "Serbia",
-    "postcode": 48959,
+    "city": "San Bartolo Morelos",
+    "state": "Ciudad de Mexico",
+    "country": "Mexico",
+    "postcode": 51070,
     "coordinates": {
-      "latitude": "62.1735",
-      "longitude": "-173.8721"
+      "latitude": "25.3080",
+      "longitude": "103.7955"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "bogoljub.rukavina@example.com",
+  "email": "dolores.angulo@example.com",
   "login": {
-    "uuid": "1a966d06-ab4f-426e-8f3c-34ffa77811b2",
-    "username": "brownrabbit276",
-    "password": "yummy",
-    "salt": "PTq8hA3H",
-    "md5": "af40e5d27ad76789f00b869d2adafbdb",
-    "sha1": "a2b5c38fc650f0312e555fd699e8c5207beff701",
-    "sha256": "2224c142e5dc224430a3a4f07dfe87dd0413fc6f8ccc021369d772909d138972"
+    "uuid": "4018baa3-7127-4271-a208-770d7421fb75",
+    "username": "lazykoala543",
+    "password": "234567",
+    "salt": "glDiBf3k",
+    "md5": "784fa23f0b50a7bc941874e1a146fddb",
+    "sha1": "69776375907b23c2b44d9242b22f65078538652d",
+    "sha256": "6cf358a7bf98bed007ee4172ed0a7e7cdeed8819b9684a3cf665e7512c1f170d"
   },
   "dob": {
-    "date": "1959-08-07T15:11:33.168Z",
-    "age": 65
+    "date": "1944-11-04T00:38:34.272Z",
+    "age": 80
   },
   "registered": {
-    "date": "2021-09-30T08:20:20.243Z",
-    "age": 3
+    "date": "2018-09-03T10:32:08.052Z",
+    "age": 6
   },
-  "phone": "024-4510-713",
-  "cell": "068-2071-225",
+  "phone": "(621) 097 4302",
+  "cell": "(611) 569 5508",
   "id": {
-    "name": "SID",
-    "value": "676077215"
+    "name": "NSS",
+    "value": "36 71 22 7054 9"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/96.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
+    "large": "https://randomuser.me/api/portraits/women/47.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
   },
-  "nat": "RS"
+  "nat": "MX"
 }

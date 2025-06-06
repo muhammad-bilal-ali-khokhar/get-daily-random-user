@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Marvin",
-    "last": "Spijker"
+    "title": "Mrs",
+    "first": "Biljana",
+    "last": "Orlić"
   },
   "location": {
     "street": {
-      "number": 5005,
-      "name": "Kruiselwerk L"
+      "number": 9987,
+      "name": "Pauline Matijević "
     },
-    "city": "Oppenhuizen",
-    "state": "Gelderland",
-    "country": "Netherlands",
-    "postcode": "5612 XO",
+    "city": "Bujanovac",
+    "state": "Bor",
+    "country": "Serbia",
+    "postcode": 93963,
     "coordinates": {
-      "latitude": "33.1997",
-      "longitude": "-33.5948"
+      "latitude": "63.0922",
+      "longitude": "64.1801"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "marvin.spijker@example.com",
+  "email": "biljana.orlic@example.com",
   "login": {
-    "uuid": "9aa8fa5c-379c-41f7-a658-a5a22ae89197",
-    "username": "goldenleopard713",
-    "password": "goodbye",
-    "salt": "oDLYh8CN",
-    "md5": "90cdbc797a3682a7029fead1c429c91c",
-    "sha1": "0d6e58a2826d7969fae13f4ad79dc5904a67d22c",
-    "sha256": "36a712d4483f32260a7a0a19bb5da7fb0bafc99220ede1fe7e28f8f9a09f1c65"
+    "uuid": "1778fa20-e3e7-49fd-9bb7-a4efe9587d76",
+    "username": "lazyostrich358",
+    "password": "qaz123",
+    "salt": "m3BJ81hR",
+    "md5": "6f8fa8d4e0c0866ae351aeb8b38dd862",
+    "sha1": "5a4b61c1a833ebbc918764048d86380d5c4148c8",
+    "sha256": "8229203bdb9b9bb86f24608708a92e509c413c5b8cd1f830f8dd8c40941ea77c"
   },
   "dob": {
-    "date": "1963-08-10T02:24:42.719Z",
-    "age": 61
+    "date": "1997-03-25T19:54:10.798Z",
+    "age": 28
   },
   "registered": {
-    "date": "2015-07-26T07:36:08.214Z",
-    "age": 9
+    "date": "2022-03-23T20:20:20.251Z",
+    "age": 3
   },
-  "phone": "(016) 9550540",
-  "cell": "(06) 79371465",
+  "phone": "023-5484-325",
+  "cell": "060-9515-835",
   "id": {
-    "name": "BSN",
-    "value": "19318561"
+    "name": "SID",
+    "value": "763774721"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/18.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/18.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/18.jpg"
+    "large": "https://randomuser.me/api/portraits/women/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
   },
-  "nat": "NL"
+  "nat": "RS"
 }

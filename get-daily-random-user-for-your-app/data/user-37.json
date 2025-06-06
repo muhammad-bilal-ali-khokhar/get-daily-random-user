@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Simone",
-    "last": "Haugen"
+    "title": "Mr",
+    "first": "Dorogobug",
+    "last": "Ivanec"
   },
   "location": {
     "street": {
-      "number": 4601,
-      "name": "Einar Høigårds vei"
+      "number": 9369,
+      "name": "Olenivska"
     },
-    "city": "Oma",
-    "state": "Vest-Agder",
-    "country": "Norway",
-    "postcode": "3061",
+    "city": "Baranivka",
+    "state": "Rivnenska",
+    "country": "Ukraine",
+    "postcode": 67605,
     "coordinates": {
-      "latitude": "45.3458",
-      "longitude": "122.2401"
+      "latitude": "73.5038",
+      "longitude": "-131.5893"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "simone.haugen@example.com",
+  "email": "dorogobug.ivanec@example.com",
   "login": {
-    "uuid": "d489729e-4d42-4a81-a780-476b88d735a1",
-    "username": "angryfish537",
-    "password": "long",
-    "salt": "2siMIhOC",
-    "md5": "114d341cd2016d9c1ff439c673cfec98",
-    "sha1": "a35b651353075e716167e86342b89195f093ade7",
-    "sha256": "8b3c43da63e121748327744db50b2cfedb5529f9f4505932b522a0c3f43d62d3"
+    "uuid": "552ea0aa-510e-4d48-907b-b3e67ae6b910",
+    "username": "heavypeacock755",
+    "password": "123456789",
+    "salt": "vgc52sF1",
+    "md5": "c5e36c2133e581a4dbd6391fee74c004",
+    "sha1": "49a4697ac5afd21eff5cd04a9007ce3b2deb88a2",
+    "sha256": "92270d98ab2d004ad20d9d92ea1dbf4e6d2639d0e782da39b09561e8d4fe67d2"
   },
   "dob": {
-    "date": "1968-11-14T00:13:10.834Z",
-    "age": 56
+    "date": "1958-07-21T17:44:32.438Z",
+    "age": 66
   },
   "registered": {
-    "date": "2017-04-19T16:35:36.262Z",
-    "age": 8
+    "date": "2020-08-30T11:29:53.628Z",
+    "age": 4
   },
-  "phone": "68413608",
-  "cell": "90878190",
+  "phone": "(096) Q84-6510",
+  "cell": "(068) Y23-6750",
   "id": {
-    "name": "FN",
-    "value": "14116821053"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "NO"
+  "nat": "UA"
 }

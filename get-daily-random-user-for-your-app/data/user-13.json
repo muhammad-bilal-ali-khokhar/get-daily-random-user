@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Lilja",
-    "last": "Laakso"
+    "title": "Mr",
+    "first": "Erwan",
+    "last": "Lemaire"
   },
   "location": {
     "street": {
-      "number": 4262,
-      "name": "Verkatehtaankatu"
+      "number": 4488,
+      "name": "Rue de L'Abbé-Groult"
     },
-    "city": "Haapajärvi",
-    "state": "Central Ostrobothnia",
-    "country": "Finland",
-    "postcode": 26225,
+    "city": "Colombes",
+    "state": "Pyrénées-Atlantiques",
+    "country": "France",
+    "postcode": 78195,
     "coordinates": {
-      "latitude": "-22.6870",
-      "longitude": "29.7824"
+      "latitude": "-20.0135",
+      "longitude": "-1.3212"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "lilja.laakso@example.com",
+  "email": "erwan.lemaire@example.com",
   "login": {
-    "uuid": "76aa6f01-2a3b-4caa-8f4e-7f3946a8a18a",
-    "username": "whiteladybug992",
-    "password": "dharma",
-    "salt": "MoSWNQc0",
-    "md5": "2b15a15bf2354aa564ab641b3e1dee4a",
-    "sha1": "4ce343e9c39dd97d9dd3f3b4ea4f62088d15cb38",
-    "sha256": "1592be517c59a6c28b7356ada59e0d49c5e4ccf7e5a9f0e9982be863ba93908e"
+    "uuid": "484784cc-842c-4a09-ac52-efbdd5cf1c16",
+    "username": "greencat902",
+    "password": "scissors",
+    "salt": "FrlWNcIQ",
+    "md5": "c6f69f438c1d576d37341d3b34c2a3cc",
+    "sha1": "2389457fbbb392323d6646c145a9d5b6dea22cf4",
+    "sha256": "e029833ed70d70edb27574d67a9ec0cbf107bd19525de08df82dde7605266b6f"
   },
   "dob": {
-    "date": "1956-07-07T19:03:54.031Z",
-    "age": 68
+    "date": "1997-12-05T05:06:58.954Z",
+    "age": 27
   },
   "registered": {
-    "date": "2014-09-26T11:53:39.673Z",
-    "age": 10
+    "date": "2017-01-22T00:23:04.933Z",
+    "age": 8
   },
-  "phone": "05-656-156",
-  "cell": "043-020-36-16",
+  "phone": "05-37-90-71-43",
+  "cell": "06-70-02-07-48",
   "id": {
-    "name": "HETU",
-    "value": "NaNNA666undefined"
+    "name": "INSEE",
+    "value": "1971168127618 70"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    "large": "https://randomuser.me/api/portraits/men/86.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
   },
-  "nat": "FI"
+  "nat": "FR"
 }

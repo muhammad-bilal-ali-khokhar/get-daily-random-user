@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Ibrahim",
-    "last": "Hölzer"
+    "first": "Oğuzhan",
+    "last": "Köybaşı"
   },
   "location": {
     "street": {
-      "number": 4592,
-      "name": "Tannenweg"
+      "number": 7681,
+      "name": "Bağdat Cd"
     },
-    "city": "Schifferstadt",
-    "state": "Brandenburg",
-    "country": "Germany",
-    "postcode": 74107,
+    "city": "Kayseri",
+    "state": "Ordu",
+    "country": "Turkey",
+    "postcode": 44866,
     "coordinates": {
-      "latitude": "-55.0048",
-      "longitude": "-66.0109"
+      "latitude": "64.9340",
+      "longitude": "-65.2067"
     },
     "timezone": {
-      "offset": "+6:00",
-      "description": "Almaty, Dhaka, Colombo"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "ibrahim.holzer@example.com",
+  "email": "oguzhan.koybasi@example.com",
   "login": {
-    "uuid": "76c7ec3b-5468-45a1-b375-fb96bdfd9fee",
-    "username": "heavygoose978",
-    "password": "cole",
-    "salt": "vpyHuOe0",
-    "md5": "29b7cddb03802782ab99b97bb4f02c20",
-    "sha1": "aa3b9e0d48d043d7598261919f556cdebb2cf7f3",
-    "sha256": "be4a1bd6dcceb91bbca14f90a2f8aee067e8836a57e3b77501032e8f5cc38cec"
+    "uuid": "c9fcd7a6-9bf1-40e1-afe3-a19fdb502f58",
+    "username": "tinyduck679",
+    "password": "vegitto",
+    "salt": "MT7fc5hx",
+    "md5": "35d8fad23be6cafe36dcb5e14a3bde86",
+    "sha1": "01f6b5eb2c3b2b60185cef9b80b5f3a1ff612880",
+    "sha256": "c2ce2740434a04c42d8aa54f06f5738fbfcc9feb454471919f24b78483beb315"
   },
   "dob": {
-    "date": "1986-04-06T15:42:48.847Z",
-    "age": 39
+    "date": "1950-12-06T20:17:28.157Z",
+    "age": 74
   },
   "registered": {
-    "date": "2014-03-17T00:38:35.262Z",
-    "age": 11
+    "date": "2014-08-10T14:50:03.733Z",
+    "age": 10
   },
-  "phone": "0789-8598908",
-  "cell": "0179-6407902",
+  "phone": "(873)-019-3585",
+  "cell": "(899)-615-1349",
   "id": {
-    "name": "SVNR",
-    "value": "79 060486 H 143"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
   },
-  "nat": "DE"
+  "nat": "TR"
 }

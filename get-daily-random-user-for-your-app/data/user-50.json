@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Mehmet",
-    "last": "Keseroğlu"
+    "title": "Mrs",
+    "first": "Gabrielle",
+    "last": "Denis"
   },
   "location": {
     "street": {
-      "number": 2675,
-      "name": "Mevlana Cd"
+      "number": 5092,
+      "name": "Rue de la Baleine"
     },
-    "city": "Karabük",
-    "state": "Muğla",
-    "country": "Turkey",
-    "postcode": 73974,
+    "city": "Mulhouse",
+    "state": "La Réunion",
+    "country": "France",
+    "postcode": 49829,
     "coordinates": {
-      "latitude": "71.6357",
-      "longitude": "-126.6172"
+      "latitude": "-21.2488",
+      "longitude": "118.5052"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "mehmet.keseroglu@example.com",
+  "email": "gabrielle.denis@example.com",
   "login": {
-    "uuid": "a7a4ef9b-e78f-4f87-8fc2-7f97aacbb8e0",
-    "username": "silvercat520",
-    "password": "wrestlin",
-    "salt": "5DF07HCa",
-    "md5": "db6d847ff34f39ef5a4e0f12d9c4acec",
-    "sha1": "7d8a01327eaff14e883f4c94f90d51472b52ca5d",
-    "sha256": "d687df65f628a785b7e75a2ee621ae7d30cfddcbc82badf6613705f707485319"
+    "uuid": "639c8988-7b69-4e2a-a9d3-0a5e2bf2ef87",
+    "username": "brownbird712",
+    "password": "stafford",
+    "salt": "SAI3jOiJ",
+    "md5": "4ba57513f71b9829659c6e814d61964c",
+    "sha1": "e534d7cf1b3132397a706c8e0fc4c18eb03c371c",
+    "sha256": "89c47cf3cd528d6f6991f41496730510616d5e45de3bf9c7e5b538454a9aeb98"
   },
   "dob": {
-    "date": "2001-02-17T15:28:06.162Z",
-    "age": 24
+    "date": "1964-08-22T20:18:52.455Z",
+    "age": 60
   },
   "registered": {
-    "date": "2013-11-11T21:31:19.447Z",
-    "age": 11
+    "date": "2020-03-31T16:28:32.768Z",
+    "age": 5
   },
-  "phone": "(667)-765-8010",
-  "cell": "(707)-288-7382",
+  "phone": "04-91-99-54-70",
+  "cell": "06-34-64-28-92",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "2640792865077 84"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/48.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
+    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
   },
-  "nat": "TR"
+  "nat": "FR"
 }

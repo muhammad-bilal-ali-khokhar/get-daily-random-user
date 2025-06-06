@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Klaus-Ulrich",
-    "last": "Kley"
+    "title": "Ms",
+    "first": "Annabelle",
+    "last": "Lévesque"
   },
   "location": {
     "street": {
-      "number": 6478,
-      "name": "Am Sportplatz"
+      "number": 2770,
+      "name": "9th St"
     },
-    "city": "Dillingen an der Donau",
-    "state": "Niedersachsen",
-    "country": "Germany",
-    "postcode": 91448,
+    "city": "Wellington",
+    "state": "Ontario",
+    "country": "Canada",
+    "postcode": "M6S 3O4",
     "coordinates": {
-      "latitude": "-55.0607",
-      "longitude": "-173.9558"
+      "latitude": "-69.8078",
+      "longitude": "38.5273"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "klaus-ulrich.kley@example.com",
+  "email": "annabelle.levesque@example.com",
   "login": {
-    "uuid": "97aa038e-705c-4a39-9246-52fe08b1b7f4",
-    "username": "browngorilla412",
-    "password": "browning",
-    "salt": "EcwVQnMJ",
-    "md5": "b28b8e06c6eb9362d91ff8b102734566",
-    "sha1": "fa1fc9e07babec4fa226d0f8e588ff637e8e515b",
-    "sha256": "253e87cf66ed3d7091bf14c454b6996c7d660f0b809a0bab36e9065d675ea941"
+    "uuid": "29ec41fa-77a9-4f73-8be2-064956d25f36",
+    "username": "blackbear488",
+    "password": "thirty",
+    "salt": "EQJ0BorT",
+    "md5": "3a8ea970a9daad8dd9a406d4374fc51a",
+    "sha1": "56b50a91eebe770c6e61f6fdeb073ca706ac841a",
+    "sha256": "4ce44e0c50a8458ee72728bec9503c55068d9df27f9648885ea06998accb6c73"
   },
   "dob": {
-    "date": "1952-11-09T20:38:04.156Z",
-    "age": 72
+    "date": "1961-03-07T01:29:24.739Z",
+    "age": 64
   },
   "registered": {
-    "date": "2022-03-18T17:40:27.436Z",
-    "age": 3
+    "date": "2013-10-08T20:21:25.716Z",
+    "age": 11
   },
-  "phone": "0057-0749304",
-  "cell": "0170-3600015",
+  "phone": "L81 J91-3073",
+  "cell": "P63 P75-7566",
   "id": {
-    "name": "SVNR",
-    "value": "13 091152 K 485"
+    "name": "SIN",
+    "value": "474825866"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/93.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/93.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/93.jpg"
+    "large": "https://randomuser.me/api/portraits/women/32.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
   },
-  "nat": "DE"
+  "nat": "CA"
 }

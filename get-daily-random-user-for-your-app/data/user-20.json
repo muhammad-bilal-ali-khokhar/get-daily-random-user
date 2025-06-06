@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Rodney",
-    "last": "Craig"
+    "title": "Mrs",
+    "first": "Inga",
+    "last": "Lavik"
   },
   "location": {
     "street": {
-      "number": 3312,
-      "name": "Avondale Ave"
+      "number": 6669,
+      "name": "Kastellhagen"
     },
-    "city": "El Monte",
-    "state": "Arizona",
-    "country": "United States",
-    "postcode": 74478,
+    "city": "Gilja",
+    "state": "Akershus",
+    "country": "Norway",
+    "postcode": "0139",
     "coordinates": {
-      "latitude": "88.5610",
-      "longitude": "-171.1466"
+      "latitude": "45.6442",
+      "longitude": "7.1087"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "rodney.craig@example.com",
+  "email": "inga.lavik@example.com",
   "login": {
-    "uuid": "d245040b-dee1-4f24-8790-837e53e9a37a",
-    "username": "organicbear587",
-    "password": "journey",
-    "salt": "255g9jsH",
-    "md5": "b1ba8e921eecb5200ba963b428060174",
-    "sha1": "d88304c1aec467ec488373be831b39522083390d",
-    "sha256": "1e0f8eff9c3f28952975fb06445fa5a668c0b66f9187b7a45bdb8a202c6a94cd"
+    "uuid": "676fa630-9757-4b2a-9745-faee2bc57357",
+    "username": "goldenwolf691",
+    "password": "douglas",
+    "salt": "CvDUiQvD",
+    "md5": "329379a7e2542aed3f1361356c6d76ac",
+    "sha1": "2cf9db5de41cfcb3c830d21c5f45487d2326c6a4",
+    "sha256": "0ef3c78978267bbd73889b7baa852ec30b82950a22ac77dbedfe3ea5149edf15"
   },
   "dob": {
-    "date": "1956-11-11T05:41:39.699Z",
-    "age": 68
+    "date": "1994-10-29T04:58:21.895Z",
+    "age": 30
   },
   "registered": {
-    "date": "2012-04-04T02:38:16.424Z",
-    "age": 13
+    "date": "2020-10-18T08:39:08.633Z",
+    "age": 4
   },
-  "phone": "(429) 661-4681",
-  "cell": "(517) 226-3763",
+  "phone": "77342345",
+  "cell": "94734684",
   "id": {
-    "name": "SSN",
-    "value": "730-63-8043"
+    "name": "FN",
+    "value": "29109413664"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/89.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/89.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/89.jpg"
+    "large": "https://randomuser.me/api/portraits/women/16.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
   },
-  "nat": "US"
+  "nat": "NO"
 }

@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Ms",
-    "first": "Jasmine",
-    "last": "Brar"
+    "first": "Brooklyn",
+    "last": "Robinson"
   },
   "location": {
     "street": {
-      "number": 6350,
-      "name": "Tecumseh Rd"
+      "number": 5434,
+      "name": "College St"
     },
-    "city": "Beaumont",
-    "state": "New Brunswick",
-    "country": "Canada",
-    "postcode": "E1X 2T8",
+    "city": "Amarillo",
+    "state": "Maryland",
+    "country": "United States",
+    "postcode": 11365,
     "coordinates": {
-      "latitude": "-70.5093",
-      "longitude": "19.9546"
+      "latitude": "84.4254",
+      "longitude": "134.6302"
     },
     "timezone": {
-      "offset": "-9:00",
-      "description": "Alaska"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "jasmine.brar@example.com",
+  "email": "brooklyn.robinson@example.com",
   "login": {
-    "uuid": "91d1ae03-3e2d-4354-82d0-ab567b5e01cc",
-    "username": "angryostrich758",
-    "password": "stories",
-    "salt": "3lZmutUh",
-    "md5": "5670ddc76c88958ee30cfbbffb239f7e",
-    "sha1": "df42aa1349d9c6ac88697021b10033ba00993c47",
-    "sha256": "88f622798b960c612e967f73973a8be3848ffdbef591a49da6b07a768d8622d3"
+    "uuid": "2cb38106-0439-480b-b916-a86041809b1c",
+    "username": "happyostrich593",
+    "password": "annika",
+    "salt": "plKIcT7K",
+    "md5": "52579638754b41d7f7b97be317a68cb8",
+    "sha1": "295122392211fafcee53c4c621d5c4bfb16c2726",
+    "sha256": "05c935b136224b64eb6bde3fff3dd244659cba3d21a911b93b5308f4aed930d2"
   },
   "dob": {
-    "date": "1964-02-06T22:54:04.804Z",
-    "age": 61
+    "date": "1969-03-18T16:27:03.767Z",
+    "age": 56
   },
   "registered": {
-    "date": "2010-03-12T16:49:56.787Z",
-    "age": 15
+    "date": "2003-06-21T02:43:40.661Z",
+    "age": 21
   },
-  "phone": "T38 B17-7383",
-  "cell": "K30 K90-8264",
+  "phone": "(250) 670-7657",
+  "cell": "(566) 845-3859",
   "id": {
-    "name": "SIN",
-    "value": "895333714"
+    "name": "SSN",
+    "value": "849-03-9149"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/45.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/45.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/45.jpg"
+    "large": "https://randomuser.me/api/portraits/women/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/27.jpg"
   },
-  "nat": "CA"
+  "nat": "US"
 }

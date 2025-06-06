@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "João",
-    "last": "Saes"
+    "first": "Batur",
+    "last": "Beşerler"
   },
   "location": {
     "street": {
-      "number": 6567,
-      "name": "Bongerdhoeve"
+      "number": 6253,
+      "name": "Mevlana Cd"
     },
-    "city": "Nieuwer ter Aa",
-    "state": "Utrecht",
-    "country": "Netherlands",
-    "postcode": "1931 VC",
+    "city": "Afyonkarahisar",
+    "state": "Kırıkkale",
+    "country": "Turkey",
+    "postcode": 83903,
     "coordinates": {
-      "latitude": "38.0675",
-      "longitude": "-146.0734"
+      "latitude": "68.2483",
+      "longitude": "-38.1131"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "joao.saes@example.com",
+  "email": "batur.beserler@example.com",
   "login": {
-    "uuid": "79aa29d9-b0ff-426d-97a7-a5d5fcf68186",
-    "username": "purpleladybug691",
-    "password": "iloveyou2",
-    "salt": "Qd90lxZZ",
-    "md5": "f7bb98babc881f61962a0a2e2653f1b2",
-    "sha1": "d004479aca3536375b698045e3de9b8421ac6999",
-    "sha256": "794ccd1980fbde09a037c8434d35313c525c77e7ecd707c8d6aa0f012437264a"
+    "uuid": "13dae0ed-485d-4c19-b888-84666a894b25",
+    "username": "lazyleopard564",
+    "password": "loretta",
+    "salt": "tFv1WhJ9",
+    "md5": "85ded6d91dee155cfac28d9840174ec4",
+    "sha1": "358e653637cd71456d38f8c3a3064d2e2de73def",
+    "sha256": "40b2a5020dc81fc7f3d09e70a7b970c669c805d91aa60913fd38ad31fc05d2fc"
   },
   "dob": {
-    "date": "1965-08-29T22:04:47.606Z",
-    "age": 59
+    "date": "1960-12-23T00:03:36.972Z",
+    "age": 64
   },
   "registered": {
-    "date": "2019-05-14T09:31:40.611Z",
-    "age": 6
+    "date": "2011-01-14T02:35:49.359Z",
+    "age": 14
   },
-  "phone": "(0541) 648901",
-  "cell": "(06) 44765078",
+  "phone": "(365)-527-1389",
+  "cell": "(786)-313-6367",
   "id": {
-    "name": "BSN",
-    "value": "82650594"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/31.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+    "large": "https://randomuser.me/api/portraits/men/38.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
   },
-  "nat": "NL"
+  "nat": "TR"
 }

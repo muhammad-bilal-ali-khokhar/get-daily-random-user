@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Tabea",
-    "last": "Hassel"
+    "title": "Mr",
+    "first": "Jens",
+    "last": "Walde"
   },
   "location": {
     "street": {
-      "number": 4427,
-      "name": "Mozartstraße"
+      "number": 4226,
+      "name": "Torsborgveien"
     },
-    "city": "Amorbach",
-    "state": "Nordrhein-Westfalen",
-    "country": "Germany",
-    "postcode": 59023,
+    "city": "Dale",
+    "state": "Sogn og Fjordane",
+    "country": "Norway",
+    "postcode": "3185",
     "coordinates": {
-      "latitude": "-49.3256",
-      "longitude": "5.7462"
+      "latitude": "45.5311",
+      "longitude": "-100.8525"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "tabea.hassel@example.com",
+  "email": "jens.walde@example.com",
   "login": {
-    "uuid": "e44e7a09-8a3f-4c74-99d7-da9c02b1772d",
-    "username": "lazysnake717",
-    "password": "skydive",
-    "salt": "Pn8XBqfK",
-    "md5": "711e225c82bbd5b7bb5bf6fcddb9d3ec",
-    "sha1": "26a0b2c1ae66475bb7c80fea291b4ff1195f5dfe",
-    "sha256": "e47ad21a18c02edadadadd7a40e1038254b591efb0139844bbd3c1ded5609b60"
+    "uuid": "6ed6e1b7-4509-49d5-a8bc-8a307949e996",
+    "username": "silverpeacock599",
+    "password": "khan",
+    "salt": "qvdJKYwP",
+    "md5": "151256ee15096075bfa7410f42b10714",
+    "sha1": "6132c1070b52685472d44c32884ae827c7a42105",
+    "sha256": "1476ffa5ea0b01e2f9b88c18429244b1c799134299b8c4866e0afad9ce19e573"
   },
   "dob": {
-    "date": "1979-12-25T00:18:47.608Z",
-    "age": 45
+    "date": "1981-09-18T13:32:53.883Z",
+    "age": 43
   },
   "registered": {
-    "date": "2017-07-07T07:18:17.363Z",
-    "age": 7
+    "date": "2007-01-10T01:05:09.638Z",
+    "age": 18
   },
-  "phone": "0171-4418771",
-  "cell": "0172-6975154",
+  "phone": "56269664",
+  "cell": "46241409",
   "id": {
-    "name": "SVNR",
-    "value": "74 241279 H 867"
+    "name": "FN",
+    "value": "18098124582"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/0.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/0.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/0.jpg"
+    "large": "https://randomuser.me/api/portraits/men/2.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
   },
-  "nat": "DE"
+  "nat": "NO"
 }

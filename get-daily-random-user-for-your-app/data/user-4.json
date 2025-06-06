@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Nalan",
-    "last": "Toraman"
+    "title": "Mrs",
+    "first": "Eva",
+    "last": "Boyer"
   },
   "location": {
     "street": {
-      "number": 829,
-      "name": "Doktorlar Cd"
+      "number": 2335,
+      "name": "Rue de la Charité"
     },
-    "city": "Manisa",
-    "state": "Osmaniye",
-    "country": "Turkey",
-    "postcode": 97617,
+    "city": "Argenteuil",
+    "state": "Corse-du-Sud",
+    "country": "France",
+    "postcode": 45215,
     "coordinates": {
-      "latitude": "64.3675",
-      "longitude": "56.4707"
+      "latitude": "-13.5764",
+      "longitude": "155.8168"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "nalan.toraman@example.com",
+  "email": "eva.boyer@example.com",
   "login": {
-    "uuid": "bc00128f-fa48-4242-9518-ceee22f40213",
-    "username": "lazypeacock894",
-    "password": "acid",
-    "salt": "MsHkri1t",
-    "md5": "8f492f81c8f8063e606adc2733cadeaa",
-    "sha1": "994043c228bb19cc8d78419b1afb142e238b0127",
-    "sha256": "aa7ca520de9960880cb67d0f92506b87c992480b5902180f61d4f4e861094c14"
+    "uuid": "61643a13-669f-4a05-a4b6-1d11df2db1f4",
+    "username": "happybutterfly846",
+    "password": "pierre",
+    "salt": "AK0Pat6t",
+    "md5": "ed1aa7b2730d12d151b6b00640dbdbb7",
+    "sha1": "fe18a5320f92c3b61074a0b0bb0653bc273747dc",
+    "sha256": "11a5679fc4dbaacc45b25c5b647afc3711eacdcde00426aeafa26040df2be54d"
   },
   "dob": {
-    "date": "1997-10-27T16:59:37.628Z",
-    "age": 27
+    "date": "1948-08-13T14:36:15.542Z",
+    "age": 76
   },
   "registered": {
-    "date": "2020-01-25T09:19:15.572Z",
-    "age": 5
+    "date": "2004-08-19T06:15:56.929Z",
+    "age": 20
   },
-  "phone": "(192)-011-2871",
-  "cell": "(883)-943-4435",
+  "phone": "05-18-60-92-91",
+  "cell": "06-77-48-61-61",
   "id": {
-    "name": "",
-    "value": null
+    "name": "INSEE",
+    "value": "2480721670971 78"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
+    "large": "https://randomuser.me/api/portraits/women/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
   },
-  "nat": "TR"
+  "nat": "FR"
 }

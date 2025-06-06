@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Jayden",
-    "last": "Obrien"
+    "title": "Ms",
+    "first": "Lea",
+    "last": "Côté"
   },
   "location": {
     "street": {
-      "number": 1910,
-      "name": "Albert Road"
+      "number": 1420,
+      "name": "Frederick Ave"
     },
-    "city": "Mallow",
-    "state": "Monaghan",
-    "country": "Ireland",
-    "postcode": 40136,
+    "city": "Maitland",
+    "state": "Nova Scotia",
+    "country": "Canada",
+    "postcode": "P0E 1O7",
     "coordinates": {
-      "latitude": "-2.0222",
-      "longitude": "-57.9619"
+      "latitude": "-64.7467",
+      "longitude": "165.4713"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "jayden.obrien@example.com",
+  "email": "lea.cote@example.com",
   "login": {
-    "uuid": "7a9309b5-5735-435f-8a1c-4bc1be953c1e",
-    "username": "beautifulpeacock349",
-    "password": "pantera",
-    "salt": "uBovot8U",
-    "md5": "579dbce7a0682c2b1fe3c7d50da0aa91",
-    "sha1": "b937ca471ab3e91a1e9fd1c8b1b889ba93278a4e",
-    "sha256": "b93c7f8c9c14661adabc0b04843d48b6889eb0fc529e7819eb6074e3d25dbad9"
+    "uuid": "a3b52797-7638-47ab-8459-fa2ef38fd9ad",
+    "username": "organiczebra683",
+    "password": "elaine",
+    "salt": "ynHEOSIs",
+    "md5": "53f2f00e30a6556ba8f3adf035f1d02e",
+    "sha1": "ff1a2caa5f8a03527f871ab0a24c13b36dbfa6a1",
+    "sha256": "26ab2a0d2d98618bf445964b8e01491ffb259b0b0e2a93b850b3746222e0dc50"
   },
   "dob": {
-    "date": "1986-12-05T19:47:02.224Z",
-    "age": 38
+    "date": "1954-01-29T12:06:10.033Z",
+    "age": 71
   },
   "registered": {
-    "date": "2018-03-26T20:07:39.332Z",
-    "age": 7
+    "date": "2021-01-25T00:53:23.220Z",
+    "age": 4
   },
-  "phone": "061-953-2719",
-  "cell": "081-530-9571",
+  "phone": "G59 V66-8391",
+  "cell": "I34 X47-0577",
   "id": {
-    "name": "PPS",
-    "value": "1645080T"
+    "name": "SIN",
+    "value": "583149984"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/8.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
+    "large": "https://randomuser.me/api/portraits/women/95.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
   },
-  "nat": "IE"
+  "nat": "CA"
 }
