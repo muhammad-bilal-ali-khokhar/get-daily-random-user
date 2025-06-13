@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Víctor",
-    "last": "Vázquez"
+    "first": "Mae",
+    "last": "Lacroix"
   },
   "location": {
     "street": {
-      "number": 5628,
-      "name": "Calle de Argumosa"
+      "number": 9338,
+      "name": "Avenue Goerges Clémenceau"
     },
-    "city": "Jerez de la Frontera",
-    "state": "Andalucía",
-    "country": "Spain",
-    "postcode": 63270,
+    "city": "Argenteuil",
+    "state": "Corse-du-Sud",
+    "country": "France",
+    "postcode": 67810,
     "coordinates": {
-      "latitude": "-31.2671",
-      "longitude": "-10.3969"
+      "latitude": "-19.1098",
+      "longitude": "-149.4888"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "victor.vazquez@example.com",
+  "email": "mae.lacroix@example.com",
   "login": {
-    "uuid": "ffe95609-5f7c-4660-b4be-ec2b00a2f5d9",
-    "username": "sadswan894",
-    "password": "doofus",
-    "salt": "v9BXAAaS",
-    "md5": "430f2c5e77daf8f05fed2adbfd4da278",
-    "sha1": "df25aa26002e3644bb54d55ad74a227bac13f63f",
-    "sha256": "9f0aca3c3e506cdf1626448f0e288fb933a383bae89594266a18fa9ec3879e95"
+    "uuid": "975e103a-829f-4b27-b8ee-9bef57fdaf48",
+    "username": "tinywolf658",
+    "password": "lololo",
+    "salt": "HlM0RkEE",
+    "md5": "2c7cd45e19be3022a74112ffb8747b9a",
+    "sha1": "ea83c61d3f6ccb0e8babeebf9b1dbab33cb7fb90",
+    "sha256": "49d0dfdb91194ce9d4664e94c9a4647ef6ed7aa01be5c0cd856801cd3c614c25"
   },
   "dob": {
-    "date": "1989-05-29T16:39:32.850Z",
-    "age": 36
+    "date": "1985-12-16T20:49:39.143Z",
+    "age": 39
   },
   "registered": {
-    "date": "2005-09-01T19:36:50.815Z",
-    "age": 19
+    "date": "2020-03-17T12:29:10.673Z",
+    "age": 5
   },
-  "phone": "900-619-386",
-  "cell": "689-326-702",
+  "phone": "02-49-86-92-54",
+  "cell": "06-36-40-98-98",
   "id": {
-    "name": "DNI",
-    "value": "32322394-N"
+    "name": "INSEE",
+    "value": "1851186917573 88"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/72.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
+    "large": "https://randomuser.me/api/portraits/men/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
   },
-  "nat": "ES"
+  "nat": "FR"
 }

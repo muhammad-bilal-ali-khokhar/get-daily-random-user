@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Nicoline",
-    "last": "Christiansen"
+    "title": "Miss",
+    "first": "Amelija",
+    "last": "Høyer"
   },
   "location": {
     "street": {
-      "number": 4686,
-      "name": "Kanalvej"
+      "number": 8103,
+      "name": "Smalåkeren"
     },
-    "city": "Horsens",
-    "state": "Hovedstaden",
-    "country": "Denmark",
-    "postcode": 96474,
+    "city": "Skre",
+    "state": "Buskerud",
+    "country": "Norway",
+    "postcode": "1961",
     "coordinates": {
-      "latitude": "-42.8086",
-      "longitude": "1.2513"
+      "latitude": "43.2600",
+      "longitude": "155.7122"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "nicoline.christiansen@example.com",
+  "email": "amelija.hoyer@example.com",
   "login": {
-    "uuid": "b2917654-f6db-4a74-bc8d-982cf95ea06d",
-    "username": "ticklishmeercat570",
-    "password": "lemon",
-    "salt": "yYRNDsDX",
-    "md5": "c9bcbf3304236e358501aa71b292e4cf",
-    "sha1": "4d843a8a9f7bedc059377ecd60ff8c00bf0983c3",
-    "sha256": "d59715d602a2791c7b1c68c1668f09ed80637558e464a8acbca9719ad45c26dc"
+    "uuid": "1610ccb2-6f1a-40bd-8f1d-2ffa0d78ff5d",
+    "username": "ticklishdog949",
+    "password": "barbara",
+    "salt": "0hNdT2s8",
+    "md5": "0e9a6ab5204e03ce4c203b77a7c4b78f",
+    "sha1": "79974c12aef25eeeb1b9f39b28f10bfba15c66d3",
+    "sha256": "bf9c347dfc42aa07a2ad35b4088faf403896afd3bcbaec3d88fbbf38ab665a0b"
   },
   "dob": {
-    "date": "1954-12-20T12:59:42.278Z",
-    "age": 70
+    "date": "2001-01-16T03:35:11.738Z",
+    "age": 24
   },
   "registered": {
-    "date": "2017-07-11T03:58:02.898Z",
-    "age": 7
+    "date": "2015-09-28T07:39:25.247Z",
+    "age": 9
   },
-  "phone": "53860483",
-  "cell": "64434117",
+  "phone": "74599380",
+  "cell": "46637545",
   "id": {
-    "name": "CPR",
-    "value": "201254-1748"
+    "name": "FN",
+    "value": "16010176089"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/women/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/4.jpg"
   },
-  "nat": "DK"
+  "nat": "NO"
 }

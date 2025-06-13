@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Javier",
-    "last": "Mora"
+    "first": "Johnny",
+    "last": "Moore"
   },
   "location": {
     "street": {
-      "number": 2973,
-      "name": "Calle de Tetuán"
+      "number": 5486,
+      "name": "Dane St"
     },
-    "city": "Santander",
-    "state": "Galicia",
-    "country": "Spain",
-    "postcode": 30021,
+    "city": "New Haven",
+    "state": "North Dakota",
+    "country": "United States",
+    "postcode": 94544,
     "coordinates": {
-      "latitude": "-31.1442",
-      "longitude": "-162.3395"
+      "latitude": "89.4365",
+      "longitude": "-140.5922"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "javier.mora@example.com",
+  "email": "johnny.moore@example.com",
   "login": {
-    "uuid": "89d4aca3-04a8-4de6-885d-afb80e47fc1c",
-    "username": "goldensnake713",
-    "password": "kathy1",
-    "salt": "dpPH24xs",
-    "md5": "a0f256ab0ec7f69f7ced93ac31323730",
-    "sha1": "906ff2c4be3e527084f9b2039ed179ce83d232df",
-    "sha256": "50905a27c8d4b6b444bd9e144c9750abb441f07c395733a4c6f10efaab1c8842"
+    "uuid": "89e829af-f50b-4f8e-a5c4-f2d5bffbe919",
+    "username": "smallfish956",
+    "password": "fallen",
+    "salt": "8vcR0G3P",
+    "md5": "beba0b36fff8566f001727f2307409a1",
+    "sha1": "9a7d957d962dff59b5ef5f7654cefe6fea4d99a0",
+    "sha256": "0304d49bbeed39fd854e9588cbb07e4a9713b217f65399308eb5f53927e432c9"
   },
   "dob": {
-    "date": "1999-06-06T09:05:08.632Z",
-    "age": 26
+    "date": "1955-01-18T09:11:37.838Z",
+    "age": 70
   },
   "registered": {
-    "date": "2016-10-15T22:33:06.387Z",
-    "age": 8
+    "date": "2019-07-13T06:15:49.807Z",
+    "age": 5
   },
-  "phone": "909-249-707",
-  "cell": "639-040-578",
+  "phone": "(799) 795-1672",
+  "cell": "(366) 661-5196",
   "id": {
-    "name": "DNI",
-    "value": "66469322-Q"
+    "name": "SSN",
+    "value": "208-39-3168"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/53.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "ES"
+  "nat": "US"
 }

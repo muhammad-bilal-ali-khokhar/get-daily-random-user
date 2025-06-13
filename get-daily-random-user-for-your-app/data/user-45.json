@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Latifa",
-    "last": "Wolff"
+    "title": "Mr",
+    "first": "Rigo",
+    "last": "Weniger"
   },
   "location": {
     "street": {
-      "number": 4410,
-      "name": "Andreaslaan"
+      "number": 4665,
+      "name": "Bahnhofstraße"
     },
-    "city": "Kwadendamme",
-    "state": "Noord-Holland",
-    "country": "Netherlands",
-    "postcode": "9509 MG",
+    "city": "Endingen am Kaiserstuhl",
+    "state": "Hessen",
+    "country": "Germany",
+    "postcode": 97469,
     "coordinates": {
-      "latitude": "31.9105",
-      "longitude": "41.1982"
+      "latitude": "-49.6491",
+      "longitude": "-164.0485"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "latifa.wolff@example.com",
+  "email": "rigo.weniger@example.com",
   "login": {
-    "uuid": "8ffa707a-e808-4819-99a0-07ef4187445f",
-    "username": "angrybird531",
-    "password": "peace",
-    "salt": "GcIFgJMK",
-    "md5": "455aa406a57b36d558d96f1b68c27354",
-    "sha1": "b2ee2fb76e620663a04dba79c6a91bfefbcfaa56",
-    "sha256": "ccf4bb49eb3d22bf7d2dd9b4ba2f461cddc082de6da3cd563e1673bf45accec7"
+    "uuid": "cfa7136f-39fb-4db0-9462-96416e2006d4",
+    "username": "happydog654",
+    "password": "dontknow",
+    "salt": "nM8U2Qag",
+    "md5": "a71493ce2484ad455773c8b713f67d02",
+    "sha1": "cd45c8b88fef7791955bfe1b3b43d373d6297f9d",
+    "sha256": "20c1b0d739569b693f69bd62704a373cbb7de674b62896e558e99d3a54b709e9"
   },
   "dob": {
-    "date": "1997-10-26T13:29:44.952Z",
-    "age": 27
+    "date": "1968-01-08T23:14:26.654Z",
+    "age": 57
   },
   "registered": {
-    "date": "2021-08-16T10:23:14.524Z",
-    "age": 3
+    "date": "2007-09-13T21:06:50.441Z",
+    "age": 17
   },
-  "phone": "(0974) 981745",
-  "cell": "(06) 50935078",
+  "phone": "0481-0038292",
+  "cell": "0170-1414254",
   "id": {
-    "name": "BSN",
-    "value": "01641342"
+    "name": "SVNR",
+    "value": "12 080168 W 100"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/25.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "NL"
+  "nat": "DE"
 }

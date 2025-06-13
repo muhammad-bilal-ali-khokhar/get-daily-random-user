@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Nellie",
-    "last": "Lauritzen"
+    "title": "Mr",
+    "first": "Adam",
+    "last": "Larsen"
   },
   "location": {
     "street": {
-      "number": 8508,
-      "name": "Nedre Slottsgate"
+      "number": 309,
+      "name": "Blichersvej"
     },
-    "city": "Klevjer",
-    "state": "Troms - Romsa",
-    "country": "Norway",
-    "postcode": "3166",
+    "city": "Sørvad",
+    "state": "Nordjylland",
+    "country": "Denmark",
+    "postcode": 81589,
     "coordinates": {
-      "latitude": "42.7171",
-      "longitude": "125.8868"
+      "latitude": "-43.3147",
+      "longitude": "-49.7927"
     },
     "timezone": {
       "offset": "+10:00",
       "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "nellie.lauritzen@example.com",
+  "email": "adam.larsen@example.com",
   "login": {
-    "uuid": "b7dfd96d-1164-4bf3-b9a6-27f779f5f0c1",
-    "username": "greencat539",
-    "password": "nicole1",
-    "salt": "fzqT0noM",
-    "md5": "554ec7fc7d8639986cacaa97342edb74",
-    "sha1": "c948608df2579dd147f493cc8d2126a1366f92e9",
-    "sha256": "9f699df749317425014d4d56d04c89acd74266d579c5b7a5ca53d7d5214e8ab9"
+    "uuid": "06f01d9c-df91-43a0-b76d-5d7fc797921d",
+    "username": "greensnake403",
+    "password": "juliet",
+    "salt": "Z8JgoNbC",
+    "md5": "af284e6d1ed3e433a017dda8fc5c3006",
+    "sha1": "4313d2dfd573348175b789ddd49ae51d091616c2",
+    "sha256": "dd993dc8df87077f5834fd5b1103396bf0ff52a85fd7d08fc23b804ed19dee85"
   },
   "dob": {
-    "date": "2001-02-05T16:09:24.266Z",
-    "age": 24
+    "date": "1993-04-11T03:29:15.468Z",
+    "age": 32
   },
   "registered": {
-    "date": "2011-12-13T17:10:52.000Z",
+    "date": "2011-12-25T16:39:43.270Z",
     "age": 13
   },
-  "phone": "69390805",
-  "cell": "95413998",
+  "phone": "74645118",
+  "cell": "45890088",
   "id": {
-    "name": "FN",
-    "value": "05020157846"
+    "name": "CPR",
+    "value": "100493-5891"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/46.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
+    "large": "https://randomuser.me/api/portraits/men/96.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/96.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/96.jpg"
   },
-  "nat": "NO"
+  "nat": "DK"
 }

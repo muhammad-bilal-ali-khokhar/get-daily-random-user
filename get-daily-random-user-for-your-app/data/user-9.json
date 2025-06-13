@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Trupti",
-    "last": "Prabhakaran"
+    "title": "Mrs",
+    "first": "Ariane",
+    "last": "Tremblay"
   },
   "location": {
     "street": {
-      "number": 4610,
-      "name": "Naiduthota"
+      "number": 9671,
+      "name": "Cedar St"
     },
-    "city": "Nagaon",
-    "state": "Goa",
-    "country": "India",
-    "postcode": 10370,
+    "city": "Souris",
+    "state": "Newfoundland and Labrador",
+    "country": "Canada",
+    "postcode": "C5J 6T7",
     "coordinates": {
-      "latitude": "5.7817",
-      "longitude": "166.1348"
+      "latitude": "-68.1754",
+      "longitude": "10.3680"
     },
     "timezone": {
-      "offset": "+3:30",
-      "description": "Tehran"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "trupti.prabhakaran@example.com",
+  "email": "ariane.tremblay@example.com",
   "login": {
-    "uuid": "ea3979a4-0f13-4252-8be3-9e25086f07b1",
-    "username": "bluemeercat923",
-    "password": "toriamos",
-    "salt": "9hplwjVR",
-    "md5": "e34d8219dbc82b430dafbc9b54e2d33d",
-    "sha1": "9af0ffa3bfd7d68511947d8b8030f0783cb64e59",
-    "sha256": "11687256b9942c2b24981d4289d7d13083e3c8d2bce95e5df12fb7e82c25f721"
+    "uuid": "2e95f3c4-dd7d-4a47-ba1e-c31eaf9c69ad",
+    "username": "tinypeacock290",
+    "password": "a1234567",
+    "salt": "1EZOtEEM",
+    "md5": "908d96a4a8757591153f78384ef003e1",
+    "sha1": "abfc6c1b26890a4a2dee1f10d4052f7d23aafab4",
+    "sha256": "59bf1529919cf01556067afdd29f9c4ee7c227e92c7f1d017fc003bf197d8f71"
   },
   "dob": {
-    "date": "1952-05-17T12:33:17.529Z",
-    "age": 73
+    "date": "1950-07-14T14:45:51.732Z",
+    "age": 74
   },
   "registered": {
-    "date": "2009-01-05T22:10:27.827Z",
-    "age": 16
+    "date": "2020-10-04T18:23:38.229Z",
+    "age": 4
   },
-  "phone": "8490470705",
-  "cell": "8613273771",
+  "phone": "Z67 K56-8856",
+  "cell": "N04 L31-1527",
   "id": {
-    "name": "UIDAI",
-    "value": "705431870249"
+    "name": "SIN",
+    "value": "507996767"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/3.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
+    "large": "https://randomuser.me/api/portraits/women/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/65.jpg"
   },
-  "nat": "IN"
+  "nat": "CA"
 }

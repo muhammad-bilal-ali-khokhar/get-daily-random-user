@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Theresia",
-    "last": "Renard"
+    "title": "Mr",
+    "first": "Dragutin",
+    "last": "Drljača"
   },
   "location": {
     "street": {
-      "number": 2324,
-      "name": "Rue Abel-Hovelacque"
+      "number": 2052,
+      "name": "Miloša Milojevića "
     },
-    "city": "Lohn (Sh)",
-    "state": "Schaffhausen",
-    "country": "Switzerland",
-    "postcode": 2779,
+    "city": "Kovin",
+    "state": "Kosovska Mitrovica",
+    "country": "Serbia",
+    "postcode": 47228,
     "coordinates": {
-      "latitude": "-62.3752",
-      "longitude": "156.4389"
+      "latitude": "55.8977",
+      "longitude": "-159.0585"
     },
     "timezone": {
-      "offset": "+9:30",
-      "description": "Adelaide, Darwin"
+      "offset": "-11:00",
+      "description": "Midway Island, Samoa"
     }
   },
-  "email": "theresia.renard@example.com",
+  "email": "dragutin.drljaca@example.com",
   "login": {
-    "uuid": "ed3e3589-3fcb-47be-ae2a-411e5b3d69c6",
-    "username": "purplefish171",
-    "password": "bishop",
-    "salt": "9WRBS346",
-    "md5": "b28b9f790744296ad50bac7a6acf1821",
-    "sha1": "8a7f10c59a9bde1c0dabc5f945e06885495a36c2",
-    "sha256": "ad1faac0f0736238be8983b886343a01482b436fe2da2bc00f5834c9f9b023b6"
+    "uuid": "42038546-e5cf-4bec-be2a-857c70039982",
+    "username": "blackostrich603",
+    "password": "topgun",
+    "salt": "6wV8S4US",
+    "md5": "beab7151a512d85908e7e46ae2270a71",
+    "sha1": "fdec3ebd4ccad644eb19effad1ce08a9ba39d00a",
+    "sha256": "eeb50c21a0cc20c04839806417bfbf0d0a41dca428a00b4facb84f0b254f92e4"
   },
   "dob": {
-    "date": "1950-05-08T04:55:31.883Z",
-    "age": 75
+    "date": "1963-07-06T01:13:04.498Z",
+    "age": 61
   },
   "registered": {
-    "date": "2020-11-15T13:03:09.451Z",
-    "age": 4
+    "date": "2012-01-21T14:46:30.444Z",
+    "age": 13
   },
-  "phone": "079 357 43 26",
-  "cell": "079 904 27 07",
+  "phone": "020-0156-510",
+  "cell": "063-4839-747",
   "id": {
-    "name": "AVS",
-    "value": "756.1267.3762.95"
+    "name": "SID",
+    "value": "339983268"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/32.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+    "large": "https://randomuser.me/api/portraits/men/76.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
   },
-  "nat": "CH"
+  "nat": "RS"
 }

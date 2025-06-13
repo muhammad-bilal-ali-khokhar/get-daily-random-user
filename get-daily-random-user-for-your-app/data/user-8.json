@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Ludmila",
-    "last": "Nikolić"
+    "title": "Mr",
+    "first": "Parv",
+    "last": "Chatterjee"
   },
   "location": {
     "street": {
-      "number": 7781,
-      "name": "Uzelčeva"
+      "number": 9051,
+      "name": "Colaba Causeway"
     },
-    "city": "Leskovac",
-    "state": "Mačva",
-    "country": "Serbia",
-    "postcode": 43598,
+    "city": "Tiruppur",
+    "state": "Uttarakhand",
+    "country": "India",
+    "postcode": 99178,
     "coordinates": {
-      "latitude": "57.3978",
-      "longitude": "0.0739"
+      "latitude": "9.4573",
+      "longitude": "-110.3829"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-10:00",
+      "description": "Hawaii"
     }
   },
-  "email": "ludmila.nikolic@example.com",
+  "email": "parv.chatterjee@example.com",
   "login": {
-    "uuid": "778ece64-54c9-4bec-8b31-e70fa004e95a",
-    "username": "beautifultiger532",
-    "password": "camels",
-    "salt": "rWLU5UGR",
-    "md5": "c8d8efc064c9eb9ac9f40506f4fa6f4c",
-    "sha1": "9c2644bcdfcce0c92b9a045a64d52007e9bf6e02",
-    "sha256": "2605fc9c4a9fae99a116faf47ae01805fdc7fe9bab4d12c49919c74853991035"
+    "uuid": "b31e3fff-b770-4701-a286-7aa01f111f1a",
+    "username": "orangekoala515",
+    "password": "belly",
+    "salt": "RBEbEdfO",
+    "md5": "8ecf1111d4007a408add4d4e1c63aa6f",
+    "sha1": "e2ab9dd04e2009f7114b283fe4e10a2d84316a12",
+    "sha256": "9e68a8a4b944c301ccc192ef8ff6a46e72200bc3eed5e60bf360ebfce3f70b54"
   },
   "dob": {
-    "date": "1944-08-31T12:26:15.283Z",
-    "age": 80
+    "date": "1982-06-22T13:38:32.285Z",
+    "age": 42
   },
   "registered": {
-    "date": "2021-12-09T23:57:30.099Z",
-    "age": 3
+    "date": "2015-10-09T15:30:56.931Z",
+    "age": 9
   },
-  "phone": "010-2953-699",
-  "cell": "063-8910-248",
+  "phone": "7901090665",
+  "cell": "9203420227",
   "id": {
-    "name": "SID",
-    "value": "514437594"
+    "name": "UIDAI",
+    "value": "360439062008"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/4.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/4.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/4.jpg"
   },
-  "nat": "RS"
+  "nat": "IN"
 }

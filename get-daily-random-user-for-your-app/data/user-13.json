@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Nathan",
-    "last": "Brar"
+    "first": "Darsh",
+    "last": "Vernekar"
   },
   "location": {
     "street": {
-      "number": 7991,
-      "name": "Parliament St"
+      "number": 1777,
+      "name": "Mint St"
     },
-    "city": "Oakville",
-    "state": "Manitoba",
-    "country": "Canada",
-    "postcode": "X5N 2V0",
+    "city": "Haldia",
+    "state": "Chandigarh",
+    "country": "India",
+    "postcode": 66205,
     "coordinates": {
-      "latitude": "-70.8468",
-      "longitude": "-110.1801"
+      "latitude": "5.0981",
+      "longitude": "-22.3041"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "nathan.brar@example.com",
+  "email": "darsh.vernekar@example.com",
   "login": {
-    "uuid": "a1ccaa21-7b68-4d1e-8702-3ed6d78c28a6",
-    "username": "angrydog303",
-    "password": "huskers",
-    "salt": "ERAG1g4W",
-    "md5": "9868a02be5321f962443b68716332278",
-    "sha1": "f8e4388860373531d0bd376517f55f7d9b21e6eb",
-    "sha256": "8fe873cc77bb67fdae1f8a1a208da743f6c5c2f531966d48869f61ad556490c3"
+    "uuid": "4ff28529-0963-4db1-ac39-6401d87449ce",
+    "username": "bluemouse457",
+    "password": "seattle",
+    "salt": "cJxo3Shk",
+    "md5": "4ac4ac65f001978922f2070be3469601",
+    "sha1": "463c6ea5e1e1a0bf29eddb1374967ca1744b87cd",
+    "sha256": "80c197ac8f344ff357e51ae33591d0f78247b1e1ed3f654a4440035f8b97ba66"
   },
   "dob": {
-    "date": "1996-05-02T11:42:48.948Z",
-    "age": 29
+    "date": "1960-05-29T16:13:20.338Z",
+    "age": 65
   },
   "registered": {
-    "date": "2019-03-10T22:55:27.775Z",
-    "age": 6
+    "date": "2002-12-31T22:52:46.195Z",
+    "age": 22
   },
-  "phone": "V45 T15-6438",
-  "cell": "P84 T31-3033",
+  "phone": "9543257966",
+  "cell": "8707301685",
   "id": {
-    "name": "SIN",
-    "value": "058816935"
+    "name": "UIDAI",
+    "value": "936239357731"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    "large": "https://randomuser.me/api/portraits/men/8.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/8.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/8.jpg"
   },
-  "nat": "CA"
+  "nat": "IN"
 }

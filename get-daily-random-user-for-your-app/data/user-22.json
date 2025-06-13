@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Angel",
-    "last": "Wells"
+    "first": "Amandus",
+    "last": "Olesen"
   },
   "location": {
     "street": {
-      "number": 2530,
-      "name": "Railroad St"
+      "number": 3772,
+      "name": "Bjerkeliveien"
     },
-    "city": "Tamworth",
-    "state": "New South Wales",
-    "country": "Australia",
-    "postcode": 4413,
+    "city": "Lalm",
+    "state": "Description",
+    "country": "Norway",
+    "postcode": "4804",
     "coordinates": {
-      "latitude": "-82.2455",
-      "longitude": "-41.0428"
+      "latitude": "45.7090",
+      "longitude": "-9.6535"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "-3:00",
+      "description": "Brazil, Buenos Aires, Georgetown"
     }
   },
-  "email": "angel.wells@example.com",
+  "email": "amandus.olesen@example.com",
   "login": {
-    "uuid": "0fb4ac30-fe05-4b2a-929b-389b4d12c561",
-    "username": "organicostrich274",
-    "password": "border",
-    "salt": "74bwTlP1",
-    "md5": "56e322925afb8f638c941c45d4b36e8d",
-    "sha1": "0e1a2ea5369fcca699a1cdd3a08b5079b0baa5d3",
-    "sha256": "075e60b08e61076cdace7348021ab19da9f3c3e733d411bb7f1834dcf3fe4657"
+    "uuid": "0a561635-1208-4653-90b3-95851b7d8c9c",
+    "username": "sadelephant651",
+    "password": "123321",
+    "salt": "fidHytoZ",
+    "md5": "d75fc34d4b202c281746008fea8ecc92",
+    "sha1": "8eeda85d2295fa7185cab1dc0de0d1003ad40a81",
+    "sha256": "58e8a02deb8072299514c20b8251b6e85752b3f171cb11bf22f87e7f14958102"
   },
   "dob": {
-    "date": "1973-01-13T14:26:42.215Z",
-    "age": 52
+    "date": "1965-11-09T05:14:44.380Z",
+    "age": 59
   },
   "registered": {
-    "date": "2014-05-23T06:40:34.398Z",
-    "age": 11
+    "date": "2012-11-12T04:30:16.028Z",
+    "age": 12
   },
-  "phone": "02-8117-3307",
-  "cell": "0421-352-460",
+  "phone": "27485768",
+  "cell": "42290208",
   "id": {
-    "name": "TFN",
-    "value": "347113778"
+    "name": "FN",
+    "value": "09116513568"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/71.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
+    "large": "https://randomuser.me/api/portraits/men/35.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/35.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/35.jpg"
   },
-  "nat": "AU"
+  "nat": "NO"
 }

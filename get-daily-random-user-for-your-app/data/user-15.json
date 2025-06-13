@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Luke",
-    "last": "Moore"
+    "first": "Agnelo",
+    "last": "Cavalcanti"
   },
   "location": {
     "street": {
-      "number": 6119,
-      "name": "Panama Road"
+      "number": 4448,
+      "name": "Rua São José "
     },
-    "city": "New Plymouth",
-    "state": "Wellington",
-    "country": "New Zealand",
-    "postcode": 46861,
+    "city": "Carapicuíba",
+    "state": "Mato Grosso do Sul",
+    "country": "Brazil",
+    "postcode": 93319,
     "coordinates": {
-      "latitude": "50.8713",
-      "longitude": "-7.5660"
+      "latitude": "-73.1985",
+      "longitude": "-149.1250"
     },
     "timezone": {
       "offset": "-3:30",
       "description": "Newfoundland"
     }
   },
-  "email": "luke.moore@example.com",
+  "email": "agnelo.cavalcanti@example.com",
   "login": {
-    "uuid": "b849a9e6-25d9-4368-8c2e-0956f96e2deb",
-    "username": "blackwolf146",
-    "password": "samiam",
-    "salt": "jw2KnxIW",
-    "md5": "3974c1b6f2d1b76359b0124e0d6c2528",
-    "sha1": "5a7ba626456d53860c87a3c03da2b51280b5eac4",
-    "sha256": "9314c8c306dbfffa208e98b7eee77f0639bea58f7ee28a0638a2cd602fbf26cb"
+    "uuid": "0247b36e-3ac9-4caf-ae80-6657ae1834f1",
+    "username": "orangebear479",
+    "password": "unbelievable",
+    "salt": "nPXKVO0A",
+    "md5": "2ee11efc0bbe51b17e6835d27853f2a2",
+    "sha1": "3c86ac1135c25cfc8877d63164f455e258f5ee58",
+    "sha256": "2793f9d36e9b7fe21198bb0af7e3dcf2548465479d071e07f258646088631426"
   },
   "dob": {
-    "date": "1977-03-01T19:51:46.551Z",
-    "age": 48
+    "date": "1968-10-24T19:44:43.015Z",
+    "age": 56
   },
   "registered": {
-    "date": "2009-07-12T02:14:08.961Z",
-    "age": 15
+    "date": "2008-10-04T12:42:08.575Z",
+    "age": 16
   },
-  "phone": "(964)-818-9737",
-  "cell": "(121)-626-1938",
+  "phone": "(68) 1522-9028",
+  "cell": "(73) 5165-8840",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPF",
+    "value": "428.269.131-75"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
+    "large": "https://randomuser.me/api/portraits/men/48.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/48.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/48.jpg"
   },
-  "nat": "NZ"
+  "nat": "BR"
 }

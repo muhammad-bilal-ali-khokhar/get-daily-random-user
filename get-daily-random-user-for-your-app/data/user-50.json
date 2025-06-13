@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Maëly",
-    "last": "Charles"
+    "title": "Monsieur",
+    "first": "Valentino",
+    "last": "Bonnet"
   },
   "location": {
     "street": {
-      "number": 5694,
-      "name": "Rue de L'Abbé-Carton"
+      "number": 1181,
+      "name": "Place Paul-Duquaire"
     },
-    "city": "Tours",
-    "state": "Vaucluse",
-    "country": "France",
-    "postcode": 47648,
+    "city": "Wintersingen",
+    "state": "Appenzell Ausserrhoden",
+    "country": "Switzerland",
+    "postcode": 9349,
     "coordinates": {
-      "latitude": "-13.5290",
-      "longitude": "162.7451"
+      "latitude": "-58.5697",
+      "longitude": "-13.3220"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-4:00",
+      "description": "Atlantic Time (Canada), Caracas, La Paz"
     }
   },
-  "email": "maely.charles@example.com",
+  "email": "valentino.bonnet@example.com",
   "login": {
-    "uuid": "c2c198ff-6fc4-451c-a28a-a9dcd5e91672",
-    "username": "redostrich659",
-    "password": "keywest",
-    "salt": "0UsufV6i",
-    "md5": "6736407b7e32f537afb45acf3073cd94",
-    "sha1": "875f44dd7af163ada98d67065f64a7b210fd856b",
-    "sha256": "93e86b412a199145d846a59abd082db8d4911b4d07ae1e85a345d0c917e377a4"
+    "uuid": "f1414f09-52cd-4a61-8df5-542bebf5bed7",
+    "username": "whitefrog394",
+    "password": "spurs1",
+    "salt": "wlXZNyda",
+    "md5": "aec4f18f918ec9e012b0ee55cfcf8869",
+    "sha1": "3d66e03ddb6e28ad8a6a2e1665de9bd57e674bb0",
+    "sha256": "e2e3889c58ae9c36d20d79f98cbba8898958099cf1d162db27f88e21110bacbb"
   },
   "dob": {
-    "date": "1992-07-16T01:58:10.802Z",
-    "age": 32
+    "date": "1958-11-16T21:36:34.803Z",
+    "age": 66
   },
   "registered": {
-    "date": "2018-04-01T03:39:40.843Z",
-    "age": 7
+    "date": "2005-03-02T23:15:16.918Z",
+    "age": 20
   },
-  "phone": "02-96-03-41-12",
-  "cell": "06-38-36-75-38",
+  "phone": "078 937 88 47",
+  "cell": "079 001 73 43",
   "id": {
-    "name": "INSEE",
-    "value": "2920694360276 13"
+    "name": "AVS",
+    "value": "756.6256.0174.96"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/84.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+    "large": "https://randomuser.me/api/portraits/men/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/74.jpg"
   },
-  "nat": "FR"
+  "nat": "CH"
 }

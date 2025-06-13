@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Osmomisla",
-    "last": "Garasevich"
+    "title": "Mr",
+    "first": "Albert",
+    "last": "Ryan"
   },
   "location": {
     "street": {
-      "number": 1382,
-      "name": "Varnenska"
+      "number": 7813,
+      "name": "Robinson Rd"
     },
-    "city": "Vatutine",
-    "state": "Sumska",
-    "country": "Ukraine",
-    "postcode": 78403,
+    "city": "Launceston",
+    "state": "Tasmania",
+    "country": "Australia",
+    "postcode": 9556,
     "coordinates": {
-      "latitude": "77.0066",
-      "longitude": "150.8394"
+      "latitude": "-84.8275",
+      "longitude": "-176.3172"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+8:00",
+      "description": "Beijing, Perth, Singapore, Hong Kong"
     }
   },
-  "email": "osmomisla.garasevich@example.com",
+  "email": "albert.ryan@example.com",
   "login": {
-    "uuid": "a234212b-cd01-42cc-8b83-acd6d4c7b9e2",
-    "username": "brownostrich821",
-    "password": "letter",
-    "salt": "3cejXXsQ",
-    "md5": "c79b085aeca7cc0d69bf0c329c79be2e",
-    "sha1": "4f1c44cef5c849a2a5d56ca2f4274de8f22f7ec3",
-    "sha256": "aedafea992afccdd0949c7a05d3a266dbac3549b822c36716a35d2dcbe61f553"
+    "uuid": "0cdcb8a3-54f6-402e-80b7-4b9b08a9d716",
+    "username": "sadladybug332",
+    "password": "8675309",
+    "salt": "ts7Aal5F",
+    "md5": "0fe8fbb80130bfef8acffa08d72e48f1",
+    "sha1": "550cdba66d764e04f3a6d92b1f823968ccc48ae3",
+    "sha256": "dffa655f08a2def86d5f015b34125ffde25e4b307b229cce64870190e2f05b32"
   },
   "dob": {
-    "date": "1994-01-09T10:02:15.575Z",
-    "age": 31
+    "date": "1984-03-10T09:48:10.282Z",
+    "age": 41
   },
   "registered": {
-    "date": "2010-09-06T08:21:44.225Z",
-    "age": 14
+    "date": "2014-01-11T18:25:31.756Z",
+    "age": 11
   },
-  "phone": "(067) U47-5912",
-  "cell": "(066) W51-3690",
+  "phone": "00-5668-4040",
+  "cell": "0449-075-493",
   "id": {
-    "name": "",
-    "value": null
+    "name": "TFN",
+    "value": "632356991"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/82.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    "large": "https://randomuser.me/api/portraits/men/70.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/70.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/70.jpg"
   },
-  "nat": "UA"
+  "nat": "AU"
 }

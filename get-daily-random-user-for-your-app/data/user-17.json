@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Ismael",
-    "last": "Suarez"
+    "title": "Ms",
+    "first": "Angela",
+    "last": "Castillo"
   },
   "location": {
     "street": {
-      "number": 2546,
-      "name": "Calle de Arturo Soria"
+      "number": 3756,
+      "name": "Brick Kiln Road"
     },
-    "city": "Valladolid",
-    "state": "La Rioja",
-    "country": "Spain",
-    "postcode": 84880,
+    "city": "Newport",
+    "state": "Buckinghamshire",
+    "country": "United Kingdom",
+    "postcode": "BF69 0JT",
     "coordinates": {
-      "latitude": "-30.4884",
-      "longitude": "-79.3662"
+      "latitude": "-10.0159",
+      "longitude": "150.8056"
     },
     "timezone": {
-      "offset": "-6:00",
-      "description": "Central Time (US & Canada), Mexico City"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "ismael.suarez@example.com",
+  "email": "angela.castillo@example.com",
   "login": {
-    "uuid": "8e345fcd-4768-40e8-9431-bdf2dcad2e8c",
-    "username": "bluebutterfly746",
-    "password": "deputy",
-    "salt": "pBzGc5FZ",
-    "md5": "dd934d5429ff03f872fa7c904f7280cd",
-    "sha1": "549c366d11e05b6856d3e6057ca997458194864f",
-    "sha256": "168dee5cfa4e5e220de74d00a0a8a64a6a15a1c81135f88595bc72304cdcec21"
+    "uuid": "12b56090-38af-4e8c-9df7-6bf8ffdf1317",
+    "username": "heavykoala756",
+    "password": "zeus",
+    "salt": "IP75FVwY",
+    "md5": "ba54434170aad9d512c3f00c3e70176b",
+    "sha1": "288034ec1732bcbdff16b260108c5bdd89b1fe13",
+    "sha256": "2d9f1dc04cbe0935c1a1179d1703038d053f036c94ba2060cefbfab575b3179f"
   },
   "dob": {
-    "date": "1992-07-20T22:45:28.499Z",
-    "age": 32
+    "date": "1998-03-23T10:13:27.607Z",
+    "age": 27
   },
   "registered": {
-    "date": "2021-02-26T02:01:46.769Z",
-    "age": 4
+    "date": "2012-12-27T15:42:54.095Z",
+    "age": 12
   },
-  "phone": "987-681-958",
-  "cell": "618-782-433",
+  "phone": "016977 3373",
+  "cell": "07111 393836",
   "id": {
-    "name": "DNI",
-    "value": "22950266-O"
+    "name": "NINO",
+    "value": "BZ 60 35 53 B"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    "large": "https://randomuser.me/api/portraits/women/94.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/94.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/94.jpg"
   },
-  "nat": "ES"
+  "nat": "GB"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Ülkü",
-    "last": "Bademci"
+    "title": "Mr",
+    "first": "Mark",
+    "last": "Robinson"
   },
   "location": {
     "street": {
-      "number": 2545,
-      "name": "Abanoz Sk"
+      "number": 8241,
+      "name": "Railroad St"
     },
-    "city": "Bitlis",
-    "state": "Van",
-    "country": "Turkey",
-    "postcode": 20164,
+    "city": "Toowoomba",
+    "state": "South Australia",
+    "country": "Australia",
+    "postcode": 7543,
     "coordinates": {
-      "latitude": "69.5250",
-      "longitude": "143.8344"
+      "latitude": "-83.4195",
+      "longitude": "-41.0992"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "ulku.bademci@example.com",
+  "email": "mark.robinson@example.com",
   "login": {
-    "uuid": "d2a6462c-1d0c-4a2a-b13e-f86a7ce74821",
-    "username": "tinyzebra603",
-    "password": "chevrolet",
-    "salt": "2cXOiPme",
-    "md5": "4af0a9c02ff83a11d29d5cae26fbe2c9",
-    "sha1": "0f091b9d0ceea26dd117a6f35ade546244b1a98b",
-    "sha256": "fb5364d60a864854b06fdbd4f2fa4520ca6a97b4c7db9f83219551bc00f1d6dc"
+    "uuid": "ac8dad87-99c4-4a99-9285-b28d963f7962",
+    "username": "lazyfrog723",
+    "password": "blondes",
+    "salt": "KKVsOJMg",
+    "md5": "342f632c828dfea236408d5c138a3917",
+    "sha1": "277a3eaf8e84c19bce41c49941feba2de785dcc9",
+    "sha256": "0144e5d0466491e163461b68f409a5b7ece9716c820fcc706529a5f5891f7e71"
   },
   "dob": {
-    "date": "1968-04-29T14:17:59.595Z",
-    "age": 57
+    "date": "1952-08-08T01:12:20.959Z",
+    "age": 72
   },
   "registered": {
-    "date": "2015-10-04T05:38:40.086Z",
-    "age": 9
+    "date": "2013-01-14T10:33:17.309Z",
+    "age": 12
   },
-  "phone": "(794)-251-1833",
-  "cell": "(402)-866-5370",
+  "phone": "05-4194-5419",
+  "cell": "0433-547-958",
   "id": {
-    "name": "",
-    "value": null
+    "name": "TFN",
+    "value": "295608063"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/44.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
+    "large": "https://randomuser.me/api/portraits/men/82.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/82.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/82.jpg"
   },
-  "nat": "TR"
+  "nat": "AU"
 }

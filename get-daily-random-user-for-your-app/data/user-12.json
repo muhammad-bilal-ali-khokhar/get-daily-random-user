@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Charlotte",
-    "last": "Mitchell"
+    "title": "Mr",
+    "first": "Lloyd",
+    "last": "Martin"
   },
   "location": {
     "street": {
-      "number": 7208,
-      "name": "Victoria Ave"
+      "number": 3436,
+      "name": "Valwood Pkwy"
     },
-    "city": "Summerside",
-    "state": "Nova Scotia",
-    "country": "Canada",
-    "postcode": "H7R 8D2",
+    "city": "Bundaberg",
+    "state": "Victoria",
+    "country": "Australia",
+    "postcode": 1455,
     "coordinates": {
-      "latitude": "-70.9546",
-      "longitude": "20.3454"
+      "latitude": "-87.6638",
+      "longitude": "-63.0808"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "0:00",
+      "description": "Western Europe Time, London, Lisbon, Casablanca"
     }
   },
-  "email": "charlotte.mitchell@example.com",
+  "email": "lloyd.martin@example.com",
   "login": {
-    "uuid": "4a9bbed8-2ede-47b8-adc4-57d6a8a4abe2",
-    "username": "goldenfrog538",
-    "password": "sidney",
-    "salt": "414EUF4Y",
-    "md5": "cb852c01edaafb8f460bbc1e4cacf868",
-    "sha1": "d9e3c738e62ce5ac9647c0b234adcaf118381186",
-    "sha256": "c800690b5d72e6f95909914b4a00d7a3eefa34472568f83c0970f68b861c8e49"
+    "uuid": "a875d3d1-1931-4193-a65d-0739927fcba4",
+    "username": "greensnake150",
+    "password": "galaxy",
+    "salt": "gKofgLnP",
+    "md5": "70e15692ce334dc26e3eb4ac97d05ac5",
+    "sha1": "26a14554aafff4d8023a39b1ba67c1a813068922",
+    "sha256": "9820534c143c03ba51937a7e6c0e62e21de70f54db373c145b9b15312cb39151"
   },
   "dob": {
-    "date": "1992-05-05T19:00:13.388Z",
-    "age": 33
+    "date": "1972-01-23T15:45:07.188Z",
+    "age": 53
   },
   "registered": {
-    "date": "2010-11-15T02:57:02.317Z",
-    "age": 14
+    "date": "2006-09-03T21:13:07.831Z",
+    "age": 18
   },
-  "phone": "O62 Q79-1108",
-  "cell": "S98 P77-1057",
+  "phone": "06-1497-7637",
+  "cell": "0418-918-394",
   "id": {
-    "name": "SIN",
-    "value": "699822763"
+    "name": "TFN",
+    "value": "595785673"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/61.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/61.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/61.jpg"
+    "large": "https://randomuser.me/api/portraits/men/59.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/59.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/59.jpg"
   },
-  "nat": "CA"
+  "nat": "AU"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Supritha",
-    "last": "Moolya"
+    "title": "Madame",
+    "first": "Leticia",
+    "last": "Legrand"
   },
   "location": {
     "street": {
-      "number": 9898,
-      "name": "Commercial St"
+      "number": 9748,
+      "name": "Rue de L'Abbé-Carton"
     },
-    "city": "Hubli–Dharwad",
-    "state": "Gujarat",
-    "country": "India",
-    "postcode": 19639,
+    "city": "Le Pâquier (Fr)",
+    "state": "Solothurn",
+    "country": "Switzerland",
+    "postcode": 8899,
     "coordinates": {
-      "latitude": "8.9549",
-      "longitude": "50.9687"
+      "latitude": "-62.1996",
+      "longitude": "19.9494"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-7:00",
+      "description": "Mountain Time (US & Canada)"
     }
   },
-  "email": "supritha.moolya@example.com",
+  "email": "leticia.legrand@example.com",
   "login": {
-    "uuid": "e8fef365-1103-4fb8-94e3-3b83961bd1a4",
-    "username": "blueduck729",
-    "password": "user",
-    "salt": "hbo7RIus",
-    "md5": "4a5ed7642e18112d8080ca57640be169",
-    "sha1": "e32313940b1682ff71f296db13f55ee71a855963",
-    "sha256": "7f03becce06754e14c4f621ed450f823704cc19610fd097a08f348dd6b86dbd9"
+    "uuid": "88e2f87a-622a-4b47-9763-00963dee88e7",
+    "username": "brownbear112",
+    "password": "gentle",
+    "salt": "jkQTrBwD",
+    "md5": "af4783fd6575c20fd3ff5a08be11c0f3",
+    "sha1": "06e6d44bad49b10a4d9bd3ef8d05f8c7e5f76064",
+    "sha256": "679a87735989ca3a8609455bb3ef2a991b02d9f27329d11418143e015927ea92"
   },
   "dob": {
-    "date": "1973-11-03T21:31:13.838Z",
-    "age": 51
+    "date": "1979-01-12T02:44:22.745Z",
+    "age": 46
   },
   "registered": {
-    "date": "2006-07-11T16:25:50.664Z",
-    "age": 18
+    "date": "2010-06-08T04:12:34.460Z",
+    "age": 15
   },
-  "phone": "8078062392",
-  "cell": "9973003440",
+  "phone": "079 558 45 28",
+  "cell": "079 563 12 74",
   "id": {
-    "name": "UIDAI",
-    "value": "727205258383"
+    "name": "AVS",
+    "value": "756.8124.8923.56"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/54.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    "large": "https://randomuser.me/api/portraits/women/18.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/18.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/18.jpg"
   },
-  "nat": "IN"
+  "nat": "CH"
 }

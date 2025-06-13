@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Charles",
-    "last": "Griffin"
+    "title": "Miss",
+    "first": "Monika",
+    "last": "Kahovskiy"
   },
   "location": {
     "street": {
-      "number": 432,
-      "name": "The Grove"
+      "number": 3109,
+      "name": "Vagilevicha"
     },
-    "city": "Portmarnock",
-    "state": "Donegal",
-    "country": "Ireland",
-    "postcode": 29133,
+    "city": "Zolote",
+    "state": "Zakarpatska",
+    "country": "Ukraine",
+    "postcode": 74141,
     "coordinates": {
-      "latitude": "2.4437",
-      "longitude": "-11.7308"
+      "latitude": "78.2402",
+      "longitude": "137.1752"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "charles.griffin@example.com",
+  "email": "monika.kahovskiy@example.com",
   "login": {
-    "uuid": "25b0ec23-d91c-4674-8f3a-e8fac0b44fe5",
-    "username": "bluemouse927",
-    "password": "wrangler",
-    "salt": "3MfWxCsV",
-    "md5": "7e0d32ccd5989951b483dc66e029f1dc",
-    "sha1": "9d9053be36244c06bd5c695147e8812671ff4fae",
-    "sha256": "080aac4df63661d6398789a5cc42c0b23d12190139d5e4e700f07eb4f73a4f54"
+    "uuid": "861e4154-bf03-4e44-8ead-6d532bca22bb",
+    "username": "smallgorilla838",
+    "password": "pascal",
+    "salt": "0am5srs6",
+    "md5": "f3ded85b7b15681c8e55e2070ae7635f",
+    "sha1": "9ae202d7ecb11b92aba23b7564866e10a05aced9",
+    "sha256": "9693858022b594a1d946defef401e06ca083309c82f711cee92fd8311e67d833"
   },
   "dob": {
-    "date": "1973-01-27T15:40:14.370Z",
-    "age": 52
+    "date": "1963-07-15T20:21:09.647Z",
+    "age": 61
   },
   "registered": {
-    "date": "2021-08-16T03:02:22.351Z",
-    "age": 3
+    "date": "2007-01-05T00:42:41.096Z",
+    "age": 18
   },
-  "phone": "061-072-2993",
-  "cell": "081-062-0213",
+  "phone": "(097) U61-1771",
+  "cell": "(067) R82-5015",
   "id": {
-    "name": "PPS",
-    "value": "3439423T"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/65.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+    "large": "https://randomuser.me/api/portraits/women/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/12.jpg"
   },
-  "nat": "IE"
+  "nat": "UA"
 }

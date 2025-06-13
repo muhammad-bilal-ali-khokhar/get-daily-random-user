@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Madame",
-    "first": "Christelle",
-    "last": "Moulin"
+    "title": "Mr",
+    "first": "Fred",
+    "last": "Lynch"
   },
   "location": {
     "street": {
-      "number": 9456,
-      "name": "Rue Chazière"
+      "number": 6355,
+      "name": "Stanley Road"
     },
-    "city": "Münchwilen (Ag)",
-    "state": "Jura",
-    "country": "Switzerland",
-    "postcode": 8086,
+    "city": "Ely",
+    "state": "Cambridgeshire",
+    "country": "United Kingdom",
+    "postcode": "ZL94 3XA",
     "coordinates": {
-      "latitude": "-56.5303",
-      "longitude": "80.0454"
+      "latitude": "-4.7209",
+      "longitude": "-48.3731"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "-12:00",
+      "description": "Eniwetok, Kwajalein"
     }
   },
-  "email": "christelle.moulin@example.com",
+  "email": "fred.lynch@example.com",
   "login": {
-    "uuid": "3b8bf796-98f9-4284-9823-440398c76dc9",
-    "username": "brownfish354",
-    "password": "brighton",
-    "salt": "G0JiHsgF",
-    "md5": "475b2f2a42a8c6b7609d85cfbad25f05",
-    "sha1": "01033fec60592f0ee4f874df464aeef73be1f5fb",
-    "sha256": "4a7b2fd52a8272955c92ba5aa13ae3f3e25e69c7ea886a533e175a3e0ffbd564"
+    "uuid": "580ac514-21a4-417e-bfb1-7247e8fd287a",
+    "username": "silverbird539",
+    "password": "warriors",
+    "salt": "ihPpfE58",
+    "md5": "4871394a71cdae8007dc935876f274a8",
+    "sha1": "34465987fb39a9bcf6788bbfc53a4663fa705fac",
+    "sha256": "2799fee41c5efeb151e43eada4ea2498cddfec7efa941a3b7c834e5f248e5060"
   },
   "dob": {
-    "date": "1947-04-14T07:04:19.061Z",
-    "age": 78
+    "date": "1953-08-21T12:56:26.453Z",
+    "age": 71
   },
   "registered": {
-    "date": "2006-01-14T13:59:35.128Z",
-    "age": 19
+    "date": "2008-05-03T13:13:21.589Z",
+    "age": 17
   },
-  "phone": "077 487 61 49",
-  "cell": "076 910 04 62",
+  "phone": "017684 86566",
+  "cell": "07007 849039",
   "id": {
-    "name": "AVS",
-    "value": "756.9913.4824.43"
+    "name": "NINO",
+    "value": "SB 47 99 67 P"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/56.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
+    "large": "https://randomuser.me/api/portraits/men/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
   },
-  "nat": "CH"
+  "nat": "GB"
 }

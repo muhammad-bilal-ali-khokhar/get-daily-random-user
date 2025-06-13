@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Beatrice",
-    "last": "Holmes"
+    "title": "Mr",
+    "first": "Adem",
+    "last": "Kavaklıoğlu"
   },
   "location": {
     "street": {
-      "number": 8380,
-      "name": "Marsh Ln"
+      "number": 5995,
+      "name": "Filistin Cd"
     },
-    "city": "Orange",
-    "state": "Australian Capital Territory",
-    "country": "Australia",
-    "postcode": 5414,
+    "city": "Bitlis",
+    "state": "Muş",
+    "country": "Turkey",
+    "postcode": 55469,
     "coordinates": {
-      "latitude": "-86.4773",
-      "longitude": "110.9266"
+      "latitude": "66.3761",
+      "longitude": "-72.3865"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "beatrice.holmes@example.com",
+  "email": "adem.kavaklioglu@example.com",
   "login": {
-    "uuid": "1604d7a0-147d-48ec-994f-3531f3220930",
-    "username": "whiteduck429",
-    "password": "done",
-    "salt": "qD1F6XgK",
-    "md5": "add4554eef6864f0f2cf0074b157330c",
-    "sha1": "a91392dceea4b4bc238258ae48547e7a7e62324b",
-    "sha256": "121cfa7d08db8090d2d34d464f2d05a83ca500a249bb6dc03f9e3635e2b9125f"
+    "uuid": "17899298-9e5c-4747-ba31-bbd47623081d",
+    "username": "bluebird759",
+    "password": "nana",
+    "salt": "L6tXCqDS",
+    "md5": "5f85473c9c5dcee36ff789b3f8e4181b",
+    "sha1": "252ea8b1590b87a6017b16fd6cc71c2408f369c6",
+    "sha256": "e34e743f8c055a0fd87946dde12de3a02c2e37cfc3970296baee04c4af306a54"
   },
   "dob": {
-    "date": "1957-09-07T07:31:24.392Z",
-    "age": 67
+    "date": "1986-04-19T23:57:08.323Z",
+    "age": 39
   },
   "registered": {
-    "date": "2003-06-25T12:02:54.640Z",
-    "age": 21
+    "date": "2019-01-30T14:57:51.832Z",
+    "age": 6
   },
-  "phone": "02-1106-2094",
-  "cell": "0434-492-760",
+  "phone": "(441)-205-0855",
+  "cell": "(593)-910-4053",
   "id": {
-    "name": "TFN",
-    "value": "052773707"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/93.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/93.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/93.jpg"
+    "large": "https://randomuser.me/api/portraits/men/27.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
   },
-  "nat": "AU"
+  "nat": "TR"
 }

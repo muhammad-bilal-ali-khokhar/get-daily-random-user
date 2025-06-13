@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Miss",
-    "first": "Lia",
-    "last": "Ladwig"
+    "first": "Addison",
+    "last": "Chan"
   },
   "location": {
     "street": {
-      "number": 9974,
-      "name": "Königsberger Straße"
+      "number": 1627,
+      "name": "Richmond Ave"
     },
-    "city": "Velten",
-    "state": "Hamburg",
-    "country": "Germany",
-    "postcode": 84242,
+    "city": "Aylmer",
+    "state": "Québec",
+    "country": "Canada",
+    "postcode": "N7T 4R8",
     "coordinates": {
-      "latitude": "-53.0149",
-      "longitude": "174.1030"
+      "latitude": "-68.1407",
+      "longitude": "0.2494"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+4:30",
+      "description": "Kabul"
     }
   },
-  "email": "lia.ladwig@example.com",
+  "email": "addison.chan@example.com",
   "login": {
-    "uuid": "9849f8e5-d795-4b93-b990-3e6665c06ef5",
-    "username": "angryduck928",
-    "password": "manson",
-    "salt": "CMuSLo0L",
-    "md5": "81e05522fe744d6fc08ef1548b79ed42",
-    "sha1": "9aef125750c7aa3d41798de244f95149b284a099",
-    "sha256": "6f04bb38603c73c55a26bee0ca0baba388663e57178241bb7a41695dd927c358"
+    "uuid": "020a2c0d-ddea-4e8b-a5ce-5f1ccaaea713",
+    "username": "tinyfrog981",
+    "password": "rich",
+    "salt": "Y5O3FSPt",
+    "md5": "890835e913ad7b1df76bcdb492ce1025",
+    "sha1": "93cda9427680711c4be5aef7a5205605a2bcdd59",
+    "sha256": "92073709c7f59a31f1fb55f196ff63bc42e684a1c99a574602c3df93c52bdeac"
   },
   "dob": {
-    "date": "1966-02-24T02:19:00.254Z",
-    "age": 59
+    "date": "1948-09-19T21:21:23.894Z",
+    "age": 76
   },
   "registered": {
-    "date": "2010-11-15T16:22:21.816Z",
-    "age": 14
+    "date": "2017-12-21T04:12:28.965Z",
+    "age": 7
   },
-  "phone": "0370-4993888",
-  "cell": "0174-7165321",
+  "phone": "Q69 R40-2891",
+  "cell": "T35 L21-9397",
   "id": {
-    "name": "SVNR",
-    "value": "64 230266 L 551"
+    "name": "SIN",
+    "value": "668376437"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/42.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+    "large": "https://randomuser.me/api/portraits/women/74.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/74.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/74.jpg"
   },
-  "nat": "DE"
+  "nat": "CA"
 }

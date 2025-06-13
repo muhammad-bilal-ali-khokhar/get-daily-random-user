@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Luka",
-    "last": "Oehme"
+    "first": "Malte",
+    "last": "Synnes"
   },
   "location": {
     "street": {
-      "number": 2057,
-      "name": "Schützenstraße"
+      "number": 6539,
+      "name": "Forskningsveien"
     },
-    "city": "Waldbröl",
-    "state": "Thüringen",
-    "country": "Germany",
-    "postcode": 67680,
+    "city": "Nykirke",
+    "state": "Sør-Trøndelag",
+    "country": "Norway",
+    "postcode": "9277",
     "coordinates": {
-      "latitude": "-47.9628",
-      "longitude": "-173.9382"
+      "latitude": "42.2310",
+      "longitude": "-76.2978"
     },
     "timezone": {
       "offset": "+4:00",
       "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "luka.oehme@example.com",
+  "email": "malte.synnes@example.com",
   "login": {
-    "uuid": "aa93eefa-4f90-412b-a166-9534979ed029",
-    "username": "happykoala653",
-    "password": "allan",
-    "salt": "t9LbdjS3",
-    "md5": "d45f8e3e978d6ac195a95e60383bb81e",
-    "sha1": "562924137c1b06716bf7e4d97488995ff3d8ee89",
-    "sha256": "effaaa1a6d8731f139c123ab6e8690620d69aeb8bfff1214ccbbbee4c0c95e85"
+    "uuid": "9d9a39c3-9aef-40a3-b0fa-472df8949bd5",
+    "username": "yellowostrich369",
+    "password": "1210",
+    "salt": "LO60bOpE",
+    "md5": "47be2fc444d20c5fa4a06cd8b1f06acd",
+    "sha1": "85a0e65271dfe5ce54811fbd127074ba43312c7a",
+    "sha256": "ffeed4c4f6de03c2c16162c2da42943da72e5c64b5ae28f84d9d2bc3063a1e0c"
   },
   "dob": {
-    "date": "1962-09-25T04:39:42.062Z",
-    "age": 62
+    "date": "1972-10-24T05:33:15.178Z",
+    "age": 52
   },
   "registered": {
-    "date": "2006-02-05T14:35:21.275Z",
+    "date": "2005-12-04T17:42:08.943Z",
     "age": 19
   },
-  "phone": "0545-8801505",
-  "cell": "0172-9703798",
+  "phone": "85626783",
+  "cell": "45088595",
   "id": {
-    "name": "SVNR",
-    "value": "43 240962 O 016"
+    "name": "FN",
+    "value": "24107225745"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/26.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
+    "large": "https://randomuser.me/api/portraits/men/84.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/84.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/84.jpg"
   },
-  "nat": "DE"
+  "nat": "NO"
 }

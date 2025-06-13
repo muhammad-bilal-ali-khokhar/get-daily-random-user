@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Zvenigora",
-    "last": "Kusen"
+    "title": "Mr",
+    "first": "Tristan",
+    "last": "Côté"
   },
   "location": {
     "street": {
-      "number": 8714,
-      "name": "Svyatoslava Horobrogo"
+      "number": 6270,
+      "name": "Frederick Ave"
     },
-    "city": "Tlumach",
-    "state": "Kiyivska",
-    "country": "Ukraine",
-    "postcode": 27298,
+    "city": "Belmont",
+    "state": "Manitoba",
+    "country": "Canada",
+    "postcode": "A0Q 0A8",
     "coordinates": {
-      "latitude": "79.2961",
-      "longitude": "108.0341"
+      "latitude": "-68.7277",
+      "longitude": "-45.8923"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "+2:00",
+      "description": "Kaliningrad, South Africa"
     }
   },
-  "email": "zvenigora.kusen@example.com",
+  "email": "tristan.cote@example.com",
   "login": {
-    "uuid": "471edcd6-3dd6-4b92-a571-84474f779d27",
-    "username": "biglion327",
-    "password": "julia",
-    "salt": "11yTJjzx",
-    "md5": "3d774dc796155f783a491df1608ffc45",
-    "sha1": "20b3613beff12f2fee4b078f1739e1bead5fb64c",
-    "sha256": "1e8b1b9123c0ad81a5e1b8684bdedf022414696b068a7664895bdfbef0dcb087"
+    "uuid": "e38a7031-4c4c-46e4-85dd-7c62d6059ea7",
+    "username": "smallsnake534",
+    "password": "fright",
+    "salt": "sVqYx5ss",
+    "md5": "ac2f0bfc8aa71e09ac3bfd3b87e40f28",
+    "sha1": "7a29d3ee7ae5cca2402b6c2cf5ec0332e0490a26",
+    "sha256": "9c303f5280e5aa72e31f3fe0b9bed0f569c9ba9f5945bba4ff79af33c711a607"
   },
   "dob": {
-    "date": "1960-12-17T18:52:05.709Z",
-    "age": 64
+    "date": "1987-11-01T02:45:56.388Z",
+    "age": 37
   },
   "registered": {
-    "date": "2011-05-06T05:26:11.115Z",
-    "age": 14
+    "date": "2009-10-20T10:13:45.439Z",
+    "age": 15
   },
-  "phone": "(099) L45-8142",
-  "cell": "(067) Y76-3022",
+  "phone": "W40 I58-6443",
+  "cell": "N53 X44-7526",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SIN",
+    "value": "424294379"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/25.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+    "large": "https://randomuser.me/api/portraits/men/14.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/14.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/14.jpg"
   },
-  "nat": "UA"
+  "nat": "CA"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Ms",
-    "first": "Sara",
-    "last": "Vega"
+    "title": "Mr",
+    "first": "Veit",
+    "last": "Nadler"
   },
   "location": {
     "street": {
-      "number": 3585,
-      "name": "Calle del Prado"
+      "number": 2932,
+      "name": "Drosselweg"
     },
-    "city": "Valencia",
-    "state": "Castilla la Mancha",
-    "country": "Spain",
-    "postcode": 83044,
+    "city": "Teuchern",
+    "state": "Niedersachsen",
+    "country": "Germany",
+    "postcode": 26662,
     "coordinates": {
-      "latitude": "-35.7783",
-      "longitude": "37.7406"
+      "latitude": "-53.8018",
+      "longitude": "-54.8179"
     },
     "timezone": {
-      "offset": "+5:30",
-      "description": "Bombay, Calcutta, Madras, New Delhi"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "sara.vega@example.com",
+  "email": "veit.nadler@example.com",
   "login": {
-    "uuid": "dfdb5de4-cfb8-44ff-9020-a717fdd99740",
-    "username": "angrymouse525",
-    "password": "bootsie",
-    "salt": "9THr79ea",
-    "md5": "583e4f3138153a69367d91e7f85a6152",
-    "sha1": "f3b7e30924109364aa265b4ec6dcaa6617217d6d",
-    "sha256": "3cebe4825b47a19d1cd0cdce58d543c845621e4470a0013a434eea210414ae90"
+    "uuid": "f9a43d82-a9ed-4072-bc06-e6928eec94be",
+    "username": "angrygorilla893",
+    "password": "rugger",
+    "salt": "OJ5ZcBiB",
+    "md5": "4730a61db8645c2859a2cd1d10ea9dd1",
+    "sha1": "e23877ddbe46270dc50241e07305077e7b59503e",
+    "sha256": "02aa4442787b985c5a329443df12628508a1bf4e24a536853d08e1684e3bd4a6"
   },
   "dob": {
-    "date": "1951-09-17T12:50:51.635Z",
-    "age": 73
+    "date": "1966-09-16T23:39:24.597Z",
+    "age": 58
   },
   "registered": {
-    "date": "2012-03-28T06:30:47.097Z",
-    "age": 13
+    "date": "2013-11-03T19:56:48.717Z",
+    "age": 11
   },
-  "phone": "988-564-201",
-  "cell": "680-915-284",
+  "phone": "0599-7527937",
+  "cell": "0174-5356926",
   "id": {
-    "name": "DNI",
-    "value": "13473400-W"
+    "name": "SVNR",
+    "value": "52 160966 N 204"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "ES"
+  "nat": "DE"
 }

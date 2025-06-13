@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Davor",
-    "last": "Sakić"
+    "first": "Thomas",
+    "last": "Lavoie"
   },
   "location": {
     "street": {
-      "number": 9999,
-      "name": "Junička"
+      "number": 6214,
+      "name": "Duke St"
     },
-    "city": "Paraćin",
-    "state": "Raška",
-    "country": "Serbia",
-    "postcode": 26328,
+    "city": "Lloydminster",
+    "state": "Alberta",
+    "country": "Canada",
+    "postcode": "O3A 3I8",
     "coordinates": {
-      "latitude": "62.6670",
-      "longitude": "-101.5366"
+      "latitude": "-65.9001",
+      "longitude": "-66.2381"
     },
     "timezone": {
-      "offset": "+9:00",
-      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+      "offset": "-8:00",
+      "description": "Pacific Time (US & Canada)"
     }
   },
-  "email": "davor.sakic@example.com",
+  "email": "thomas.lavoie@example.com",
   "login": {
-    "uuid": "2adf59b2-1f85-4050-a238-747167c60a9f",
-    "username": "blueleopard547",
-    "password": "briana",
-    "salt": "g7IwbwaA",
-    "md5": "0d0a3b56de12efeae65a25ad4decafca",
-    "sha1": "8fff96748eb65b3ec61f5ed0e19505928c02825d",
-    "sha256": "1457f5948b897044b23a6eee76afd41eab11fd8e3933687e3f561268c0d7c275"
+    "uuid": "d829680d-b3a4-4202-8a5d-82a92ead4442",
+    "username": "goldensnake578",
+    "password": "nono",
+    "salt": "SmPricic",
+    "md5": "93e8de1b4e4ecc6f1c99ecb6d1af44c4",
+    "sha1": "d79dbf305eadf818f4438714a9925e4f52144756",
+    "sha256": "09853e53f339206e988433a02dd5c9ad9271f27a5c15f562d44c3e8f6c2122d4"
   },
   "dob": {
-    "date": "1961-08-01T01:28:09.481Z",
-    "age": 63
+    "date": "1954-07-20T19:54:27.822Z",
+    "age": 70
   },
   "registered": {
-    "date": "2011-05-09T19:16:14.882Z",
-    "age": 14
+    "date": "2014-11-07T08:59:18.578Z",
+    "age": 10
   },
-  "phone": "024-7406-690",
-  "cell": "063-9201-157",
+  "phone": "E96 V22-3108",
+  "cell": "H13 K10-8233",
   "id": {
-    "name": "SID",
-    "value": "392243323"
+    "name": "SIN",
+    "value": "009841271"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/12.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
+    "large": "https://randomuser.me/api/portraits/men/62.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/62.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/62.jpg"
   },
-  "nat": "RS"
+  "nat": "CA"
 }
