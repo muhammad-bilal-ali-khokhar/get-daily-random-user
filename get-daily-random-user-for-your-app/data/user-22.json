@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mademoiselle",
-    "first": "Sonia",
-    "last": "Vincent"
+    "title": "Mr",
+    "first": "Angel",
+    "last": "Wells"
   },
   "location": {
     "street": {
-      "number": 8438,
-      "name": "Rue Bony"
+      "number": 2530,
+      "name": "Railroad St"
     },
-    "city": "Meltingen",
-    "state": "Fribourg",
-    "country": "Switzerland",
-    "postcode": 7045,
+    "city": "Tamworth",
+    "state": "New South Wales",
+    "country": "Australia",
+    "postcode": 4413,
     "coordinates": {
-      "latitude": "-63.0530",
-      "longitude": "135.2319"
+      "latitude": "-82.2455",
+      "longitude": "-41.0428"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+5:00",
+      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
     }
   },
-  "email": "sonia.vincent@example.com",
+  "email": "angel.wells@example.com",
   "login": {
-    "uuid": "ef28d683-0234-4888-8575-4ee2a3ac6302",
-    "username": "goldenfish912",
-    "password": "jersey",
-    "salt": "lorFIFHw",
-    "md5": "2c07d68c6d010870af7887b06c5c3f5d",
-    "sha1": "38459f6f6074494c3da780352ec09c08d5cb713f",
-    "sha256": "b2dbd31f3fc753de91d0d36ac42754be9cffabceee4b48ff0d15e1dd3834de34"
+    "uuid": "0fb4ac30-fe05-4b2a-929b-389b4d12c561",
+    "username": "organicostrich274",
+    "password": "border",
+    "salt": "74bwTlP1",
+    "md5": "56e322925afb8f638c941c45d4b36e8d",
+    "sha1": "0e1a2ea5369fcca699a1cdd3a08b5079b0baa5d3",
+    "sha256": "075e60b08e61076cdace7348021ab19da9f3c3e733d411bb7f1834dcf3fe4657"
   },
   "dob": {
-    "date": "1995-09-15T08:06:57.177Z",
-    "age": 29
+    "date": "1973-01-13T14:26:42.215Z",
+    "age": 52
   },
   "registered": {
-    "date": "2004-11-08T09:46:14.364Z",
-    "age": 20
+    "date": "2014-05-23T06:40:34.398Z",
+    "age": 11
   },
-  "phone": "078 420 15 04",
-  "cell": "075 225 58 63",
+  "phone": "02-8117-3307",
+  "cell": "0421-352-460",
   "id": {
-    "name": "AVS",
-    "value": "756.1911.1316.00"
+    "name": "TFN",
+    "value": "347113778"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/64.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/64.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/64.jpg"
+    "large": "https://randomuser.me/api/portraits/men/71.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/71.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/71.jpg"
   },
-  "nat": "CH"
+  "nat": "AU"
 }

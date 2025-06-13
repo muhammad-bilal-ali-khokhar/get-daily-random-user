@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Lea",
-    "last": "Côté"
+    "title": "Miss",
+    "first": "Trupti",
+    "last": "Prabhakaran"
   },
   "location": {
     "street": {
-      "number": 1420,
-      "name": "Frederick Ave"
+      "number": 4610,
+      "name": "Naiduthota"
     },
-    "city": "Maitland",
-    "state": "Nova Scotia",
-    "country": "Canada",
-    "postcode": "P0E 1O7",
+    "city": "Nagaon",
+    "state": "Goa",
+    "country": "India",
+    "postcode": 10370,
     "coordinates": {
-      "latitude": "-64.7467",
-      "longitude": "165.4713"
+      "latitude": "5.7817",
+      "longitude": "166.1348"
     },
     "timezone": {
-      "offset": "-2:00",
-      "description": "Mid-Atlantic"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "lea.cote@example.com",
+  "email": "trupti.prabhakaran@example.com",
   "login": {
-    "uuid": "a3b52797-7638-47ab-8459-fa2ef38fd9ad",
-    "username": "organiczebra683",
-    "password": "elaine",
-    "salt": "ynHEOSIs",
-    "md5": "53f2f00e30a6556ba8f3adf035f1d02e",
-    "sha1": "ff1a2caa5f8a03527f871ab0a24c13b36dbfa6a1",
-    "sha256": "26ab2a0d2d98618bf445964b8e01491ffb259b0b0e2a93b850b3746222e0dc50"
+    "uuid": "ea3979a4-0f13-4252-8be3-9e25086f07b1",
+    "username": "bluemeercat923",
+    "password": "toriamos",
+    "salt": "9hplwjVR",
+    "md5": "e34d8219dbc82b430dafbc9b54e2d33d",
+    "sha1": "9af0ffa3bfd7d68511947d8b8030f0783cb64e59",
+    "sha256": "11687256b9942c2b24981d4289d7d13083e3c8d2bce95e5df12fb7e82c25f721"
   },
   "dob": {
-    "date": "1954-01-29T12:06:10.033Z",
-    "age": 71
+    "date": "1952-05-17T12:33:17.529Z",
+    "age": 73
   },
   "registered": {
-    "date": "2021-01-25T00:53:23.220Z",
-    "age": 4
+    "date": "2009-01-05T22:10:27.827Z",
+    "age": 16
   },
-  "phone": "G59 V66-8391",
-  "cell": "I34 X47-0577",
+  "phone": "8490470705",
+  "cell": "8613273771",
   "id": {
-    "name": "SIN",
-    "value": "583149984"
+    "name": "UIDAI",
+    "value": "705431870249"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/95.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/95.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/95.jpg"
+    "large": "https://randomuser.me/api/portraits/women/3.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/3.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/3.jpg"
   },
-  "nat": "CA"
+  "nat": "IN"
 }

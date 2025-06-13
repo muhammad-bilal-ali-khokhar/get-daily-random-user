@@ -1,56 +1,56 @@
 {
   "gender": "male",
   "name": {
-    "title": "Mr",
-    "first": "Miron",
-    "last": "Kiriienko"
+    "title": "Monsieur",
+    "first": "Fabrizio",
+    "last": "Lacroix"
   },
   "location": {
     "street": {
-      "number": 6424,
-      "name": "Holodnoyarska"
+      "number": 1467,
+      "name": "Rue Duguesclin"
     },
-    "city": "Verhnodniprovsk",
-    "state": "Luganska",
-    "country": "Ukraine",
-    "postcode": 60825,
+    "city": "Fislisbach",
+    "state": "Appenzell Ausserrhoden",
+    "country": "Switzerland",
+    "postcode": 5363,
     "coordinates": {
-      "latitude": "80.7563",
-      "longitude": "-170.5496"
+      "latitude": "-56.7637",
+      "longitude": "-102.6537"
     },
     "timezone": {
-      "offset": "+4:30",
-      "description": "Kabul"
+      "offset": "+3:00",
+      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
     }
   },
-  "email": "miron.kiriienko@example.com",
+  "email": "fabrizio.lacroix@example.com",
   "login": {
-    "uuid": "96aae279-1e8d-42aa-baef-e668b0aba4f9",
-    "username": "tinywolf917",
-    "password": "nomore",
-    "salt": "h6F2jPPC",
-    "md5": "c3b0fd171bd9ee3f2763c6578e12dccc",
-    "sha1": "08600f8d07ce5157257e05bf1ce8dde2ef6a227f",
-    "sha256": "eb66bd6d209c35ce52131a06cf703b0a984d16304cc2787290d453407b72eecd"
+    "uuid": "4782d404-80b6-426b-b86f-cca878a76021",
+    "username": "greenzebra819",
+    "password": "knickerless",
+    "salt": "FdTxlzRE",
+    "md5": "7d2a7cc539c46aaabbd4a4e9f795695d",
+    "sha1": "2cb5bbfc873dd8a5c1d56c2e80382fc19341a9bf",
+    "sha256": "23418c24c95fd328b73f82119e70d7b6593aa7a284552ce2a15d0b2b5e9013ad"
   },
   "dob": {
-    "date": "1967-08-05T08:09:28.650Z",
-    "age": 57
+    "date": "1987-08-18T07:50:02.287Z",
+    "age": 37
   },
   "registered": {
-    "date": "2009-11-12T04:50:17.577Z",
-    "age": 15
+    "date": "2015-09-19T01:56:52.715Z",
+    "age": 9
   },
-  "phone": "(097) B67-6295",
-  "cell": "(098) D99-0635",
+  "phone": "077 644 01 09",
+  "cell": "078 078 53 79",
   "id": {
-    "name": "",
-    "value": null
+    "name": "AVS",
+    "value": "756.7869.9808.16"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/53.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
+    "large": "https://randomuser.me/api/portraits/men/50.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
   },
-  "nat": "UA"
+  "nat": "CH"
 }

@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Erwan",
-    "last": "Lemaire"
+    "first": "Nathan",
+    "last": "Brar"
   },
   "location": {
     "street": {
-      "number": 4488,
-      "name": "Rue de L'Abbé-Groult"
+      "number": 7991,
+      "name": "Parliament St"
     },
-    "city": "Colombes",
-    "state": "Pyrénées-Atlantiques",
-    "country": "France",
-    "postcode": 78195,
+    "city": "Oakville",
+    "state": "Manitoba",
+    "country": "Canada",
+    "postcode": "X5N 2V0",
     "coordinates": {
-      "latitude": "-20.0135",
-      "longitude": "-1.3212"
+      "latitude": "-70.8468",
+      "longitude": "-110.1801"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "erwan.lemaire@example.com",
+  "email": "nathan.brar@example.com",
   "login": {
-    "uuid": "484784cc-842c-4a09-ac52-efbdd5cf1c16",
-    "username": "greencat902",
-    "password": "scissors",
-    "salt": "FrlWNcIQ",
-    "md5": "c6f69f438c1d576d37341d3b34c2a3cc",
-    "sha1": "2389457fbbb392323d6646c145a9d5b6dea22cf4",
-    "sha256": "e029833ed70d70edb27574d67a9ec0cbf107bd19525de08df82dde7605266b6f"
+    "uuid": "a1ccaa21-7b68-4d1e-8702-3ed6d78c28a6",
+    "username": "angrydog303",
+    "password": "huskers",
+    "salt": "ERAG1g4W",
+    "md5": "9868a02be5321f962443b68716332278",
+    "sha1": "f8e4388860373531d0bd376517f55f7d9b21e6eb",
+    "sha256": "8fe873cc77bb67fdae1f8a1a208da743f6c5c2f531966d48869f61ad556490c3"
   },
   "dob": {
-    "date": "1997-12-05T05:06:58.954Z",
-    "age": 27
+    "date": "1996-05-02T11:42:48.948Z",
+    "age": 29
   },
   "registered": {
-    "date": "2017-01-22T00:23:04.933Z",
-    "age": 8
+    "date": "2019-03-10T22:55:27.775Z",
+    "age": 6
   },
-  "phone": "05-37-90-71-43",
-  "cell": "06-70-02-07-48",
+  "phone": "V45 T15-6438",
+  "cell": "P84 T31-3033",
   "id": {
-    "name": "INSEE",
-    "value": "1971168127618 70"
+    "name": "SIN",
+    "value": "058816935"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    "large": "https://randomuser.me/api/portraits/men/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
   },
-  "nat": "FR"
+  "nat": "CA"
 }

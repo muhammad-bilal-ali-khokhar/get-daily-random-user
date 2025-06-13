@@ -2,55 +2,55 @@
   "gender": "female",
   "name": {
     "title": "Mrs",
-    "first": "Ivanka",
-    "last": "Deutsch"
+    "first": "Ülkü",
+    "last": "Bademci"
   },
   "location": {
     "street": {
-      "number": 1318,
-      "name": "Kirchplatz"
+      "number": 2545,
+      "name": "Abanoz Sk"
     },
-    "city": "Rosenfeld",
-    "state": "Saarland",
-    "country": "Germany",
-    "postcode": 45538,
+    "city": "Bitlis",
+    "state": "Van",
+    "country": "Turkey",
+    "postcode": 20164,
     "coordinates": {
-      "latitude": "-47.6167",
-      "longitude": "130.1029"
+      "latitude": "69.5250",
+      "longitude": "143.8344"
     },
     "timezone": {
-      "offset": "-8:00",
-      "description": "Pacific Time (US & Canada)"
+      "offset": "-2:00",
+      "description": "Mid-Atlantic"
     }
   },
-  "email": "ivanka.deutsch@example.com",
+  "email": "ulku.bademci@example.com",
   "login": {
-    "uuid": "725228bb-6e7b-40d1-aa94-628a4d0691fa",
-    "username": "crazygoose260",
-    "password": "mandy",
-    "salt": "5ETd1fjP",
-    "md5": "8b0e35eb98cd27211bb80f3e92a60bef",
-    "sha1": "6f35609ed53cc028bd1b9845224370a8211b5810",
-    "sha256": "278d9ee4b8f23927661d6554e9ac8de44cd5f8dfb3fcb4fd8b28833f48788c79"
+    "uuid": "d2a6462c-1d0c-4a2a-b13e-f86a7ce74821",
+    "username": "tinyzebra603",
+    "password": "chevrolet",
+    "salt": "2cXOiPme",
+    "md5": "4af0a9c02ff83a11d29d5cae26fbe2c9",
+    "sha1": "0f091b9d0ceea26dd117a6f35ade546244b1a98b",
+    "sha256": "fb5364d60a864854b06fdbd4f2fa4520ca6a97b4c7db9f83219551bc00f1d6dc"
   },
   "dob": {
-    "date": "1974-02-09T20:17:13.555Z",
-    "age": 51
+    "date": "1968-04-29T14:17:59.595Z",
+    "age": 57
   },
   "registered": {
-    "date": "2015-04-04T03:27:31.224Z",
-    "age": 10
+    "date": "2015-10-04T05:38:40.086Z",
+    "age": 9
   },
-  "phone": "0803-5096613",
-  "cell": "0174-7059641",
+  "phone": "(794)-251-1833",
+  "cell": "(402)-866-5370",
   "id": {
-    "name": "SVNR",
-    "value": "04 090274 D 865"
+    "name": "",
+    "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/29.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+    "large": "https://randomuser.me/api/portraits/women/44.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/44.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/44.jpg"
   },
-  "nat": "DE"
+  "nat": "TR"
 }

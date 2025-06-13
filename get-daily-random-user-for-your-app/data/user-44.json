@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "سارینا",
-    "last": "جعفری"
+    "title": "Mr",
+    "first": "Nicklas",
+    "last": "Andersen"
   },
   "location": {
     "street": {
-      "number": 6097,
-      "name": "شهید ثانی"
+      "number": 7907,
+      "name": "Kildebakken"
     },
-    "city": "شیراز",
-    "state": "مازندران",
-    "country": "Iran",
-    "postcode": 83584,
+    "city": "Assens",
+    "state": "Danmark",
+    "country": "Denmark",
+    "postcode": 38401,
     "coordinates": {
-      "latitude": "20.6648",
-      "longitude": "10.4174"
+      "latitude": "-42.6438",
+      "longitude": "-6.2199"
     },
     "timezone": {
-      "offset": "-5:00",
-      "description": "Eastern Time (US & Canada), Bogota, Lima"
+      "offset": "+11:00",
+      "description": "Magadan, Solomon Islands, New Caledonia"
     }
   },
-  "email": "sryn.jaafry@example.com",
+  "email": "nicklas.andersen@example.com",
   "login": {
-    "uuid": "71249699-d1bf-478f-92db-f089932c23c9",
-    "username": "sadwolf102",
-    "password": "striker",
-    "salt": "dS0CF9vi",
-    "md5": "0b6d6368113aafce5b4c5668d31af485",
-    "sha1": "f295535b6f2ede07ee1ec68b7c735d5060056dec",
-    "sha256": "628350050d6b887598aaae697b17a3b2482ab62d28d0816f27497fc582535bd8"
+    "uuid": "a0fc6125-c1d4-4078-96e5-e2b466313c77",
+    "username": "tinygoose914",
+    "password": "hemlock",
+    "salt": "Yf2rbCH1",
+    "md5": "f9356e5ab6304d3f0a612c331f0a916a",
+    "sha1": "46e276a23d0bcb905dea9208d2a89fc7ae11d7e1",
+    "sha256": "23e497aab50f2057fa5734c122edefc570c846355f5029aa886848166958359f"
   },
   "dob": {
-    "date": "1975-02-15T15:42:13.163Z",
-    "age": 50
+    "date": "1951-12-14T15:12:27.738Z",
+    "age": 73
   },
   "registered": {
-    "date": "2014-04-23T18:20:45.736Z",
-    "age": 11
+    "date": "2017-04-30T18:15:34.894Z",
+    "age": 8
   },
-  "phone": "011-81175037",
-  "cell": "0975-698-1906",
+  "phone": "34212744",
+  "cell": "53580541",
   "id": {
-    "name": "",
-    "value": null
+    "name": "CPR",
+    "value": "141251-8556"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/30.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
   },
-  "nat": "IR"
+  "nat": "DK"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Miss",
-    "first": "Dolores",
-    "last": "Angulo"
+    "title": "Mr",
+    "first": "Charles",
+    "last": "Griffin"
   },
   "location": {
     "street": {
-      "number": 6966,
-      "name": "Eje vial Sur Romero"
+      "number": 432,
+      "name": "The Grove"
     },
-    "city": "San Bartolo Morelos",
-    "state": "Ciudad de Mexico",
-    "country": "Mexico",
-    "postcode": 51070,
+    "city": "Portmarnock",
+    "state": "Donegal",
+    "country": "Ireland",
+    "postcode": 29133,
     "coordinates": {
-      "latitude": "25.3080",
-      "longitude": "103.7955"
+      "latitude": "2.4437",
+      "longitude": "-11.7308"
     },
     "timezone": {
-      "offset": "+3:00",
-      "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+      "offset": "+5:30",
+      "description": "Bombay, Calcutta, Madras, New Delhi"
     }
   },
-  "email": "dolores.angulo@example.com",
+  "email": "charles.griffin@example.com",
   "login": {
-    "uuid": "4018baa3-7127-4271-a208-770d7421fb75",
-    "username": "lazykoala543",
-    "password": "234567",
-    "salt": "glDiBf3k",
-    "md5": "784fa23f0b50a7bc941874e1a146fddb",
-    "sha1": "69776375907b23c2b44d9242b22f65078538652d",
-    "sha256": "6cf358a7bf98bed007ee4172ed0a7e7cdeed8819b9684a3cf665e7512c1f170d"
+    "uuid": "25b0ec23-d91c-4674-8f3a-e8fac0b44fe5",
+    "username": "bluemouse927",
+    "password": "wrangler",
+    "salt": "3MfWxCsV",
+    "md5": "7e0d32ccd5989951b483dc66e029f1dc",
+    "sha1": "9d9053be36244c06bd5c695147e8812671ff4fae",
+    "sha256": "080aac4df63661d6398789a5cc42c0b23d12190139d5e4e700f07eb4f73a4f54"
   },
   "dob": {
-    "date": "1944-11-04T00:38:34.272Z",
-    "age": 80
+    "date": "1973-01-27T15:40:14.370Z",
+    "age": 52
   },
   "registered": {
-    "date": "2018-09-03T10:32:08.052Z",
-    "age": 6
+    "date": "2021-08-16T03:02:22.351Z",
+    "age": 3
   },
-  "phone": "(621) 097 4302",
-  "cell": "(611) 569 5508",
+  "phone": "061-072-2993",
+  "cell": "081-062-0213",
   "id": {
-    "name": "NSS",
-    "value": "36 71 22 7054 9"
+    "name": "PPS",
+    "value": "3439423T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/47.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/47.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/47.jpg"
+    "large": "https://randomuser.me/api/portraits/men/65.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
   },
-  "nat": "MX"
+  "nat": "IE"
 }

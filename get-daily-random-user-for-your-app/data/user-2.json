@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Lucile",
-    "last": "Brunet"
+    "title": "Monsieur",
+    "first": "Stefan",
+    "last": "Blanc"
   },
   "location": {
     "street": {
-      "number": 8329,
-      "name": "Avenue du Château"
+      "number": 8597,
+      "name": "Rue des Abbesses"
     },
-    "city": "Aubervilliers",
-    "state": "Haute-Savoie",
-    "country": "France",
-    "postcode": 26908,
+    "city": "Allaman",
+    "state": "Zug",
+    "country": "Switzerland",
+    "postcode": 5026,
     "coordinates": {
-      "latitude": "-20.7127",
-      "longitude": "98.7972"
+      "latitude": "-58.3965",
+      "longitude": "-125.4534"
     },
     "timezone": {
-      "offset": "+7:00",
-      "description": "Bangkok, Hanoi, Jakarta"
+      "offset": "-9:00",
+      "description": "Alaska"
     }
   },
-  "email": "lucile.brunet@example.com",
+  "email": "stefan.blanc@example.com",
   "login": {
-    "uuid": "a17cd016-3815-4511-8ef8-88a18300c608",
-    "username": "orangeleopard567",
-    "password": "wolves",
-    "salt": "Ffvwefa4",
-    "md5": "926cdd99f1a87184710055ad031ec58f",
-    "sha1": "2da0e9699f72d0b4df9127b12a4abae996f49625",
-    "sha256": "049d20658d67a66e0931a303a6e4241f88d4a2a371425977a67ddf19599eaf88"
+    "uuid": "e11db0f0-cb51-4487-9caf-2e8976fd5365",
+    "username": "purplewolf256",
+    "password": "saigon",
+    "salt": "URwesFBu",
+    "md5": "15bd0c816243fb10d23b8da231ea863b",
+    "sha1": "7549cb8b6bd822cfba32434936de1c686a6792ad",
+    "sha256": "749ace9cb4dfeaf6c4cf509bd2ba6c57819335ab26b73c739843d9b45e7d310a"
   },
   "dob": {
-    "date": "1980-09-14T07:21:13.296Z",
-    "age": 44
+    "date": "1995-11-06T17:54:44.818Z",
+    "age": 29
   },
   "registered": {
-    "date": "2004-01-02T10:20:06.807Z",
-    "age": 21
+    "date": "2012-11-27T10:25:37.021Z",
+    "age": 12
   },
-  "phone": "02-00-73-05-62",
-  "cell": "06-44-81-88-97",
+  "phone": "077 983 24 37",
+  "cell": "076 968 93 72",
   "id": {
-    "name": "INSEE",
-    "value": "2800890022399 88"
+    "name": "AVS",
+    "value": "756.9513.9631.52"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/49.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/49.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/49.jpg"
+    "large": "https://randomuser.me/api/portraits/men/61.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/61.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/61.jpg"
   },
-  "nat": "FR"
+  "nat": "CH"
 }

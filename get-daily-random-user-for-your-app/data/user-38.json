@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Nika",
-    "last": "Kostenko"
+    "title": "Mr",
+    "first": "Luka",
+    "last": "Oehme"
   },
   "location": {
     "street": {
-      "number": 7451,
-      "name": "Salskiy provulok"
+      "number": 2057,
+      "name": "Schützenstraße"
     },
-    "city": "Mikolayiv",
-    "state": "Donecka",
-    "country": "Ukraine",
-    "postcode": 82347,
+    "city": "Waldbröl",
+    "state": "Thüringen",
+    "country": "Germany",
+    "postcode": 67680,
     "coordinates": {
-      "latitude": "73.2651",
-      "longitude": "67.8914"
+      "latitude": "-47.9628",
+      "longitude": "-173.9382"
     },
     "timezone": {
-      "offset": "+5:00",
-      "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+      "offset": "+4:00",
+      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
     }
   },
-  "email": "nika.kostenko@example.com",
+  "email": "luka.oehme@example.com",
   "login": {
-    "uuid": "96aabc82-c2b2-4985-aae7-ed828ea34b90",
-    "username": "heavyswan868",
-    "password": "threesom",
-    "salt": "hTlJIwAP",
-    "md5": "3fc0a5b2485795cd5d2d202f9514d7fd",
-    "sha1": "f6d12736741809279f0ad5a5cb7ab75c1461905f",
-    "sha256": "b62873caf93edcee11e4d35f8f0f47fcd50fd6463e7f07c3a80e3ae428a6d5f3"
+    "uuid": "aa93eefa-4f90-412b-a166-9534979ed029",
+    "username": "happykoala653",
+    "password": "allan",
+    "salt": "t9LbdjS3",
+    "md5": "d45f8e3e978d6ac195a95e60383bb81e",
+    "sha1": "562924137c1b06716bf7e4d97488995ff3d8ee89",
+    "sha256": "effaaa1a6d8731f139c123ab6e8690620d69aeb8bfff1214ccbbbee4c0c95e85"
   },
   "dob": {
-    "date": "1975-06-20T09:32:52.269Z",
-    "age": 49
+    "date": "1962-09-25T04:39:42.062Z",
+    "age": 62
   },
   "registered": {
-    "date": "2004-11-24T11:38:58.390Z",
-    "age": 20
+    "date": "2006-02-05T14:35:21.275Z",
+    "age": 19
   },
-  "phone": "(099) Q22-6508",
-  "cell": "(096) K26-1324",
+  "phone": "0545-8801505",
+  "cell": "0172-9703798",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SVNR",
+    "value": "43 240962 O 016"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/54.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
+    "large": "https://randomuser.me/api/portraits/men/26.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/26.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/26.jpg"
   },
-  "nat": "UA"
+  "nat": "DE"
 }

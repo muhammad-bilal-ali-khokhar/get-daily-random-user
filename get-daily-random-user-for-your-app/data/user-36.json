@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Eduartino",
-    "last": "das Neves"
+    "first": "Anthony",
+    "last": "Olson"
   },
   "location": {
     "street": {
-      "number": 4777,
-      "name": "Rua Pernambuco "
+      "number": 8187,
+      "name": "Park Road"
     },
-    "city": "Araguaína",
-    "state": "Espírito Santo",
-    "country": "Brazil",
-    "postcode": 44798,
+    "city": "Birr",
+    "state": "Leitrim",
+    "country": "Ireland",
+    "postcode": 88911,
     "coordinates": {
-      "latitude": "-77.7269",
-      "longitude": "-172.5651"
+      "latitude": "-1.0557",
+      "longitude": "-127.4137"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "+10:00",
+      "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "eduartino.dasneves@example.com",
+  "email": "anthony.olson@example.com",
   "login": {
-    "uuid": "55d78046-a9e6-4a7f-8ca9-45099d71ee7d",
-    "username": "purplemeercat341",
-    "password": "roger",
-    "salt": "PJ5ANB0b",
-    "md5": "375f86083dd821e2262c622898d55935",
-    "sha1": "32bcdc137cc4f0ff80c30b32b0c8b45ffeb45fdc",
-    "sha256": "c53e457b0ff871d0e0cec5c18954a1132225b5bf0cd4a35d4381b6c8f66afe42"
+    "uuid": "0afda18e-249b-4e15-96b5-6349b776c138",
+    "username": "silverfrog461",
+    "password": "groove",
+    "salt": "jrMT6fxh",
+    "md5": "f59e74a9ab1cc15a65ae45d93373fc92",
+    "sha1": "87ded64da92e0d9d317e5820add87493c31ba173",
+    "sha256": "927880eccfcdc92e7b99d9695400efbf3b967131dd36f3db348e96bafe13b37f"
   },
   "dob": {
-    "date": "1965-10-25T10:53:14.101Z",
-    "age": 59
+    "date": "1956-10-31T17:19:41.542Z",
+    "age": 68
   },
   "registered": {
-    "date": "2002-11-10T12:08:59.467Z",
-    "age": 22
+    "date": "2008-02-25T08:35:55.623Z",
+    "age": 17
   },
-  "phone": "(68) 4099-4852",
-  "cell": "(98) 3165-2724",
+  "phone": "061-444-7025",
+  "cell": "081-448-2969",
   "id": {
-    "name": "CPF",
-    "value": "334.910.590-05"
+    "name": "PPS",
+    "value": "3775866T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/57.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+    "large": "https://randomuser.me/api/portraits/men/60.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/60.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/60.jpg"
   },
-  "nat": "BR"
+  "nat": "IE"
 }

@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Dorogobug",
-    "last": "Ivanec"
+    "title": "Ms",
+    "first": "Asta",
+    "last": "Dose"
   },
   "location": {
     "street": {
-      "number": 9369,
-      "name": "Olenivska"
+      "number": 15,
+      "name": "Bergstraße"
     },
-    "city": "Baranivka",
-    "state": "Rivnenska",
-    "country": "Ukraine",
-    "postcode": 67605,
+    "city": "Steinach",
+    "state": "Hamburg",
+    "country": "Germany",
+    "postcode": 61121,
     "coordinates": {
-      "latitude": "73.5038",
-      "longitude": "-131.5893"
+      "latitude": "-51.7929",
+      "longitude": "145.0804"
     },
     "timezone": {
-      "offset": "-7:00",
-      "description": "Mountain Time (US & Canada)"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "dorogobug.ivanec@example.com",
+  "email": "asta.dose@example.com",
   "login": {
-    "uuid": "552ea0aa-510e-4d48-907b-b3e67ae6b910",
-    "username": "heavypeacock755",
-    "password": "123456789",
-    "salt": "vgc52sF1",
-    "md5": "c5e36c2133e581a4dbd6391fee74c004",
-    "sha1": "49a4697ac5afd21eff5cd04a9007ce3b2deb88a2",
-    "sha256": "92270d98ab2d004ad20d9d92ea1dbf4e6d2639d0e782da39b09561e8d4fe67d2"
+    "uuid": "12e501d5-968b-4516-8174-ad6875f9ca74",
+    "username": "crazyostrich835",
+    "password": "holes",
+    "salt": "AFTuhxFg",
+    "md5": "bc2adc8ae0856d550f636102797ad9b2",
+    "sha1": "44b6213adb526222cb8eff5913f3ce385171e0ee",
+    "sha256": "f1a1407070c4bfe219e74829e02aa52c9f16f4e16ce98800aaf92f2998b427c5"
   },
   "dob": {
-    "date": "1958-07-21T17:44:32.438Z",
-    "age": 66
+    "date": "1965-12-14T02:18:38.749Z",
+    "age": 59
   },
   "registered": {
-    "date": "2020-08-30T11:29:53.628Z",
-    "age": 4
+    "date": "2012-11-07T07:06:50.373Z",
+    "age": 12
   },
-  "phone": "(096) Q84-6510",
-  "cell": "(068) Y23-6750",
+  "phone": "0396-7643400",
+  "cell": "0175-5069147",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SVNR",
+    "value": "13 131265 D 753"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/39.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
+    "large": "https://randomuser.me/api/portraits/women/43.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
   },
-  "nat": "UA"
+  "nat": "DE"
 }

@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Ms",
-    "first": "Sara",
-    "last": "Pedersen"
+    "title": "Miss",
+    "first": "Brianna",
+    "last": "Cunningham"
   },
   "location": {
     "street": {
-      "number": 2546,
-      "name": "Hegnet"
+      "number": 7077,
+      "name": "Camden Ave"
     },
-    "city": "Snertinge",
-    "state": "Danmark",
-    "country": "Denmark",
-    "postcode": 41836,
+    "city": "Plano",
+    "state": "Delaware",
+    "country": "United States",
+    "postcode": 22034,
     "coordinates": {
-      "latitude": "-44.3383",
-      "longitude": "141.9853"
+      "latitude": "88.1011",
+      "longitude": "109.7577"
     },
     "timezone": {
-      "offset": "-10:00",
-      "description": "Hawaii"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "sara.pedersen@example.com",
+  "email": "brianna.cunningham@example.com",
   "login": {
-    "uuid": "cbf144c1-543a-4358-81d2-dbeb1d26b08c",
-    "username": "bigswan760",
-    "password": "streaming",
-    "salt": "qoNntFXh",
-    "md5": "1bada75982b8ae9481648e3e969054d9",
-    "sha1": "7ea4c17cf8fba97092f0d1667c4cfe4003460ff0",
-    "sha256": "07ad4672ee6686547ebe842e2885efec0bc863ab8d04c8068bc947bab1ad04e0"
+    "uuid": "2223b1a2-2be3-4a15-889a-ba0e23690307",
+    "username": "purplepanda675",
+    "password": "masamune",
+    "salt": "S4oOfuaH",
+    "md5": "7b581c7d977fe64fa9de51bf084b6f59",
+    "sha1": "8009873fe948693d12b51cbbe68e269b800cdc6d",
+    "sha256": "77b65931ad644abfb335d195147c48d1193c280d6be0c828f92921ab6fa7ed08"
   },
   "dob": {
-    "date": "1996-10-09T20:21:05.698Z",
-    "age": 28
+    "date": "1947-02-18T19:56:20.843Z",
+    "age": 78
   },
   "registered": {
-    "date": "2017-01-20T12:46:41.072Z",
-    "age": 8
+    "date": "2020-06-17T09:48:52.512Z",
+    "age": 4
   },
-  "phone": "81470572",
-  "cell": "48840239",
+  "phone": "(345) 220-4714",
+  "cell": "(415) 278-7619",
   "id": {
-    "name": "CPR",
-    "value": "091096-9120"
+    "name": "SSN",
+    "value": "018-75-6976"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/6.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/6.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/6.jpg"
+    "large": "https://randomuser.me/api/portraits/women/13.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/13.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/13.jpg"
   },
-  "nat": "DK"
+  "nat": "US"
 }

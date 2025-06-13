@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Batur",
-    "last": "Beşerler"
+    "first": "Luke",
+    "last": "Moore"
   },
   "location": {
     "street": {
-      "number": 6253,
-      "name": "Mevlana Cd"
+      "number": 6119,
+      "name": "Panama Road"
     },
-    "city": "Afyonkarahisar",
-    "state": "Kırıkkale",
-    "country": "Turkey",
-    "postcode": 83903,
+    "city": "New Plymouth",
+    "state": "Wellington",
+    "country": "New Zealand",
+    "postcode": 46861,
     "coordinates": {
-      "latitude": "68.2483",
-      "longitude": "-38.1131"
+      "latitude": "50.8713",
+      "longitude": "-7.5660"
     },
     "timezone": {
-      "offset": "+8:00",
-      "description": "Beijing, Perth, Singapore, Hong Kong"
+      "offset": "-3:30",
+      "description": "Newfoundland"
     }
   },
-  "email": "batur.beserler@example.com",
+  "email": "luke.moore@example.com",
   "login": {
-    "uuid": "13dae0ed-485d-4c19-b888-84666a894b25",
-    "username": "lazyleopard564",
-    "password": "loretta",
-    "salt": "tFv1WhJ9",
-    "md5": "85ded6d91dee155cfac28d9840174ec4",
-    "sha1": "358e653637cd71456d38f8c3a3064d2e2de73def",
-    "sha256": "40b2a5020dc81fc7f3d09e70a7b970c669c805d91aa60913fd38ad31fc05d2fc"
+    "uuid": "b849a9e6-25d9-4368-8c2e-0956f96e2deb",
+    "username": "blackwolf146",
+    "password": "samiam",
+    "salt": "jw2KnxIW",
+    "md5": "3974c1b6f2d1b76359b0124e0d6c2528",
+    "sha1": "5a7ba626456d53860c87a3c03da2b51280b5eac4",
+    "sha256": "9314c8c306dbfffa208e98b7eee77f0639bea58f7ee28a0638a2cd602fbf26cb"
   },
   "dob": {
-    "date": "1960-12-23T00:03:36.972Z",
-    "age": 64
+    "date": "1977-03-01T19:51:46.551Z",
+    "age": 48
   },
   "registered": {
-    "date": "2011-01-14T02:35:49.359Z",
-    "age": 14
+    "date": "2009-07-12T02:14:08.961Z",
+    "age": 15
   },
-  "phone": "(365)-527-1389",
-  "cell": "(786)-313-6367",
+  "phone": "(964)-818-9737",
+  "cell": "(121)-626-1938",
   "id": {
     "name": "",
     "value": null
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/38.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/38.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/38.jpg"
+    "large": "https://randomuser.me/api/portraits/men/42.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/42.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/42.jpg"
   },
-  "nat": "TR"
+  "nat": "NZ"
 }

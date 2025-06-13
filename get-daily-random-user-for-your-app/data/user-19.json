@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Miss",
-    "first": "Helle",
-    "last": "Tennfjord"
+    "title": "Mrs",
+    "first": "Shraddha",
+    "last": "Kouser"
   },
   "location": {
     "street": {
-      "number": 7774,
-      "name": "Stockholmgata"
+      "number": 6189,
+      "name": "Kasba Peth"
     },
-    "city": "Beisfjord",
-    "state": "Hordaland",
-    "country": "Norway",
-    "postcode": "4645",
+    "city": "Pune",
+    "state": "Gujarat",
+    "country": "India",
+    "postcode": 65406,
     "coordinates": {
-      "latitude": "39.8040",
-      "longitude": "85.2771"
+      "latitude": "11.0264",
+      "longitude": "48.4804"
     },
     "timezone": {
-      "offset": "-12:00",
-      "description": "Eniwetok, Kwajalein"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "helle.tennfjord@example.com",
+  "email": "shraddha.kouser@example.com",
   "login": {
-    "uuid": "6d10cd05-eda7-475c-867b-b18e20e94243",
-    "username": "silverpeacock203",
-    "password": "honda1",
-    "salt": "1NDDvWcy",
-    "md5": "68e10f5b0597df2410bd27b553209227",
-    "sha1": "7317682d42f6d0a6d56b72a48314e9d538089113",
-    "sha256": "467e1f1edf8b92a9b3f4e8f9896acd6f57d8fc8c90f8e6e78949236e18138329"
+    "uuid": "c76e96b5-93f9-434e-bd1a-70d674e01fe5",
+    "username": "purpleladybug121",
+    "password": "adams",
+    "salt": "p0Jpp30Y",
+    "md5": "8a591dd3c54f5f95e7e831143f0e16c8",
+    "sha1": "9c2450e598a4ae6a6b0151f55223a3caee2c6e92",
+    "sha256": "36a8422c71b145575e1c6a8db18bceab97674133200aeb1f27b4631ecd092b6a"
   },
   "dob": {
-    "date": "1975-09-06T16:50:22.592Z",
-    "age": 49
+    "date": "1992-02-10T03:38:56.958Z",
+    "age": 33
   },
   "registered": {
-    "date": "2021-02-03T21:41:14.536Z",
-    "age": 4
+    "date": "2010-06-11T05:08:19.644Z",
+    "age": 15
   },
-  "phone": "29621227",
-  "cell": "44028978",
+  "phone": "7900983699",
+  "cell": "9225248634",
   "id": {
-    "name": "FN",
-    "value": "06097544857"
+    "name": "UIDAI",
+    "value": "572320668038"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/15.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+    "large": "https://randomuser.me/api/portraits/women/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
   },
-  "nat": "NO"
+  "nat": "IN"
 }

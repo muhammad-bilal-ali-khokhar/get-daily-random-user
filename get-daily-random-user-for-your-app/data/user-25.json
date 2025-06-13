@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Sofie",
-    "last": "Kristensen"
+    "title": "Ms",
+    "first": "Nellie",
+    "last": "Lauritzen"
   },
   "location": {
     "street": {
-      "number": 8034,
-      "name": "Munkevænget"
+      "number": 8508,
+      "name": "Nedre Slottsgate"
     },
-    "city": "Samsø",
-    "state": "Sjælland",
-    "country": "Denmark",
-    "postcode": 49699,
+    "city": "Klevjer",
+    "state": "Troms - Romsa",
+    "country": "Norway",
+    "postcode": "3166",
     "coordinates": {
-      "latitude": "-46.5224",
-      "longitude": "146.4362"
+      "latitude": "42.7171",
+      "longitude": "125.8868"
     },
     "timezone": {
       "offset": "+10:00",
       "description": "Eastern Australia, Guam, Vladivostok"
     }
   },
-  "email": "sofie.kristensen@example.com",
+  "email": "nellie.lauritzen@example.com",
   "login": {
-    "uuid": "e57fc8bc-7b28-48dc-979e-10eeb422c117",
-    "username": "whitebird102",
-    "password": "martine",
-    "salt": "TiGG1XuE",
-    "md5": "a36a3af25e72dfdcf2a5198392ecdfcb",
-    "sha1": "61effe6d1f76a4d05661ce8d234332fcf11b584e",
-    "sha256": "8b01ed3ca2b44324cc77f264ac30e375a5ebcfc545378cc5e06779f55ad7d3f5"
+    "uuid": "b7dfd96d-1164-4bf3-b9a6-27f779f5f0c1",
+    "username": "greencat539",
+    "password": "nicole1",
+    "salt": "fzqT0noM",
+    "md5": "554ec7fc7d8639986cacaa97342edb74",
+    "sha1": "c948608df2579dd147f493cc8d2126a1366f92e9",
+    "sha256": "9f699df749317425014d4d56d04c89acd74266d579c5b7a5ca53d7d5214e8ab9"
   },
   "dob": {
-    "date": "1994-09-21T01:30:26.575Z",
-    "age": 30
+    "date": "2001-02-05T16:09:24.266Z",
+    "age": 24
   },
   "registered": {
-    "date": "2020-02-20T00:45:42.825Z",
-    "age": 5
+    "date": "2011-12-13T17:10:52.000Z",
+    "age": 13
   },
-  "phone": "31180145",
-  "cell": "65205141",
+  "phone": "69390805",
+  "cell": "95413998",
   "id": {
-    "name": "CPR",
-    "value": "200994-6465"
+    "name": "FN",
+    "value": "05020157846"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/70.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+    "large": "https://randomuser.me/api/portraits/women/46.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/46.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/46.jpg"
   },
-  "nat": "DK"
+  "nat": "NO"
 }

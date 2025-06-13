@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Davide",
-    "last": "Araújo"
+    "first": "Clarence",
+    "last": "Holt"
   },
   "location": {
     "street": {
-      "number": 10,
-      "name": "Rua Santa Maria "
+      "number": 7791,
+      "name": "Royal Ln"
     },
-    "city": "Birigüi",
-    "state": "São Paulo",
-    "country": "Brazil",
-    "postcode": 90165,
+    "city": "Toowoomba",
+    "state": "Queensland",
+    "country": "Australia",
+    "postcode": 6959,
     "coordinates": {
-      "latitude": "-78.1529",
-      "longitude": "-179.5841"
+      "latitude": "-83.7334",
+      "longitude": "-170.3641"
     },
     "timezone": {
-      "offset": "+4:00",
-      "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "davide.araujo@example.com",
+  "email": "clarence.holt@example.com",
   "login": {
-    "uuid": "4090a2fe-1cf0-49dc-8f1b-c73f41fbc8bd",
-    "username": "bigpeacock810",
-    "password": "vince",
-    "salt": "fX9bK3XG",
-    "md5": "13dfb8fbc189b9a8cbf54001422639fe",
-    "sha1": "3a6874f5830a81e78109781756eb10ae0cd24083",
-    "sha256": "5ff4b8cf07581aae5691161d210083340e011cb756eace8482bbcdd5c7f67a9f"
+    "uuid": "26ccbd64-e729-4d22-bdd4-59affa85beb7",
+    "username": "ticklishfish402",
+    "password": "spice",
+    "salt": "5CiKZilo",
+    "md5": "580e7406ddd85f538522346aec2c20a0",
+    "sha1": "289f3c534138210dbfe8c43491e7a6e03fbed836",
+    "sha256": "e0ab5fc95f8c32e7d6198d62406b7bf19ba53f3f55dce580d06efa1db1fbdcc3"
   },
   "dob": {
-    "date": "1970-12-19T17:06:02.629Z",
-    "age": 54
+    "date": "1976-11-21T14:46:39.383Z",
+    "age": 48
   },
   "registered": {
-    "date": "2006-01-14T20:21:22.754Z",
-    "age": 19
+    "date": "2015-09-05T18:12:58.273Z",
+    "age": 9
   },
-  "phone": "(21) 9785-7833",
-  "cell": "(02) 3200-9002",
+  "phone": "09-6537-8740",
+  "cell": "0449-368-002",
   "id": {
-    "name": "CPF",
-    "value": "117.934.637-55"
+    "name": "TFN",
+    "value": "809271850"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/97.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    "large": "https://randomuser.me/api/portraits/men/99.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/99.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/99.jpg"
   },
-  "nat": "BR"
+  "nat": "AU"
 }

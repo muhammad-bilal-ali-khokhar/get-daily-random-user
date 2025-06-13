@@ -2,55 +2,55 @@
   "gender": "male",
   "name": {
     "title": "Mr",
-    "first": "Carlos",
-    "last": "Delgado"
+    "first": "Javier",
+    "last": "Mora"
   },
   "location": {
     "street": {
-      "number": 9177,
-      "name": "Cerrada Madrigal"
+      "number": 2973,
+      "name": "Calle de Tetuán"
     },
-    "city": "Alfredo V. Bonfil",
-    "state": "Nayarit",
-    "country": "Mexico",
-    "postcode": 31954,
+    "city": "Santander",
+    "state": "Galicia",
+    "country": "Spain",
+    "postcode": 30021,
     "coordinates": {
-      "latitude": "26.6133",
-      "longitude": "-2.4822"
+      "latitude": "-31.1442",
+      "longitude": "-162.3395"
     },
     "timezone": {
-      "offset": "+11:00",
-      "description": "Magadan, Solomon Islands, New Caledonia"
+      "offset": "+7:00",
+      "description": "Bangkok, Hanoi, Jakarta"
     }
   },
-  "email": "carlos.delgado@example.com",
+  "email": "javier.mora@example.com",
   "login": {
-    "uuid": "24fe5083-4f02-478b-bfbf-87829a6b991e",
-    "username": "sadwolf596",
-    "password": "wishbone",
-    "salt": "p9biEGRm",
-    "md5": "dd7798498db8ca09fc028d3c9a996744",
-    "sha1": "11025fb5980aed81fd61cc2256529d721de19851",
-    "sha256": "99ed5c65656e0147d93f40a652624b9dafb41525c9dee8e8f085c3315b28c95a"
+    "uuid": "89d4aca3-04a8-4de6-885d-afb80e47fc1c",
+    "username": "goldensnake713",
+    "password": "kathy1",
+    "salt": "dpPH24xs",
+    "md5": "a0f256ab0ec7f69f7ced93ac31323730",
+    "sha1": "906ff2c4be3e527084f9b2039ed179ce83d232df",
+    "sha256": "50905a27c8d4b6b444bd9e144c9750abb441f07c395733a4c6f10efaab1c8842"
   },
   "dob": {
-    "date": "1971-12-06T02:16:04.209Z",
-    "age": 53
+    "date": "1999-06-06T09:05:08.632Z",
+    "age": 26
   },
   "registered": {
-    "date": "2013-07-21T18:26:39.764Z",
-    "age": 11
+    "date": "2016-10-15T22:33:06.387Z",
+    "age": 8
   },
-  "phone": "(656) 476 6099",
-  "cell": "(698) 279 8166",
+  "phone": "909-249-707",
+  "cell": "639-040-578",
   "id": {
-    "name": "NSS",
-    "value": "13 33 47 4532 0"
+    "name": "DNI",
+    "value": "66469322-Q"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+    "large": "https://randomuser.me/api/portraits/men/53.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/53.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/53.jpg"
   },
-  "nat": "MX"
+  "nat": "ES"
 }

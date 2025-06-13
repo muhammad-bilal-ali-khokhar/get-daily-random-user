@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Dana",
-    "last": "Myers"
+    "title": "Mr",
+    "first": "Víctor",
+    "last": "Vázquez"
   },
   "location": {
     "street": {
-      "number": 6483,
-      "name": "N Stelling Rd"
+      "number": 5628,
+      "name": "Calle de Argumosa"
     },
-    "city": "Albury",
-    "state": "Queensland",
-    "country": "Australia",
-    "postcode": 4054,
+    "city": "Jerez de la Frontera",
+    "state": "Andalucía",
+    "country": "Spain",
+    "postcode": 63270,
     "coordinates": {
-      "latitude": "-84.3066",
-      "longitude": "71.2982"
+      "latitude": "-31.2671",
+      "longitude": "-10.3969"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "+9:30",
+      "description": "Adelaide, Darwin"
     }
   },
-  "email": "dana.myers@example.com",
+  "email": "victor.vazquez@example.com",
   "login": {
-    "uuid": "3a5fa807-1f5a-4149-8675-1a031d41014d",
-    "username": "goldencat665",
-    "password": "justin",
-    "salt": "9tQhsKpz",
-    "md5": "f2b7625e7c110fc61610c11772a313f5",
-    "sha1": "920210344fc78d2cbd147aca7068a6e47f1384e4",
-    "sha256": "834fdd80b4f908bbff4483b97a5f8347fbcfb7a0227784d6939a17162b1a1647"
+    "uuid": "ffe95609-5f7c-4660-b4be-ec2b00a2f5d9",
+    "username": "sadswan894",
+    "password": "doofus",
+    "salt": "v9BXAAaS",
+    "md5": "430f2c5e77daf8f05fed2adbfd4da278",
+    "sha1": "df25aa26002e3644bb54d55ad74a227bac13f63f",
+    "sha256": "9f0aca3c3e506cdf1626448f0e288fb933a383bae89594266a18fa9ec3879e95"
   },
   "dob": {
-    "date": "1945-07-15T00:47:08.995Z",
-    "age": 79
+    "date": "1989-05-29T16:39:32.850Z",
+    "age": 36
   },
   "registered": {
-    "date": "2006-11-07T21:04:50.496Z",
-    "age": 18
+    "date": "2005-09-01T19:36:50.815Z",
+    "age": 19
   },
-  "phone": "08-3001-2833",
-  "cell": "0443-630-494",
+  "phone": "900-619-386",
+  "cell": "689-326-702",
   "id": {
-    "name": "TFN",
-    "value": "909590604"
+    "name": "DNI",
+    "value": "32322394-N"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/9.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+    "large": "https://randomuser.me/api/portraits/men/72.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/72.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/72.jpg"
   },
-  "nat": "AU"
+  "nat": "ES"
 }

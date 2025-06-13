@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Biljana",
-    "last": "Orlić"
+    "title": "Madame",
+    "first": "Christelle",
+    "last": "Moulin"
   },
   "location": {
     "street": {
-      "number": 9987,
-      "name": "Pauline Matijević "
+      "number": 9456,
+      "name": "Rue Chazière"
     },
-    "city": "Bujanovac",
-    "state": "Bor",
-    "country": "Serbia",
-    "postcode": 93963,
+    "city": "Münchwilen (Ag)",
+    "state": "Jura",
+    "country": "Switzerland",
+    "postcode": 8086,
     "coordinates": {
-      "latitude": "63.0922",
-      "longitude": "64.1801"
+      "latitude": "-56.5303",
+      "longitude": "80.0454"
     },
     "timezone": {
-      "offset": "+2:00",
-      "description": "Kaliningrad, South Africa"
+      "offset": "+5:45",
+      "description": "Kathmandu"
     }
   },
-  "email": "biljana.orlic@example.com",
+  "email": "christelle.moulin@example.com",
   "login": {
-    "uuid": "1778fa20-e3e7-49fd-9bb7-a4efe9587d76",
-    "username": "lazyostrich358",
-    "password": "qaz123",
-    "salt": "m3BJ81hR",
-    "md5": "6f8fa8d4e0c0866ae351aeb8b38dd862",
-    "sha1": "5a4b61c1a833ebbc918764048d86380d5c4148c8",
-    "sha256": "8229203bdb9b9bb86f24608708a92e509c413c5b8cd1f830f8dd8c40941ea77c"
+    "uuid": "3b8bf796-98f9-4284-9823-440398c76dc9",
+    "username": "brownfish354",
+    "password": "brighton",
+    "salt": "G0JiHsgF",
+    "md5": "475b2f2a42a8c6b7609d85cfbad25f05",
+    "sha1": "01033fec60592f0ee4f874df464aeef73be1f5fb",
+    "sha256": "4a7b2fd52a8272955c92ba5aa13ae3f3e25e69c7ea886a533e175a3e0ffbd564"
   },
   "dob": {
-    "date": "1997-03-25T19:54:10.798Z",
-    "age": 28
+    "date": "1947-04-14T07:04:19.061Z",
+    "age": 78
   },
   "registered": {
-    "date": "2022-03-23T20:20:20.251Z",
-    "age": 3
+    "date": "2006-01-14T13:59:35.128Z",
+    "age": 19
   },
-  "phone": "023-5484-325",
-  "cell": "060-9515-835",
+  "phone": "077 487 61 49",
+  "cell": "076 910 04 62",
   "id": {
-    "name": "SID",
-    "value": "763774721"
+    "name": "AVS",
+    "value": "756.9913.4824.43"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/86.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/86.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/86.jpg"
+    "large": "https://randomuser.me/api/portraits/women/56.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/56.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/56.jpg"
   },
-  "nat": "RS"
+  "nat": "CH"
 }

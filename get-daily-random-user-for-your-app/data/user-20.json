@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "Inga",
-    "last": "Lavik"
+    "title": "Mr",
+    "first": "Martin",
+    "last": "Simmons"
   },
   "location": {
     "street": {
-      "number": 6669,
-      "name": "Kastellhagen"
+      "number": 930,
+      "name": "Jones Road"
     },
-    "city": "Gilja",
-    "state": "Akershus",
-    "country": "Norway",
-    "postcode": "0139",
+    "city": "Midleton",
+    "state": "Limerick",
+    "country": "Ireland",
+    "postcode": 71365,
     "coordinates": {
-      "latitude": "45.6442",
-      "longitude": "7.1087"
+      "latitude": "-1.6140",
+      "longitude": "-89.4759"
     },
     "timezone": {
-      "offset": "+10:00",
-      "description": "Eastern Australia, Guam, Vladivostok"
+      "offset": "+3:30",
+      "description": "Tehran"
     }
   },
-  "email": "inga.lavik@example.com",
+  "email": "martin.simmons@example.com",
   "login": {
-    "uuid": "676fa630-9757-4b2a-9745-faee2bc57357",
-    "username": "goldenwolf691",
-    "password": "douglas",
-    "salt": "CvDUiQvD",
-    "md5": "329379a7e2542aed3f1361356c6d76ac",
-    "sha1": "2cf9db5de41cfcb3c830d21c5f45487d2326c6a4",
-    "sha256": "0ef3c78978267bbd73889b7baa852ec30b82950a22ac77dbedfe3ea5149edf15"
+    "uuid": "ad915a8a-c615-48dd-9404-89665bcf6bcb",
+    "username": "beautifulfish591",
+    "password": "derf",
+    "salt": "XyhtF1ZZ",
+    "md5": "0446fcc9f05a0cabd5c566b2c7c30807",
+    "sha1": "d7c0891af756961433ed69178e4daa2d1209d080",
+    "sha256": "2b40701d6489b4f66d8628f413ba0cba710ba1c901975d1b809a9726d5b45d7a"
   },
   "dob": {
-    "date": "1994-10-29T04:58:21.895Z",
-    "age": 30
+    "date": "1977-01-05T02:25:40.432Z",
+    "age": 48
   },
   "registered": {
-    "date": "2020-10-18T08:39:08.633Z",
-    "age": 4
+    "date": "2011-01-10T22:05:16.505Z",
+    "age": 14
   },
-  "phone": "77342345",
-  "cell": "94734684",
+  "phone": "031-789-4787",
+  "cell": "081-895-8113",
   "id": {
-    "name": "FN",
-    "value": "29109413664"
+    "name": "PPS",
+    "value": "4074297T"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/16.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
+    "large": "https://randomuser.me/api/portraits/men/39.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/39.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/39.jpg"
   },
-  "nat": "NO"
+  "nat": "IE"
 }

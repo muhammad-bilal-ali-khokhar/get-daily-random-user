@@ -1,56 +1,56 @@
 {
   "gender": "female",
   "name": {
-    "title": "Mrs",
-    "first": "Eva",
-    "last": "Boyer"
+    "title": "Ms",
+    "first": "Supritha",
+    "last": "Moolya"
   },
   "location": {
     "street": {
-      "number": 2335,
-      "name": "Rue de la Charité"
+      "number": 9898,
+      "name": "Commercial St"
     },
-    "city": "Argenteuil",
-    "state": "Corse-du-Sud",
-    "country": "France",
-    "postcode": 45215,
+    "city": "Hubli–Dharwad",
+    "state": "Gujarat",
+    "country": "India",
+    "postcode": 19639,
     "coordinates": {
-      "latitude": "-13.5764",
-      "longitude": "155.8168"
+      "latitude": "8.9549",
+      "longitude": "50.9687"
     },
     "timezone": {
-      "offset": "-3:30",
-      "description": "Newfoundland"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "eva.boyer@example.com",
+  "email": "supritha.moolya@example.com",
   "login": {
-    "uuid": "61643a13-669f-4a05-a4b6-1d11df2db1f4",
-    "username": "happybutterfly846",
-    "password": "pierre",
-    "salt": "AK0Pat6t",
-    "md5": "ed1aa7b2730d12d151b6b00640dbdbb7",
-    "sha1": "fe18a5320f92c3b61074a0b0bb0653bc273747dc",
-    "sha256": "11a5679fc4dbaacc45b25c5b647afc3711eacdcde00426aeafa26040df2be54d"
+    "uuid": "e8fef365-1103-4fb8-94e3-3b83961bd1a4",
+    "username": "blueduck729",
+    "password": "user",
+    "salt": "hbo7RIus",
+    "md5": "4a5ed7642e18112d8080ca57640be169",
+    "sha1": "e32313940b1682ff71f296db13f55ee71a855963",
+    "sha256": "7f03becce06754e14c4f621ed450f823704cc19610fd097a08f348dd6b86dbd9"
   },
   "dob": {
-    "date": "1948-08-13T14:36:15.542Z",
-    "age": 76
+    "date": "1973-11-03T21:31:13.838Z",
+    "age": 51
   },
   "registered": {
-    "date": "2004-08-19T06:15:56.929Z",
-    "age": 20
+    "date": "2006-07-11T16:25:50.664Z",
+    "age": 18
   },
-  "phone": "05-18-60-92-91",
-  "cell": "06-77-48-61-61",
+  "phone": "8078062392",
+  "cell": "9973003440",
   "id": {
-    "name": "INSEE",
-    "value": "2480721670971 78"
+    "name": "UIDAI",
+    "value": "727205258383"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/82.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+    "large": "https://randomuser.me/api/portraits/women/54.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/54.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/54.jpg"
   },
-  "nat": "FR"
+  "nat": "IN"
 }

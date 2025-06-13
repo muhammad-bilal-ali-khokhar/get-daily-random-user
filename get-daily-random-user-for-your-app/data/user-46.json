@@ -1,56 +1,56 @@
 {
-  "gender": "female",
+  "gender": "male",
   "name": {
-    "title": "Mrs",
-    "first": "نازنین",
-    "last": "سالاری"
+    "title": "Mr",
+    "first": "Davor",
+    "last": "Sakić"
   },
   "location": {
     "street": {
-      "number": 824,
-      "name": "حجاب"
+      "number": 9999,
+      "name": "Junička"
     },
-    "city": "زنجان",
-    "state": "بوشهر",
-    "country": "Iran",
-    "postcode": 38316,
+    "city": "Paraćin",
+    "state": "Raška",
+    "country": "Serbia",
+    "postcode": 26328,
     "coordinates": {
-      "latitude": "16.2857",
-      "longitude": "90.6480"
+      "latitude": "62.6670",
+      "longitude": "-101.5366"
     },
     "timezone": {
-      "offset": "+5:45",
-      "description": "Kathmandu"
+      "offset": "+9:00",
+      "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
     }
   },
-  "email": "nznyn.slry@example.com",
+  "email": "davor.sakic@example.com",
   "login": {
-    "uuid": "b45c1373-5443-496d-8397-47cedcc0b115",
-    "username": "lazyfish512",
-    "password": "mimi",
-    "salt": "qtmLAZso",
-    "md5": "0173bf78b905b3608ca26fa0b50435ef",
-    "sha1": "f15acf4154c02c38642ecb3ca710529c69b85fe6",
-    "sha256": "85f0f62473621aed4aa40a27387e683113143abf654d97e36ad37f7824dac52d"
+    "uuid": "2adf59b2-1f85-4050-a238-747167c60a9f",
+    "username": "blueleopard547",
+    "password": "briana",
+    "salt": "g7IwbwaA",
+    "md5": "0d0a3b56de12efeae65a25ad4decafca",
+    "sha1": "8fff96748eb65b3ec61f5ed0e19505928c02825d",
+    "sha256": "1457f5948b897044b23a6eee76afd41eab11fd8e3933687e3f561268c0d7c275"
   },
   "dob": {
-    "date": "1988-09-24T05:55:41.979Z",
-    "age": 36
+    "date": "1961-08-01T01:28:09.481Z",
+    "age": 63
   },
   "registered": {
-    "date": "2020-03-01T20:31:27.518Z",
-    "age": 5
+    "date": "2011-05-09T19:16:14.882Z",
+    "age": 14
   },
-  "phone": "078-07013588",
-  "cell": "0943-655-4910",
+  "phone": "024-7406-690",
+  "cell": "063-9201-157",
   "id": {
-    "name": "",
-    "value": null
+    "name": "SID",
+    "value": "392243323"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/women/84.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/women/84.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/84.jpg"
+    "large": "https://randomuser.me/api/portraits/men/12.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/men/12.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/12.jpg"
   },
-  "nat": "IR"
+  "nat": "RS"
 }

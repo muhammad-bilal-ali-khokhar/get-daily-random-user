@@ -1,56 +1,56 @@
 {
-  "gender": "male",
+  "gender": "female",
   "name": {
-    "title": "Mr",
-    "first": "Hudson",
-    "last": "Margaret"
+    "title": "Miss",
+    "first": "Ariane",
+    "last": "Côté"
   },
   "location": {
     "street": {
-      "number": 3999,
-      "name": "George St"
+      "number": 1722,
+      "name": "22nd Ave"
     },
-    "city": "Red Rock",
-    "state": "Northwest Territories",
+    "city": "Clinton",
+    "state": "Québec",
     "country": "Canada",
-    "postcode": "A6C 6N7",
+    "postcode": "K7R 0H2",
     "coordinates": {
-      "latitude": "-68.3752",
-      "longitude": "-39.8206"
+      "latitude": "-72.2796",
+      "longitude": "128.1894"
     },
     "timezone": {
-      "offset": "-4:00",
-      "description": "Atlantic Time (Canada), Caracas, La Paz"
+      "offset": "-6:00",
+      "description": "Central Time (US & Canada), Mexico City"
     }
   },
-  "email": "hudson.margaret@example.com",
+  "email": "ariane.cote@example.com",
   "login": {
-    "uuid": "6a467a6f-3c20-40e9-b14b-b73454942cd2",
-    "username": "crazypanda747",
-    "password": "andersen",
-    "salt": "mXicd4KB",
-    "md5": "f3c4082bd949f3a9321bc91711f7aba4",
-    "sha1": "77de3e9c8871b0b93bf78e8354a48307ab395ae7",
-    "sha256": "31b0df874cc53c65f4b4ee322254c6d3e0e6cbe995b995994e688ba11165c597"
+    "uuid": "2303203c-4e2d-40e8-9bba-205d2386e61c",
+    "username": "purpledog106",
+    "password": "pretzel",
+    "salt": "4iZa6GeR",
+    "md5": "4eb564f9174b21e47b3020d1db632123",
+    "sha1": "f1cf91826a57ab28c9d52dd59fe5a3103d0a4104",
+    "sha256": "856447c9f2c5bd27954791ec17abfaf445756cbccfefac4c50a9ed4f078eabfd"
   },
   "dob": {
-    "date": "1970-04-08T19:49:16.397Z",
-    "age": 55
+    "date": "1964-10-27T23:01:37.304Z",
+    "age": 60
   },
   "registered": {
-    "date": "2007-03-15T03:15:02.573Z",
-    "age": 18
+    "date": "2019-07-29T23:50:17.126Z",
+    "age": 5
   },
-  "phone": "J25 G17-8181",
-  "cell": "P02 W20-3126",
+  "phone": "F53 X40-7169",
+  "cell": "V44 B64-5563",
   "id": {
     "name": "SIN",
-    "value": "294801956"
+    "value": "193555935"
   },
   "picture": {
-    "large": "https://randomuser.me/api/portraits/men/30.jpg",
-    "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
-    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+    "large": "https://randomuser.me/api/portraits/women/15.jpg",
+    "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
   },
   "nat": "CA"
 }
